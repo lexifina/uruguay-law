@@ -1,0 +1,15 @@
+# EXONERACION DEL IVA A LA VENTAS DE CARNE DE AVE, POR PARTE DE DETERMINADAS CARNICERIAS (Decreto Ley Nº 15.730)
+
+Decreto Ley Nº 15.730 · promulgación 1985-02-08 · publicación 1985-04-15 · <https://www.impo.com.uy/bases/decretos-ley/15730-1985>
+
+Firmantes: GREGORIO C. ALVAREZ - ALEJANDRO VEGH VILLEGAS - JULIO CESAR RAPELA
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1985/04/15/3>
+
+Texto tal como se publicó, vigente desde 1985-04-25 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
+| Artículo 3 | [art-003.md](art-003.md) |
