@@ -1,0 +1,2 @@
+# Disposición transitoria y especial H)
+H) A partir del 1º de marzo de 1967, y hasta tanto la ley, por mayoría absoluta del total de componentes de cada una de las Cámaras, establezca la integración del Directorio del Banco Central de la República y sus competencias, este organismo, estará integrado en la forma indicada en el apartado 1º de la Cláusula F) de estas Disposiciones Transitorias, y tendrá los cometidos y atribuciones que actualmente corresponden al Departamento de Emisión del Banco de la República.
