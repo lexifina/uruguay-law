@@ -1,0 +1,3 @@
+# Artículo 176 A
+Los establecimientos de lechería que justifiquen seguir el sistema de ordeñe sin la cría y alimentación artificial de ésta, y los hacendados que vendan a frigoríficos, saladeros, fábricas de conservas o tabladas, están exceptuados de la prohibición del artículo anterior en cuanto a la venta de las crías de sus ganados, siempre que ante el Comisario de policía de la sección se hagan las justificaciones aquí requeridas y éste presencie el aparte de la madre, si se trata del segundo de los casos de este artículo.
+En ambos casos de excepción, en presencia del Comisario de policía, los animales recibirán una señal especial, de la que se pondrá constancia por el funcionario aludido al dorso del certificado-guía.
