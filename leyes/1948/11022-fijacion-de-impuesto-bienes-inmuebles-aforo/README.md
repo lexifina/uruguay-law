@@ -1,0 +1,14 @@
+# FIJACION DE IMPUESTO. BIENES INMUEBLES. AFORO (Ley Nº 11.022)
+
+Ley Nº 11.022 · promulgación 1948-01-07 · publicación 1948-01-30 · <https://www.impo.com.uy/bases/leyes/11022-1948>
+
+Firmantes: BATLLE BERRES - ALBERTO F. ZUBIRIA - LEDO ARROYOS TORRES
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1948/01/30/2>
+
+Texto tal como se publicó, vigente desde 1948-02-09 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
