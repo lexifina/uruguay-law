@@ -1,0 +1,20 @@
+# PUEBLOS BARROS BLANCOS. CANELONES. SAN LUIS. CANELONES. LAS FLORES.
+MALDONADO. GENERAL ENRIQUE MARTINEZ. TREINTA Y TRES. COLON. LAVALLEJA.
+CONSTANCIA. PAYSANDU. REBOLEDO. FLORIDA. PASO CARRASCO. CANELONES. PIEDRA SOLA. PAYSANDU. ISIDORO NOBLIA. CERRO LARGO. VILLAS TRANQUERAS. RIVERA.
+ISMAEL CORTINAS. FLORES. TAMBORES. PAYSANDU Y TACUAREMBO. QUEBRACHO.
+PAYSANDU. SAN GREGORIO DE POLANCO. TACUAREMBO. ITUZAINGO. SAN JOSE. SOLIS. LAVALLEJA. CIUDADES CARDONA. SORIANO. LIBERTAD. SAN JOSE. YOUNG. RIO NEGRO (Ley Nº 13.167)
+
+Ley Nº 13.167 · promulgación 1963-10-15 · publicación 1963-12-10 · <https://www.impo.com.uy/bases/leyes/13167-1963>
+
+Firmantes: FERNANDEZ CRESPO - JUAN E. PIVEL DEVOTO
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1963/12/10/6>
+
+Texto tal como se publicó, vigente desde 1963-12-20 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
+| Artículo 3 | [art-003.md](art-003.md) |
+| Artículo 4 | [art-004.md](art-004.md) |
