@@ -1,0 +1,14 @@
+# DENOMINACION DE ESCUELA PUBLICA Nº 11. CIUDAD DE CARMELO. COLONIA (Decreto Ley Nº 14.640)
+
+Decreto Ley Nº 14.640 · promulgación 1977-03-31 · publicación 1977-04-18 · <https://www.impo.com.uy/bases/decretos-ley/14640-1977>
+
+Firmantes: APARICIO MENDEZ - DANIEL DARRACQ
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1977/04/18/4>
+
+Texto tal como se publicó, vigente desde 1977-04-28 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
