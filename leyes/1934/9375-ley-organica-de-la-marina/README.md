@@ -1,0 +1,200 @@
+# LEY ORGANICA DE LA MARINA (Ley Nº 9.375)
+
+Ley Nº 9.375 · promulgación 1934-05-03 · publicación 1934-09-11 · <https://www.impo.com.uy/bases/leyes/9375-1934>
+
+Firmantes: TERRA - ANDRES F. PUYOL
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1934/09/11/1>
+
+Texto actualizado de IMPO (la versión más antigua disponible como texto), vigente desde 1940-12-09 (ultima-modificacion).
+
+## Estructura
+
+- TITULO I / INSPECCION GENERAL DE MARINA / CAPITULO I / Organización general
+- TITULO II / FUERZAS NAVALES / CAPITULO I / Organización general
+- TITULO III / SERVICIOS / CAPITULO I / Organización general
+- TITULO IV / ENSEÑANZA NAVAL / CAPITULO I / Organización general
+- TITULO V / PREFECTURAS DE PUERTOS / CAPITULO I / Organización general
+- TITULO VI / DEPORTES / CAPITULO I / Organización general
+- TITULO I / GENERALIDADES / CAPITULO II / Cuadros
+- TITULO II / CUADROS DE OFICIALES / CAPITULO II / Cuadros
+- TITULO II / CUADROS DE OFICIALES / CAPITULO II / Cuadros / A) Jerarquía militar.
+- TITULO II / CUADROS DE OFICIALES / CAPITULO II / Cuadros / B) Efectivos.
+- TITULO II / CUADROS DE OFICIALES / CAPITULO II / Cuadros / C) Reclutamiento.
+- TITULO II / CUADROS DE OFICIALES / CAPITULO II / Cuadros / D) Funciones.
+- TITULO III / CUERPO DE EQUIPAJE / CAPITULO II / Cuadros / A) Jerarquía
+- TITULO III / CUERPO DE EQUIPAJE / CAPITULO II / Cuadros / B) Reclutamiento
+- TITULO III / CUERPO DE EQUIPAJE / CAPITULO II / Cuadros / C) Funciones
+- DE LOS ESTADOS Y DE LAS SITUACIONES / CAPITULO I / Significación de Estados y Conceptos
+- DE LOS ESTADOS Y DE LAS SITUACIONES / CAPITULO II / Estado Militar
+- DE LOS ESTADOS Y DE LAS SITUACIONES / CAPITULO III / Antigüedad
+- DE LOS ESTADOS Y DE LAS SITUACIONES / CAPITULO IV / Suplemento de antigüedad
+- TITULO I / SERVICIO EFECTIVO Y DISPONIBILIDAD / DE LOS ESTADOS Y DE LAS SITUACIONES / CAPITULO V / Situaciones de Revista
+- TITULO II / Disposiciones generales
+- TITULO III / RETIRO / Generalidades
+- TITULO IV / Retiro obligatorio
+- TITULO V / RETIRO VOLUNTARIO
+- TITULO VI / PENSION DE RETIRO
+- DE LOS ASCENSOS / CAPITULO I / DISPOSICIONES GENERALES
+- DE LOS ASCENSOS / CAPITULO II / Condiciones de ascenso
+- DE LOS ASCENSOS / CAPITULO III / De la Calificación
+- DE LOS ASCENSOS / CAPITULO IV / Legajo personal
+- DE LOS ASCENSOS / CAPITULO V / Lista de ascensos
+- DE LOS ASCENSOS / CAPITULO VI / Comisión Calificadora
+- TITULO I / Oficiales / DE LOS ASCENSOS / CAPITULO VII / Promociones en tiempo de paz
+- TITULO II / Cuerpo de Equipaje / DE LOS ASCENSOS / CAPITULO VII / Promociones en tiempo de paz
+- DE LOS ASCENSOS / CAPITULO VIII / Promociones en tiempo de guerra
+- DISPOSICIONES ESPECIALES / CAPITULO I / Tribunales de Honor
+- DISPOSICIONES ESPECIALES / CAPITULO II / Personal Civil y Policial
+- DISPOSICIONES ESPECIALES / CAPITULO III / Disposiciones transitorias
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
+| Artículo 3 | [art-003.md](art-003.md) |
+| Artículo 4 | [art-004.md](art-004.md) |
+| Artículo 5 | [art-005.md](art-005.md) |
+| Artículo 6 | [art-006.md](art-006.md) |
+| Artículo 7 | [art-007.md](art-007.md) |
+| Artículo 8 | [art-008.md](art-008.md) |
+| Artículo 9 | [art-009.md](art-009.md) |
+| Artículo 10 | [art-010.md](art-010.md) |
+| Artículo 11 | [art-011.md](art-011.md) |
+| Artículo 12 | [art-012.md](art-012.md) |
+| Artículo 13 | [art-013.md](art-013.md) |
+| Artículo 14 | [art-014.md](art-014.md) |
+| Artículo 15 | [art-015.md](art-015.md) |
+| Artículo 16 | [art-016.md](art-016.md) |
+| Artículo 17 | [art-017.md](art-017.md) |
+| Artículo 18 | [art-018.md](art-018.md) |
+| Artículo 19 | [art-019.md](art-019.md) |
+| Artículo 20 | [art-020.md](art-020.md) |
+| Artículo 21 | [art-021.md](art-021.md) |
+| Artículo 22 | [art-022.md](art-022.md) |
+| Artículo 23 | [art-023.md](art-023.md) |
+| Artículo 24 | [art-024.md](art-024.md) |
+| Artículo 25 | [art-025.md](art-025.md) |
+| Artículo 26 | [art-026.md](art-026.md) |
+| Artículo 27 | [art-027.md](art-027.md) |
+| Artículo 28 | [art-028.md](art-028.md) |
+| Artículo 29 | [art-029.md](art-029.md) |
+| Artículo 30 | [art-030.md](art-030.md) |
+| Artículo 31 | [art-031.md](art-031.md) |
+| Artículo 32 | [art-032.md](art-032.md) |
+| Artículo 33 | [art-033.md](art-033.md) |
+| Artículo 34 | [art-034.md](art-034.md) |
+| Artículo 35 | [art-035.md](art-035.md) |
+| Artículo 36 | [art-036.md](art-036.md) |
+| Artículo 37 | [art-037.md](art-037.md) |
+| Artículo 38 | [art-038.md](art-038.md) |
+| Artículo 39 | [art-039.md](art-039.md) |
+| Artículo 40 | [art-040.md](art-040.md) |
+| Artículo 41 | [art-041.md](art-041.md) |
+| Artículo 42 | [art-042.md](art-042.md) |
+| Artículo 43 | [art-043.md](art-043.md) |
+| Artículo 44 | [art-044.md](art-044.md) |
+| Artículo 45 | [art-045.md](art-045.md) |
+| Artículo 46 | [art-046.md](art-046.md) |
+| Artículo 47 | [art-047.md](art-047.md) |
+| Artículo 48 | [art-048.md](art-048.md) |
+| Artículo 49 | [art-049.md](art-049.md) |
+| Artículo 50 | [art-050.md](art-050.md) |
+| Artículo 51 | [art-051.md](art-051.md) |
+| Artículo 52 | [art-052.md](art-052.md) |
+| Artículo 53 | [art-053.md](art-053.md) |
+| Artículo 54 | [art-054.md](art-054.md) |
+| Artículo 55 | [art-055.md](art-055.md) |
+| Artículo 56 | [art-056.md](art-056.md) |
+| Artículo 57 | [art-057.md](art-057.md) |
+| Artículo 58 | [art-058.md](art-058.md) |
+| Artículo 59 | [art-059.md](art-059.md) |
+| Artículo 60 | [art-060.md](art-060.md) |
+| Artículo 61 | [art-061.md](art-061.md) |
+| Artículo 62 | [art-062.md](art-062.md) |
+| Artículo 63 | [art-063.md](art-063.md) |
+| Artículo 64 | [art-064.md](art-064.md) |
+| Artículo 65 | [art-065.md](art-065.md) |
+| Artículo 66 | [art-066.md](art-066.md) |
+| Artículo 67 | [art-067.md](art-067.md) |
+| Artículo 68 | [art-068.md](art-068.md) |
+| Artículo 69 | [art-069.md](art-069.md) |
+| Artículo 70 | [art-070.md](art-070.md) |
+| Artículo 71 | [art-071.md](art-071.md) |
+| Artículo 72 | [art-072.md](art-072.md) |
+| Artículo 73 | [art-073.md](art-073.md) |
+| Artículo 74 | [art-074.md](art-074.md) |
+| Artículo 75 | [art-075.md](art-075.md) |
+| Artículo 76 | [art-076.md](art-076.md) |
+| Artículo 77 | [art-077.md](art-077.md) |
+| Artículo 78 | [art-078.md](art-078.md) |
+| Artículo 79 | [art-079.md](art-079.md) |
+| Artículo 80 | [art-080.md](art-080.md) |
+| Artículo 81 | [art-081.md](art-081.md) |
+| Artículo 82 | [art-082.md](art-082.md) |
+| Artículo 83 | [art-083.md](art-083.md) |
+| Artículo 84 | [art-084.md](art-084.md) |
+| Artículo 85 | [art-085.md](art-085.md) |
+| Artículo 86 | [art-086.md](art-086.md) |
+| Artículo 87 | [art-087.md](art-087.md) |
+| Artículo 88 | [art-088.md](art-088.md) |
+| Artículo 89 | [art-089.md](art-089.md) |
+| Artículo 90 | [art-090.md](art-090.md) |
+| Artículo 91 | [art-091.md](art-091.md) |
+| Artículo 92 | [art-092.md](art-092.md) |
+| Artículo 93 | [art-093.md](art-093.md) |
+| Artículo 94 | [art-094.md](art-094.md) |
+| Artículo 95 | [art-095.md](art-095.md) |
+| Artículo 96 | [art-096.md](art-096.md) |
+| Artículo 97 | [art-097.md](art-097.md) |
+| Artículo 98 | [art-098.md](art-098.md) |
+| Artículo 99 | [art-099.md](art-099.md) |
+| Artículo 100 | [art-100.md](art-100.md) |
+| Artículo 101 | [art-101.md](art-101.md) |
+| Artículo 102 | [art-102.md](art-102.md) |
+| Artículo 103 | [art-103.md](art-103.md) |
+| Artículo 104 | [art-104.md](art-104.md) |
+| Artículo 105 | [art-105.md](art-105.md) |
+| Artículo 106 | [art-106.md](art-106.md) |
+| Artículo 107 | [art-107.md](art-107.md) |
+| Artículo 108 | [art-108.md](art-108.md) |
+| Artículo 109 | [art-109.md](art-109.md) |
+| Artículo 110 | [art-110.md](art-110.md) |
+| Artículo 111 | [art-111.md](art-111.md) |
+| Artículo 112 | [art-112.md](art-112.md) |
+| Artículo 113 | [art-113.md](art-113.md) |
+| Artículo 114 | [art-114.md](art-114.md) |
+| Artículo 115 | [art-115.md](art-115.md) |
+| Artículo 116 | [art-116.md](art-116.md) |
+| Artículo 117 | [art-117.md](art-117.md) |
+| Artículo 118 | [art-118.md](art-118.md) |
+| Artículo 119 | [art-119.md](art-119.md) |
+| Artículo 120 | [art-120.md](art-120.md) |
+| Artículo 121 | [art-121.md](art-121.md) |
+| Artículo 122 | [art-122.md](art-122.md) |
+| Artículo 123 | [art-123.md](art-123.md) |
+| Artículo 124 | [art-124.md](art-124.md) |
+| Artículo 125 | [art-125.md](art-125.md) |
+| Artículo 126 | [art-126.md](art-126.md) |
+| Artículo 127 | [art-127.md](art-127.md) |
+| Artículo 128 | [art-128.md](art-128.md) |
+| Artículo 129 | [art-129.md](art-129.md) |
+| Artículo 130 | [art-130.md](art-130.md) |
+| Artículo 131 | [art-131.md](art-131.md) |
+| Artículo 132 | [art-132.md](art-132.md) |
+| Artículo 133 | [art-133.md](art-133.md) |
+| Artículo 134 | [art-134.md](art-134.md) |
+| Artículo 135 | [art-135.md](art-135.md) |
+| Artículo 136 | [art-136.md](art-136.md) |
+| Artículo 137 | [art-137.md](art-137.md) |
+| Artículo 138 | [art-138.md](art-138.md) |
+| Artículo 139 | [art-139.md](art-139.md) |
+| Artículo 140 | [art-140.md](art-140.md) |
+| Artículo 141 | [art-141.md](art-141.md) |
+| Artículo 142 | [art-142.md](art-142.md) |
+| Artículo 143 | [art-143.md](art-143.md) |
+| Artículo 144 | [art-144.md](art-144.md) |
+| Artículo 145 | [art-145.md](art-145.md) |
+| Artículo 146 | [art-146.md](art-146.md) |
+| Artículo 147 | [art-147.md](art-147.md) |
+| Artículo 148 | [art-148.md](art-148.md) |
