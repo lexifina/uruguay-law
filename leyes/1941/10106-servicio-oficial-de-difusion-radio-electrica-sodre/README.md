@@ -1,0 +1,14 @@
+# SERVICIO OFICIAL DE DIFUSION RADIO ELECTRICA (SODRE). AUTORIZACION (Ley Nº 10.106)
+
+Ley Nº 10.106 · promulgación 1941-12-24 · publicación 1942-01-02 · <https://www.impo.com.uy/bases/leyes/10106-1941>
+
+Firmantes: BALDOMIR - CYRO GIAMBRUNO
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1942/01/02/3>
+
+Texto tal como se publicó, vigente desde 1942-01-12 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
