@@ -1,0 +1,2 @@
+# Disposición transitoria y especial O)
+O) La Comisión de Planeamiento y Presupuesto estará integrada por los Ministros de: Hacienda; Ganadería y Agricultura; Industria y Comercio; Trabajo y Seguridad Social; Obras Públicas; Salud Pública; Transporte, Comunicaciones y Turismo, y Cultura, o sus representantes y el director de la oficina, que la presidirá. Se instalará de inmediato, con los cometidos, útiles, mobiliario y personal de la actual Comisión de Inversiones y Desarrollo Económico.
