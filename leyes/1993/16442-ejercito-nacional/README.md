@@ -1,0 +1,13 @@
+# EJERCITO NACIONAL (Ley Nº 16.442)
+
+Ley Nº 16.442 · promulgación 1993-12-15 · publicación 1993-12-27 · <https://www.impo.com.uy/bases/leyes/16442-1993>
+
+Firmantes: LACALLE HERRERA - DANIEL HUGO MARTINS
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1993/12/27/4>
+
+Texto tal como se publicó, vigente desde 1994-01-06 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
