@@ -4,3 +4,4 @@ A) Recibir depósitos en cuenta corriente bancaria y autorizar que se gire contr
 B) Recibir depósitos a la vista.
 C) Recibir de residentes depósitos a plazo.
 D) Las cooperativas podrán asociarse con instituciones de similar naturaleza pertenecientes a los países signatarios del Tratado de Asunción en los términos de la reglamentación que dicta el Banco Central del Uruguay.
+El Banco Central del Uruguay podrá restringir las operaciones que los bancos y las cooperativas de intermediación financiera pueden realizar en forma exclusiva, mediante el establecimiento de distintos tipos de habilitación.
