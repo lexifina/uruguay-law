@@ -1,0 +1,15 @@
+# DECLARACION DE AUTONOMIA DEL CONCEJO LOCAL DE LA PAZ. CANELONES (Ley Nº 13.457)
+
+Ley Nº 13.457 · promulgación 1965-12-09 · publicación 1966-01-07 · <https://www.impo.com.uy/bases/leyes/13457-1965>
+
+Firmantes: BELTRAN - ADOLFO TEJERA - MODESTO BURGOS MORALES
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1966/01/07/2>
+
+Texto tal como se publicó, vigente desde 1966-01-17 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
+| Artículo 3 | [art-003.md](art-003.md) |
