@@ -1,0 +1,4 @@
+# Disposición transitoria y especial Y)
+Y) Mientras no se dicten las leyes previstas por los artículos 262 y 287, las autoridades locales se regirán por las siguientes normas:
+1) Se llamarán Juntas Locales, tendrán cinco miembros y, cuando fueren electivas, se integrarán por representación proporcional, en cuyo caso serán presididas por el primer titular de la lista más votada del lema más votado en la respectiva circunscripción territorial. En caso contrario, sus miembros se designarán por los Intendentes con la anuencia de la Junta Departamental y respetando, en lo posible, la proporcionalidad existente en la representación de los diversos Partidos en dicha Junta.
+2) Habrá Juntas Locales en todas las poblaciones en que ellas existan a la fecha de entrada en vigor de la presente Constitución, así como en las que, a partir de dicha fecha, cree la Junta Departamental, a propuesta del Intendente.
