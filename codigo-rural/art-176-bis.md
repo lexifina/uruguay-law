@@ -1,0 +1,2 @@
+# Artículo 176 BIS
+Del mismo modo, los animales nacidos en chacras, granjas o huertas -así como los frutos provenientes de los mismos- cuyos propietarios no dispongan de marca o señal, según corresponda, podrán ser vendidos previa justificación -ante el Comisario de policía de la sección- la propiedad del ganado y demás circunstancias a que se refiere la excepción. Regirá, también, para estos casos, lo dispuesto en el apartado segundo del artículo anterior.
