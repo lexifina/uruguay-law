@@ -1,0 +1,5 @@
+# Disposición transitoria y especial E)
+E) Créanse los Ministerios de Trabajo y Seguridad Social y de Transporte, Comunicaciones y Turismo, que tendrán competencia sobre las materias indicadas.
+Los actuales Ministerios de Instrucción Pública y Previsión Social y de Industrias y Trabajo se transformarán, respectivamente en Ministerio de Cultura y Ministerio de Industria y Comercio.
+La Comisión Nacional de Turismo, la Dirección Gral. de Correos, la Dirección Gral. de Telecomunicaciones, la Dirección General de Aviación Civil del Uruguay y la Dirección General de Meteorología del Uruguay, pasarán a depender, en calidad de servicios centralizados, del Ministerio de Transporte, Comunicaciones y Turismo. No obstante, el Poder Ejecutivo podrá delegarles, bajo su responsabilidad y por decreto fundado, las competencias que estime necesarias para asegurar la eficacia y continuidad del cumplimiento de los servicios.
+Facúltase al Poder Ejecutivo para tomar de Rentas Generales las cantidades necesarias para la instalación y funcionamiento de los referidos Ministerios, hasta que la ley sancione sus presupuestos de sueldos, gastos e inversiones.

@@ -1,0 +1,2 @@
+# Disposición transitoria y especial T)
+T) Los miembros del actual Consejo Nacional de Gobierno podrán ser elegidos para desempeñar los cargos de Presidente o Vicepresidente de la República; y los miembros de los actuales Concejos Departamentales podrán serlo para desempeñar los cargos de Intendentes Municipales. Las prohibiciones establecidas en el artículo 201 no se aplicarán en la elección nacional de 1966.

@@ -1,0 +1,3 @@
+# Disposición transitoria y especial I)
+I) Las disposiciones de la Sección XVII se aplicarán a los actos administrativos cumplidos o ejecutados a partir del 1º de marzo de 1952.
+Los actos administrativos anteriores a esa fecha podrán ser impugnados, o seguirán el trámite en curso, de conformidad con el régimen en vigor a la fecha de cumplimiento de esos actos. Quedan derogadas todas las disposiciones legales que atribuyen competencias a los órganos de la justicia ordinaria para conocer en primera o ulterior instancia, en asuntos sometidos a la jurisdicción del Tribunal de lo Contencioso - Administrativo.
