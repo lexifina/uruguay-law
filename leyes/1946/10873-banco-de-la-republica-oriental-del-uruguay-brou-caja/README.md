@@ -1,0 +1,18 @@
+# BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY (BROU). CAJA NACIONAL DE AHORROS Y DESCUENTOS. FUNCIONARIOS. PRESTAMOS (Ley Nº 10.873)
+
+Ley Nº 10.873 · promulgación 1946-10-28 · publicación 1946-11-05 · <https://www.impo.com.uy/bases/leyes/10873-1946>
+
+Firmantes: AMEZAGA - HECTOR ALVAREZ CINA
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1946/11/05/1>
+
+Texto actualizado de IMPO (la versión más antigua disponible como texto), vigente desde 1948-02-13 (ultima-modificacion).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
+| Artículo 3 | [art-003.md](art-003.md) |
+| Artículo 4 | [art-004.md](art-004.md) |
+| Artículo 5 | [art-005.md](art-005.md) |
+| Artículo 6 | [art-006.md](art-006.md) |
