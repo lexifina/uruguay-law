@@ -1,0 +1,18 @@
+# OTORGAMIENTO DE PENSION GRACIABLE. ALBERTO ZUM FELDE, JUANA FERNANDEZ DE IBARBOUROU, JOSE LUIS ZORRILLA DE SAN MARTIN, JOSE CUNEO, FERNAN SILVA VALDES, CARLOS SABAT ERCASTY, SERAFIN J. GARCIA, PEDRO LEANDRO IPUCHE, CONCEPCION SILVA BELINZON, JULIO VERDIE, AMADEO ROSSI MAGLIANO, ALBERTO RUSCONI, JUAN ILARIA, EMILIO ORIBE Y EUGENE RELGIS, MATILDE CORBACHO DE POSE, JULIA ELENA VARELA ACEVEDO DE MAÑE, MARGARITA GORRITTI DE VASSEUR, JULIETA DE LA FUENTE DE HERRERA Y REISSIG, MARIA ELENA BRAVO DE QUIROGA Y MARIA ELENA CROSA DE ROXLO (Ley Nº 14.090)
+
+Ley Nº 14.090 · promulgación 1972-10-06 · publicación 1972-10-25 · <https://www.impo.com.uy/bases/leyes/14090-1972>
+
+Firmantes: BORDABERRY - JULIAN OLASCOAGA - FRANCISCO A FORTEZA - JULIO MARIA SANGUINETTI
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/1972/10/25/4>
+
+Texto tal como se publicó, vigente desde 1972-11-04 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo 1 | [art-001.md](art-001.md) |
+| Artículo 2 | [art-002.md](art-002.md) |
+| Artículo 3 | [art-003.md](art-003.md) |
+| Artículo 4 | [art-004.md](art-004.md) |
+| Artículo 5 | [art-005.md](art-005.md) |
+| Artículo 6 | [art-006.md](art-006.md) |
