@@ -1,0 +1,2 @@
+# Artículo 149 BIS
+(Incitación al odio, desprecio o violencia hacia determinadas personas). El que públicamente o mediante cualquier medio apto para su difusión pública incitare al odio, al desprecio, o a cualquier forma de violencia moral o física contra una o más personas en razón del color de su piel, su raza, religión u origen nacional o étnico, será castigado con tres a dieciocho meses de prisión
