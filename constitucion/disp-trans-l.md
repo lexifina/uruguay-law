@@ -1,2 +1,2 @@
 # Disposición transitoria y especial L)
-L) Los juicios en trámite iniciado contra los funcionarios y el órgano del Estado de que depende, de acuerdo con el artículo 24 de la Constitución aprobada por plebiscito de ratificación el 29 de noviembre de 1942, proseguirán en adelante exclusivamente contra el órgano del Estado demandado, sin perjuicio de lo dispuesto en el artículo 25 de la presente Constitución.
+L) La opción a que refiere el artículo 312, sólo podrá ejercitarse respecto de los actos administrativos dictados a partir de la vigencia de esta reforma.
