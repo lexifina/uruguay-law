@@ -1,0 +1,13 @@
+# RELEVAMIENTO DE BIENES DEL ESTADO. BIENES INMUEBLES (Ley Nº 17.970)
+
+Ley Nº 17.970 · promulgación 2006-05-29 · publicación 2006-06-05 · <https://www.impo.com.uy/bases/leyes/17970-2006>
+
+Firmantes: TABARE VAZQUEZ - MARIANO ARANA
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2006/06/05/18>
+
+Texto tal como se publicó, vigente desde 2006-06-15 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
