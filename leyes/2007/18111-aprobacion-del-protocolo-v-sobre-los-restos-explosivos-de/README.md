@@ -1,0 +1,13 @@
+# APROBACION DEL PROTOCOLO V SOBRE LOS RESTOS EXPLOSIVOS DE GUERRA A LA CONVENCION SOBRE PROHIBICIONES O RESTRICCIONES DEL EMPLEO DE CIERTAS ARMAS CONVENCIONALES QUE PUEDEN CONSIDERARSE EXCESIVAMENTE NOCIVAS O DE EFECTOS INDISCRIMINADOS Y ENMIENDA AL ARTICULO 1º (Ley Nº 18.111)
+
+Ley Nº 18.111 · promulgación 2007-04-16 · publicación 2007-04-26 · <https://www.impo.com.uy/bases/leyes/18111-2007>
+
+Firmantes: TABARE VAZQUEZ - REINALDO GARGANO - DAISY TOURNE - AZUCENA BERRUTTI - JORGE BROVETTO - MARIA JULIA MUÑOZ
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2007/04/26/10>
+
+Texto tal como se publicó, vigente desde 2007-05-06 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
