@@ -1,0 +1,4 @@
+# Artículo 8 BIS
+(Publicación o emisión voluntaria de la respuesta).- En cualquier etapa del procedimiento, se clausurará de inmediato la causa si el responsable del medio de comunicación acreditare haber publicado o emitido la respuesta reclamada con similar destaque al de la información que la provocó.
+Si el responsable del medio se comprometiere a publicarla o emitirla, se suspenderá el dictado de sentencia por un plazo que, a criterio del Juez, sea razonable para dar cumplimiento a la publicación. Si en dicho término no se acreditare la publicación o emisión de la respuesta, el Juez dictará sentencia de inmediato.
+Del mismo modo, el Juez podrá dar por cumplido el derecho de respuesta si el medio acredita haber publicado o emitido la respuesta en un lugar u horario y espacio razonables, con anterioridad al inicio del proceso.
