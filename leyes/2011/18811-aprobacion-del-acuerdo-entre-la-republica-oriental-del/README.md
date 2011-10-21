@@ -1,0 +1,14 @@
+# APROBACION DEL ACUERDO ENTRE LA REPUBLICA ORIENTAL DEL URUGUAY Y LA REPUBLICA FEDERATIVA DEL BRASIL SOBRE TRANSPORTE FLUVIAL Y LACUSTRE EN LA
+HIDROVÍA URUGUAY - BRASIL (Ley Nº 18.811)
+
+Ley Nº 18.811 · promulgación 2011-09-23 · publicación 2011-10-11 · <https://www.impo.com.uy/bases/leyes/18811-2011>
+
+Firmantes: JOSÉ MUJICA - ROBERTO CONDE - JORGE VÁZQUEZ - FERNANDO LORENZO - ELEUTERIO FERNÁNDEZ HUIDOBRO - MARÍA SIMÓN - ENRIQUE PINTADO - ROBERTO KREIMERMAN - NELSON LOUSTAUNAU - LEONEL BRIOZZO - TABARÉ AGUERRE - HÉCTOR LESCANO - GRACIELA MUSLERA - DANIEL OLESKER
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2011/10/11/9>
+
+Texto tal como se publicó, vigente desde 2011-10-21 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
