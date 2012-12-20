@@ -1,0 +1,15 @@
+# APROBACION DEL ACUERDO SOBRE MEDIDAS DEL ESTADO RECTOR DEL PUERTO
+DESTINADAS A PREVENIR, DESALENTAR y ELIMINAR LA PESCA ILEGAL, NO
+DECLARADA Y NO REGLAMENTADA (Ley Nº 19.017)
+
+Ley Nº 19.017 · promulgación 2012-11-30 · publicación 2012-12-10 · <https://www.impo.com.uy/bases/leyes/19017-2012>
+
+Firmantes: JOSÉ MUJICA - ROBERTO CONDE - EDUARDO BONOMI - FERNANDO LORENZO - ELEUTERIO FERNÁNDEZ HUIDOBRO - OSCAR GÓMEZ - ENRIQUE PINTADO - ROBERTO KREIMERMAN - NELSON LOUSTAUNAU - JORGE VENEGAS - TABARÉ AGUERRE - LILIAM KECHICHIAN - FRANCISCO BELTRAME - DANIEL OLESKER
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2012/12/10/4>
+
+Texto tal como se publicó, vigente desde 2012-12-20 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
