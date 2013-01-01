@@ -1,0 +1,7 @@
+# Artículo 9 BIS
+A los efectos de lo dispuesto por el literal I) del artículo 4º, por el literal A) del inciso tercero del artículo 9º y por los artículos 11, 21 y 22 de la presente ley, se consideran como públicas o accesibles al público, las siguientes fuentes o documentos:
+A) El Diario Oficial y las publicaciones oficiales, cualquiera sea su soporte de registro o canal de comunicación.
+B) Las publicaciones en medios masivos de comunicación, entendiendo por tales los provenientes de la prensa, cualquiera sea el soporte en el que figuren o el canal a través del cual se practique la comunicación.
+C) Las guías, anuarios, directorios y similares en los que figuren nombres y domicilios, u otros datos personales que hayan sido incluidos con el consentimiento del titular.
+D) Todo otro registro o publicación en el que prevalezca el interés general en cuanto a que los datos personales en ellos contenidos puedan ser consultados, difundidos o utilizados por parte de terceros. En caso contrario, se podrá hacer uso del registro o publicación mediante técnicas de disociación u ocultamiento de los datos personales.
+La Unidad Reguladora de Control de Datos Personales, de oficio o a solicitud de cualquier interesado, se expedirá sobre el derecho a la protección de datos personales, en situaciones relacionadas con los apartados precedentes literales A) y B) del inciso primero del artículo 34 de la presente ley.
