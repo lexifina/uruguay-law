@@ -1,0 +1,14 @@
+# MODIFICACION DEL PROCEDIMIENTO DE LLAMADO A LICITACIONES DE OBRAS NACIONALES
+O BINACIONALES O POR CONVENIOS NACIONALES E INTERNACIONALES (Ley Nº 19.078)
+
+Ley Nº 19.078 · promulgación 2013-05-03 · publicación 2013-06-21 · <https://www.impo.com.uy/bases/leyes/19078-2013>
+
+Firmantes: JOSÉ MUJICA - EDUARDO BONOMI - LUIS ALMAGRO - FERNANDO LORENZO - ELEUTERIO FERNÁNDEZ HUIDOBRO - RICARDO EHRLICH - PABLO GENTA - ROBERTO KREIMERMAN - NELSON LOUSTAUNAU - SUSANA MUÑIZ - TABARÉ AGUERRE - LILIAM KECHICHIAN - FRANCISCO BELTRAME - DANIEL OLESKER
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2013/06/21/5>
+
+Texto tal como se publicó, vigente desde 2013-07-01 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
