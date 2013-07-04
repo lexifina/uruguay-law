@@ -1,0 +1,14 @@
+# REALIZACION DE LA ELECCION DE LOS MIEMBROS DEL DIRECTORIO Y DE LA
+COMISION ASESORA Y DE CONTRALOR DE LA CAJA DE JUBILACIONES Y PENSIONES DE PROFESIONALES UNIVERSITARIOS (Ley Nº 19.091)
+
+Ley Nº 19.091 · promulgación 2013-06-14 · publicación 2013-06-24 · <https://www.impo.com.uy/bases/leyes/19091-2013>
+
+Firmantes: JOSÉ MUJICA - EDUARDO BRENTA - EDUARDO BONOMI - LUIS ALMAGRO - FERNANDO LORENZO - ELEUTERIO FERNÁNDEZ HUIDOBRO - RICARDO EHRLICH - ENRIQUE PINTADO - ROBERTO KREIMERMAN - SUSANA MUÑIZ - TABARÉ AGUERRE - ANTONIO CARÁMBULA - FRANCISCO BELTRAME - DANIEL OLESKER
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2013/06/24/14>
+
+Texto tal como se publicó, vigente desde 2013-07-04 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
