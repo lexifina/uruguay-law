@@ -4,3 +4,4 @@ El que, después de haberse cometido un delito, sin concierto previo a su ejecuc
 Se consideran agravantes del delito:
 A) Que los efectos se reciban para su venta.
 B) Que el agente hiciere de esta actividad su vida usual.
+C) Si la receptación tuviere por objeto un bien destinado a un servicio público o de utilidad pública.
