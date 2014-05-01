@@ -1,0 +1,13 @@
+# APROBACION DEL ACUERDO ENTRE EL GOBIERNO DE URUGUAY Y EL GOBIERNO DE LOS EMIRATOS ARABES UNIDOS SOBRE SERVICIOS AEREOS ENTRE Y MAS ALLA DE SUS RESPECTIVOS TERRITORIOS (Ley Nº 19.195)
+
+Ley Nº 19.195 · promulgación 2014-03-15 · publicación 2014-04-21 · <https://www.impo.com.uy/bases/leyes/19195-2014>
+
+Firmantes: JOSÉ MUJICA - LUIS PORTO - EDUARDO BONOMI - MARIO BERGARA - ELEUTERIO FERNÁNDEZ HUIDOBRO - RICARDO EHRLICH - ENRIQUE PINTADO - ROBERTO KREIMERMAN - JOSÉ BAYARDI - SUSANA MUÑIZ - ENZO BENECH - ANTONIO CARÁMBULA - FRANCISCO BELTRAME - DANIEL OLESKER
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2014/04/21/15>
+
+Texto tal como se publicó, vigente desde 2014-05-01 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
