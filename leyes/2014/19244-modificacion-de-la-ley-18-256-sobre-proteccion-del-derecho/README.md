@@ -1,0 +1,13 @@
+# MODIFICACION DE LA LEY 18.256 SOBRE PROTECCION DEL DERECHO AL MEDIO AMBIENTE LIBRE DE HUMO DE TABACO Y SU CONSUMO. PUBLICIDAD PROMOCION Y PATROCINIO DE LOS PRODUCTOS DE TABACO (Ley Nº 19.244)
+
+Ley Nº 19.244 · promulgación 2014-07-25 · publicación 2014-09-02 · <https://www.impo.com.uy/bases/leyes/19244-2014>
+
+Firmantes: JOSÉ MUJICA - EDUARDO BONOMI - LUIS ALMAGRO - MARIO BERGARA - ELEUTERIO FERNÁNDEZ HUIDOBRO - RICARDO EHRLICH - ENRIQUE PINTADO - ROBERTO KREIMERMAN - JOSÉ BAYARDI - SUSANA MUÑIZ - TABARÉ AGUERRE - LILIAM KECHICHIAN - FRANCISCO BELTRAME - DANIEL OLESKER
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2014/09/02/4>
+
+Texto tal como se publicó, vigente desde 2014-09-12 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
