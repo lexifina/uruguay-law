@@ -1,0 +1,2 @@
+# Artículo 17 BIS
+(Prescripción de tributos).- En el caso de tributos que fueran objeto de la aplicación de los beneficios tributarios otorgados de acuerdo con lo dispuesto por el artículo 15 de la presente ley, el término de prescripción previsto por el artículo 38 del Código Tributario quedará suspendido hasta que se cumpla la finalización de los plazos otorgados para dar cumplimiento a las condiciones que ameritaron la exoneración, o hasta la finalización del plazo otorgado para la utilización de los beneficios fiscales, si este fuese mayor.
