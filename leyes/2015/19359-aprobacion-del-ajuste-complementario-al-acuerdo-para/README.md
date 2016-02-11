@@ -1,0 +1,15 @@
+# APROBACION DEL AJUSTE COMPLEMENTARIO AL ACUERDO PARA PERMISO DE RESIDENCIA, ESTUDIO Y TRABAJO A NACIONALES FRONTERIZOS BRASILEÑOS Y URUGUAYOS, PARA LA
+PRESTACION DE SERVICIOS DE ASISTENCIA DE EMERGENCIA Y COOPERACION EN
+DEFENSA CIVIL (Ley Nº 19.359)
+
+Ley Nº 19.359 · promulgación 2015-12-24 · publicación 2016-02-01 · <https://www.impo.com.uy/bases/leyes/19359-2015>
+
+Firmantes: TABARÉ VÁZQUEZ - RODOLFO NIN NOVOA - EDUARDO BONOMI - DANILO ASTORI - ELEUTERIO FERNÁNDEZ HUIDOBRO - VÍCTOR ROSSI - ERNESTO MURRO - JORGE BASSO - ANA OLIVERA
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2016/02/01/14>
+
+Texto tal como se publicó, vigente desde 2016-02-11 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
