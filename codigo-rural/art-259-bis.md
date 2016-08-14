@@ -1,3 +1,2 @@
 # Artículo 259 BIS
-El Juez actuante dispondrá el comiso de todo elemento que directa o indirectamente fuere empleado en la comisión del delito.
-Lo dispuesto en el inciso precedente regirá sin perjuicio de los derechos de los terceros de buena fe
+El Juez actuante dispondrá el comiso y remate de todo elemento que directa o indirectamente fuere empleado en la comisión de los delitos tipificados en los artículos 258 y 259.
