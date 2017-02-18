@@ -1,0 +1,13 @@
+# MODIFICACION DE LOS ARTS. 45, 49 Y 62 DE LA LEY 19.293 (CODIGO DEL PROCESO PENAL), RELATIVO A LAS ATRIBUCIONES DEL MINISTERIO PUBLICO Y LAS FUNCIONES DE LA POLICIA NACIONAL, PREFECTURA NACIONAL NAVAL Y LA POLICIA AEREA NACIONAL (Ley Nº 19.474)
+
+Ley Nº 19.474 · promulgación 2016-12-30 · publicación 2017-02-08 · <https://www.impo.com.uy/bases/leyes/19474-2016>
+
+Firmantes: TABARÉ VÁZQUEZ - JORGE MENÉNDEZ - JORGE VÁZQUEZ - JOSÉ LUIS CANCELA - DANILO ASTORI - MARÍA JULIA MUÑOZ - VÍCTOR ROSSI - CAROLINA COSSE - ERNESTO MURRO - JORGE BASSO - TABARÉ AGUERRE - LILIAM KECHICHIAN - JORGE RUCKS - MARINA ARISMENDI
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2017/02/08/5>
+
+Texto tal como se publicó, vigente desde 2017-02-18 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
