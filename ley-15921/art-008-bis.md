@@ -1,0 +1,2 @@
+# Artículo 8 BIS
+Los desarrolladores colaborarán con el Área Zonas Francas de la Dirección General de Comercio, para el adecuado cumplimiento de las normas y el mejor funcionamiento de la zona franca que desarrollen. En este sentido, el Poder Ejecutivo podrá requerir a los desarrolladores la realización de determinadas actividades con el objeto de mejorar y hacer más eficientes las funciones de administración, supervisión y control del régimen.
