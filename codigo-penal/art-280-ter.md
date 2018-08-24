@@ -1,0 +1,3 @@
+# Artículo 280 TER
+(Unión matrimonial o concubinaria forzada o servil).- El que obligue a una persona mediante violencias, amenazas o con abuso de una situación de vulnerabilidad, a contraer matrimonio o a mantener un concubinato a cambio de un beneficio económico o de otro tipo, para sí o para un tercero, será castigado con dos a diez años de penitenciaría.
+Quien, abusando de una situación de vulnerabilidad, establezca o mantenga una unión de naturaleza matrimonial, concubinaria, de noviazgo o análoga, con una adolescente, niña o niño como condición para que acceda a la vivienda, alimentos, vestimenta u otras necesidades básicas para la subsistencia, aún con su consentimiento, será castigado con dos a quince años de penitenciaría.
