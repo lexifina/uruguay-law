@@ -1,0 +1,14 @@
+# MODIFICACION DEL ART. 1 DE LA LEY 16.298 RELATIVO A LA PRESCINDENCIA DE
+CERTIFICADOS EXPEDIDOS POR EL BPS EN LAS ENAJENACIONES REALIZADAS POR LAS INTENDENCIAS EN CONVENIOS CON EL MVOTMA, BHU Y LA ANV (Ley Nº 19.725)
+
+Ley Nº 19.725 · promulgación 2018-12-21 · publicación 2019-01-18 · <https://www.impo.com.uy/bases/leyes/19725-2018>
+
+Firmantes: TABARÉ VÁZQUEZ - EDUARDO BONOMI - RODOLFO NIN NOVOA - DANILO ASTORI - JORGE MENÉNDEZ - MARÍA JULIA MUÑOZ - VÍCTOR ROSSI - GUILLERMO MONCECCHI - ERNESTO MURRO - JORGE BASSO - ALBERTO CASTELAR - LILIAM KECHICHIAN - ENEIDA de LEÓN - MARINA ARISMENDI
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2019/01/18/4>
+
+Texto tal como se publicó, vigente desde 2019-01-28 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
