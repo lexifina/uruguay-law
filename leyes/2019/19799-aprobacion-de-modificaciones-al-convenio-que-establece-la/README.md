@@ -1,0 +1,13 @@
+# APROBACION DE MODIFICACIONES AL CONVENIO QUE ESTABLECE LA ORGANIZACION MUNDIAL DE LA PROPIEDAD INTELECTUAL, ADOPTADAS POR LA CONFERENCIA DE LA ORGANIZACION MUNDIAL DE LA PROPIEDAD INTELECTUAL Y LAS ASAMBLEAS COMPETENTES DE CIERTAS UNIONES ADMINISTRADAS POR ESTA ORGANIZACION (Ley Nº 19.799)
+
+Ley Nº 19.799 · promulgación 2019-09-13 · publicación 2019-10-07 · <https://www.impo.com.uy/bases/leyes/19799-2019>
+
+Firmantes: TABARÉ VÁZQUEZ - RODOLFO NIN NOVOA - DANILO ASTORI - MARÍA JULIA MUÑOZ - GUILLERMO MONCECCHI
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2019/10/07/14>
+
+Texto tal como se publicó, vigente desde 2019-10-17 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
