@@ -1,0 +1,3 @@
+# Artículo 18 BIS
+(Dirección Nacional de la Seguridad Rural).- La Dirección Nacional de la Seguridad Rural es una unidad policial cuyos cometidos son el diseño, la coordinación, la ejecución, y la evaluación de las políticas de seguridad en el medio rural, coadyuvando a la toma de decisiones estratégicas en materia de seguridad pública. La mencionada unidad estará a cargo de un director, el que será designado por el Poder Ejecutivo como cargo de particular confianza.
+El Poder Ejecutivo reglamentará este artículo, debiendo establecer la misión, organización, funciones, estructura de mando, despliegue, jurisdicción y funciones de coordinación.
