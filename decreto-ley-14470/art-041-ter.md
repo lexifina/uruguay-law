@@ -1,0 +1,2 @@
+# Artículo 41 TER
+Establécese la figura del adulto joven, que comprenderá a los reclusos procesados o penados de entre dieciocho y veinticinco años de edad. El adulto joven tendrá prioridad en la asignación a las actividades educativas en consonancia con el sistema educativo nacional que brinden los establecimientos penitenciarios y en el aprendizaje y desempeño de algún oficio durante el lapso de privación de libertad.
