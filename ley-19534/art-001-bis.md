@@ -1,0 +1,5 @@
+# Artículo 1 BIS
+(Registro de personas impedidas).- La Asociación Uruguaya de Fútbol, la Organización de Fútbol del Interior, la Federación Uruguaya de Básquetbol y otras federaciones que la reglamentación determine, llevarán y actualizarán, en forma permanente, el registro de personas -mayores o menores de edad- impedidas de ingresar a los espectáculos que estos, sus clubes afiliados o las confederaciones a las que pertenecen, organicen.
+Las mencionadas instituciones deberán comunicar las respectivas nóminas y sus modificaciones al Ministerio del Interior.
+Las causales de inclusión o exclusión de personas al registro de personas impedidas, así como la duración de la medida, será objeto del procedimiento que determinará la reglamentación a dictarse por el Poder Ejecutivo.
+El Ministerio del Interior deberá comunicar a las instituciones obligadas a llevar el registro de personas impedidas, para su inclusión preceptiva, los datos de las personas que hayan configurado alguna de las causales previstas en el inciso quinto del artículo 1º y en el inciso segundo del artículo 4º de la presente ley.
