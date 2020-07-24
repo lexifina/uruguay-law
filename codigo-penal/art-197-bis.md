@@ -1,0 +1,2 @@
+# Artículo 197 BIS
+Se considerará circunstancia agravante del encubrimiento que refiera a cualquiera de los delitos previstos por el Decreto-Ley Nº 14.294, de 31 de octubre de 1974, y sus modificativas (Estupefacientes) y en los delitos previstos en los artículos 344 (Rapiña), 344 BIS (Rapiña con privación de libertad. Copamiento), 346 (Secuestro) o 350 BIS (Receptación), del Código Penal, siendo en estos casos aumentada la pena en un tercio.

@@ -9,3 +9,6 @@ f) Secuestro (artículo 346 del Código Penal).
 g) Homicidio agravado (artículos 311 y 312 del Código Penal).
 h) Los crímenes y delitos contenidos en la Ley Nº 18.026, de 25 de setiembre de 2006.
 i) Aquellos delitos, por los que al condenado se le hubiere aplicado medidas de seguridad eliminativas (artículo 92 del Código Penal).
+j) Rapiña (artículo 344 del Código Penal).
+k) Rapiña con privación de libertad. Copamiento (artículo 344 BIS del Código Penal).
+l) Extorsión (artículo 345 del Código Penal).

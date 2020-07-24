@@ -1,0 +1,2 @@
+# Artículo 359 BIS
+(Retiro o destrucción de medios o dispositivos electrónicos).- El retiro no autorizado o la destrucción, total o parcial, de medios o dispositivos de rastreo y control electrónicos, tales como pulseras y tobilleras electrónicas o dispositivos similares, será castigado con una pena de diez a dieciocho meses de prisión y con 20 UR (veinte unidades reajustables) a 900 UR (novecientas unidades reajustables) de multa, cuyo destino será para el Ministerio del Interior a los efectos de ser invertidos en los referidos medios o dispositivos.
