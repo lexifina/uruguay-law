@@ -1,0 +1,2 @@
+# Artículo 18 BIS
+Interprétase que los contratos de reglamento de copropiedad y de préstamo o crédito hipotecario para el nacimiento de la propiedad horizontal de la norma establecida en el artículo anterior se consideran otorgados en forma simultánea, como también se considerarán simultáneos los contratos que sean necesarios otorgar para adquirir o declarar la propiedad del bien objeto de la incorporación.
