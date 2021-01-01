@@ -12,3 +12,5 @@ i) Aquellos delitos, por los que al condenado se le hubiere aplicado medidas de 
 j) Rapiña (artículo 344 del Código Penal).
 k) Rapiña con privación de libertad. Copamiento (artículo 344 BIS del Código Penal).
 l) Extorsión (artículo 345 del Código Penal).
+m) Delitos previstos en la Ley Nº 17.815, de 6 de setiembre de 2004, y sus modificativas.
+n) Delitos previstos en el Decreto-Ley Nº 14.294, de 31 de octubre de 1974, y sus modificativas.
