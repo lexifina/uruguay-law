@@ -1,0 +1,13 @@
+# EXONERACION DE APORTES JUBILATORIOS PATRONALES A LA SEGURIDAD SOCIAL A LAS EMPRESAS CONCESIONARIAS DE LOS AEROPUERTOS INTERNACIONALES DE CARRASCO Y LAGUNA DEL SAUCE, EMPRESAS DE TRANSPORTE AÉREO DE PASAJEROS, Y EMPRESAS EXPLOTADORAS DE SALAS DE CINE Y DE DISTRIBUCION CINEMATOGRAFICA. DEL 1º DE NOVIEMBRE DE 2020 HASTA EL 31 DE MARZO DE 2021 (Ley Nº 19.928)
+
+Ley Nº 19.928 · promulgación 2020-12-18 · publicación 2020-12-31 · <https://www.impo.com.uy/bases/leyes/19928-2020>
+
+Firmantes: LACALLE POU LUIS - PABLO MIERES - AZUCENA ARBELECHE
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2020/12/31/26>
+
+Texto tal como se publicó, vigente desde 2021-01-10 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
