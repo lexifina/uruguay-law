@@ -1,0 +1,13 @@
+# AUTORIZACION DE SALIDA DEL PAIS DE TROPAS NACIONALES PARA EL CUMPLIMIENTO DEL EJERCICIO COMBINADO QUE SE DESARROLLA EN EL EXTERIOR, COMO LA ENTRADA DE FUERZAS EXTRANJERAS EN NUESTRO PAIS, CON MOTIVO DE LA PARTICIPACION DEL PERSONAL Y MEDIOS DE LA FUERZA AEREA URUGUAYA EN EL EJERCICIO MILITAR COMBINADO "RÍO 2022" (Ley Nº 20.049)
+
+Ley Nº 20.049 · promulgación 2022-06-24 · publicación 2022-07-06 · <https://www.impo.com.uy/bases/leyes/20049-2022>
+
+Firmantes: LACALLE POU LUIS - JAVIER GARCÍA - LUIS ALBERTO HEBER - CAROLINA ACHE
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2022/07/06/9>
+
+Texto tal como se publicó, vigente desde 2022-07-16 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
