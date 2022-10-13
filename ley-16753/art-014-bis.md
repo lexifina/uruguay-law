@@ -1,0 +1,2 @@
+# Artículo 14 BIS
+A los efectos de fiscalizar el cumplimiento de la presente ley, el Laboratorio Tecnológico del Uruguay realizará inspecciones periódicas, solicitará muestras y/o procederá a la extracción de las mismas en locales y vehículos destinados al depósito, distribución y/o comercialización de los alcoholes y bebidas alcohólicas. El funcionario actuante efectuará acta de todo lo actuado, pudiendo exigir la exhibición de la documentación pertinente.
