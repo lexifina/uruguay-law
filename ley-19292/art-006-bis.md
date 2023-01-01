@@ -1,0 +1,2 @@
+# Artículo 6 BIS
+Cuando se excluya del proceso de compra a una organización comprendida en el artículo 5º de la presente ley, según lo establecido en el literal D) del artículo 6º, se la sancionará con la suspensión del beneficio de reserva de mercado por dos años y se le aplicará una multa igual al 100% (cien por ciento) del monto ofertado o vendido, que no sea de producción propia dependiendo del caso.
