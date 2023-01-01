@@ -1,0 +1,32 @@
+# Artículo 108 BIS
+(Disposición de Pasivos Mineros).-
+Estériles y otros subproductos minerales de beneficiación:
+I) Todo titular de una concesión para explotar minerales de Clase III, por el plazo que dure dicha concesión, podrá solicitar a la Dirección Nacional de Minería y Geología autorización para la disposición de pasivos mineros estériles y otros subproductos minerales de beneficiación de Clase III que se encuentren en el área de la concesión como pasivo minero. Consecuentemente deberá abonar el canon de producción correspondiente a la sustancia mineral de que se trate.
+La autorización podrá ser otorgada si a juicio de la Dirección Nacional de Minería y Geología es pertinente y bajo prescripción de las medidas de seguridad correspondientes, presentación de plan de cierre y acondicionamiento del área.
+II) En áreas libres de interferencia minera de toda clase, cualquier persona física o jurídica podrá solicitar en carácter precario y revocable a la Dirección Nacional de Minería y Geología autorización para la disposición de pasivos mineros estériles y otros subproductos minerales de beneficiación de Clase III que resulten como pasivos de la actividad minera.
+En las áreas libres de interferencia minera la Dirección Nacional de Minería y Geología, podrá otorgar la autorización solicitada, siempre que a su juicio sea técnicamente pertinente y el solicitante cumpla o acredite, según corresponda, los siguientes requisitos:
+1) Con carácter previo a la solicitud el solicitante deberá estar inscripto en el registro de empresas de la Dirección Nacional de Minería y Geología, dando cumplimiento a todos los extremos requeridos para tal inscripción.
+2) El área debe encontrarse libre de interferencias mineras de cualquier clase al momento de solicitar la autorización y dicha solicitud, presentada debidamente en forma, generará interferencia del área solicitada.
+3) El solicitante deberá adjuntar a su nota de solicitud:
+A) La determinación del área afectada, que no podrá exceder las veinte hectáreas, debiendo aportar croquis de la zona y plano de deslinde, determinando la extensión necesaria para la actividad que pretende realizar, la instalación de equipos, máquinas, utillajes y demás elementos complementarios de dicha actividad.
+B) Certificado notarial de propiedad del o de los inmuebles afectados.
+C) Si no fuera posible consignar en el certificado el domicilio del o de los propietarios del o de los inmuebles, el solicitante deberá declarar bajo juramento el o los domicilios que conociera o, en su defecto, el desconocimiento del o de los mismos.
+D) En caso de no ser el solicitante propietario del o de los inmuebles afectados, deberá adjuntar en forma conjunta la solicitud de la servidumbre de ocupación pertinente accesoria a la autorización de disposición. Dicho trámite se efectuará conforme a lo dispuesto por los artículos 31 y siguientes del presente Código de Minería, en lo pertinente.
+E) Constitución de garantía suficiente para responder por los daños y perjuicios que se deriven de la actividad realizada. El monto de dicha garantía será fijado por la Dirección Nacional de Minería y Geología.
+F) Programa de actividades con descripción del depósito de los Pasivos Mineros, Estériles o subproducto minero del que se trate, ubicación, mineral, volumen del mismo y plazo de extracción.
+G) Determinación de los procedimientos o técnicas a emplear, equipos y máquinas.
+H) Plan de cierre o abandono.
+I) Plan de inversiones y estudio de viabilidad.
+J) Acreditar la obtención de las autorizaciones ambientales, conforme a la normativa vigente.
+4) Establécese el derecho de prioridad al o a los propietarios de los inmuebles afectados por la autorización para la disposición de pasivos mineros, estériles y otros subproductos minerales de beneficiación de Clase III en áreas libres de interferencias mineras, quedando dichos propietarios exonerados de la solicitud de servidumbre de ocupación, del plan de inversiones, del estudio de viabilidad, de la constitución de garantías y del pago del canon de producción correspondiente al superficiario.
+En caso de que el solicitante de la autorización para la disposición de pasivos mineros, estériles y otros subproductos minerales de beneficiación de Clase III en áreas libres de interferencias mineras, no fuere el o los propietarios del o de los inmuebles afectados, al momento de otorgársele vista a dichos propietarios, se les conferirá un plazo de treinta días para presentar en forma su propia solicitud de autorización. Si el o los propietarios presentan en plazo y forma su solicitud y la misma es autorizada, quedará sin efecto la solicitud del tercero.
+5) El acto que otorgue la autorización para la disposición de pasivos mineros, estériles y subproductos mineros de beneficiación de Clase III fijará:
+A) El área en la que se desarrollará la actividad, la cual no podrá superar las veinte hectáreas.
+B) El plazo por el cual se otorga, no pudiendo superar el máximo de cinco años. Dicho plazo podrá ser excepcionalmente prorrogado por hasta la mitad del mismo, si a juicio de la Dirección Nacional de Minería y Geología corresponde, conforme a los fundamentos que acredite el solicitante.
+6) Se admitirá una única solicitud o autorización por solicitante.
+III) Fíjase el derecho de presentación de las solicitudes de autorización para la disposición de pasivos mineros, estériles y otros subproductos minerales de beneficiación de Clase III previstas precedentemente en 2 UR (dos unidades reajustables) por hectárea o fracción.
+IV) Todo autorizado deberá abonar el correspondiente canon de producción conforme a lo dispuesto por el numeral III del artículo 45 del Código de Minería.
+V) No podrán ser autorizadas las personas físicas o jurídicas que mantengan deudas con la Dirección Nacional de Minería y Geología; tampoco podrán serlo los socios, administradores o directores de dichas personas jurídicas.
+VI) La autorización para la disposición de pasivos mineros, estériles y otros subproductos minerales de beneficiación de Clase III no podrá ser cedida.
+VII) El transporte de los minerales o rocas efectuados en virtud de la autorización para la disposición de pasivos mineros, estériles y otros subproductos minerales de beneficiación de Clase III que se realice dentro del territorio nacional deberá ir acompañado por el correspondiente certificado - guía.
+VIII) La Dirección Nacional de Minería y Geología dictará los instructivos pertinentes, así como los extremos técnicos y las condiciones de seguridad requeridas.
