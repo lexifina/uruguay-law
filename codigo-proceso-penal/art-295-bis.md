@@ -22,6 +22,7 @@ X. Abigeato (artículo 259 del Código Rural).
 XI.Violación (artículo 272 del Código Penal).
 XII.Abuso sexual especialmente agravado (artículo 272 TER del Código
 Penal).
+XIII). Delitos previstos por el inciso segundo del artículo 33 de la Ley Nº 19.574, de 20 de diciembre de 2017.
 La libertad a prueba procederá en todos los casos a solicitud de parte y será impuesta por el tribunal al dictar la sentencia definitiva de condena. El tribunal fijará el plazo de intervención que será igual al que correspondería cumplir en régimen de privación de libertad.
 La Oficina de Seguimiento de la Libertad Asistida presentará en un plazo de veinte días desde que se le notifica la sentencia condenatoria por el tribunal, el plan de intervención correspondiente.
 Dicho plan deberá ser individual, comprender la realización de actividades tendientes a la reinserción social y laboral del penado, indicando los objetivos perseguidos con las actividades programadas y los resultados esperados.
