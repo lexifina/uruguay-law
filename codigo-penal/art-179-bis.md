@@ -1,0 +1,2 @@
+# Artículo 179 BIS
+(Agravante especial de la simulación).- Se considerará circunstancia agravante del delito previsto en el artículo anterior, que la denuncia vaya dirigida contra la persona con quien el denunciante tenga hijos en común, y que, a consecuencia de dicha denuncia, la justicia disponga alguna medida cautelar en aplicación de la Ley Nº 19.580, de 22 de diciembre de 2017, o de la Ley Nº 17.514, de 2 de julio de 2002.
