@@ -1,0 +1,21 @@
+# Artículo 123 BIS
+(Límites y prohibiciones de inversión en las categorías de inversiones permitidas para cada subfondo).- Para cada categoría de inversiones permitidas definidas en el artículo 123 de la presente ley, se podrá invertir como máximo los porcentajes de los activos de cada subfondo que se detallan en el cuadro siguiente:
+<TABLE class="tabla_en_texto" style="width:100%;">
+<TR>
+<TD style="text-align:center;vertical-align:center;border-width:1px 1px 1px 1px;" ><pre>Categoría</pre></TD> <TD style="text-align:center;vertical-align:center;border-width:1px 1px 1px 1px;" ><pre>Subfondo Crecimiento</pre></TD> <TD style="text-align:center;vertical-align:center;border-width:1px 1px 1px 1px;" ><pre>Subfondo Acumulación</pre></TD> <TD style="text-align:center;vertical-align:center;border-width:1px 1px 1px 1px;" ><pre>Subfondo Retiro</pre></TD> </TR>
+<TR>
+<TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>A</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>75%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>75%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>90%</pre></TD> </TR>
+<TR>
+<TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>B</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>50%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>50%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>15%</pre></TD> </TR>
+<TR>
+<TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>C</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>30%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>30%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>30%</pre></TD> </TR>
+<TR>
+<TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>D</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>30%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>25%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>20%</pre></TD> </TR>
+<TR>
+<TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>E</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>10%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>10%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>10%</pre></TD> </TR>
+<TR>
+<TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>F</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>20%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>15%</pre></TD> <TD style="text-align:center;vertical-align:bottom;border-width:1px 1px 1px 1px;" ><pre>5%</pre></TD> </TR>
+</TABLE>
+La suma de las inversiones mencionadas en el conjunto de las categorías A) a F) del presente artículo que estén denominadas en moneda extranjera, no podrá exceder del 45% (cuarenta y cinco por ciento) del activo del Subfondo de Crecimiento, 40% (cuarenta por ciento) del activo del Subfondo Acumulación y para el Subfondo Retiro no podrá superar el 15% (quince por ciento).
+Las inversiones realizadas en la categoría D) no podrán superar el 15% (quince por ciento) de los activos del Fondo de Ahorro Previsional. No se admitirán inversiones en títulos representativos de índices financieros en el Subfondo de Retiro.
+El control de cumplimiento será realizado por la Agencia Reguladora de la Seguridad Social, quien podrá establecer límites adicionales o criterios al interior de cada una de las categorías de activos autorizadas. Asimismo, tendrá la facultad de otorgar plazos de adecuación a los nuevos límites.
