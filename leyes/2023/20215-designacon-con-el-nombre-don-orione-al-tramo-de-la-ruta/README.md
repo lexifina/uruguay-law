@@ -1,0 +1,13 @@
+# DESIGNACON CON EL NOMBRE "DON ORIONE", AL TRAMO DE LA RUTA NACIONAL N° 35, ENTRE LAS PROGRESIVAS KM. 56,500 Y KM. 64,700 (Ley Nº 20.215)
+
+Ley Nº 20.215 · promulgación 2023-11-20 · publicación 2023-11-28 · <https://www.impo.com.uy/bases/leyes/20215-2023>
+
+Firmantes: BEATRIZ ARGIMÓN - JOSÉ LUIS FALERO
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2023/11/28/5>
+
+Texto tal como se publicó, vigente desde 2023-12-08 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
