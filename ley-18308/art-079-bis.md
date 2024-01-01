@@ -1,0 +1,3 @@
+# Artículo 79 BIS
+(Sistema de Información Territorial).- El Sistema de Información Territorial de la unidad ejecutora 003 'Dirección Nacional de Ordenamiento Territorial' del Inciso 14 'Ministerio de Vivienda y Ordenamiento Territorial' tendrá como objetivo gestionar, documentar y disponer información geográfica relativa al ordenamiento territorial, así como los desarrollos e implementaciones tecnológicas que den sustento a dichas tareas.
+Funciona como uno de los nodos principales de la Infraestructura de Información Geoespacial para el Ordenamiento Territorial pudiendo cooperar con los nodos de otras instituciones en las actividades que fortalezcan el funcionamiento de la misma.

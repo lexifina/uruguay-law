@@ -1,0 +1,6 @@
+# Artículo 323 BIS
+El que, con motivo o en ocasión de una competencia deportiva u otro espectáculo público que tuviera por objeto la recreación o el esparcimiento, al ingresar, durante el desarrollo del mismo o al retirarse, participare de cualquier modo en una riña, será castigado con pena de tres a veinticuatro meses de prisión y prohibición de ingresar a cualquier espectáculo deportivo de uno a tres años.
+El que, en las mismas circunstancias del inciso anterior, portare armas (artículo 293) o las introdujere en el recinto en el que se desarrollare la competencia deportiva o el espectáculo público, sin la debida autorización para su porte o tenencia será castigado con pena de seis a veinticuatro meses de prisión y prohibición de ingresar a cualquier espectáculo deportivo de tres a cinco años.
+En todos los casos, se procederá al comiso de las armas incautadas.
+Si de la riña resultare muerte o lesión, se aplicará lo dispuesto por el inciso segundo del artículo 323 de este Código, incrementándose la pena en un tercio siempre que el resultado fuere previsible para el partícipe.
+Si de las conductas descriptas en los incisos anteriores resultare muerte o lesión se aplicará, además de la pena que corresponda al delito, la pena de prohibición de ingresar a cualquier espectáculo deportivo de cinco a quince años.
