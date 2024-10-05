@@ -1,0 +1,2 @@
+# Artículo 288 TER
+(Circunstancias agravantes especiales del delito de acoso telemático).- Será circunstancia agravante especial del delito de acoso telemático que se constituya en detrimento de un menor de edad, de adultos incapaces, de personas que previamente hayan tenido una relación afectiva o íntima, o de individuos vulnerables por enfermedad o por situaciones especiales que supongan una mayor fragilidad.

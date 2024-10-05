@@ -1,0 +1,2 @@
+# Artículo 288 BIS
+(Acoso telemático).- El que mediante la utilización de medios telemáticos desarrolle de forma insistente cualquiera de las siguientes conductas, será castigado con tres meses de prisión a tres años de penitenciaría: vigile, persiga o procure cercanía física, estableciendo o intentando establecer contacto con una persona, sea de forma directa o por intermedio de terceros, de tal modo que altere gravemente el desarrollo de su vida.
