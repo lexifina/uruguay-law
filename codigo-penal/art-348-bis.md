@@ -1,3 +1,5 @@
 # Artículo 348 BIS
-(Juego de la mosqueta).- El que en lugares públicos o expuestos al público, incitare, invitare a participar o participare en el llamado juego de la mosqueta o similares, mediante apuestas, ya sea como habilidoso, jugador simulado o simple incitador, será castigado con la pena de seis meses de prisión a cuatro años de penitenciaría.
-Entiéndese por juego de la mosqueta o similar a efectos de la presente ley, la actividad desplegada por una persona, llamada a efectos de la presente ley, el habilidoso, que por medio de movimientos rápidos y continuos y otros, consecuencia de su habilidad manual, desafía al resto de los jugadores o espectadores a acertar en qué lugar se encuentra el o los objetos por él manipulados
+(Circunstancias agravantes).- Serán circunstancias agravantes especiales del delito de fraude informático:
+A) El parentesco y la vinculación laboral o afectiva con la víctima o el tercero perjudicado.
+B) Que el hecho se efectúe en perjuicio del Estado, de cualquier ente público o afectando infraestructuras críticas.
+C) Que el hecho se efectúe generando en la víctima el temor de un peligro imaginario o la persuasión de obedecer a una orden de la autoridad.
