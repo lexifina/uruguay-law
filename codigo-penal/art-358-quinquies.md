@@ -1,0 +1,2 @@
+# Artículo 358 QUINQUIES
+(Abuso de los dispositivos).- El que de forma ilegítima, produzca, adquiera, importe, comercialice o facilite a terceros, programas, sistemas informáticos o telemáticos de cualquier índole, credenciales o contraseñas de acceso a datos informáticos o sistemas de información, destinados inequívocamente a la comisión de un delito, será castigado con seis a veinticuatro meses de prisión.

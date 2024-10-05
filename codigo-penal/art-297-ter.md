@@ -1,0 +1,2 @@
+# Artículo 297 TER
+(Interceptación ilícita).- El que sin autorización y sin justa causa intercepte, interrumpa o interfiera por medios técnicos, datos informáticos en transmisiones no públicas, dirigidas a un sistema informático, sean originadas en un sistema informático o efectuadas dentro del mismo, incluyendo las emisiones electromagnéticas provenientes de un sistema informático que transporte los mismos, será castigado con seis a veinticuatro meses de prisión.
