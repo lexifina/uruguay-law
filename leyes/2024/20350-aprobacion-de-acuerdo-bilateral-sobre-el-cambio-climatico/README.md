@@ -1,0 +1,13 @@
+# APROBACION DE ACUERDO BILATERAL SOBRE EL CAMBIO CLIMATICO (Ley Nº 20.350)
+
+Ley Nº 20.350 · promulgación 2024-09-19 · publicación 2024-09-27 · <https://www.impo.com.uy/bases/leyes/20350-2024>
+
+Firmantes: LACALLE POU LUIS - OMAR PAGANINI - RAÚL LOZANO - ROBERT BOUVIER
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2024/09/27/5>
+
+Texto tal como se publicó, vigente desde 2024-10-07 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
