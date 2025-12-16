@@ -1,0 +1,5 @@
+# Artículo 24 BIS
+(Economista Jefe).- Habrá un Economista Jefe designado por el Directorio, previo llamado público y abierto dirigido a personas que reúnan los requisitos del respectivo perfil que apruebe dicho órgano. El procedimiento de selección a determinarse por el Directorio deberá incluir la presentación de un proyecto de gestión por el período de duración de su mandato y una entrevista personal con el cuerpo. Actuará como asesor para la respectiva designación un comité de tres miembros integrado por profesionales de amplia formación académica, dilatada trayectoria y reconocido prestigio.
+El Economista Jefe dependerá directamente del Directorio y durará seis años en sus funciones, pudiendo ser reelecto hasta por tres años adicionales.
+El Economista Jefe desempeñará las funciones de alta dirección respecto a la política monetaria, investigación económica, estabilidad financiera y otras áreas de esa especialización profesional que le asigne el Directorio.
+La designación y cese del Economista Jefe requerirá el voto conforme de la unanimidad de los miembros del Directorio.
