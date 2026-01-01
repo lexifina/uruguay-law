@@ -1,0 +1,2 @@
+# Artículo 78 BIS
+Los instrumentos de ordenamiento territorial y sus modificaciones se inscribirán en el Inventario Nacional de Ordenamiento Territorial al inicio de su proceso de elaboración, una vez recibida la comunicación de inicio de manera provisoria, y con la aprobación definitiva se inscribirán de manera definitiva. La Dirección Nacional de Ordenamiento Territorial formalizará el registro conforme lo establecido en la presente ley.
