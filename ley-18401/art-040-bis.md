@@ -1,0 +1,9 @@
+# Artículo 40 BIS
+(Actos Preparatorios del Proceso de Resolución Bancaria).- Los Actos Preparatorios del Proceso de Resolución Bancaria en una institución de intermediación financiera, podrán iniciarse cuando la misma incumple la responsabilidad patrimonial mínima, presenta un plan de recomposición patrimonial o adecuación, o se identifican problemas de gobierno corporativo, entre otras razones. En todos los casos, para dar comienzo a los Actos Preparatorios se requerirá el acuerdo de la Corporación de Protección del Ahorro Bancario con la Superintendencia de Servicios Financieros sobre la entidad de la situación verificada y la debida fundamentación.
+Para la realización de dichos actos, la Corporación de Protección del Ahorro Bancario podrá:
+A) Requerir información pormenorizada sobre los activos y pasivos.
+B) Relevar documentación relacionada con la titularidad de los activos y pasivos.
+C) Identificar y contactar a potenciales interesados en adquirir unidades de negocio conformadas por activos y pasivos de la institución de intermediación financiera.
+D) Organizar con los potenciales interesados procesos de debida diligencia sobre la información y documentación referida en los literales precedentes.
+E) Llevar a cabo cualquier otra actividad que la Corporación entienda necesaria a los efectos de permitir la implementación inmediata de alguno de los Procedimientos de Solución, para el caso de que eventualmente se declare el Proceso de Resolución Bancaria por parte del Banco Central del Uruguay.
+Todos los participantes durante los Actos Preparatorios del Proceso de Resolución Bancaria tienen el deber de guardar el más estricto secreto y la más absoluta reserva sobre toda la información y documentación a la que se acceda en el referido proceso, bajo la más severa responsabilidad civil y penal (Código Penal, artículo 302).

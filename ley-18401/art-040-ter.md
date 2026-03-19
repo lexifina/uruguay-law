@@ -1,0 +1,2 @@
+# Artículo 40 TER
+(Deber de coordinar con la Superintendencia de Servicios Financieros, el Banco Central del Uruguay y el Ministerio de Economía y Finanzas).- En los Actos Preparatorios del Proceso de Resolución Bancaria, la Corporación de Protección del Ahorro Bancario deberá trabajar en estrecha coordinación con la Superintendencia de Servicios Financieros, el Banco Central del Uruguay y el Ministerio de Economía y Finanzas.
