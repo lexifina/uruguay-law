@@ -1,0 +1,13 @@
+# DECLARACION DE FERIADO LABORABLE EL 24 DE MAYO DE 2026, CON MOTIVO DE LOS 100 AÑOS DE LA FIRMA DE LA ADJUDICACION DE LOS FRACCIONAMIENTOS DE CAMPO EN LA LOCALIDAD DE COLONIA LARRAÑAGA, SORIANO (Ley Nº 20.485)
+
+Ley Nº 20.485 · promulgación 2026-04-23 · publicación 2026-05-12 · <https://www.impo.com.uy/bases/leyes/20485-2026>
+
+Firmantes: YAMANDÚ ORSI - JUAN CASTILLO - CARLOS NEGRO - MARIO LUBETKIN - GABRIEL ODDONE - SANDRA LAZO - JOSÉ CARLOS MAHÍA - LUCÍA ETCHEVERRY - FERNANDA CARDONA - CRISTINA LUSTEMBERG - ALFREDO FRATTI - PABLO MENONI - TAMARA PASEYRO - GONZALO CIVILA - EDGARDO ORTUÑO
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2026/05/12/7>
+
+Texto tal como se publicó, vigente desde 2026-05-22 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
