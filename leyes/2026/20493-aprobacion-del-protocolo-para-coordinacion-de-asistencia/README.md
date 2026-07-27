@@ -1,0 +1,13 @@
+# APROBACION DEL "PROTOCOLO PARA COORDINACION DE ASISTENCIA MEDICA Y TRASLADOS SANITARIOS PRIMARIOS TRANSFRONTERIZOS TERRESTRES, FLUVIALES Y AEREOS EN CASOS DE URGENCIAS Y EMERGENCIAS ENTRE LA REPUBLICA ORIENTAL DEL URUGUAY Y LA REPUBLICA ARGENTINA" (Ley Nº 20.493)
+
+Ley Nº 20.493 · promulgación 2026-06-12 · publicación 2026-07-17 · <https://www.impo.com.uy/bases/leyes/20493-2026>
+
+Firmantes: YAMANDÚ ORSI - MARIO LUBETKIN - CARLOS NEGRO - GABRIEL ODDONE - SANDRA LAZO - LUCÍA ETCHEVERRY - CRISTINA LUSTEMBERG
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2026/07/17/22>
+
+Texto tal como se publicó, vigente desde 2026-07-27 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
