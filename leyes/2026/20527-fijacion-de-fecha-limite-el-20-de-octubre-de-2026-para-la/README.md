@@ -1,0 +1,13 @@
+# FIJACION DE FECHA LIMITE EL 20 DE OCTUBRE DE 2026, PARA LA ELEVACION AL PODER EJECUTIVO DEL PROYECTO DE LEY INTEGRAL SOBRE EL DISEÑO INSTITUCIONAL DEL SISTEMA DE CIENCIA, TECNOLOGIA E INNOVACION (Ley Nº 20.527)
+
+Ley Nº 20.527 · promulgación 2026-09-18 · publicación 2026-09-30 · <https://www.impo.com.uy/bases/leyes/20527-2026>
+
+Firmantes: CAROLINA COSSE - CARLOS NEGRO - VALERIA CSUKASI - GABRIEL ODDONE - SANDRA LAZO - JOSÉ CARLOS MAHÍA - LUCÍA ETCHEVERRY - FERNANDA CARDONA - JUAN CASTILLO - CRISTINA LUSTEMBERG - ALFREDO FRATTI - ANA CARAM - TAMARA PASEYRO - GONZALO CIVILA - EDGARDO ORTUÑO
+
+Diario Oficial: <https://www.impo.com.uy/diariooficial/2026/09/30/3>
+
+Texto tal como se publicó, vigente desde 2026-10-10 (codigo-civil-art-1).
+
+| Disposición | Archivo |
+| --- | --- |
+| Artículo Unico | [art-001.md](art-001.md) |
