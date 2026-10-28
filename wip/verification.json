@@ -1,0 +1,684 @@
+{
+ "constitucion": {
+  "reforms_match_impo_notes": {
+   "1989-11-26": [
+    "art-067",
+    "disp-trans-v"
+   ],
+   "1994-11-27": [
+    "disp-trans-v-prima"
+   ],
+   "1996-12-08": [
+    "art-046",
+    "art-047",
+    "art-050",
+    "art-077",
+    "art-079",
+    "art-088",
+    "art-104",
+    "art-108",
+    "art-138",
+    "art-139",
+    "art-151",
+    "art-153",
+    "art-155",
+    "art-168",
+    "art-174",
+    "art-175",
+    "art-179",
+    "art-214",
+    "art-230",
+    "art-262",
+    "art-264",
+    "art-271",
+    "art-287",
+    "art-297",
+    "art-298",
+    "art-312",
+    "art-324",
+    "disp-trans-a",
+    "disp-trans-l",
+    "disp-trans-w",
+    "disp-trans-x",
+    "disp-trans-y",
+    "disp-trans-z",
+    "disp-trans-z-prima"
+   ],
+   "2004-10-31": [
+    "art-047",
+    "art-188",
+    "disp-trans-z-segunda"
+   ]
+  },
+  "parlamento_changes_no_reform_explains": [
+   {
+    "unit": "art-007",
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'establecieren' -> 'establecen'"
+    ]
+   },
+   {
+    "unit": "art-135",
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'o' -> 'e'"
+    ]
+   },
+   {
+    "unit": "art-197",
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'Directores' -> 'Directorios'"
+    ]
+   },
+   {
+    "unit": "art-275",
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'la' -> 'las'"
+    ]
+   },
+   {
+    "unit": "art-313",
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'susciten' -> 'produzcan'",
+     "replace: 'y' -> 'y/o'",
+     "replace: 'o' -> 'y'"
+    ]
+   }
+  ],
+  "impo_vs_parlamento_2004_word_differences": [
+   {
+    "unit": "art-007",
+    "diff": [
+     "replace: 'establecen' -> 'establecieren'"
+    ]
+   },
+   {
+    "unit": "art-047",
+    "diff": [
+     "replace: 'aguas' -> 'Aguas'",
+     "replace: 'saneamiento' -> 'Saneamiento'",
+     "delete: 'los' -> ''",
+     "replace: 'cuando' -> 'cuanto'"
+    ]
+   },
+   {
+    "unit": "art-060",
+    "diff": [
+     "replace: 'cuarto' -> '4º'",
+     "replace: 'estatuidos,' -> 'estatuídos,'"
+    ]
+   },
+   {
+    "unit": "art-067",
+    "diff": [
+     "replace: 'jubilación' -> 'Jubilación'",
+     "replace: 'pensión' -> 'Pensión'",
+     "replace: 'mencionados,' -> 'mencionados;'",
+     "replace: 'fuera' -> 'fuere'"
+    ]
+   },
+   {
+    "unit": "art-068",
+    "diff": [
+     "replace: 'e' -> 'o'"
+    ]
+   },
+   {
+    "unit": "art-077",
+    "diff": [
+     "replace: 'Ley,' -> 'ley,'",
+     "replace: 'Cívico.' -> 'Cívico;'",
+     "replace: 'Ley,' -> 'ley,'",
+     "replace: 'obligación.' -> 'obligación;'",
+     "replace: 'integral.' -> 'integral;'",
+     "replace: 'Contencioso Administrativo' -> 'Contencioso-Administrativo'",
+     "replace: 'partidos.' -> 'Partidos.'",
+     "replace: 'lugar.' -> 'lugar;'",
+     "replace: 'electoral.' -> 'electoral;'",
+     "replace: 'sufragio' -> 'sufragio,'",
+     "replace: 'artículo.' -> 'artículo;'",
+     "replace: 'mayoría.' -> 'mayoría;'",
+     "replace: 'Ley' -> 'ley'",
+     "replace: '5º.' -> '5º;'",
+     "replace: 'partido' -> 'Partido'",
+     "replace: 'partido político.' -> 'Partido político;'",
+     "replace: 'candidatos.' -> 'candidatos;'",
+     "replace: 'partidos' -> 'Partidos'",
+     "replace: 'partidos' -> 'Partidos'",
+     "replace: 'Programas' -> 'Programa'",
+     "replace: 'ampliamente.' -> 'ampliamente;'",
+     "replace: 'partidos' -> 'Partidos'",
+     "replace: 'partido' -> 'Partido'"
+    ]
+   },
+   {
+    "unit": "art-081",
+    "diff": [
+     "replace: 'aun' -> 'aún'"
+    ]
+   },
+   {
+    "unit": "art-085",
+    "diff": [
+     "replace: 'Contencioso Administrativo.' -> 'Contencioso-Administrativo.'",
+     "replace: 'determinando' -> 'determinando,'",
+     "replace: 'solo' -> 'sólo'",
+     "replace: 'retiros;' -> 'retiros,'",
+     "replace: 'Ejecutivo,' -> 'Ejecutivo;'",
+     "replace: 'instituirlos' -> 'instituírlos'",
+     "replace: 'Contencioso' -> 'Contencioso-'"
+    ]
+   },
+   {
+    "unit": "art-086",
+    "diff": [
+     "replace: 'modificaciones' -> 'modificación'"
+    ]
+   },
+   {
+    "unit": "art-094",
+    "diff": [
+     "replace: 'lII' -> 'III'"
+    ]
+   },
+   {
+    "unit": "art-103",
+    "diff": [
+     "replace: 'hayan' -> 'haya'"
+    ]
+   },
+   {
+    "unit": "art-104",
+    "diff": [
+     "replace: 'la' -> 'las'"
+    ]
+   },
+   {
+    "unit": "art-114",
+    "diff": [
+     "replace: 'aun' -> 'aún'"
+    ]
+   },
+   {
+    "unit": "art-115",
+    "diff": [
+     "replace: 'hicieran' -> 'hicieren'"
+    ]
+   },
+   {
+    "unit": "art-117",
+    "diff": [
+     "replace: 'correspondieran,' -> 'correspondieren,'",
+     "replace: 'ella,' -> 'ella'"
+    ]
+   },
+   {
+    "unit": "art-130",
+    "diff": [
+     "replace: 'séptimo,' -> '7º,'"
+    ]
+   },
+   {
+    "unit": "art-131",
+    "diff": [
+     "replace: 'aun' -> 'aún'",
+     "replace: 'séptimo,' -> '7o.,'"
+    ]
+   },
+   {
+    "unit": "art-157",
+    "diff": [
+     "replace: 'estuviera' -> 'estuviere'",
+     "replace: 'sustituido' -> 'sustituído'"
+    ]
+   },
+   {
+    "unit": "art-168",
+    "diff": [
+     "replace: 'Fuerzas Armadas.' -> 'fuerzas armadas.'",
+     "replace: 'circular,' -> 'circular;'",
+     "replace: '135;' -> '135.'",
+     "replace: '142;' -> '142.'",
+     "replace: 'dictara' -> 'dictaran'",
+     "replace: 'Superiores,' -> 'superiores'",
+     "replace: 'Contencioso Administrativo,' -> 'Contencioso-Administrativo,'",
+     "replace: 'leyes' -> 'leyes,'"
+    ]
+   },
+   {
+    "unit": "art-172",
+    "diff": [
+     "replace: 'aun' -> 'aún'"
+    ]
+   },
+   {
+    "unit": "art-174",
+    "diff": [
+     "replace: 'la' -> 'el'"
+    ]
+   },
+   {
+    "unit": "art-178",
+    "diff": [
+     "replace: 'aun' -> 'aún'"
+    ]
+   },
+   {
+    "unit": "art-185",
+    "diff": [
+     "replace: 'dictaron' -> 'dictaren'",
+     "replace: 'requerirá' -> 'requerirán'"
+    ]
+   },
+   {
+    "unit": "art-212",
+    "diff": [
+     "replace: 'cualesquiera' -> 'cualquiera'"
+    ]
+   },
+   {
+    "unit": "art-217",
+    "diff": [
+     "replace: 'presupuesto' -> 'presupuestos'"
+    ]
+   },
+   {
+    "unit": "art-225",
+    "diff": [
+     "replace: 'presupuesto' -> 'presupuestos'",
+     "insert: '' -> 'las'"
+    ]
+   },
+   {
+    "unit": "art-228",
+    "diff": [
+     "insert: '' -> 'la'"
+    ]
+   },
+   {
+    "unit": "art-239",
+    "diff": [
+     "replace: 'presupuesto' -> 'presupuestos'",
+     "replace: 'Al' -> 'al'"
+    ]
+   },
+   {
+    "unit": "art-272",
+    "diff": [
+     "replace: 'las' -> 'la'",
+     "replace: 'distribuidos' -> 'distribuídos'"
+    ]
+   },
+   {
+    "unit": "art-285",
+    "diff": [
+     "replace: 'respectiva. Salvo' -> 'respectiva, salvo'",
+     "replace: 'segundo' -> '2o.'"
+    ]
+   },
+   {
+    "unit": "art-290",
+    "diff": [
+     "replace: 'numeral 4º' -> 'inciso 4º)'"
+    ]
+   },
+   {
+    "unit": "art-313",
+    "diff": [
+     "replace: 'produzcan' -> 'susciten'",
+     "replace: 'y/o' -> 'y'",
+     "replace: 'y' -> 'o'"
+    ]
+   },
+   {
+    "unit": "art-326",
+    "diff": [
+     "replace: 'primero' -> '1º'"
+    ]
+   },
+   {
+    "unit": "art-331",
+    "diff": [
+     "replace: '\"SI\"' -> '\"Sí\"'",
+     "replace: 'hubieran' -> 'hubieren'"
+    ]
+   },
+   {
+    "unit": "disp-trans-j",
+    "diff": [
+     "insert: '' -> '-'",
+     "replace: 'ley' -> 'Ley'",
+     "insert: '' -> '-'",
+     "insert: '' -> '-'",
+     "replace: 'dictaron' -> 'dictaren'",
+     "insert: '' -> '-'"
+    ]
+   },
+   {
+    "unit": "disp-trans-k",
+    "diff": [
+     "replace: 'aun' -> 'aún'"
+    ]
+   },
+   {
+    "unit": "disp-trans-v",
+    "diff": [
+     "replace: 'esa' -> 'esta'"
+    ]
+   },
+   {
+    "unit": "disp-trans-v-prima",
+    "diff": [
+     "replace: '(artículo' -> '(Art.'"
+    ]
+   },
+   {
+    "unit": "disp-trans-z",
+    "diff": [
+     "replace: 'órgano deliberativo' -> 'Organo Deliberativo'",
+     "replace: 'órgano deliberativo' -> 'Organo Deliberativo'"
+    ]
+   },
+   {
+    "unit": "disp-trans-z-segunda",
+    "diff": [
+     "replace: 'ésta' -> 'esta'"
+    ]
+   }
+  ],
+  "unit_sources_per_version": {
+   "art-046": [
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo",
+    "impo"
+   ],
+   "art-047": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo-minus-later-incisos",
+    "impo"
+   ],
+   "art-050": [
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo",
+    "impo"
+   ],
+   "art-067": [
+    "impo-minus-later-incisos",
+    "impo",
+    "impo",
+    "impo",
+    "impo"
+   ],
+   "art-077": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-079": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-088": [
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo",
+    "impo"
+   ],
+   "art-104": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-108": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-138": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-139": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-151": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-153": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-155": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-168": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-174": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-175": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-179": [
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo",
+    "impo"
+   ],
+   "art-188": [
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo-minus-later-incisos",
+    "impo"
+   ],
+   "art-214": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-230": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-262": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-264": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-271": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-287": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-297": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-298": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-312": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "art-324": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-a": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-l": [
+    "parlamento",
+    "parlamento",
+    "parlamento",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-v": [
+    "-",
+    "impo",
+    "impo",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-v-prima": [
+    "-",
+    "-",
+    "impo",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-w": [
+    "-",
+    "-",
+    "-",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-x": [
+    "-",
+    "-",
+    "-",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-y": [
+    "-",
+    "-",
+    "-",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-z": [
+    "-",
+    "-",
+    "-",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-z-prima": [
+    "-",
+    "-",
+    "-",
+    "impo",
+    "impo"
+   ],
+   "disp-trans-z-segunda": [
+    "-",
+    "-",
+    "-",
+    "-",
+    "impo"
+   ]
+  }
+ }
+}
