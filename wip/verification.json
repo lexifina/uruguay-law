@@ -1,5 +1,370 @@
 {
+ "check": {
+  "acts": 1,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 5
+ },
  "constitucion": {
+  "impo_vs_parlamento_2004_word_differences": [
+   {
+    "diff": [
+     "replace: 'establecen' -> 'establecieren'"
+    ],
+    "unit": "art-007"
+   },
+   {
+    "diff": [
+     "replace: 'aguas' -> 'Aguas'",
+     "replace: 'saneamiento' -> 'Saneamiento'",
+     "delete: 'los' -> ''",
+     "replace: 'cuando' -> 'cuanto'"
+    ],
+    "unit": "art-047"
+   },
+   {
+    "diff": [
+     "replace: 'cuarto' -> '4\u00ba'",
+     "replace: 'estatuidos,' -> 'estatu\u00eddos,'"
+    ],
+    "unit": "art-060"
+   },
+   {
+    "diff": [
+     "replace: 'jubilaci\u00f3n' -> 'Jubilaci\u00f3n'",
+     "replace: 'pensi\u00f3n' -> 'Pensi\u00f3n'",
+     "replace: 'mencionados,' -> 'mencionados;'",
+     "replace: 'fuera' -> 'fuere'"
+    ],
+    "unit": "art-067"
+   },
+   {
+    "diff": [
+     "replace: 'e' -> 'o'"
+    ],
+    "unit": "art-068"
+   },
+   {
+    "diff": [
+     "replace: 'Ley,' -> 'ley,'",
+     "replace: 'C\u00edvico.' -> 'C\u00edvico;'",
+     "replace: 'Ley,' -> 'ley,'",
+     "replace: 'obligaci\u00f3n.' -> 'obligaci\u00f3n;'",
+     "replace: 'integral.' -> 'integral;'",
+     "replace: 'Contencioso Administrativo' -> 'Contencioso-Administrativo'",
+     "replace: 'partidos.' -> 'Partidos.'",
+     "replace: 'lugar.' -> 'lugar;'",
+     "replace: 'electoral.' -> 'electoral;'",
+     "replace: 'sufragio' -> 'sufragio,'",
+     "replace: 'art\u00edculo.' -> 'art\u00edculo;'",
+     "replace: 'mayor\u00eda.' -> 'mayor\u00eda;'",
+     "replace: 'Ley' -> 'ley'",
+     "replace: '5\u00ba.' -> '5\u00ba;'",
+     "replace: 'partido' -> 'Partido'",
+     "replace: 'partido pol\u00edtico.' -> 'Partido pol\u00edtico;'",
+     "replace: 'candidatos.' -> 'candidatos;'",
+     "replace: 'partidos' -> 'Partidos'",
+     "replace: 'partidos' -> 'Partidos'",
+     "replace: 'Programas' -> 'Programa'",
+     "replace: 'ampliamente.' -> 'ampliamente;'",
+     "replace: 'partidos' -> 'Partidos'",
+     "replace: 'partido' -> 'Partido'"
+    ],
+    "unit": "art-077"
+   },
+   {
+    "diff": [
+     "replace: 'aun' -> 'a\u00fan'"
+    ],
+    "unit": "art-081"
+   },
+   {
+    "diff": [
+     "replace: 'Contencioso Administrativo.' -> 'Contencioso-Administrativo.'",
+     "replace: 'determinando' -> 'determinando,'",
+     "replace: 'solo' -> 's\u00f3lo'",
+     "replace: 'retiros;' -> 'retiros,'",
+     "replace: 'Ejecutivo,' -> 'Ejecutivo;'",
+     "replace: 'instituirlos' -> 'institu\u00edrlos'",
+     "replace: 'Contencioso' -> 'Contencioso-'"
+    ],
+    "unit": "art-085"
+   },
+   {
+    "diff": [
+     "replace: 'modificaciones' -> 'modificaci\u00f3n'"
+    ],
+    "unit": "art-086"
+   },
+   {
+    "diff": [
+     "replace: 'lII' -> 'III'"
+    ],
+    "unit": "art-094"
+   },
+   {
+    "diff": [
+     "replace: 'hayan' -> 'haya'"
+    ],
+    "unit": "art-103"
+   },
+   {
+    "diff": [
+     "replace: 'la' -> 'las'"
+    ],
+    "unit": "art-104"
+   },
+   {
+    "diff": [
+     "replace: 'aun' -> 'a\u00fan'"
+    ],
+    "unit": "art-114"
+   },
+   {
+    "diff": [
+     "replace: 'hicieran' -> 'hicieren'"
+    ],
+    "unit": "art-115"
+   },
+   {
+    "diff": [
+     "replace: 'correspondieran,' -> 'correspondieren,'",
+     "replace: 'ella,' -> 'ella'"
+    ],
+    "unit": "art-117"
+   },
+   {
+    "diff": [
+     "replace: 's\u00e9ptimo,' -> '7\u00ba,'"
+    ],
+    "unit": "art-130"
+   },
+   {
+    "diff": [
+     "replace: 'aun' -> 'a\u00fan'",
+     "replace: 's\u00e9ptimo,' -> '7o.,'"
+    ],
+    "unit": "art-131"
+   },
+   {
+    "diff": [
+     "replace: 'estuviera' -> 'estuviere'",
+     "replace: 'sustituido' -> 'sustitu\u00eddo'"
+    ],
+    "unit": "art-157"
+   },
+   {
+    "diff": [
+     "replace: 'Fuerzas Armadas.' -> 'fuerzas armadas.'",
+     "replace: 'circular,' -> 'circular;'",
+     "replace: '135;' -> '135.'",
+     "replace: '142;' -> '142.'",
+     "replace: 'dictara' -> 'dictaran'",
+     "replace: 'Superiores,' -> 'superiores'",
+     "replace: 'Contencioso Administrativo,' -> 'Contencioso-Administrativo,'",
+     "replace: 'leyes' -> 'leyes,'"
+    ],
+    "unit": "art-168"
+   },
+   {
+    "diff": [
+     "replace: 'aun' -> 'a\u00fan'"
+    ],
+    "unit": "art-172"
+   },
+   {
+    "diff": [
+     "replace: 'la' -> 'el'"
+    ],
+    "unit": "art-174"
+   },
+   {
+    "diff": [
+     "replace: 'aun' -> 'a\u00fan'"
+    ],
+    "unit": "art-178"
+   },
+   {
+    "diff": [
+     "replace: 'dictaron' -> 'dictaren'",
+     "replace: 'requerir\u00e1' -> 'requerir\u00e1n'"
+    ],
+    "unit": "art-185"
+   },
+   {
+    "diff": [
+     "replace: 'cualesquiera' -> 'cualquiera'"
+    ],
+    "unit": "art-212"
+   },
+   {
+    "diff": [
+     "replace: 'presupuesto' -> 'presupuestos'"
+    ],
+    "unit": "art-217"
+   },
+   {
+    "diff": [
+     "replace: 'presupuesto' -> 'presupuestos'",
+     "insert: '' -> 'las'"
+    ],
+    "unit": "art-225"
+   },
+   {
+    "diff": [
+     "insert: '' -> 'la'"
+    ],
+    "unit": "art-228"
+   },
+   {
+    "diff": [
+     "replace: 'presupuesto' -> 'presupuestos'",
+     "replace: 'Al' -> 'al'"
+    ],
+    "unit": "art-239"
+   },
+   {
+    "diff": [
+     "replace: 'las' -> 'la'",
+     "replace: 'distribuidos' -> 'distribu\u00eddos'"
+    ],
+    "unit": "art-272"
+   },
+   {
+    "diff": [
+     "replace: 'respectiva. Salvo' -> 'respectiva, salvo'",
+     "replace: 'segundo' -> '2o.'"
+    ],
+    "unit": "art-285"
+   },
+   {
+    "diff": [
+     "replace: 'numeral 4\u00ba' -> 'inciso 4\u00ba)'"
+    ],
+    "unit": "art-290"
+   },
+   {
+    "diff": [
+     "replace: 'produzcan' -> 'susciten'",
+     "replace: 'y/o' -> 'y'",
+     "replace: 'y' -> 'o'"
+    ],
+    "unit": "art-313"
+   },
+   {
+    "diff": [
+     "replace: 'primero' -> '1\u00ba'"
+    ],
+    "unit": "art-326"
+   },
+   {
+    "diff": [
+     "replace: '\"SI\"' -> '\"S\u00ed\"'",
+     "replace: 'hubieran' -> 'hubieren'"
+    ],
+    "unit": "art-331"
+   },
+   {
+    "diff": [
+     "insert: '' -> '-'",
+     "replace: 'ley' -> 'Ley'",
+     "insert: '' -> '-'",
+     "insert: '' -> '-'",
+     "replace: 'dictaron' -> 'dictaren'",
+     "insert: '' -> '-'"
+    ],
+    "unit": "disp-trans-j"
+   },
+   {
+    "diff": [
+     "replace: 'aun' -> 'a\u00fan'"
+    ],
+    "unit": "disp-trans-k"
+   },
+   {
+    "diff": [
+     "replace: 'esa' -> 'esta'"
+    ],
+    "unit": "disp-trans-v"
+   },
+   {
+    "diff": [
+     "replace: '(art\u00edculo' -> '(Art.'"
+    ],
+    "unit": "disp-trans-v-prima"
+   },
+   {
+    "diff": [
+     "replace: '\u00f3rgano deliberativo' -> 'Organo Deliberativo'",
+     "replace: '\u00f3rgano deliberativo' -> 'Organo Deliberativo'"
+    ],
+    "unit": "disp-trans-z"
+   },
+   {
+    "diff": [
+     "replace: '\u00e9sta' -> 'esta'"
+    ],
+    "unit": "disp-trans-z-segunda"
+   }
+  ],
+  "parlamento_changes_no_reform_explains": [
+   {
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'establecieren' -> 'establecen'"
+    ],
+    "unit": "art-007"
+   },
+   {
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'o' -> 'e'"
+    ],
+    "unit": "art-135"
+   },
+   {
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'Directores' -> 'Directorios'"
+    ],
+    "unit": "art-197"
+   },
+   {
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'la' -> 'las'"
+    ],
+    "unit": "art-275"
+   },
+   {
+    "between": [
+     "1996-12-08",
+     "2004-10-31"
+    ],
+    "diff": [
+     "replace: 'susciten' -> 'produzcan'",
+     "replace: 'y' -> 'y/o'",
+     "replace: 'o' -> 'y'"
+    ],
+    "unit": "art-313"
+   }
+  ],
   "reforms_match_impo_notes": {
    "1989-11-26": [
     "art-067",
@@ -50,361 +415,6 @@
     "disp-trans-z-segunda"
    ]
   },
-  "parlamento_changes_no_reform_explains": [
-   {
-    "unit": "art-007",
-    "between": [
-     "1996-12-08",
-     "2004-10-31"
-    ],
-    "diff": [
-     "replace: 'establecieren' -> 'establecen'"
-    ]
-   },
-   {
-    "unit": "art-135",
-    "between": [
-     "1996-12-08",
-     "2004-10-31"
-    ],
-    "diff": [
-     "replace: 'o' -> 'e'"
-    ]
-   },
-   {
-    "unit": "art-197",
-    "between": [
-     "1996-12-08",
-     "2004-10-31"
-    ],
-    "diff": [
-     "replace: 'Directores' -> 'Directorios'"
-    ]
-   },
-   {
-    "unit": "art-275",
-    "between": [
-     "1996-12-08",
-     "2004-10-31"
-    ],
-    "diff": [
-     "replace: 'la' -> 'las'"
-    ]
-   },
-   {
-    "unit": "art-313",
-    "between": [
-     "1996-12-08",
-     "2004-10-31"
-    ],
-    "diff": [
-     "replace: 'susciten' -> 'produzcan'",
-     "replace: 'y' -> 'y/o'",
-     "replace: 'o' -> 'y'"
-    ]
-   }
-  ],
-  "impo_vs_parlamento_2004_word_differences": [
-   {
-    "unit": "art-007",
-    "diff": [
-     "replace: 'establecen' -> 'establecieren'"
-    ]
-   },
-   {
-    "unit": "art-047",
-    "diff": [
-     "replace: 'aguas' -> 'Aguas'",
-     "replace: 'saneamiento' -> 'Saneamiento'",
-     "delete: 'los' -> ''",
-     "replace: 'cuando' -> 'cuanto'"
-    ]
-   },
-   {
-    "unit": "art-060",
-    "diff": [
-     "replace: 'cuarto' -> '4º'",
-     "replace: 'estatuidos,' -> 'estatuídos,'"
-    ]
-   },
-   {
-    "unit": "art-067",
-    "diff": [
-     "replace: 'jubilación' -> 'Jubilación'",
-     "replace: 'pensión' -> 'Pensión'",
-     "replace: 'mencionados,' -> 'mencionados;'",
-     "replace: 'fuera' -> 'fuere'"
-    ]
-   },
-   {
-    "unit": "art-068",
-    "diff": [
-     "replace: 'e' -> 'o'"
-    ]
-   },
-   {
-    "unit": "art-077",
-    "diff": [
-     "replace: 'Ley,' -> 'ley,'",
-     "replace: 'Cívico.' -> 'Cívico;'",
-     "replace: 'Ley,' -> 'ley,'",
-     "replace: 'obligación.' -> 'obligación;'",
-     "replace: 'integral.' -> 'integral;'",
-     "replace: 'Contencioso Administrativo' -> 'Contencioso-Administrativo'",
-     "replace: 'partidos.' -> 'Partidos.'",
-     "replace: 'lugar.' -> 'lugar;'",
-     "replace: 'electoral.' -> 'electoral;'",
-     "replace: 'sufragio' -> 'sufragio,'",
-     "replace: 'artículo.' -> 'artículo;'",
-     "replace: 'mayoría.' -> 'mayoría;'",
-     "replace: 'Ley' -> 'ley'",
-     "replace: '5º.' -> '5º;'",
-     "replace: 'partido' -> 'Partido'",
-     "replace: 'partido político.' -> 'Partido político;'",
-     "replace: 'candidatos.' -> 'candidatos;'",
-     "replace: 'partidos' -> 'Partidos'",
-     "replace: 'partidos' -> 'Partidos'",
-     "replace: 'Programas' -> 'Programa'",
-     "replace: 'ampliamente.' -> 'ampliamente;'",
-     "replace: 'partidos' -> 'Partidos'",
-     "replace: 'partido' -> 'Partido'"
-    ]
-   },
-   {
-    "unit": "art-081",
-    "diff": [
-     "replace: 'aun' -> 'aún'"
-    ]
-   },
-   {
-    "unit": "art-085",
-    "diff": [
-     "replace: 'Contencioso Administrativo.' -> 'Contencioso-Administrativo.'",
-     "replace: 'determinando' -> 'determinando,'",
-     "replace: 'solo' -> 'sólo'",
-     "replace: 'retiros;' -> 'retiros,'",
-     "replace: 'Ejecutivo,' -> 'Ejecutivo;'",
-     "replace: 'instituirlos' -> 'instituírlos'",
-     "replace: 'Contencioso' -> 'Contencioso-'"
-    ]
-   },
-   {
-    "unit": "art-086",
-    "diff": [
-     "replace: 'modificaciones' -> 'modificación'"
-    ]
-   },
-   {
-    "unit": "art-094",
-    "diff": [
-     "replace: 'lII' -> 'III'"
-    ]
-   },
-   {
-    "unit": "art-103",
-    "diff": [
-     "replace: 'hayan' -> 'haya'"
-    ]
-   },
-   {
-    "unit": "art-104",
-    "diff": [
-     "replace: 'la' -> 'las'"
-    ]
-   },
-   {
-    "unit": "art-114",
-    "diff": [
-     "replace: 'aun' -> 'aún'"
-    ]
-   },
-   {
-    "unit": "art-115",
-    "diff": [
-     "replace: 'hicieran' -> 'hicieren'"
-    ]
-   },
-   {
-    "unit": "art-117",
-    "diff": [
-     "replace: 'correspondieran,' -> 'correspondieren,'",
-     "replace: 'ella,' -> 'ella'"
-    ]
-   },
-   {
-    "unit": "art-130",
-    "diff": [
-     "replace: 'séptimo,' -> '7º,'"
-    ]
-   },
-   {
-    "unit": "art-131",
-    "diff": [
-     "replace: 'aun' -> 'aún'",
-     "replace: 'séptimo,' -> '7o.,'"
-    ]
-   },
-   {
-    "unit": "art-157",
-    "diff": [
-     "replace: 'estuviera' -> 'estuviere'",
-     "replace: 'sustituido' -> 'sustituído'"
-    ]
-   },
-   {
-    "unit": "art-168",
-    "diff": [
-     "replace: 'Fuerzas Armadas.' -> 'fuerzas armadas.'",
-     "replace: 'circular,' -> 'circular;'",
-     "replace: '135;' -> '135.'",
-     "replace: '142;' -> '142.'",
-     "replace: 'dictara' -> 'dictaran'",
-     "replace: 'Superiores,' -> 'superiores'",
-     "replace: 'Contencioso Administrativo,' -> 'Contencioso-Administrativo,'",
-     "replace: 'leyes' -> 'leyes,'"
-    ]
-   },
-   {
-    "unit": "art-172",
-    "diff": [
-     "replace: 'aun' -> 'aún'"
-    ]
-   },
-   {
-    "unit": "art-174",
-    "diff": [
-     "replace: 'la' -> 'el'"
-    ]
-   },
-   {
-    "unit": "art-178",
-    "diff": [
-     "replace: 'aun' -> 'aún'"
-    ]
-   },
-   {
-    "unit": "art-185",
-    "diff": [
-     "replace: 'dictaron' -> 'dictaren'",
-     "replace: 'requerirá' -> 'requerirán'"
-    ]
-   },
-   {
-    "unit": "art-212",
-    "diff": [
-     "replace: 'cualesquiera' -> 'cualquiera'"
-    ]
-   },
-   {
-    "unit": "art-217",
-    "diff": [
-     "replace: 'presupuesto' -> 'presupuestos'"
-    ]
-   },
-   {
-    "unit": "art-225",
-    "diff": [
-     "replace: 'presupuesto' -> 'presupuestos'",
-     "insert: '' -> 'las'"
-    ]
-   },
-   {
-    "unit": "art-228",
-    "diff": [
-     "insert: '' -> 'la'"
-    ]
-   },
-   {
-    "unit": "art-239",
-    "diff": [
-     "replace: 'presupuesto' -> 'presupuestos'",
-     "replace: 'Al' -> 'al'"
-    ]
-   },
-   {
-    "unit": "art-272",
-    "diff": [
-     "replace: 'las' -> 'la'",
-     "replace: 'distribuidos' -> 'distribuídos'"
-    ]
-   },
-   {
-    "unit": "art-285",
-    "diff": [
-     "replace: 'respectiva. Salvo' -> 'respectiva, salvo'",
-     "replace: 'segundo' -> '2o.'"
-    ]
-   },
-   {
-    "unit": "art-290",
-    "diff": [
-     "replace: 'numeral 4º' -> 'inciso 4º)'"
-    ]
-   },
-   {
-    "unit": "art-313",
-    "diff": [
-     "replace: 'produzcan' -> 'susciten'",
-     "replace: 'y/o' -> 'y'",
-     "replace: 'y' -> 'o'"
-    ]
-   },
-   {
-    "unit": "art-326",
-    "diff": [
-     "replace: 'primero' -> '1º'"
-    ]
-   },
-   {
-    "unit": "art-331",
-    "diff": [
-     "replace: '\"SI\"' -> '\"Sí\"'",
-     "replace: 'hubieran' -> 'hubieren'"
-    ]
-   },
-   {
-    "unit": "disp-trans-j",
-    "diff": [
-     "insert: '' -> '-'",
-     "replace: 'ley' -> 'Ley'",
-     "insert: '' -> '-'",
-     "insert: '' -> '-'",
-     "replace: 'dictaron' -> 'dictaren'",
-     "insert: '' -> '-'"
-    ]
-   },
-   {
-    "unit": "disp-trans-k",
-    "diff": [
-     "replace: 'aun' -> 'aún'"
-    ]
-   },
-   {
-    "unit": "disp-trans-v",
-    "diff": [
-     "replace: 'esa' -> 'esta'"
-    ]
-   },
-   {
-    "unit": "disp-trans-v-prima",
-    "diff": [
-     "replace: '(artículo' -> '(Art.'"
-    ]
-   },
-   {
-    "unit": "disp-trans-z",
-    "diff": [
-     "replace: 'órgano deliberativo' -> 'Organo Deliberativo'",
-     "replace: 'órgano deliberativo' -> 'Organo Deliberativo'"
-    ]
-   },
-   {
-    "unit": "disp-trans-z-segunda",
-    "diff": [
-     "replace: 'ésta' -> 'esta'"
-    ]
-   }
-  ],
   "unit_sources_per_version": {
    "art-046": [
     "impo-minus-later-incisos",
