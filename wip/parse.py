@@ -143,8 +143,8 @@ def parlamento_constitution(raw: bytes) -> dict[str, list[str]]:
                 for c in cells[1:]:
                     if norm(strip_tags(c)).strip('*'):
                         body += cell_paragraphs(c)
-                if in_trans and re.fullmatch(r"[A-Z]('{0,2}|´{1,2})\)", lead):
-                    letter = lead[0] + "'" * (len(lead) - 2)
+                if in_trans and re.fullmatch(r"[A-Z]('{0,2}|\")\)", lead):
+                    letter = lead[0] + ("''" if '"' in lead else "'" * (len(lead) - 2))
                     k = letter_key(letter)
                     while k in units:          # the Parlamento repeats a letter where IMPO writes V'), Z")
                         letter += "'"
