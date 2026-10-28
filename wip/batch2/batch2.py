@@ -85,3 +85,125 @@ VERIFICATION = HERE / 'verification.json'
 RETRIEVED = '2026-10-28'
 PLACEHOLDER = '[La fuente no da el texto vigente en esta fecha.]'
 WORDING_NOW = ('wording', 'added')        # IMPO notes whose words are in today's text
+
+
+def base_in_force(cfg: dict, main: dict) -> tuple[str, str] | None:
+    """The code's own in-force day, from the article that gives it (asserted to contain the words in ACTS)."""
+    if not cfg.get('base_in_force'):
+        return None
+    vpath, day, words = cfg['base_in_force']
+    nro = vpath.rsplit('/', 1)[1]
+    if vpath.startswith(cfg['path'] + '/'):
+        art = next(a for a in main['articulos'] if a['nroArticulo'] == nro and not a['secArticulo'].strip())
+    else:
+        art = ih.load(vpath)
+    text = ' '.join(art['textoArticulo'].split())
+    assert words in text, (vpath, text)
+    return day, f'{vpath}: "{text}"'
+
+
+# ---------------------------------------------------------------- per-unit timelines
+
+def timelines(act: dict) -> tuple[dict[str, list], dict[str, str]]:
+    """key -> [(day, unit or None, credits)] at every change, from versions that all carry full `units`."""
+    tl: dict[str, list] = {}
+    prev: dict = {}
+    for v in act['versions']:
+        units = v['units']
+        for k in sorted(set(units) | set(prev)):
+            if units.get(k) != prev.get(k) or k not in tl:
+                tl.setdefault(k, []).append([v['from'], units.get(k), list(v['credits'].get(k, []))])
+        prev = units
+    labels = {k: next(u['label'] for _, u, _ in c if u) for k, c in tl.items() if any(u for _, u, _ in c)}
+    return tl, labels
+
+
+def versions_from(tl: dict[str, list], template: list[dict]) -> list[dict]:
+    days = sorted({d for c in tl.values() for d, _, _ in c})
+    src, sha = template[0]['source_url'], template[0]['sha256']
+    notes = {v['from']: v.get('note') for v in template}
+    out, prev = [], {}
+    for day in days:
+        units, credits = {}, {}
+        for k, chain in tl.items():
+            cur = [c for c in chain if c[0] <= day]
+            if not cur:
+                continue
+            d, u, ls = cur[-1]
+            if u is not None:
+                units[k] = u
+            if d == day and ls and units.get(k) != prev.get(k):
+                credits[k] = list(ls)
+        out.append({'from': day, 'source_url': src, 'sha256': sha, 'units': dict(sorted(units.items())),
+                    'credits': dict(sorted(credits.items())), 'note': notes.get(day)})
+        prev = units
+    out[0]['note'] = template[0].get('note')
+    out[-1]['note'] = template[-1].get('note') if len(out) > 1 else out[-1]['note']
+    return out
+
+
+def unit(label: str, paras: list[str]) -> dict:
+    return {'label': label, 'kind': 'art', 'text': ih.render(label, paras)}
+
+
+def post_pass(act: dict, main: dict, base: str, ver: dict) -> dict:
+    """Repealed-then-revived articles, and the anachronism rule. Returns what it changed, for decisions."""
+    arts, _ = ih.articles(main)
+    day_of = {label: d['day'] for label, d in ver['in_force'].items()}     # keyed by law label
+    base_day = ver['base_in_force']['day']
+    tl, labels = timelines(act)
+    done = {'absent_between': [], 'placeholder': [], 'absent_before': []}
+
+    def day(law: str) -> str | None:
+        return day_of.get(ih.law_label(law))
+
+    for a in arts:
+        chain = tl.get(a.key)
+        if chain is None:
+            continue
+        evs = [e for e in a.events if e.law != base and e.kind != 'vigencia' and day(e.law) and day(e.law) > base_day]
+        # 1. "Derogado anteriormente por" a law R, and the article given new wording later: absent from R's day
+        #    until the next law after R changes it.
+        for e in evs:
+            if e.kind != 'repealed-earlier' or e.scope:
+                continue
+            r, rk = day(e.law), ih.law_key(e.law)
+            later = [c for c in chain if c[0] > r]
+            if not later or later[0][1] is None:
+                continue
+            for c in later:
+                if rk in c[2]:
+                    c[2].remove(rk)
+            chain[:] = [c for c in chain if c[0] < r] + [[r, None, [rk]]] + later
+            done['absent_between'].append(f'{a.label}: absent from {r} ({ih.law_label(e.law)}, "derogado '
+                                          f'anteriormente") until {later[0][0]}')
+        # 2. The anachronism rule: today's wording must not appear before the last law that IMPO says gave it.
+        now = [e for e in evs if e.kind in WORDING_NOW]
+        if not now or not a.current:
+            continue
+        last = max(now, key=lambda e: day(e.law))
+        d_last = day(last.law)
+        today = unit(a.label, a.current)
+        early = [c for c in chain if c[0] < d_last and c[1] == today]
+        if not early:
+            continue
+        inserted = (last.kind == 'added' and not last.scope)
+        first_early = early[0][0]
+        # the change on first_early keeps its credit (that law did change the article; its words are unknown);
+        # today's wording arrives on d_last, credited to every law after first_early up to d_last
+        lks: list[str] = []
+        for c in chain:
+            if first_early < c[0] <= d_last:
+                lks += [l for l in c[2] if l not in lks]
+        for l in sorted({e.law for e in evs if first_early < day(e.law) <= d_last}, key=lambda l: (day(l), int(l))):
+            if ih.law_key(l) not in lks:
+                lks.append(ih.law_key(l))
+        keep = [c for c in chain if c[0] < first_early]
+        filler = None if inserted else unit(a.label, [PLACEHOLDER])
+        mid = [[first_early, filler, list(early[0][2]) if keep else []]]
+        rest = [c for c in chain if c[0] > d_last]
+        chain[:] = keep + mid + [[d_last, today, lks or [ih.law_key(last.law)]]] + rest
+        done['absent_before' if inserted else 'placeholder'].append(
+            f'{a.label}: today\'s wording held back until {d_last} ({ih.law_label(last.law)})')
+    act['versions'] = versions_from(tl, act['versions'])
+    return done
