@@ -27,7 +27,7 @@ import re
 from dataclasses import dataclass, field
 
 import fetch
-from parse_text import impo_paragraphs, norm, strip_tags, wrap_width
+from parse_text import impo_paragraphs, key_of, norm, strip_tags, wrap_width
 
 KIND = {'redacción dada por': 'wording', 'redacción dada anteriormente por': 'wording-earlier',
         'agregado/s por': 'added', 'anteriormente agregado/s por': 'added-earlier',
@@ -175,11 +175,11 @@ def quoted_article(law_text: str, art: str, width: int) -> list[str] | None:
     """The new wording an amending article gives to article `art`: the quoted block that opens with
     "ARTICULO <art>." (IMPO's original of the amending law)."""
     t = law_text.replace('\r\n', '\n')
-    m = re.search(r'"?\s*ART[IÍ]CULO\s+' + art + r'(?!\d)[º°]?\.?\s*-?\s*', t)
+    m = re.search(r'"?\s*ART[IÍ]CULO\s+' + art + r'(?!\d)[º°]?\.?\s*-?\s*', t, re.I)
     if not m or '"' not in t[:m.start() + 1]:
         return None
     rest = t[m.end():]
-    end = re.search(r'"\s*(?:\.|\n\s*\n|$)|\n\s*ART[IÍ]CULO\s+\d+', rest)   # the quote closes, or the next article
+    end = re.search(r'"\s*(?:\.|\n\s*\n|$)|\n\s*"?\s*ART[IÍ]CULO\s+\d+', rest, re.I)   # the quote closes, or the next article
     body = rest[:end.start()] if end else rest
     if re.match(r'Inciso', body.strip()):
         return None                 # only one inciso is quoted
@@ -248,6 +248,9 @@ def needed_paths(main: dict, base: str, vigencia_arts: dict[str, str]) -> list[s
         evs = [e for e in a.events if e.law != base and e.kind != 'vigencia']
         if len({e.law for e in evs}) > 1:
             paths += [law_path(e.law, e.year, e.art, original=True) for e in evs if e.kind != 'repealed']
+        # incisos or paragraphs a law added: its article as published, to take them out again
+        paths += [law_path(e.law, e.year, e.art, original=True) for e in evs
+                  if e.kind in ('added', 'added-earlier') and e.scope and not scope_marker(e.scope)]
     for law, d in sorted(amending_laws(arts, base).items()):
         if not d['arts'] and not d['vigencia']:
             continue
@@ -282,9 +285,13 @@ def render(label: str, paras: list[str]) -> str:
 HEADING = re.compile(r'(CAP[IÍ]TULO|SECCI[OÓ]N|T[IÍ]TULO|LIBRO|PARTE)\b')
 
 
+INDEX = re.compile(r'(?:\* )?(?:Libro|Título|Capítulo|Sección) [IVXLC]+\b')
+
+
 def drop_headings(paras: list[str]) -> list[str]:
-    """IMPO's original texts carry the next chapter's heading at the end of an article."""
-    return [x for x in paras if not (HEADING.match(x) and x.upper() == x)]
+    """IMPO's original texts carry the next chapter's heading at the end of an article (and, for the Código Penal's
+    art. 1, the code's table of books and titles at its start)."""
+    return [x for x in paras if not (HEADING.match(x) and x.upper() == x) and not (INDEX.match(x) and len(x) < 200)]
 
 
 def without_items(paras: list[str], markers: list[str]) -> list[str] | None:
@@ -306,7 +313,7 @@ UNKNOWN = object()
 
 def build_act(*, slug: str, short: str, title: str, path: str, base: str,
               vigencia_arts: dict[str, str], verification: dict,
-              base_is_enactment: bool = True) -> tuple[dict, dict]:
+              base_is_enactment: bool = True, base_in_force: tuple[str, str] | None = None) -> tuple[dict, dict]:
     """The laws and the act (SCHEMA.md) for the norm at IMPO `path`, whose own law is `base` (e.g. '18331')."""
     raw_main = fetch.fetch(fetch.impo(path), True)
     main = fetch.impo_json(fetch.impo(path), True)
@@ -316,7 +323,7 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
     laws: dict[str, dict] = {}
     day_of: dict[str, str] = {}
     how: dict[str, str] = {}
-    base_day, base_how = in_force(main, None)
+    base_day, base_how = base_in_force or in_force(main, None)
     for law, d in sorted(amend.items()):
         if not d['arts']:
             continue
@@ -334,7 +341,8 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
     laws[law_key(base)] = {
         'label': law_label(base), 'title': title, 'kind': 'law',
         'enacted': ddmmyyyy(main['fechaPromulgacion']) if main.get('fechaPromulgacion') else None,
-        'published': ddmmyyyy(main['fechaPublicacion']), 'url': f'{fetch.IMPO}/{path}',
+        'published': ddmmyyyy(main['fechaPublicacion']) if re.match(r'\d\d/\d\d/\d{4}$', main.get(
+            'fechaPublicacion', '')) else None, 'url': f'{fetch.IMPO}/{path}',
         'temporary_until': None, 'restores': None, 'note': None}
 
     report: dict[str, dict] = {}
@@ -359,6 +367,28 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
             if j == 0 and any(e.kind in ('added', 'added-earlier') and not e.scope for e in lev):
                 texts[0], how_built[0] = None, 'added by this law'
                 continue
+            if j == 0 and a.key.rsplit('-', 1)[-1] in ('bis', 'ter', 'quater') and not any(
+                    f'/{base}-' in h for h in a.original_hrefs):
+                texts[0], how_built[0] = None, 'a BIS article, not in the original text: added by this law'
+                continue
+            if later not in (None, UNKNOWN) and lev and all(
+                    e.kind in ('added', 'added-earlier') and e.scope and not scope_marker(e.scope) for e in lev):
+                t = list(later)
+                for e in lev:
+                    o = load_cached(law_path(e.law, e.year, e.art, original=True))
+                    q = quoted_paragraphs(o['textoArticulo'], width) if o else None
+                    keys = [key_of(x) for x in q] if q else None
+                    hit = next((i for i in range(len(t) - len(keys) + 1)
+                                if [key_of(x) for x in t[i:i + len(keys)]] == keys), None) if keys else None
+                    if hit is None:
+                        t = None
+                        break
+                    del t[hit:hit + len(keys)]
+                if t is not None:
+                    texts[j] = t
+                    how_built[j] = 'the later text without what this law added: ' + ', '.join(
+                        f'{e.scope} ({law_label(e.law)} art. {e.art})' for e in lev)
+                    continue
             if all(e.kind == 'repealed' and not e.scope for e in lev) and a.current and j == len(order) - 1:
                 texts[j], how_built[j] = a.current, 'the text IMPO still prints for the repealed article'
                 continue
