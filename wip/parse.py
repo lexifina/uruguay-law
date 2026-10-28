@@ -113,9 +113,13 @@ def letter_label(letter: str) -> str:
 
 def parlamento_constitution(raw: bytes) -> dict[str, list[str]]:
     """Units (key -> paragraphs) of a Parlamento HTML text of the Constitution."""
-    h = raw.decode('utf-8')
-    h = h[h.index('<!--ARTICULADO'):]
-    end = h.find('<!--webbot bot="Include" U-Include="pieley')
+    try:
+        h = raw.decode('utf-8')
+    except UnicodeDecodeError:
+        h = raw.decode('latin-1')
+    i = h.find('<!--ARTICULADO')
+    h = h[i:] if i >= 0 else h[h.index('name="art1"') - 200:]
+    end = h.find('U-Include="pieley')
     h = h[:end] if end > 0 else h
     units: dict[str, list[str]] = {}
     cur: list[str] | None = None
@@ -132,12 +136,21 @@ def parlamento_constitution(raw: bytes) -> dict[str, list[str]]:
                 if not cells:
                     continue
                 lead = norm(strip_tags(cells[0]))
+                if in_trans and lead and not lead.strip('*'):
+                    return units          # the footnote table that closes the old site's pages
+                lead = lead.replace('*', '').strip()
                 body: list[str] = []
                 for c in cells[1:]:
-                    body += cell_paragraphs(c)
-                if in_trans and re.fullmatch(r"[A-Z]'{0,2}\)", lead):
-                    cur = units.setdefault(letter_key(lead[:-1]), [])
-                    lead_txt = lead
+                    if norm(strip_tags(c)).strip('*'):
+                        body += cell_paragraphs(c)
+                if in_trans and re.fullmatch(r"[A-Z]('{0,2}|´{1,2})\)", lead):
+                    letter = lead[0] + "'" * (len(lead) - 2)
+                    k = letter_key(letter)
+                    while k in units:          # the Parlamento repeats a letter where IMPO writes V'), Z")
+                        letter += "'"
+                        k = letter_key(letter)
+                    cur = units.setdefault(k, [])
+                    lead_txt = f'{letter})'
                     if body:
                         body[0] = f'{lead_txt} {body[0]}'
                     else:
