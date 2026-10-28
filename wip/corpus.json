@@ -21,7 +21,7 @@
    "name": "IMPO, Base de datos de normativa",
    "url": "https://www.impo.com.uy/bases",
    "retrieved": "2026-10-28",
-   "requests": 17,
+   "requests": 37,
    "licence": "Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases), and the Parlamento del Uruguay (parlamento.gub.uy, read through Wayback Machine captures).",
    "notes": "JSON (?json=true) of the consolidated text in force, with IMPO's notes per article. robots.txt Crawl-Delay: 10 is kept."
   },
