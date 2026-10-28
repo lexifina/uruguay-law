@@ -11,9 +11,10 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitucion/` | Constitución de la República Oriental del Uruguay (1967) | 5 | From its entry into force (15 February 1967) through the reforms approved by plebiscite in 1989, 1994, 1996 and 2004, to today |
+| `codigo-civil/` | Código Civil, as approved by Ley Nº 16.603 (1994) | 18 | From the re-edition approved by Ley 16.603 (in force 1 December 1994) through 20 amending laws (Leyes 16.719 to 20.446), to today. The code of 1868 and its changes before 1994 are not included |
 | `ley-18331/` | Ley Nº 18.331 de Protección de Datos Personales (2008) | 7 | As enacted (in force 28 August 2008), then every amending law IMPO names: Leyes 18.719, 18.996, 19.355, 19.670, 19.924 and 20.075, to today |
 
-The articles are `<act>/art-NNN.md` (`art-009-bis.md` for Artículo 9 BIS); the Constitution's Disposiciones Transitorias y Especiales are `constitucion/disp-trans-<letter>.md` (`-prima` for V'), Z'), `-segunda` for Z")). The per-act `README.md` lists every provision, how often it changed and when.
+The articles are `<act>/art-NNN.md` (`art-009-bis.md` for Artículo 9 BIS; four digits in the Código Civil, `art-1782.md`); the Constitution's Disposiciones Transitorias y Especiales are `constitucion/disp-trans-<letter>.md` (`-prima` for V'), Z'), `-segunda` for Z")). The per-act `README.md` lists every provision, how often it changed and when.
 
 **How a law's history is rebuilt.** IMPO publishes only today's text of a law, but under each amended article it names the amending law and article ("Inciso 2º) redacción dada por: Ley Nº 18.719 de 27/12/2010 artículo 152", "Literal Ñ) agregado/s por: …") and links the article as originally published ("TEXTO ORIGINAL"). So the first version of each amended article is IMPO's original text, and every later version is today's text. Where one article was amended by two laws on different days, the text in between is taken only from a source: the wording the earlier amending law quotes (IMPO's original of that law), or today's text without an item that IMPO says the later law added. Every step and how it was rebuilt is listed in [`data/verification.json`](data/verification.json). Each amending law takes effect on the day its own vigencia article gives (Leyes 18.719, 18.996, 19.355, 19.670, 19.924 and 20.075 each say "regirá a partir del 1° de enero de …"), or else ten days after publication (Código Civil art. 1).
 
@@ -48,7 +49,7 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 - **Every version is the Parlamento's own dated edition.** The Parlamento publishes the Constitution as approved in 1966 and as amended in 1989, 1994, 1996 and 2004. Each version's units have exactly the words of that edition, except units where the Parlamento's and IMPO's transcriptions differ in a few words (see below). [`data/verification.json`](data/verification.json) lists every such unit and every word that differs.
 - **The reforms agree between two publishers.** The units each reform changed come from comparing consecutive Parlamento editions word by word. The parser stops unless they are exactly the units that IMPO's own notes ("La redacción de este artículo fue dada por la Reforma Constitucional, aprobada por plebiscito de fecha …", "El inciso final fue agregado por …") assign to that plebiscite. All four reforms match: 2 units (1989), 1 (1994), 34 (1996), 3 (2004).
 - **Today's text is IMPO's consolidated text**, unit for unit, for every act.
-- **Ley 18.331:** the first version of each amended article is IMPO's original text of the law; every change step, the laws credited and the words that changed are in `data/verification.json`.
+- **Ley 18.331 and the Código Civil:** the first version of each amended article is IMPO's original text of the law; every change step, the laws credited and the words that changed are in `data/verification.json`.
 - Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`), and must match `corpus.json`: 0 mismatches. No merge commits on `main`, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse.
 - The repository is rebuilt from the same data a second time and gives identical hashes. Details in [`REPRODUCE.md`](REPRODUCE.md).
 
@@ -64,6 +65,8 @@ The author of a commit is the reform or law that made the change, with an e-mail
 
 ## What it does not show
 
+- The Código Civil before 1 December 1994. Its first commit is "oldest version available": the re-edition approved by Ley Nº 16.603, which IMPO consolidates.
+- A few intermediate texts no source gives (Código Civil arts. 98 and 1782, listed as unresolved in `data/verification.json`): there the change is shown on the next day whose text is known, credited to every law in between, so for the days between those laws the file shows the older text.
 - The Constitutions before 1967 (1830, 1918, 1934, 1942, 1952). The Parlamento publishes them, but this repository starts with the 1967 Constitution, which is a new text, not an amendment.
 - Plebiscites that rejected a reform. They changed no words and are not recorded yet.
 - The exact proclamation day of the 1994, 1996 and 2004 reforms (see Dates).
