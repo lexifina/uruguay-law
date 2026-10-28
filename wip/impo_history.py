@@ -22,6 +22,7 @@ article then changes once, on the last law's day, credited to all the laws IMPO 
 from __future__ import annotations
 
 import datetime as dt
+import hashlib
 import re
 from dataclasses import dataclass, field
 
@@ -77,9 +78,9 @@ def parse_notes(html: str) -> tuple[list[Event], list[tuple[str, str, str]]]:
     return events, originals
 
 
-def unit_key(nro: str, sec: str) -> str:
+def unit_key(nro: str, sec: str, pad: int = 3) -> str:
     sec = sec.strip().lower()
-    return f'art-{int(nro):04d}' + (f'-{sec}' if sec else '')
+    return f'art-{int(nro):0{pad}d}' + (f'-{sec}' if sec else '')
 
 
 def unit_label(nro: str, sec: str) -> str:
@@ -92,11 +93,16 @@ def load(path: str, offline: bool = True) -> dict:
 
 def articles(main: dict) -> tuple[list[Article], int]:
     width = wrap_width([a['textoArticulo'] for a in main['articulos']])
+    pad = max(3, len(str(max(int(a['nroArticulo']) for a in main['articulos']))))
     out = []
     for a in main['articulos']:
         ev, orig = parse_notes(a.get('notasArticulo') or '')
-        out.append(Article(unit_key(a['nroArticulo'], a['secArticulo']), unit_label(a['nroArticulo'], a['secArticulo']),
-                           impo_paragraphs(a['textoArticulo'], width), ev, orig))
+        hrefs = re.findall(r'href="(/bases/[^"]+)"', (a.get('notasArticulo') or '').partition('TEXTO ORIGINAL')[2])
+        art = Article(unit_key(a['nroArticulo'], a['secArticulo'], pad), unit_label(a['nroArticulo'], a['secArticulo']),
+                      impo_paragraphs(a['textoArticulo'], width), ev, orig)
+        art.original_hrefs = hrefs
+        art.nro = a['nroArticulo']
+        out.append(art)
     return out, width
 
 
@@ -156,3 +162,224 @@ def quoted_article(law_text: str, art: str, width: int) -> list[str] | None:
     if re.match(r'Inciso', body.strip()):
         return None                 # only one inciso is quoted
     return impo_paragraphs(body, width)
+
+
+# ---------------------------------------------------------------- what to fetch
+
+def law_path(law: str, year: str, art: str | None = None, original: bool = False) -> str:
+    base = f'{"leyes-originales" if original else "leyes"}/{law}-{year}'
+    return f'{base}/{art}' if art else base
+
+
+def amending_laws(arts: list[Article], base: str) -> dict[str, dict]:
+    """law -> {'year', 'arts': set of amending article numbers, 'vigencia': article number or None}."""
+    laws: dict[str, dict] = {}
+    for a in arts:
+        for e in a.events:
+            if e.law == base:
+                continue
+            d = laws.setdefault(e.law, {'year': e.year, 'arts': set(), 'vigencia': None})
+            if e.kind == 'vigencia':
+                d['vigencia'] = e.art
+            else:
+                d['arts'].add(e.art)
+    return laws
+
+
+def needed_paths(main: dict, base: str, vigencia_arts: dict[str, str]) -> list[str]:
+    arts, _ = articles(main)
+    paths: list[str] = []
+    for a in arts:
+        if any(e.law != base and e.kind != 'vigencia' for e in a.events):
+            paths += [h.removeprefix('/bases/') for h in a.original_hrefs]
+    for law, d in sorted(amending_laws(arts, base).items()):
+        if not d['arts'] and not d['vigencia']:
+            continue
+        paths.append(law_path(law, d['year'], min(d['arts'], key=int) if d['arts'] else d['vigencia']))
+        vig = d['vigencia'] or vigencia_arts.get(law)
+        if vig:
+            paths.append(law_path(law, d['year'], vig))
+    seen, out = set(), []
+    for p in paths:
+        if p not in seen:
+            seen.add(p)
+            out.append(p)
+    return out
+
+
+# ---------------------------------------------------------------- the history of one act
+
+def law_key(law: str) -> str:
+    return f'ley-{law}'
+
+
+def law_label(law: str) -> str:
+    return f'Ley Nº {int(law):,}'.replace(',', '.')
+
+
+def render(label: str, paras: list[str]) -> str:
+    return f'# {label}\n' + ''.join(p + '\n' for p in paras)
+
+
+def without_items(paras: list[str], markers: list[str]) -> list[str] | None:
+    out = list(paras)
+    for mk in markers:
+        i = item_index(out, mk)
+        if i is None:
+            return None
+        del out[i]
+    return out
+
+
+def title_case(s: str) -> str:
+    s = norm(s)
+    return s[:1] + s[1:].lower() if s.isupper() else s
+
+
+UNKNOWN = object()
+
+
+def build_act(*, slug: str, short: str, title: str, path: str, base: str,
+              vigencia_arts: dict[str, str], verification: dict) -> tuple[dict, dict]:
+    """The laws and the act (SCHEMA.md) for the norm at IMPO `path`, whose own law is `base` (e.g. '18331')."""
+    raw_main = fetch.fetch(fetch.impo(path), True)
+    main = fetch.impo_json(fetch.impo(path), True)
+    arts, width = articles(main)
+    amend = amending_laws(arts, base)
+
+    laws: dict[str, dict] = {}
+    day_of: dict[str, str] = {}
+    how: dict[str, str] = {}
+    base_day, base_how = in_force(main, None)
+    for law, d in sorted(amend.items()):
+        if not d['arts']:
+            continue
+        hdr = load(law_path(law, d['year'], min(d['arts'], key=int)))
+        vig = d['vigencia'] or vigencia_arts.get(law)
+        vtext = load(law_path(law, d['year'], vig)).get('textoArticulo') if vig else None
+        day_of[law], how[law] = in_force(hdr, vtext)
+        if vig:
+            how[law] += f' (artículo {vig})'
+        laws[law_key(law)] = {
+            'label': law_label(law), 'title': title_case(hdr.get('nombreNorma') or law_label(law)),
+            'kind': 'law', 'enacted': ddmmyyyy(hdr['fechaPromulgacion']) if hdr.get('fechaPromulgacion') else None,
+            'published': ddmmyyyy(hdr['fechaPublicacion']), 'url': f'{fetch.IMPO}/{law_path(law, d["year"])}',
+            'temporary_until': None, 'restores': None, 'note': None}
+    laws[law_key(base)] = {
+        'label': law_label(base), 'title': title, 'kind': 'law',
+        'enacted': ddmmyyyy(main['fechaPromulgacion']) if main.get('fechaPromulgacion') else None,
+        'published': ddmmyyyy(main['fechaPublicacion']), 'url': f'{fetch.IMPO}/{path}',
+        'temporary_until': None, 'restores': None, 'note': None}
+
+    report: dict[str, dict] = {}
+    chains: dict[str, list[tuple[str, list[str] | None, list[str]]]] = {}   # key -> [(day, paras or None, laws)]
+    labels = {a.key: a.label for a in arts}
+    for a in arts:
+        evs = [e for e in a.events if e.law != base and e.kind != 'vigencia' and e.law in day_of]
+        if not evs:
+            chains[a.key] = [(base_day, a.current, [])]
+            continue
+        order = sorted({e.law for e in evs}, key=lambda l: (day_of[l], int(l)))
+        repealed = any(e.kind == 'repealed' and not e.scope for e in evs)
+        # texts[j] is the text before order[j] took effect; texts[-1] is today's (None once repealed).
+        texts: list = [UNKNOWN] * len(order) + [None if repealed else a.current]
+        how_built: list[str] = [''] * len(order)
+        for j in range(len(order) - 1, -1, -1):
+            law = order[j]
+            lev = [e for e in evs if e.law == law]
+            later = texts[j + 1]
+            if j == 0 and any(e.kind in ('added', 'added-earlier') and not e.scope for e in lev):
+                texts[0], how_built[0] = None, 'added by this law'
+                continue
+            if j == 0:
+                href = next((h for h in a.original_hrefs if f'/{base}-' in h), None)
+                if href:
+                    texts[0] = impo_paragraphs(load(href.removeprefix('/bases/'))['textoArticulo'], width)
+                    how_built[0] = f'IMPO original text ({href})'
+                    continue
+            if later not in (None, UNKNOWN) and all(
+                    e.kind in ('added', 'added-earlier') and scope_marker(e.scope) for e in lev):
+                t = without_items(later, [scope_marker(e.scope) for e in lev])
+                if t is not None:
+                    texts[j] = t
+                    how_built[j] = 'the later text without the items this law added: ' + ', '.join(
+                        e.scope for e in lev)
+                    continue
+            if j:
+                src = next(((l, y, n) for l, y, n in a.originals if l == order[j - 1]), None)
+                if src:
+                    t = quoted_article(load(law_path(*src, original=True))['textoArticulo'], a.nro, width)
+                    if t:
+                        texts[j] = t
+                        how_built[j] = f'the wording {law_label(src[0])} art. {src[2]} gives it (IMPO original)'
+                        continue
+        # A text that no source gives is not invented: the change is shown on the next day whose text is known,
+        # credited to every law in between; with no known start, the article keeps today's text throughout.
+        if texts[0] is UNKNOWN:
+            chains[a.key] = [(base_day, a.current, [])]
+            report[a.key] = {'laws': [law_label(l) for l in order],
+                             'unresolved': 'no original text; today\'s text is used from the start'}
+            continue
+        chain = [(base_day, texts[0], [])]
+        pending: list[str] = []
+        for j, law in enumerate(order):
+            pending.append(law_key(law))
+            if texts[j + 1] is UNKNOWN:
+                continue
+            chain.append((day_of[law], texts[j + 1], pending))
+            pending = []
+        chains[a.key] = chain
+        report[a.key] = {'laws': [law_label(l) for l in order],
+                         'earliest_text': how_built[0] or 'today\'s text',
+                         'intermediate': {law_label(order[j]): (how_built[j] or 'unknown: change shown later')
+                                          for j in range(1, len(order))},
+                         'steps': [{'day': d, 'laws': ls,
+                                    'diff': _diff(chain[i][1], c) if chain[i][1] is not None and c is not None
+                                    else ('added' if c is not None else 'removed')}
+                                   for i, (d, c, ls) in enumerate(chain[1:])]}
+
+    days = sorted({d for c in chains.values() for d, _, _ in c})
+    digest = hashlib.sha256(raw_main).hexdigest()
+    versions, prev_units = [], {}
+    for day in days:
+        units, credits = {}, {}
+        for key, chain in chains.items():
+            cur = [c for c in chain if c[0] <= day]
+            if not cur:
+                continue
+            d, paras, ls = cur[-1]
+            if paras is not None:
+                units[key] = {'label': labels[key], 'kind': 'art', 'text': render(labels[key], paras)}
+            if d == day and ls:
+                credits[key] = list(ls)
+        changed = {k for k in set(units) | set(prev_units)
+                   if units.get(k, {}).get('text') != prev_units.get(k, {}).get('text')}
+        versions.append({'from': day, 'source_url': f'{fetch.IMPO}/{path}', 'sha256': digest,
+                         'units': dict(sorted(units.items())),
+                         'credits': {k: v for k, v in sorted(credits.items()) if k in changed}, 'note': None})
+        prev_units = units
+    versions[0]['note'] = ('Rebuilt from IMPO: the original text of every article IMPO marks as amended, and '
+                           'today\'s text of every other article.')
+    if len(versions) > 1:
+        versions[-1]['note'] = 'Today\'s text: IMPO\'s consolidated text.'
+    verification[slug] = {
+        'in_force': {law_label(l): {'day': day_of[l], 'how': how[l]} for l in sorted(day_of)},
+        'base_in_force': {'day': base_day, 'how': base_how},
+        'articles': report,
+        'last_version_equals_impo': all(
+            versions[-1]['units'].get(a.key, {}).get('text') == render(a.label, a.current)
+            for a in arts if not any(e.kind == 'repealed' and not e.scope for e in a.events))}
+    act = {'slug': slug, 'short': short, 'title': title, 'url': f'{fetch.IMPO}/{path}', 'first_law': law_key(base),
+           'earlier_laws': [], 'versions': versions}
+    used = {l for v in versions for ls in v['credits'].values() for l in ls} | {law_key(base)}
+    return {k: v for k, v in laws.items() if k in used}, act
+
+
+def _diff(a: list[str], b: list[str]) -> list[str]:
+    import difflib
+    wa, wb = ' '.join(a).split(), ' '.join(b).split()
+    out = []
+    for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, wa, wb, autojunk=False).get_opcodes():
+        if op != 'equal':
+            out.append(f'{op}: {" ".join(wa[i1:i2])[:200]!r} -> {" ".join(wb[j1:j2])[:200]!r}')
+    return out
