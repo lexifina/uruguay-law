@@ -91,6 +91,13 @@ def load(path: str, offline: bool = True) -> dict:
     return fetch.impo_json(fetch.impo(path), offline)
 
 
+def load_cached(path: str) -> dict | None:
+    try:
+        return load(path)
+    except FileNotFoundError:
+        return None
+
+
 def articles(main: dict) -> tuple[list[Article], int]:
     width = wrap_width([a['textoArticulo'] for a in main['articulos']])
     pad = max(3, len(str(max(int(a['nroArticulo']) for a in main['articulos']))))
@@ -164,6 +171,17 @@ def quoted_article(law_text: str, art: str, width: int) -> list[str] | None:
     return impo_paragraphs(body, width)
 
 
+def quoted_item(law_text: str, marker: str, width: int) -> str | None:
+    """The new wording of one item ("Sustitúyese el numeral 3º) ... por el siguiente: "3º) ...""): the quoted
+    paragraph that opens with that item's marker."""
+    t = law_text.replace('\r\n', '\n')
+    for m in re.finditer(r'"\s*(.*?)"', t, re.S):
+        ps = impo_paragraphs(m.group(1), width)
+        if len(ps) == 1 and (im := ITEM.match(ps[0])) and (im.group(1) or im.group(2)) == marker:
+            return ps[0]
+    return None
+
+
 # ---------------------------------------------------------------- what to fetch
 
 def law_path(law: str, year: str, art: str | None = None, original: bool = False) -> str:
@@ -192,6 +210,10 @@ def needed_paths(main: dict, base: str, vigencia_arts: dict[str, str]) -> list[s
     for a in arts:
         if any(e.law != base and e.kind != 'vigencia' for e in a.events):
             paths += [h.removeprefix('/bases/') for h in a.original_hrefs]
+        # an article amended by two or more laws: each amending article as published, for the wording it gives
+        evs = [e for e in a.events if e.law != base and e.kind != 'vigencia']
+        if len({e.law for e in evs}) > 1:
+            paths += [law_path(e.law, e.year, e.art, original=True) for e in evs if e.kind != 'repealed']
     for law, d in sorted(amending_laws(arts, base).items()):
         if not d['arts'] and not d['vigencia']:
             continue
@@ -240,15 +262,15 @@ def without_items(paras: list[str], markers: list[str]) -> list[str] | None:
 
 
 def title_case(s: str) -> str:
-    s = norm(s)
-    return s[:1] + s[1:].lower() if s.isupper() else s
+    return re.sub(r'\s+', ' ', norm(s)).strip()
 
 
 UNKNOWN = object()
 
 
 def build_act(*, slug: str, short: str, title: str, path: str, base: str,
-              vigencia_arts: dict[str, str], verification: dict) -> tuple[dict, dict]:
+              vigencia_arts: dict[str, str], verification: dict,
+              base_is_enactment: bool = True) -> tuple[dict, dict]:
     """The laws and the act (SCHEMA.md) for the norm at IMPO `path`, whose own law is `base` (e.g. '18331')."""
     raw_main = fetch.fetch(fetch.impo(path), True)
     main = fetch.impo_json(fetch.impo(path), True)
@@ -283,7 +305,9 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
     chains: dict[str, list[tuple[str, list[str] | None, list[str]]]] = {}   # key -> [(day, paras or None, laws)]
     labels = {a.key: a.label for a in arts}
     for a in arts:
-        evs = [e for e in a.events if e.law != base and e.kind != 'vigencia' and e.law in day_of]
+        # laws in force before the norm's own day are already in its text
+        evs = [e for e in a.events if e.law != base and e.kind != 'vigencia' and e.law in day_of
+               and day_of[e.law] > base_day]
         if not evs:
             chains[a.key] = [(base_day, a.current, [])]
             continue
@@ -314,13 +338,36 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
                         e.scope for e in lev)
                     continue
             if j:
-                src = next(((l, y, n) for l, y, n in a.originals if l == order[j - 1]), None)
-                if src:
-                    t = quoted_article(load(law_path(*src, original=True))['textoArticulo'], a.nro, width)
+                srcs = [(l, y, n) for l, y, n in a.originals if l == order[j - 1]]
+                srcs += [(e.law, e.year, e.art) for e in evs if e.law == order[j - 1] and not e.scope
+                         and e.kind in ('wording', 'wording-earlier')]
+                for src in srcs:
+                    o = load_cached(law_path(*src, original=True))
+                    t = quoted_article(o['textoArticulo'], a.nro, width) if o else None
                     if t:
                         texts[j] = drop_headings(t)
                         how_built[j] = f'the wording {law_label(src[0])} art. {src[2]} gives it (IMPO original)'
-                        continue
+                        break
+        # Forward: an earlier law that gave new wording to single items of a known text.
+        for j in range(1, len(order)):
+            if texts[j] is not UNKNOWN or texts[j - 1] in (None, UNKNOWN):
+                continue
+            lev = [e for e in evs if e.law == order[j - 1]]
+            if not lev or not all(e.kind in ('wording', 'wording-earlier') and scope_marker(e.scope) for e in lev):
+                continue
+            t = list(texts[j - 1])
+            for e in lev:
+                o = load_cached(law_path(e.law, e.year, e.art, original=True))
+                item = quoted_item(o['textoArticulo'], scope_marker(e.scope), width) if o else None
+                i = item_index(t, scope_marker(e.scope))
+                if item is None or i is None:
+                    t = None
+                    break
+                t[i] = item
+            if t is not None:
+                texts[j] = t
+                how_built[j] = 'the earlier text with the items ' + ', '.join(
+                    f'{e.scope} as {law_label(e.law)} art. {e.art} words them' for e in lev)
         # A text that no source gives is not invented: the change is shown on the next day whose text is known,
         # credited to every law in between; with no known start, the article keeps today's text throughout.
         if texts[0] is UNKNOWN:
@@ -377,8 +424,9 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
         'last_version_equals_impo': all(
             versions[-1]['units'].get(a.key, {}).get('text') == render(a.label, a.current)
             for a in arts if not any(e.kind == 'repealed' and not e.scope for e in a.events))}
-    act = {'slug': slug, 'short': short, 'title': title, 'url': f'{fetch.IMPO}/{path}', 'first_law': law_key(base),
-           'earlier_laws': [], 'versions': versions}
+    act = {'slug': slug, 'short': short, 'title': title, 'url': f'{fetch.IMPO}/{path}',
+           'first_law': law_key(base) if base_is_enactment else None,
+           'earlier_laws': [] if base_is_enactment else [law_key(base)], 'versions': versions}
     used = {l for v in versions for ls in v['credits'].values() for l in ls} | {law_key(base)}
     return {k: v for k, v in laws.items() if k in used}, act
 

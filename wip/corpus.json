@@ -21,7 +21,7 @@
    "name": "IMPO, Base de datos de normativa",
    "url": "https://www.impo.com.uy/bases",
    "retrieved": "2026-10-28",
-   "requests": 40,
+   "requests": 47,
    "licence": "Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases), and the Parlamento del Uruguay (parlamento.gub.uy, read through Wayback Machine captures).",
    "notes": "JSON (?json=true) of the consolidated text in force, with IMPO's notes per article. robots.txt Crawl-Delay: 10 is kept."
   },
@@ -48,7 +48,7 @@
   },
   "ley-18719": {
    "label": "Ley Nº 18.719",
-   "title": "Presupuesto nacional de sueldos gastos e inversiones. ejercicio 2010 - 2014",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2010 - 2014",
    "kind": "law",
    "enacted": "2010-12-27",
    "published": "2011-01-05",
@@ -59,7 +59,7 @@
   },
   "ley-18996": {
    "label": "Ley Nº 18.996",
-   "title": "Aprobacion de rendicion de cuentas y balance de ejecucion presupuestal. ejercicio 2011",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2011",
    "kind": "law",
    "enacted": "2012-11-07",
    "published": "2012-11-22",
@@ -70,7 +70,7 @@
   },
   "ley-19355": {
    "label": "Ley Nº 19.355",
-   "title": "Presupuesto nacional de sueldos gastos e inversiones. ejercicio 2015 - 2019",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2015 - 2019",
    "kind": "law",
    "enacted": "2015-12-19",
    "published": "2015-12-30",
@@ -81,7 +81,7 @@
   },
   "ley-19670": {
    "label": "Ley Nº 19.670",
-   "title": "Aprobacion de rendicion de cuentas y balance de ejecucion presupuestal. ejercicio 2017",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2017",
    "kind": "law",
    "enacted": "2018-10-15",
    "published": "2018-10-25",
@@ -92,7 +92,7 @@
   },
   "ley-19924": {
    "label": "Ley Nº 19.924",
-   "title": "Presupuesto nacional de sueldos gastos e inversiones. ejercicio 2020-2024",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2020-2024",
    "kind": "law",
    "enacted": "2020-12-18",
    "published": "2020-12-30",
@@ -103,7 +103,7 @@
   },
   "ley-20075": {
    "label": "Ley Nº 20.075",
-   "title": "Aprobacion de rendicion de cuentas y balance de ejecucion presupuestal. ejercicio 2021",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2021",
    "kind": "law",
    "enacted": "2022-10-20",
    "published": "2022-11-03",
