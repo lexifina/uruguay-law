@@ -4,7 +4,7 @@
   "name": "Uruguay",
   "level": "country",
   "repo": "https://github.com/lexifina/uruguay-law",
-  "build": "built: Constitución 1967-2004 (5 versions), Ley 18.331 de Protección de Datos Personales 2008-2023 (7 versions), Código Civil 1994-2026 (18 versions, from the Ley 16.603 re-edition)",
+  "build": "built: Constitución 1967-2004 (5 versions), Ley 18.331 de Protección de Datos Personales 2008-2023 (7), Código Civil 1994-2026 (18, from the Ley 16.603 re-edition), Código Penal 1934-2024 (36)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28",
   "sources": 2

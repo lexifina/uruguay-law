@@ -113,6 +113,7 @@ def articles(main: dict) -> tuple[list[Article], int]:
                       impo_paragraphs(a['textoArticulo'], width), ev, orig)
         art.original_hrefs = hrefs
         art.nro = a['nroArticulo']
+        art.sec = a['secArticulo'].strip().lower()
         out.append(art)
     return out, width
 
@@ -146,6 +147,9 @@ def in_force(header: dict, vigencia_text: str | None) -> tuple[str, str]:
         if m:
             return (f'{m.group(3)}-{MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}',
                     f'its vigencia article: "{m.group(0)}"')
+        m = re.search(r'entrar[áa] en (?:vigencia|vigor) desde su promulgaci[óo]n', t, re.I)
+        if m:
+            return ddmmyyyy(header['fechaPromulgacion']), f'its vigencia article: "{m.group(0)}"'
         m = RELATIVE.search(t)
         if m:
             n = int(m.group(1)) if m.group(1).isdigit() else NUMBERS[m.group(1).lower()]
@@ -171,15 +175,16 @@ def item_index(paras: list[str], marker: str) -> int | None:
     return hits[0] if len(hits) == 1 else None
 
 
-def quoted_article(law_text: str, art: str, width: int) -> list[str] | None:
+def quoted_article(law_text: str, art: str, width: int, sec: str = '') -> list[str] | None:
     """The new wording an amending article gives to article `art`: the quoted block that opens with
     "ARTICULO <art>." (IMPO's original of the amending law)."""
     t = law_text.replace('\r\n', '\n')
-    m = re.search(r'"?\s*ART[IÍ]CULO\s+' + art + r'(?!\d)[º°]?\.?\s*-?\s*', t, re.I)
+    num = art + (r'\s*' + sec if sec else r'(?!\d)(?![º°]?\s*(?:bis|ter|quater)\b)')
+    m = re.search(r'"?\s*(?:ART[IÍ]CULO|Art[íi]culo)\s+' + num + r'[º°]?\.?\s*-?\s*', t, re.I if sec else 0)
     if not m or '"' not in t[:m.start() + 1]:
         return None
     rest = t[m.end():]
-    end = re.search(r'"\s*(?:\.|\n\s*\n|$)|\n\s*"?\s*ART[IÍ]CULO\s+\d+', rest, re.I)   # the quote closes, or the next article
+    end = re.search(r'"\s*(?:\.|\n\s*\n|$)|\n\s*"?\s*(?:ART[IÍ]CULO|Art[íi]culo)\s+\d+', rest)   # the quote closes, or the next article
     body = rest[:end.start()] if end else rest
     if re.match(r'Inciso', body.strip()):
         return None                 # only one inciso is quoted
@@ -412,7 +417,7 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
                          and e.kind in ('wording', 'wording-earlier')]
                 for src in srcs:
                     o = load_cached(law_path(*src, original=True))
-                    t = quoted_article(o['textoArticulo'], a.nro, width) if o else None
+                    t = quoted_article(o['textoArticulo'], a.nro, width, a.sec) if o else None
                     if t:
                         texts[j] = drop_headings(t)
                         how_built[j] = f'the wording {law_label(src[0])} art. {src[2]} gives it (IMPO original)'
