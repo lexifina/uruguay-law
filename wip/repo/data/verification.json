@@ -890,5 +890,411 @@
    }
   },
   "last_version_equals_impo": true
+ },
+ "ley-18331": {
+  "in_force": {
+   "Ley Nº 18.719": {
+    "day": "2011-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2011\" (artículo 3)"
+   },
+   "Ley Nº 18.996": {
+    "day": "2013-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2013\" (artículo 2)"
+   },
+   "Ley Nº 19.355": {
+    "day": "2016-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2016\" (artículo 3)"
+   },
+   "Ley Nº 19.670": {
+    "day": "2019-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2019\" (artículo 2)"
+   },
+   "Ley Nº 19.924": {
+    "day": "2021-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2021\" (artículo 3)"
+   },
+   "Ley Nº 20.075": {
+    "day": "2023-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2023\" (artículo 5)"
+   }
+  },
+  "base_in_force": {
+   "day": "2008-08-28",
+   "how": "published 2008-08-18; Código Civil art. 1: ten days after publication"
+  },
+  "articles": {
+   "art-004": {
+    "laws": [
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "the later text without the items this law added: Literal Ñ)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "insert: '' -> 'Ñ) Datos biométricos: datos personales obtenidos a partir de un tratamiento técnico específico, relativos a las características físicas, fisiológicas o conductuales de una persona física que permitan '"
+      ]
+     }
+    ]
+   },
+   "art-009": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/9)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: '12' -> '13'",
+       "delete: 'o jurídicas, privadas o públicas,' -> ''",
+       "replace: 'personal' -> 'personal, individual'"
+      ]
+     }
+    ]
+   },
+   "art-009-bis": {
+    "laws": [
+     "Ley Nº 18.996"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-01-01",
+      "laws": [
+       "ley-18996"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-012": {
+    "laws": [
+     "Ley Nº 19.670"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/12)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-01-01",
+      "laws": [
+       "ley-19670"
+      ],
+      "diff": [
+       "replace: 'Principio' -> '(Principio'",
+       "replace: 'responsabilidad.-' -> 'responsabilidad).-'",
+       "replace: 'es responsable' -> 'o tratamiento y el encargado, en su caso, serán responsables'",
+       "insert: '' -> 'En ejercicio de una responsabilidad proactiva, deberán adoptar las medidas técnicas y organizativas apropiadas: privacidad desde el diseño, privacidad por defecto, evaluación de impacto a la protecció'"
+      ]
+     }
+    ]
+   },
+   "art-013": {
+    "laws": [
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/13)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "replace: 'a la' -> 'al tratamiento y'",
+       "replace: 'datos.-' -> 'datos.'",
+       "replace: 'trate y' -> 'trate,'",
+       "insert: '' -> 'previstos en los artículos 14 a 16'",
+       "replace: 'acceso, rectificación' -> 'la presente ley. F) La existencia o no de transferencias internacionales de datos. G) En el caso de tratamientos automatizados de datos regulados por el artículo 16 de la presente ley, los criterios d'",
+       "replace: 'supresión' -> 'la solución tecnológica o el programa utilizado. Cuando los datos personales no sean recolectados directamente de sus titulares, la información referida en el presente artículo les deberá ser proporci'",
+       "replace: 'datos.' -> 'responsables. El incumplimiento habilitará al titular a realizar las acciones que correspondan. El órgano de control podrá establecer condiciones específicas para la publicidad permanente de la inform'"
+      ]
+     }
+    ]
+   },
+   "art-014": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/14)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'por la sentencia de declaratoria de herederos.' -> 'debidamente.'"
+      ]
+     }
+    ]
+   },
+   "art-015": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/15)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'No procede' -> 'Procede'",
+       "delete: 'salvo' -> ''",
+       "replace: 'aquellos casos de:' -> 'los siguientes casos:'",
+       "replace: 'perjuicios' -> 'Perjuicios'",
+       "replace: 'notorio error o falsedad.' -> 'Notorio error.'",
+       "replace: 'contravención' -> 'Contravención'"
+      ]
+     }
+    ]
+   },
+   "art-016": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/16)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'Derecho' -> '(Derecho'",
+       "replace: 'personales.-' -> 'personales).-'",
+       "delete: 'o no' -> ''",
+       "delete: 'La valoración sobre el comportamiento de las personas, basada en un tratamiento de datos, únicamente podrá tener valor probatorio a petición del afectado.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-017": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/17)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'necesario' -> 'necesaria su comunicación'",
+       "replace: 'de salud e higiene públicas,' -> 'sanitarias,'",
+       "replace: 'en tanto se preserve' -> 'preservando'",
+       "replace: 'adecuados.' -> 'adecuados cuando ello sea pertinente.'"
+      ]
+     }
+    ]
+   },
+   "art-018-bis": {
+    "laws": [
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-021": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/21)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'Datos' -> '(Datos'",
+       "replace: 'publicidad.-' -> 'publicidad).-'",
+       "insert: '' -> 'prospección comercial,'"
+      ]
+     }
+    ]
+   },
+   "art-022": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/22)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'Datos' -> '(Datos'",
+       "replace: 'crediticia.-' -> 'crediticia).-'",
+       "replace: 'personales destinados' -> 'destinado'",
+       "replace: 'brindar informes objetivos de carácter comercial,' -> 'informar sobre la solvencia patrimonial o crediticia,'"
+      ]
+     }
+    ]
+   },
+   "art-028": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/28)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'Creación,' -> '(Creación,'",
+       "replace: 'supresión.-' -> 'supresión).-'",
+       "delete: 'que no sean para un uso exclusivamente individual o doméstico,' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-029": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/29)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'incumplimiento' -> 'cumplimiento'",
+       "replace: 'a' -> 'con'"
+      ]
+     }
+    ]
+   },
+   "art-034": {
+    "laws": [
+     "Ley Nº 18.719",
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/34)",
+    "intermediate": {
+     "Ley Nº 20.075": "the later text without the items this law added: Literal I)"
+    },
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'de' -> 'del régimen legal, en particular'",
+       "insert: '' -> 'legalidad,'",
+       "replace: 'veracidad' -> 'veracidad, proporcionalidad'",
+       "replace: 'datos' -> 'datos,'",
+       "replace: 'responsables de las bases de datos,' -> 'sujetos alcanzados,'",
+       "insert: '' -> 'fiscalización e'",
+       "insert: '' -> 'A tales efectos la Unidad Reguladora y de Control de Datos Personales tendrá las siguientes potestades: 1) Exigir a los responsables y encargados de tratamientos la exhibición de los libros, documento'"
+      ]
+     },
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "insert: '' -> 'I) Establecer los criterios y procedimientos que deban observar los responsables y encargados, en el tratamiento automatizado de datos personales indicados en el artículo 16 de la presente ley.'"
+      ]
+     }
+    ]
+   },
+   "art-035": {
+    "laws": [
+     "Ley Nº 18.719",
+     "Ley Nº 19.355"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18331-2008/35)",
+    "intermediate": {
+     "Ley Nº 19.355": "the wording Ley Nº 18.719 art. 152 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'Potestades sancionatorias.-' -> '(Potestades sancionatorias).-'",
+       "replace: 'medidas sancionatorias' -> 'sanciones'",
+       "replace: 'datos o' -> 'datos,'",
+       "replace: 'del' -> 'de'",
+       "insert: '' -> 'y demás sujetos alcanzados por el régimen legal,'",
+       "replace: 'ley:' -> 'ley, las que se graduarán en atención a la gravedad, reiteración o reincidencia de la infracción cometida:'",
+       "insert: '' -> 'Observación. 2)'",
+       "replace: '2)' -> '3)'",
+       "replace: 'quinientas' -> '500.000 UI (quinientas'",
+       "replace: 'indexadas. 3)' -> 'indexadas). 4)'",
+       "insert: '' -> 'de la base de datos respectiva por el plazo de cinco días. 5) Clausura'",
+       "replace: 'AGESIC' -> 'Agencia para el Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la Información y del Conocimiento'",
+       "replace: 'competentes,' -> 'competentes'",
+       "replace: 'suspensión' -> 'clausura'",
+       "replace: 'datos, hasta por un lapso de seis días hábiles, respecto de los cuales' -> 'datos que'",
+       "replace: 'legales y la suspensión' -> 'legales. La clausura'",
+       "replace: 'aquel' -> 'aquél'",
+       "replace: 'AGESIC,' -> 'Unidad Reguladora y Control de Datos Personales,'",
+       "replace: 'disponer' -> 'disponerla'",
+       "replace: 'la suspensión si' -> 'en caso que'",
+       "replace: 'suspensión,' -> 'clausura,'",
+       "replace: 'AGESIC.' -> 'Unidad Reguladora y Control de Datos Personales.'",
+       "replace: 'suspensión,' -> 'clausura,'",
+       "replace: 'AGESIC' -> 'Unidad Reguladora y Control de Datos Personales'",
+       "replace: 'Judicatura,' -> 'Judicatura'",
+       "insert: '' -> 'Las resoluciones firmes de la Unidad Reguladora y Control de Datos Personales que impongan sanciones pecuniarias, constituyen título ejecutivo a sus efectos'"
+      ]
+     },
+     {
+      "day": "2016-01-01",
+      "laws": [
+       "ley-19355"
+      ],
+      "diff": [
+       "replace: 'faculta a la Agencia para el Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la Información y del Conocimiento a' -> 'podrá'",
+       "delete: 'que' -> ''",
+       "replace: 'efectos' -> 'efectos.'"
+      ]
+     }
+    ]
+   }
+  },
+  "last_version_equals_impo": true
  }
 }

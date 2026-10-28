@@ -19,6 +19,7 @@ def norm(s: str) -> str:
     s = re.sub(r'\bN\.\s?o\b\.?', 'Nº', s)
     s = re.sub(r'(\d)\.o\b', r'\1º', s)
     s = re.sub(r'\s*\(\*\)\s*$', '', s)      # IMPO's "amended" marker
+    s = re.sub(r"^\s*((?:\d+º?|[A-ZÑa-zñ]|[A-Z]'{1,2})\))(?=[^\s,.;)])", r"\1 ", s)   # "1)Observación" -> "1) Observación"
     s = re.sub(r'\s+', ' ', s)
     s = re.sub(r'\s+([,.;:])', r'\1', s)
     return s.strip()
@@ -32,7 +33,7 @@ def key_of(text: str) -> str:
     return re.sub(r'[^0-9a-záéíóúüñ]+', '', t)
 
 
-MARK = re.compile(r"^\s*(?:(?:\d+\s?[º°o]?|[A-Za-zÑñ]|[A-Z](?:['´]{1,2}|\")|[IVXLC]+)\)|[*•])\s")
+MARK = re.compile(r"^\s*(?:(?:\d+\s?[º°o]?|[A-Za-zÑñ]|[A-Z](?:['´]{1,2}|\")|[IVXLC]+)\)|[*•])(?:\s|(?=[A-ZÁÉÍÓÚÑa-záéíóúñ\"(]))")
 
 
 WRAP = 72

@@ -221,6 +221,14 @@ def render(label: str, paras: list[str]) -> str:
     return f'# {label}\n' + ''.join(p + '\n' for p in paras)
 
 
+HEADING = re.compile(r'(CAP[IÍ]TULO|SECCI[OÓ]N|T[IÍ]TULO|LIBRO|PARTE)\b')
+
+
+def drop_headings(paras: list[str]) -> list[str]:
+    """IMPO's original texts carry the next chapter's heading at the end of an article."""
+    return [x for x in paras if not (HEADING.match(x) and x.upper() == x)]
+
+
 def without_items(paras: list[str], markers: list[str]) -> list[str] | None:
     out = list(paras)
     for mk in markers:
@@ -294,7 +302,7 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
             if j == 0:
                 href = next((h for h in a.original_hrefs if f'/{base}-' in h), None)
                 if href:
-                    texts[0] = impo_paragraphs(load(href.removeprefix('/bases/'))['textoArticulo'], width)
+                    texts[0] = drop_headings(impo_paragraphs(load(href.removeprefix('/bases/'))['textoArticulo'], width))
                     how_built[0] = f'IMPO original text ({href})'
                     continue
             if later not in (None, UNKNOWN) and all(
@@ -310,7 +318,7 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
                 if src:
                     t = quoted_article(load(law_path(*src, original=True))['textoArticulo'], a.nro, width)
                     if t:
-                        texts[j] = t
+                        texts[j] = drop_headings(t)
                         how_built[j] = f'the wording {law_label(src[0])} art. {src[2]} gives it (IMPO original)'
                         continue
         # A text that no source gives is not invented: the change is shown on the next day whose text is known,
