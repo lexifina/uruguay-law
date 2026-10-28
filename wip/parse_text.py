@@ -20,6 +20,7 @@ def norm(s: str) -> str:
     s = re.sub(r'(\d)\.o\b', r'\1º', s)
     s = re.sub(r'\s*\(\*\)\s*$', '', s)      # IMPO's "amended" marker
     s = re.sub(r"^\s*((?:\d+º?|[A-ZÑa-zñ]|[A-Z]'{1,2})\))(?=[^\s,.;)])", r"\1 ", s)   # "1)Observación" -> "1) Observación"
+    s = re.sub(r"^(\d+º\.)(?=[A-ZÁÉÍÓÚÑ])", r"\1 ", s)   # "1º.Ser" -> "1º. Ser"
     s = re.sub(r'\s+', ' ', s)
     s = re.sub(r'\s+([,.;:])', r'\1', s)
     return s.strip()
@@ -33,7 +34,7 @@ def key_of(text: str) -> str:
     return re.sub(r'[^0-9a-záéíóúüñ]+', '', t)
 
 
-MARK = re.compile(r"^\s*(?:(?:\d+\s?[º°o]?|[A-Za-zÑñ]|[A-Z](?:['´]{1,2}|\")|[IVXLC]+)\)|[*•])(?:\s|(?=[A-ZÁÉÍÓÚÑa-záéíóúñ\"(]))")
+MARK = re.compile(r"^\s*(?:(?:\d+\s?[º°o]?|[A-Za-zÑñ]|[A-Z](?:['´]{1,2}|\")|[IVXLC]+)\)|\d+\s?[º°]\.(?=\s*[A-ZÁÉÍÓÚÑ])|[*•])(?:\s|(?=[A-ZÁÉÍÓÚÑa-záéíóúñ\"(]))")
 
 
 WRAP = 72
@@ -73,6 +74,12 @@ def impo_paragraphs(raw: str, width: int = WRAP) -> list[str]:
             return True           # an unwrapped paragraph (IMPO sets some amended text on one line)
         return not marker and len(prev) + 1 + len(line.split()[0]) <= width - 1
 
+    def wrapped(prev: str, line: str) -> bool:
+        prev = prev.rstrip()
+        if prev[-1:] in '.:;':
+            return False
+        return line.lstrip()[:1].islower() or len(prev) + 1 + len(line.split()[0]) > width - 1
+
     def begin(line: str, ind: int, is_marker: bool) -> None:
         nonlocal cont, start, marker
         flush()
@@ -82,6 +89,7 @@ def impo_paragraphs(raw: str, width: int = WRAP) -> list[str]:
         cont = None
         start, marker = ind, is_marker
 
+    raw = re.sub(r'</?(?:i|b|u|em|strong|sup|sub)>', '', raw, flags=re.I)
     for line in raw.replace('\r\n', '\n').replace('\r', '\n').split('\n'):
         line = line.replace('\u00a0', ' ').replace('\t', '    ').rstrip()
         if not line.strip():
@@ -97,6 +105,10 @@ def impo_paragraphs(raw: str, width: int = WRAP) -> list[str]:
             begin(line, ind, False)
         elif ended(cur[-1], line):
             begin(line, ind, False)     # the line before ended a sentence although the next word would have fit
+        elif wrapped(cur[-1], line):
+            cur.append(line)            # the line before ran on: no sentence end, and the next word did not fit
+            if cont is None:
+                cont = ind
         elif cont is None and marker:
             cont = ind
             seen.add(ind)

@@ -1296,5 +1296,2712 @@
    }
   },
   "last_version_equals_impo": true
+ },
+ "codigo-civil": {
+  "in_force": {
+   "Ley Nº 16.719": {
+    "day": "1995-10-29",
+    "how": "published 1995-10-19; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 17.535": {
+    "day": "2002-09-06",
+    "how": "published 2002-08-27; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 17.555": {
+    "day": "2002-09-29",
+    "how": "published 2002-09-19; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 17.703": {
+    "day": "2003-11-26",
+    "how": "its vigencia article: \"entrará en vigencia a los treinta días de su promulgación\" (artículo 46)"
+   },
+   "Ley Nº 18.214": {
+    "day": "2008-01-10",
+    "how": "published 2007-12-31; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 18.246": {
+    "day": "2008-01-20",
+    "how": "published 2008-01-10; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 18.387": {
+    "day": "2008-11-02",
+    "how": "its vigencia article: \"entrará en vigencia a los diez días de su promulgación\" (artículo 255)"
+   },
+   "Ley Nº 18.666": {
+    "day": "2010-08-05",
+    "how": "published 2010-07-26; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.075": {
+    "day": "2013-08-01",
+    "how": "its vigencia article: \"entrará en vigencia a los 90 (noventa) días de su promulgación\" (artículo 29)"
+   },
+   "Ley Nº 19.119": {
+    "day": "2013-08-24",
+    "how": "published 2013-08-14; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.438": {
+    "day": "2017-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2017\" (artículo 2)"
+   },
+   "Ley Nº 19.580": {
+    "day": "2018-01-19",
+    "how": "published 2018-01-09; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.670": {
+    "day": "2019-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2019\" (artículo 2)"
+   },
+   "Ley Nº 19.726": {
+    "day": "2019-01-13",
+    "how": "published 2019-01-03; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.889": {
+    "day": "2020-07-24",
+    "how": "published 2020-07-14; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.920": {
+    "day": "2021-03-16",
+    "how": "its vigencia article: \"entrará en vigor noventa días después de su publicación\" (artículo 63)"
+   },
+   "Ley Nº 20.021": {
+    "day": "2022-01-15",
+    "how": "published 2022-01-05; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 20.075": {
+    "day": "2023-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2023\" (artículo 5)"
+   },
+   "Ley Nº 20.443": {
+    "day": "2026-01-01",
+    "how": "published 2025-12-22; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 20.446": {
+    "day": "2026-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2026\" (artículo 3)"
+   }
+  },
+  "base_in_force": {
+   "day": "1994-12-01",
+   "how": "published 1994-11-21; Código Civil art. 1: ten days after publication"
+  },
+  "articles": {
+   "art-0083": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/83)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "insert: '' -> 'El matrimonio civil es la unión permanente, con arreglo a la ley, de dos personas de distinto o igual sexo.'",
+       "replace: 'capítulo' -> 'Capítulo'",
+       "replace: 'del' -> 'de'"
+      ]
+     }
+    ]
+   },
+   "art-0091": {
+    "laws": [
+     "Ley Nº 19.075",
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/91)",
+    "intermediate": {
+     "Ley Nº 20.443": "the earlier text with the items Numeral 1º) as Ley Nº 19.075 art. 26 words them"
+    },
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: '1º.- La falta' -> '1º. Ser cualquiera de los contrayentes menor de dieciséis años'",
+       "delete: 'requerida por las leyes de la República; esto es, catorce años cumplidos en el varón y doce cumplidos en la mujer.' -> ''"
+      ]
+     },
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": [
+       "replace: '1º. Ser' -> '1º.Ser'",
+       "insert: '' -> 'dieciocho años de edad o tener'",
+       "replace: '2º.- La' -> 'y no contar, en este último caso, con previa autorización judicial. El juez competente, con citación del o de los representantes legales del adolescente, analizará el grado de evolución de sus faculta'",
+       "insert: '' -> 'libre'",
+       "insert: '' -> 'El matrimonio celebrado en ausencia de consentimiento no tendrá efecto alguno.'",
+       "insert: '' -> 'ni por lengua de señas'",
+       "insert: '' -> 'judicialmente'",
+       "replace: 'La comprobación se hará por informe médico aprobado judicialmente. 3º.- El' -> '3º.El'",
+       "replace: '4º.- El' -> '4º.El'",
+       "replace: '5º.- En' -> '5º.En'",
+       "replace: '6º.- El homicidio,' -> '6º.La condena por homicidio doloso o ultraintencional, su'",
+       "replace: 'complicidad en el homicidio' -> 'complicidad,'",
+       "delete: '7º.- La falta de consagración religiosa, cuando ésta se hubiere estipulado como condición resolutoria en el contrato y se reclamase el cumplimiento de ella en el mismo día de la celebración del matrim' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0092": {
+    "laws": [
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/92)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "replace: 'informativo' -> 'administrativo'",
+       "insert: '' -> 'que'",
+       "replace: 'novios hallarse desimpedidos' -> 'futuros contrayentes no se encuentran impedidos'",
+       "replace: 'haber cumplido' -> 'cumplen'",
+       "replace: 'civiles del caso,' -> 'civiles,'",
+       "replace: 'el Oficial' -> 'la Oficina'",
+       "insert: '' -> 'Registro de'",
+       "delete: 'del domicilio' -> ''",
+       "replace: 'cualquiera' -> 'la localidad que los contrayentes elijan, con prescindencia'",
+       "replace: 'los contrayentes.' -> 'sus respectivos domicilios.'",
+       "delete: 'mismo funcionario publicará el' -> ''",
+       "insert: '' -> 'se publicará'",
+       "replace: '1º.-' -> '1)'",
+       "replace: '2º.-' -> '2)'",
+       "replace: '3º.-' -> '3)'",
+       "insert: '' -> 'en el testimonio'",
+       "replace: 'óbito' -> 'defunción'",
+       "replace: '4º.-' -> '4)'"
+      ]
+     }
+    ]
+   },
+   "art-0093": {
+    "laws": [
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/93)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "replace: 'son diversos los domicilios' -> 'la localidad'",
+       "replace: 'los' -> 'la Oficina del Registro de Estado Civil actuante difiriera de la correspondiente al domicilio de uno o de ambos'",
+       "replace: 'pasará' -> 'librará'",
+       "replace: 'al otro Oficial del Estado Civil' -> 'a las respectivas Oficinas, a fin de'",
+       "delete: 'corresponda, para que también' -> ''",
+       "delete: 'las puertas de' -> ''",
+       "replace: 'oficina' -> 'puerta'",
+       "replace: 'de que habla' -> 'previsto en'"
+      ]
+     }
+    ]
+   },
+   "art-0097": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/97)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'denuncia' -> 'denuncia,'",
+       "replace: 'habiendo aparecido' -> 'habiéndose presentado'",
+       "replace: 'del' -> 'de'",
+       "replace: '<i>pro tribunali</i>,' -> 'pro tribunali,'",
+       "replace: 'testigos,' -> 'testigos'",
+       "replace: 'novio, <i>de' -> 'contrayente,'",
+       "replace: 'ser marido y mujer</i>.' -> 'unirse en matrimonio civil.'",
+       "replace: 'del' -> 'de'",
+       "replace: '<i>a' -> 'a'",
+       "replace: 'legítimo</i>;' -> 'legítimo,'"
+      ]
+     }
+    ]
+   },
+   "art-0098": {
+    "laws": [
+     "Ley Nº 19.670",
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/98)",
+    "intermediate": {
+     "Ley Nº 20.443": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-19670",
+       "ley-20443"
+      ],
+      "diff": [
+       "replace: '1º.-' -> '1º.'",
+       "replace: '2º.-' -> '2º.'",
+       "replace: '3º.- El consentimiento de los padres, ascendientes, tutores o curadores,' -> '3º. La autorización judicial,'",
+       "replace: 'a los artículos 105 y siguientes. 4º.-' -> 'al artículo 91 numeral 1º. 4º.'",
+       "replace: '5º.-' -> '5º.'",
+       "replace: '6º.-' -> '6º.'",
+       "insert: '' -> 'ni por lengua de señas,'",
+       "replace: 'expresado por su representante legal, sin perjuicio de lo dispuesto' -> 'expresado,'",
+       "replace: 'los artículos 105 y siguientes. 7º.-' -> 'la forma que se haya establecido judicialmente. 7º.'"
+      ]
+     }
+    ]
+   },
+   "art-0105": {
+    "laws": [
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/105)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0106": {
+    "laws": [
+     "Ley Nº 16.719",
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/106)",
+    "intermediate": {
+     "Ley Nº 20.443": "the wording Ley Nº 16.719 art. 2 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "1995-10-29",
+      "laws": [
+       "ley-16719"
+      ],
+      "diff": [
+       "insert: '' -> 'legítimos'",
+       "replace: 'veintiún' -> 'dieciocho'",
+       "replace: 'edad, cualquiera sea su sexo,' -> 'edad'",
+       "replace: 'legítimos o,' -> 'y'",
+       "replace: 'ambos,' -> 'ambos'",
+       "delete: 'legítimos' -> ''"
+      ]
+     },
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0107": {
+    "laws": [
+     "Ley Nº 16.719",
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/107)",
+    "intermediate": {
+     "Ley Nº 20.443": "the wording Ley Nº 16.719 art. 2 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "1995-10-29",
+      "laws": [
+       "ley-16719"
+      ],
+      "diff": [
+       "replace: 'ascendientes legítimos,' -> 'ascendientes,'",
+       "replace: 'veintiún años,' -> 'dieciocho años'",
+       "replace: 'especial. (Artículo 308)' -> 'especial (artículo 308).'"
+      ]
+     },
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0108": {
+    "laws": [
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/108)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0109": {
+    "laws": [
+     "Ley Nº 16.719",
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/109)",
+    "intermediate": {
+     "Ley Nº 20.443": "the wording Ley Nº 16.719 art. 2 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "1995-10-29",
+      "laws": [
+       "ley-16719"
+      ],
+      "diff": [
+       "replace: 'veintiún' -> 'dieciocho'",
+       "insert: '' -> 'según el artículo 106,'",
+       "replace: 'legales' -> 'legales;'",
+       "replace: 'lo' -> 'los'",
+       "insert: '' -> 'falta de dichos padres se aplicará lo dispuesto en el artículo 107. A'",
+       "replace: 'anteriores,' -> 'anteriores'",
+       "replace: 'o' -> 'y'",
+       "replace: 'madre,' -> 'madre'",
+       "replace: 'potestad,' -> 'potestad'",
+       "replace: 'expresa.' -> 'expresa'"
+      ]
+     },
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0110": {
+    "laws": [
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/110)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0121": {
+    "laws": [
+     "Ley Nº 16.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/121)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1995-10-29",
+      "laws": [
+       "ley-16719"
+      ],
+      "diff": [
+       "replace: 'educación,' -> 'educación'",
+       "replace: 'edad.' -> 'veintiún años.'"
+      ]
+     }
+    ]
+   },
+   "art-0127": {
+    "laws": [
+     "Ley Nº 18.246"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/127)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-01-20",
+      "laws": [
+       "ley-18246"
+      ],
+      "diff": [
+       "insert: '' -> 'La obligación de fidelidad mutua cesa si los cónyuges no viven de consuno.'"
+      ]
+     }
+    ]
+   },
+   "art-0129": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/129)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'marido y mujer.' -> 'los cónyuges.'"
+      ]
+     }
+    ]
+   },
+   "art-0148": {
+    "laws": [
+     "Ley Nº 19.075",
+     "Ley Nº 19.580"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/148)",
+    "intermediate": {
+     "Ley Nº 19.580": "the wording Ley Nº 19.075 art. 5 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'sólo' -> 'solo'",
+       "replace: '1º.-' -> '1º)'",
+       "replace: '2º.-' -> 'Existe adulterio, cuando se hubieran mantenido relaciones sexuales fuera del matrimonio con personas del mismo o diferente sexo, lo que se entenderá sin perjuicio de lo dispuesto por el artículo 127, '",
+       "replace: '3º.-' -> '3º)'",
+       "replace: '4º.-' -> '4º)'",
+       "replace: 'del marido' -> 'de cualquiera de los cónyuges'",
+       "replace: 'a la mujer. 5º.-' -> 'al otro cónyuge. 5º)'",
+       "delete: 'del marido o el' -> ''",
+       "replace: 'la mujer' -> 'cualquiera de los cónyuges'",
+       "insert: '' -> 'o menores a cargo'",
+       "replace: 'aquéllos. 6º.-' -> 'aquellos. 6º)'",
+       "replace: '7º.-' -> '7º)'",
+       "replace: 'condenación' -> 'condena'",
+       "replace: 'esposos' -> 'cónyuges'",
+       "replace: '8º.-' -> '8º)'",
+       "replace: '9º.-' -> '9º)'",
+       "replace: '10º.-' -> '10)'",
+       "replace: '(artículos' -> '(artículo'",
+       "replace: 'a)' -> 'A)'",
+       "replace: 'b)' -> 'B)'",
+       "replace: 'ex cónyuge' -> 'excónyuge'",
+       "insert: '' -> '11) Por el cambio de identidad de género cuando este se produzca con posterioridad a la unión matrimonial, aun cuando este cambio retrotrajera a una identidad anterior'"
+      ]
+     },
+     {
+      "day": "2018-01-19",
+      "laws": [
+       "ley-19580"
+      ],
+      "diff": [
+       "insert: '' -> 'La violencia basada en género contra la cónyuge y el abuso sexual contra hijas e hijos se considerarán, en todos los casos, injurias graves que acreditan esta causal.'",
+       "replace: 'anterior' -> 'anterior.'"
+      ]
+     }
+    ]
+   },
+   "art-0149": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/149)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'el marido o por la mujer;' -> 'uno de los cónyuges,'",
+       "replace: 'los cónyuges' -> 'ellos'"
+      ]
+     }
+    ]
+   },
+   "art-0157": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/157)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "delete: 'al marido o' -> ''",
+       "replace: 'la mujer' -> 'cualquiera de los cónyuges'"
+      ]
+     }
+    ]
+   },
+   "art-0158": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/158)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'el marido o la mujer' -> 'cualquiera de los cónyuges'",
+       "replace: 'judiciales,' -> 'judiciales'",
+       "replace: 'inscrito' -> 'inscripto'"
+      ]
+     }
+    ]
+   },
+   "art-0161": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/161)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'apoyarla-' -> 'apoyarla-,'",
+       "delete: 'Si la causa que dio mérito a la sentencia de separación fuera el adulterio de la mujer, no podrá el marido, después de la conciliación, entablar acción fundándose en la misma causal.' -> ''",
+       "delete: 'la' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0183": {
+    "laws": [
+     "Ley Nº 19.075",
+     "Ley Nº 19.119"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/183)",
+    "intermediate": {
+     "Ley Nº 19.119": "the wording Ley Nº 19.075 art. 9 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'El marido queda siempre' -> 'Cuando el matrimonio hubiere durado más de un año, el cónyuge o ex cónyuge quedará'",
+       "replace: 'de la mujer' -> 'del cónyuge o ex cónyuge'",
+       "insert: '' -> 'por un plazo igual a la duración del matrimonio,'",
+       "delete: 'alimenticia' -> ''",
+       "replace: 'se determinará teniendo en cuenta las facultades del obligado y las necesidades de la mujer, de manera que ésta conserve' -> 'permita al beneficiario conservar'",
+       "replace: 'Cesará esta obligación' -> 'También se fijará una pensión alimenticia congrua,'",
+       "insert: '' -> 'el matrimonio hubiere durado al menos un año y quien pide'",
+       "replace: 'mujer lleva una' -> 'pensión probare que fue el encargado de las tareas dentro del hogar. Esta pensión deberá servirse por el tiempo que haya durado el matrimonio. La pensión congrua se determinará teniendo en cuenta los '",
+       "replace: 'desarreglada.' -> 'laboral, como consecuencia de su dedicación a la vida matrimonial o familiar; 2.- las posibilidades efectivas de inserción o de reinserción en la vida laboral, atendiendo a sus aptitudes personales, e'",
+       "insert: '' -> 'cónyuge o ex'",
+       "replace: 'indigencia,' -> 'indigencia'",
+       "replace: 'separación; pero' -> 'separación. A los efectos de los plazos referidos'",
+       "replace: 'este caso,' -> 'los incisos anteriores, se computará como duración del matrimonio'",
+       "replace: 'Juez, al reglar' -> 'tiempo transcurrido entre su celebración y'",
+       "replace: 'asignación, tomará en cuenta' -> 'sentencia que decrete'",
+       "replace: 'conducta actual del cónyuge que reclama el socorro.' -> 'separación provisional de los cónyuges (artículo 154)'"
+      ]
+     },
+     {
+      "day": "2013-08-24",
+      "laws": [
+       "ley-19119"
+      ],
+      "diff": [
+       "replace: 'ex cónyuge' -> 'excónyuge'",
+       "replace: 'ex cónyuge' -> 'excónyuge'",
+       "replace: 'a)' -> '1)'",
+       "replace: 'postcomunitaria; b) específicamente' -> 'poscomunitaria. 2) Específicamente'",
+       "replace: '1.- el' -> 'A) El'",
+       "replace: 'familiar; 2.- las' -> 'familiar. B) Las'",
+       "replace: 'actores' -> 'factores'",
+       "replace: 'concreto, y' -> 'concreto y,'",
+       "replace: 'ex cónyuge' -> 'excónyuge'",
+       "replace: 'separación.' -> 'separación, pero en este caso, el Juez al reglar la asignación, tomará en cuenta la conducta del beneficiario. Esta pensión se servirá por el mismo tiempo que haya durado el matrimonio, salvo que la i'",
+       "replace: 'cónyuges (artículo 154)' -> 'cónyuges, con arreglo a lo dispuesto por el artículo 154 de este Código.'"
+      ]
+     }
+    ]
+   },
+   "art-0187": {
+    "laws": [
+     "Ley Nº 19.075",
+     "Ley Nº 20.446"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/187)",
+    "intermediate": {
+     "Ley Nº 20.446": "the wording Ley Nº 19.075 art. 10 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'sólo' -> 'solo'",
+       "replace: '1º.-' -> '1º)'",
+       "replace: '2º.-' -> '2º)'",
+       "replace: 'éstos' -> 'estos'",
+       "replace: '3º.-' -> '3º)'",
+       "replace: 'la mujer.' -> 'cualquiera de los cónyuges.'",
+       "replace: 'la' -> 'el cónyuge'",
+       "replace: 'marido' -> 'otro cónyuge'",
+       "insert: '' -> 'quien ejerce efectivamente'",
+       "replace: 'mujer' -> 'tenencia de los hijos'",
+       "insert: '' -> 'una'",
+       "replace: 'seis meses' -> 'sesenta días'",
+       "replace: 'un año,' -> 'sesenta días,'",
+       "replace: 'la' -> 'el cónyuge'",
+       "replace: 'y' -> 'y,'",
+       "replace: 'esposo,' -> 'cónyuge demandado,'",
+       "replace: 'conciliarse,' -> 'conciliarse'",
+       "replace: 'éste.' -> 'este.'",
+       "replace: 'la' -> 'el cónyuge'",
+       "replace: 'prescriptos' -> 'prescritos'",
+       "replace: 'la' -> 'lo'",
+       "replace: 'desistida.' -> 'desistido.'",
+       "replace: 'compareciese' -> 'compareciese,'",
+       "replace: 'oficio.' -> 'oficio'"
+      ]
+     },
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20446"
+      ],
+      "diff": [
+       "replace: 'caso' -> 'caso, será necesario que'",
+       "replace: 'solicitante deberá comparecer personalmente' -> 'comparezca por escrito'",
+       "replace: 'a quien expondrá' -> 'expresando'",
+       "replace: 'deseo' -> 'voluntad'",
+       "replace: 'disolver el matrimonio.' -> 'poner fin al vínculo matrimonial.'",
+       "replace: 'Juez hará constar en acta este pedido y en el mismo acto fijará audiencia para celebrar un comparendo entre los cónyuges en el que se intentará la conciliación y se resolverá la situación de los hijos' -> 'juez decretará'",
+       "replace: 'provisoria' -> 'provisional'",
+       "replace: 'fijando una nueva audiencia con plazo de sesenta días' -> 'convocará'",
+       "replace: 'fin de' -> 'audiencia. En dicha comparecencia, se dictarán las medidas provisionales'",
+       "replace: 'comparezca la parte' -> 'correspondan (artículo 167 del Código Civil), y se consultará al cónyuge'",
+       "replace: 'solicita' -> 'inició'",
+       "replace: 'divorcio a manifestar que' -> 'proceso si'",
+       "replace: 'sus propósitos. También se labrará acta' -> 'su voluntad'",
+       "replace: 'esta audiencia y se señalará una nueva, con plazo de sesenta días, para que el cónyuge peticionante concurra a manifestar que insiste en su deseo de divorciarse. En esta última audiencia el Juez citar' -> 'divorciarse;'",
+       "replace: 'no conciliarse sea cual fuere la oposición' -> 'que el compareciente mantenga su voluntad'",
+       "replace: 'este. Siempre que' -> 'poner fin al vínculo matrimonial, se dictará sentencia decretando el divorcio. Si'",
+       "replace: 'procedimiento dejara de concurrir' -> 'proceso no compareciera'",
+       "replace: 'alguna de las audiencias o comparendos prescritos en este numeral,' -> 'la audiencia señalada,'",
+       "replace: 'desistido. El divorcio por esta sola voluntad no podrá solicitarse sino después de haber transcurrido dos años de la celebración' -> 'desistido'",
+       "replace: 'matrimonio. Cada cónyuge tendrá derecho, desde el momento que se decrete la separación provisoria, a elegir libremente su domicilio. Cuando al cónyuge que no ha pedido el divorcio no se le pudiera cit' -> 'proceso (artículo 227'",
+       "replace: 'país, el Juez lo citará por edictos y si no compareciese, vencido el término' -> 'Código General'",
+       "replace: 'emplazamiento, se le nombrará defensor de oficio' -> 'Proceso).'"
+      ]
+     }
+    ]
+   },
+   "art-0190": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/190)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'unión.' -> 'unión matrimonial.'",
+       "replace: 'matrimonio; pero una vez realizado éste, el cónyuge demandante en el primer matrimonio no podrá deducir acción de divorcio que se funde en una causa de la misma naturaleza de la que sirvió para decret' -> 'matrimonio.'"
+      ]
+     }
+    ]
+   },
+   "art-0191": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/191)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'la mujer' -> 'el excónyuge,'",
+       "replace: 'de su marido.' -> 'del otro.'"
+      ]
+     }
+    ]
+   },
+   "art-0194": {
+    "laws": [
+     "Ley Nº 18.246",
+     "Ley Nº 19.075",
+     "Ley Nº 19.119"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/194)",
+    "intermediate": {
+     "Ley Nº 19.075": "the wording Ley Nº 18.246 art. 24 gives it (IMPO original)",
+     "Ley Nº 19.119": "the wording Ley Nº 19.075 art. 13 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2008-01-20",
+      "laws": [
+       "ley-18246"
+      ],
+      "diff": [
+       "insert: '' -> 'inciso primero del'",
+       "delete: 'inciso 1º' -> ''",
+       "replace: 'Código,' -> 'Código'",
+       "replace: 'nupcias.' -> 'nupcias o si vive en unión concubinaria declarada judicialmente'"
+      ]
+     },
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "insert: '' -> 'de servir pensión'",
+       "replace: 'marido' -> 'cónyuge o ex cónyuge el artículo 183 de este Código, si el beneficiario contrajere nuevo matrimonio o viviere en unión concubinaria declarada judicialmente, o si mantuviere vida de consuno estable con'",
+       "insert: '' -> 'del Código Civil, en la redacción dada por esta ley, no regirá respecto'",
+       "replace: 'este Código si' -> 'las personas cuya sentencias de divorcio y/o pensión alimenticia hayan ejecutoriadas con anterioridad a'",
+       "replace: 'mujer contrae nuevas nupcias' -> 'vigencia de la misma. No obstante ello, en los procesos de revisión de la pensión alimenticia iniciados,'",
+       "delete: 'si vive' -> ''",
+       "replace: 'unión concubinaria declarada judicialmente' -> 'aquellos a iniciarse a partir de la vigencia de esta ley, serán de aplicación los criterios previstos en dicha disposición con el fin de ponderar el monto y la procedencia del mantenimiento del servic'"
+      ]
+     },
+     {
+      "day": "2013-08-24",
+      "laws": [
+       "ley-19119"
+      ],
+      "diff": [
+       "replace: 'ex cónyuge' -> 'excónyuge'",
+       "replace: 'del Código Civil, en la redacción dada por esta ley,' -> 'de este Código,'",
+       "replace: 'sentencias' -> 'sentencia'",
+       "replace: 'y/o' -> 'o'",
+       "replace: 'hayan ejecutoriadas' -> 'haya quedado ejecutoriada'",
+       "insert: '' -> 'ya'",
+       "replace: 'a partir de la vigencia de esta ley,' -> 'en el futuro,'",
+       "replace: 'pensionario' -> 'pensionario.'"
+      ]
+     }
+    ]
+   },
+   "art-0201": {
+    "laws": [
+     "Ley Nº 19.119",
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/201)",
+    "intermediate": {
+     "Ley Nº 20.443": "the wording Ley Nº 19.119 art. 3 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2013-08-24",
+      "laws": [
+       "ley-19119"
+      ],
+      "diff": [
+       "replace: 'impúberes' -> 'menores de 16 (dieciséis) años'",
+       "replace: '1o.-' -> '1)'",
+       "replace: 'ciento ochenta' -> '180 (ciento ochenta)'",
+       "replace: 'fueron legalmente púberes. 2o.-' -> 'cumplieron 16 (dieciséis) años. 2)'",
+       "replace: 'la pubertad legal' -> 'los 16 (dieciséis) años'",
+       "replace: 'ciento ochenta' -> '180 (ciento ochenta)'",
+       "replace: 'sobredichos.' -> 'sobredichos'"
+      ]
+     },
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0214": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/214)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "insert: '' -> 'y sin perjuicio de la prueba en contrario,'",
+       "replace: 'marido, padre' -> 'otro cónyuge, jurídicamente progenitor'",
+       "insert: '' -> 'por su esposa'",
+       "insert: '' -> 'Las personas legitimadas por la ley, podrán destruir esta presunción acreditando que el vínculo biológico no existe. Exceptúanse de lo dispuesto en el inciso anterior, las personas que están imposibil'"
+      ]
+     }
+    ]
+   },
+   "art-0215": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/215)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "insert: '' -> 'concebida dentro del matrimonio, a'",
+       "replace: 'concebida durante el matrimonio, cuando nace' -> 'nacida'",
+       "replace: 'o' -> 'este y'",
+       "replace: 'la disolución del matrimonio.' -> 'su disolución. Esta presunción es relativa salvo en los casos de acuerdo expreso y escrito bajo las condiciones establecidas en el artículo 214.'"
+      ]
+     }
+    ]
+   },
+   "art-0216": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/216)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'Sin embargo' -> 'Se considera, asimismo, la existencia'",
+       "replace: 'lo dispuesto en' -> 'vínculo filial con'",
+       "replace: 'artículo precedente, el marido' -> 'cónyuge que'",
+       "replace: 'podrá desconocer la paternidad de' -> 'concibió a'",
+       "replace: 'antes' -> 'del otro cónyuge, dentro'",
+       "replace: 'transcurridos' -> 'los'",
+       "insert: '' -> 'siguientes al matrimonio, siempre que aquel haya conocido el embarazo antes'",
+       "insert: '' -> 'contraer matrimonio o haya admitido su relación filiatoria expresa (no se incluye en esta circunstancia el acuerdo expreso referido anteriormente) o tácitamente por cualquier medio inequívoco. Fuera d'",
+       "replace: 'celebración del matrimonio, en los siguientes casos: 1º.- Si el marido tuvo conocimiento' -> 'relación filiatoria con la criatura habida por su cónyuge,'",
+       "replace: 'la preñez antes del matrimonio. 2º.- Si se probase que, estando presente, consintió' -> 'lo'",
+       "replace: 'expresara su apellido en la partida de nacimiento o bautismo. 3º.-' -> 'le dará conocimiento a este.'",
+       "replace: 'criatura no ha nacido viable, esto es, de vida y que haya vivido veinticuatro horas naturales.' -> 'madre se opusiera surgirá el contradictorio.'"
+      ]
+     }
+    ]
+   },
+   "art-0217": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/217)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'El marido' -> 'La presunción de existencia de relación filiatoria del cónyuge no concibiente que se configura conforme a lo dispuesto por los artículos 214, 215 y 216 de este Código,'",
+       "replace: 'desconocer la criatura, si prueba' -> 'ser libremente impugnada por el mismo, el hijo o los herederos de uno u otro, dentro de los plazos y en las condiciones'",
+       "replace: 'durante el tiempo transcurrido desde el tricentésimo día, hasta el centésimo octogésimo, antes del nacimiento' -> 'se disponen en los artículos siguientes con excepción'",
+       "replace: 'esa criatura, le era físicamente imposible tener acceso con su mujer.' -> 'los casos en que exista acuerdo expreso y escrito como lo disponen los artículos 214 y siguientes de este Código.'"
+      ]
+     }
+    ]
+   },
+   "art-0218": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/218)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'No podrá el marido desconocer la criatura, alegando su impotencia natural. Tampoco podrá desconocerla por causa de adulterio, aunque sea confesado por la mujer, a menos que el nacimiento le haya sido ' -> 'El cónyuge'",
+       "replace: 'es hijo suyo.' -> 'concibió podrá ejercer la acción de desconocimiento de relación filiatoria a efectos de impugnar la presunción de legitimidad que hubiera surgido, dentro del plazo de un año contado desde que tomó con'"
+      ]
+     }
+    ]
+   },
+   "art-0219": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/219)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "insert: '' -> 'Hallándose el hijo en posesión del estado filiatorio legítimo, tenga o no su título, podrá impugnar la presunción de existencia de relación filiatoria durante su minoría de edad actuando debidamente r'",
+       "insert: '' -> 'caso de fallecer el hijo dentro del plazo hábil para interponer la demanda de impugnación de la relación filiatoria o durante su minoría de edad sin haberla interpuesto, la acción podrá ser ejercida p'",
+       "replace: 'casos' -> 'herederos'",
+       "replace: 'divorcio, separación de cuerpos' -> 'este dentro del plazo que aquel contaba. Todo esto sin perjuicio del derecho del hijo o sus herederos a conocer su ascendencia biológica en cualquier momento'",
+       "replace: 'nulidad de matrimonio,' -> 'a esos solos efectos, aun existiendo'",
+       "replace: 'marido podrá desconocer la criatura nacida trescientos días después que se realizó de hecho la separación provisoria, conforme al' -> 'acuerdo referido en el'",
+       "replace: '154 o la definitiva por sentencia que cause ejecutoria. Pero, en tal caso, podrán proponerse todos los hechos conducentes a probar la paternidad del marido.' -> '214.'"
+      ]
+     }
+    ]
+   },
+   "art-0220": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/220)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "insert: '' -> 'De faltar la posesión de estado de filiación legítima aun cuando exista su título, la acción de desconocimiento de existencia de relación filiatoria podrá ser intentada indistintamente por cualquiera '",
+       "insert: '' -> 'este artículo,'",
+       "replace: 'marido tiene derecho para desconocer' -> 'artículo 219 y el inciso cuarto del artículo 227, en'",
+       "replace: 'criatura, deberá hacerlo' -> 'redacción dada por el artículo 28 de la Ley Nº 17.823, de 7 de setiembre de 2004, se refieren a posesión de estado, no se requiere el transcurso del tiempo reclamado por el artículo 47 de este Código.'",
+       "replace: 'juicio, dentro' -> 'el estado civil'",
+       "replace: 'dos meses contados desde que tuvo noticia' -> 'hijo natural'",
+       "replace: 'nacimiento de aquélla.' -> 'demandante.'"
+      ]
+     }
+    ]
+   },
+   "art-0221": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/221)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'Si' -> 'El proceso no será válidamente entablado si no intervienen en'",
+       "replace: 'marido muere antes' -> 'mismo, en calidad'",
+       "replace: 'hacer' -> 'sujetos activos o pasivos, en'",
+       "replace: 'reclamación, pero dentro del término hábil para deducirla, sus herederos tendrán cuatro meses para interponer' -> 'caso, el cónyuge no concibiente,'",
+       "replace: 'demanda, negando la paternidad del difunto. Este término comenzará desde el día en que' -> 'madre y'",
+       "delete: 'haya sido puesto en posesión' -> ''",
+       "replace: 'los bienes del marido. La acción se dirigirá en este caso y en el del artículo anterior, contra un curador ad hoc dado al hijo, si fuese menor. La madre será citada, pero no obligada a parecer en el j' -> 'esta.'"
+      ]
+     }
+    ]
+   },
+   "art-0261": {
+    "laws": [
+     "Ley Nº 18.214"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/261)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-01-10",
+      "laws": [
+       "ley-18214"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0280": {
+    "laws": [
+     "Ley Nº 16.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/280)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1995-10-29",
+      "laws": [
+       "ley-16719"
+      ],
+      "diff": [
+       "replace: 'que se' -> 'sin perjuicio de lo dispuesto en el Título <i>Del Matrimonio</i>. Se'",
+       "insert: '' -> 'la mayor edad'",
+       "replace: 'veintiún' -> 'dieciocho'",
+       "replace: '4º.- Por la emancipación' -> 'Los menores'",
+       "replace: 'los padres otorguen' -> 'contrajeran matrimonio con anterioridad'",
+       "delete: 'hijos mayores de' -> ''",
+       "replace: 'años. **La supresión' -> 'años (inciso primero'",
+       "replace: 'inc. 3º del numeral 2º surge del art. 1º de la Ley 10.783 de 18/9/46.' -> 'artículo 91 requerirán autorización judicial para realizar los actos a que refieren los artículos 309 y 310 hasta que hayan cumplido dicha edad.'"
+      ]
+     }
+    ]
+   },
+   "art-0284": {
+    "laws": [
+     "Ley Nº 19.580"
+    ],
+    "earliest_text": "the later text without the items this law added: Numeral 4º)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-01-19",
+      "laws": [
+       "ley-19580"
+      ],
+      "diff": [
+       "insert: '' -> '4º.- Si fuesen condenados por femicidio, consumado o en grado de tentativa, respecto a la madre de sus hijos.'"
+      ]
+     }
+    ]
+   },
+   "art-0384": {
+    "laws": [
+     "Ley Nº 18.214"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/384)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-01-10",
+      "laws": [
+       "ley-18214"
+      ],
+      "diff": [
+       "delete: 'El menor debe obediencia y respeto al tutor y éste podrá corregirlo moderadamente. Si no bastase la corrección moderada, deberá exponerlo verbalmente al Juez, que podrá en este caso, adoptar la medida' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0432": {
+    "laws": [
+     "Ley Nº 17.535"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/432)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2002-09-06",
+      "laws": [
+       "ley-17535"
+      ],
+      "diff": [
+       "replace: 'general, cuando fueren incapaces,' -> 'general'",
+       "insert: '' -> 'incapaces'",
+       "replace: 'edad y' -> 'edad. Hállanse en este caso'",
+       "replace: 'menores emancipados o habilitados. Los demás menores púberes podrán ser declarados incapaces, pero permanecerán sujetos a patria potestad o tutela, según corresponda. Son incapaces los dementes' -> 'dementes,'",
+       "replace: 'los sordomudos' -> 'las personas sordomudas'",
+       "replace: 'escrito.' -> 'escrito ni mediante lengua de señas según lo establecido en la Ley Nº 17.378, de 25 de julio de 2001. En este último caso, la intervención de intérprete de lengua de señas será preceptiva para decidir'"
+      ]
+     }
+    ]
+   },
+   "art-0809": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/809)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "delete: 'Los que no tengan domicilio en el Departamento.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0865": {
+    "laws": [
+     "Ley Nº 17.703"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/865)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2003-11-26",
+      "laws": [
+       "ley-17703"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0866": {
+    "laws": [
+     "Ley Nº 17.703"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/866)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2003-11-26",
+      "laws": [
+       "ley-17703"
+      ],
+      "diff": [
+       "replace: 'Quedan comprendidas' -> 'Serán nulas'",
+       "replace: 'prohibición del artículo anterior: 1º.- La disposición por la' -> 'sustitución fideicomisaria las cláusulas'",
+       "replace: 'se declare' -> 'dispongan: 1º. Declarar'",
+       "replace: 'toda' -> 'todo'",
+       "replace: '2º.- Aquella por la que es llamado' -> '2º. Llamar a'",
+       "replace: '3º.-' -> '3º.'",
+       "replace: 'bajo cualquier nombre o forma,' -> 'sin cumplir los requisitos previstos por la ley de fideicomiso,'",
+       "replace: 'testador. (783).' -> 'testador (artículo 783).'"
+      ]
+     }
+    ]
+   },
+   "art-1025": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1025)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'legítimos o naturales éstos' -> 'estos'",
+       "replace: 'marido o a la mujer' -> 'cónyuge'"
+      ]
+     }
+    ]
+   },
+   "art-1031": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1031)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: '<i>ab intestato</i>' -> 'abintestato'",
+       "replace: 'mujer o marido,' -> 'cónyuge,'"
+      ]
+     }
+    ]
+   },
+   "art-1075": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1075)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'Escribano del domicilio del repudiante o del difunto.' -> 'Escribano.'"
+      ]
+     }
+    ]
+   },
+   "art-1112": {
+    "laws": [
+     "Ley Nº 20.021"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1112)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2022-01-15",
+      "laws": [
+       "ley-20021"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1150": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1150)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'treinta' -> 'veinte'",
+       "replace: 'poseyeren' -> 'poseyeran'",
+       "replace: 'herencia' -> 'herencia,'"
+      ]
+     }
+    ]
+   },
+   "art-1194": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1194)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'Estado,' -> 'Estado y los Gobiernos Departamentales'",
+       "delete: 'susceptibles' -> ''",
+       "insert: '' -> 'con excepción de las tierras públicas,'",
+       "replace: 'El' -> 'Con respecto a las tierras públicas que un'",
+       "replace: 'de un campo u otro terreno que ha' -> 'hubiere'",
+       "replace: 'causantes,' -> 'causantes'",
+       "replace: 'singular,' -> 'singular'",
+       "replace: 'treinta' -> 'veinte'",
+       "replace: 'estará' -> 'estarán'",
+       "insert: '' -> 'con'",
+       "insert: '' -> 'demás'",
+       "replace: 'por' -> 'en'"
+      ]
+     }
+    ]
+   },
+   "art-1204": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1204)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "insert: '' -> 'los'",
+       "delete: 'entre presentes y veinte entre ausentes,' -> ''",
+       "replace: 'título. (Artículo' -> 'título (artículo'"
+      ]
+     }
+    ]
+   },
+   "art-1205": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1205)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1206": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1206)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'tiempo' -> 'término'",
+       "replace: 'aquel' -> 'aquél'",
+       "delete: '(Artículos 646 y 647).' -> ''",
+       "delete: 'de' -> ''",
+       "replace: 'aquél,' -> 'aquel,'",
+       "insert: '' -> 'Este artículo no es aplicable a los supuestos de los artículos 1211 y 1214 de este Código. En los casos de estos artículos, el poseedor actual puede completar el tiempo necesario para la prescripción '"
+      ]
+     }
+    ]
+   },
+   "art-1211": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1211)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'treinta' -> 'veinte'",
+       "delete: 'bien sea entre presentes o entre ausentes,' -> ''",
+       "replace: 'necesidad, por' -> 'necesidad de'",
+       "replace: 'fe:' -> 'fe,'",
+       "replace: 'por' -> 'en'"
+      ]
+     }
+    ]
+   },
+   "art-1215": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1215)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'treinta' -> 'veinte'",
+       "delete: 'sin distinción entre presentes y ausentes;' -> ''",
+       "insert: '' -> 'numeral 5) del'",
+       "delete: 'número 5' -> ''",
+       "delete: 'En cuanto a la hipoteca, se estará a lo dispuesto en el Título respectivo del Libro Cuarto.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-1216": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1216)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'veinte' -> 'diez'",
+       "delete: 'las' -> ''",
+       "replace: 'comienza' -> 'comenzará'",
+       "replace: 'sea' -> 'es'"
+      ]
+     }
+    ]
+   },
+   "art-1217": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1217)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'diez' -> 'cinco'",
+       "insert: '' -> 'inciso segundo del'",
+       "replace: 'diez' -> 'cinco'",
+       "replace: 'deudor' -> 'deudor,'"
+      ]
+     }
+    ]
+   },
+   "art-1231": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1231)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1243": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1243)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'tres,' -> 'tres y'",
+       "delete: 'y veinte' -> ''",
+       "replace: '1216' -> '1216)'",
+       "replace: '1º.-' -> '1)'",
+       "replace: 'menores, de los dementes, de los sordomudos y de todos los que están bajo patria potestad' -> 'incapaces absolutos'",
+       "replace: 'bajo tutela o curaduría. (Artículo 405). 2º.-' -> 'relativos. 2)'"
+      ]
+     }
+    ]
+   },
+   "art-1244": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1244)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'treinta' -> 'veinte'",
+       "delete: 'DEROGADO el inc. 2o. por el art. 1o. de la Ley No. 10.783 del 18.9.46.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-1279": {
+    "laws": [
+     "Ley Nº 17.535"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1279)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2002-09-06",
+      "laws": [
+       "ley-17535"
+      ],
+      "diff": [
+       "replace: 'incapaces,' -> 'incapaces'",
+       "replace: 'los sordomudos' -> 'las personas sordomudas'",
+       "replace: 'pueden' -> 'puedan'",
+       "replace: 'escrito. Sus' -> 'escrito ni mediante lengua de señas, según lo establecido en la Ley Nº 17.378, de 25 de julio de 2001. En este último caso la intervención del intérprete de lengua de señas es preceptiva para decidir '",
+       "insert: '' -> 'en que intervengan personas incapaces'"
+      ]
+     }
+    ]
+   },
+   "art-1561": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1561)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'invalidaba; puede asimismo' -> 'invalida, asimismo,'",
+       "replace: 'ley;' -> 'ley,'",
+       "replace: 'subsanarse por la ratificación de las partes ni por un lapso que no pase de treinta años.' -> 'subsanarse.'"
+      ]
+     }
+    ]
+   },
+   "art-1569": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1569)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'la' -> 'su'",
+       "replace: 'treinta' -> 'veinte'"
+      ]
+     }
+    ]
+   },
+   "art-1639": {
+    "laws": [
+     "Ley Nº 20.021"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1639)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2022-01-15",
+      "laws": [
+       "ley-20021"
+      ],
+      "diff": [
+       "replace: 'de' -> '<i>de'",
+       "replace: 'forzosos' -> 'forzosos</i>'",
+       "replace: 'estos' -> 'éstos'",
+       "insert: '' -> 'La acción de reducción de donaciones inoficiosas, sólo alcanzará al donatario y a sus sucesores a título universal, sin perjuicio de lo dispuesto en el artículo 1640 inciso segundo.'"
+      ]
+     }
+    ]
+   },
+   "art-1640": {
+    "laws": [
+     "Ley Nº 20.021"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1640)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2022-01-15",
+      "laws": [
+       "ley-20021"
+      ],
+      "diff": [
+       "delete: '(Artículo 1112).' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-1782": {
+    "laws": [
+     "Ley Nº 17.555",
+     "Ley Nº 18.666",
+     "Ley Nº 19.438",
+     "Ley Nº 20.075",
+     "Ley Nº 20.446"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1782)",
+    "intermediate": {
+     "Ley Nº 18.666": "unknown: change shown later",
+     "Ley Nº 19.438": "the wording Ley Nº 18.666 art. 1 gives it (IMPO original)",
+     "Ley Nº 20.075": "the wording Ley Nº 19.438 art. 63 gives it (IMPO original)",
+     "Ley Nº 20.446": "the earlier text with Inciso 4º) as Ley Nº 20.075 art. 245 adds it"
+    },
+    "steps": [
+     {
+      "day": "2010-08-05",
+      "laws": [
+       "ley-17555",
+       "ley-18666"
+      ],
+      "diff": [
+       "replace: 'agua,' -> 'agua o la generación de energía eléctrica,'",
+       "replace: 'del' -> 'de'",
+       "insert: '' -> 'los incisos segundo y tercero del artículo 2328. Exceptúase, asimismo, el arrendamiento de inmuebles con destino a forestación de acuerdo a lo preceptuado por'",
+       "replace: '2328 incisos 2º y 3º.' -> '5º de la Ley Nº 15.939, de 28 de diciembre de 1987, cuyo plazo máximo será de treinta años. El que se hiciere por mayor tiempo caducará a los treinta años'"
+      ]
+     },
+     {
+      "day": "2017-01-01",
+      "laws": [
+       "ley-19438"
+      ],
+      "diff": [
+       "replace: 'o' -> 'y'",
+       "insert: '' -> 'agua, canales de conducción y distribución de'",
+       "insert: '' -> 'para riego'",
+       "delete: 'un' -> ''",
+       "replace: '2328.' -> '2328 de este Código.'",
+       "insert: '' -> 'y aquellos con destino a árboles frutales,'"
+      ]
+     },
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "insert: '' -> 'Exceptúase el arrendamiento de aquellos inmuebles que tengan como destino predios o talleres logísticos ferroviarios en cuyo caso el plazo máximo será de treinta años. El que se hiciere por más tiempo'"
+      ]
+     },
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20446"
+      ],
+      "diff": [
+       "delete: 'de quince años. El que se hiciere por más tiempo caducará a los quince años. Exceptúase el arrendamiento de aquellos inmuebles que tengan como destino predios o talleres logísticos ferroviarios en cuy' -> ''",
+       "replace: 'años' -> 'años.'",
+       "replace: 'treinta' -> 'cuarenta y cinco'",
+       "replace: 'treinta' -> 'cuarenta y cinco'",
+       "replace: 'treinta' -> 'cuarenta y cinco'",
+       "replace: 'treinta años' -> 'cuarenta y cinco años. Exceptúase el arrendamiento de aquellos inmuebles que tengan como destino predios o talleres logísticos ferroviarios en cuyo caso el plazo máximo será de cuarenta y cinco años. '"
+      ]
+     }
+    ]
+   },
+   "art-1844": {
+    "laws": [
+     "Ley Nº 19.726"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1844)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-01-13",
+      "laws": [
+       "ley-19726"
+      ],
+      "diff": [
+       "replace: 'arquitecto' -> 'arquitecto, el ingeniero, el constructor'",
+       "insert: '' -> 'destinado por su naturaleza a tener larga duración,'",
+       "replace: 'años, si aquel se arruina' -> 'años por los defectos o vicios que, ya sea'",
+       "replace: 'parte' -> 'parte, afecten su estabilidad o solidez o lo hagan impropio para el uso pactado expresa o tácitamente o para el uso a que normalmente se destina,'",
+       "insert: '' -> 'del suelo,'",
+       "replace: 'vicio del suelo' -> 'una incorrecta dirección de la obra, por defectos de cálculo'",
+       "replace: 'propietario' -> 'comitente'",
+       "replace: 'cualquiera' -> 'cualquier'",
+       "replace: 'contrario.' -> 'contrario, siendo esta disposición de orden público.'",
+       "replace: 'término' -> 'arquitecto, el ingeniero, el constructor y el empresario solo se exonerarán de la responsabilidad regulada por el presente artículo si acreditan que el vicio o defecto se produjo por causa extraña que'",
+       "insert: '' -> 'cualquier causa no imputable a los sujetos indicados. La responsabilidad de que tratan los incisos precedentes se contrae no solo respecto del comitente, sino también de los sucesivos adquirentes del '",
+       "replace: 'es de dichos diez años contados' -> 'son los indicados en los incisos precedentes y se cuentan'",
+       "replace: 'entrega; pero una' -> 'recepción de la obra. Una'",
+       "replace: 'vicio, dura el tiempo ordinario de las acciones personales. La disposición del primer inciso se entiende salvo la prueba en contrario que haga el arquitecto' -> 'vicio'",
+       "replace: 'empresario. (Artículo 1327).' -> 'defecto, prescribe a los cuatro años.'"
+      ]
+     }
+    ]
+   },
+   "art-1946": {
+    "laws": [
+     "Ley Nº 20.443"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1946)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20443"
+      ],
+      "diff": [
+       "replace: 'aquellas personas cuyo consentimiento es necesario' -> 'sus representantes legales. A falta de dicha asistencia, el menor podrá solicitar la autorización judicial'",
+       "replace: 'contraer matrimonio.' -> 'el otorgamiento.'"
+      ]
+     }
+    ]
+   },
+   "art-1952": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1952)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "delete: 'al marido o' -> ''",
+       "replace: 'la mujer,' -> 'cualquiera de los cónyuges,'"
+      ]
+     }
+    ]
+   },
+   "art-1954": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1954)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'marido o mujer,' -> 'sea cual fuere de los cónyuges,'"
+      ]
+     }
+    ]
+   },
+   "art-1955": {
+    "laws": [
+     "Ley Nº 19.075",
+     "Ley Nº 19.119"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1955)",
+    "intermediate": {
+     "Ley Nº 19.119": "the wording Ley Nº 19.075 art. 18 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: '1º.- Los adquiridos' -> '1º) Todas las deudas y obligaciones contraídas durante la vigencia del régimen de la sociedad legal de bienes'",
+       "replace: 'título oneroso durante el matrimonio a costa del caudal común, bien se haga la adquisición para la comunidad o para uno solo' -> 'cualquiera'",
+       "replace: 'ellos. 2º.-' -> 'los cónyuges. 2º)'",
+       "replace: '3º.-' -> '3º)'",
+       "replace: 'apuesta, etc. 4º.-' -> 'apuestas y similares. 4º)'",
+       "replace: 'el matrimonio,' -> 'la vigencia del régimen de la sociedad legal de bienes,'",
+       "replace: '5º.-' -> '5º)'",
+       "replace: '6º.-' -> '6º)'",
+       "replace: '<i>de valor</i>' -> 'de valor'",
+       "delete: 'del marido o' -> ''",
+       "replace: 'la mujer.' -> 'cualquiera de ellos.'",
+       "replace: 'el matrimonio,' -> 'la vigencia del régimen de la sociedad legal de bienes,'",
+       "replace: 'pertenecía.' -> 'pertenecía'"
+      ]
+     },
+     {
+      "day": "2013-08-24",
+      "laws": [
+       "ley-19119"
+      ],
+      "diff": [
+       "replace: 'Todas las deudas y obligaciones contraídas' -> 'Los adquiridos por título oneroso'",
+       "delete: 'la vigencia del régimen de' -> ''",
+       "replace: 'por cualquiera' -> 'a costa del caudal común, bien se haga la adquisición para la comunidad o para uno solo'",
+       "replace: 'los cónyuges.' -> 'ellos.'",
+       "replace: 'pertenecía' -> 'pertenecía.'"
+      ]
+     }
+    ]
+   },
+   "art-1964": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1964)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "delete: 'al marido o' -> ''",
+       "replace: 'la mujer,' -> 'uno de ellos con anterioridad'",
+       "replace: 'adquirió' -> 'hubiera adquirido'"
+      ]
+     }
+    ]
+   },
+   "art-1965": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1965)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: '1º.-' -> '1º)'",
+       "replace: 'el matrimonio' -> 'la vigencia del régimen de la sociedad legal de bienes'",
+       "replace: '2º.-' -> '2º)'",
+       "replace: 'el matrimonio,' -> 'la vigencia del régimen de la sociedad legal de bienes,'",
+       "replace: '3º.-' -> '3º)'",
+       "replace: 'el matrimonio' -> 'la vigencia del régimen de la sociedad legal de bienes'",
+       "delete: 'del marido o' -> ''",
+       "replace: 'la mujer.' -> 'cualquiera de los cónyuges.'",
+       "replace: '4º.-' -> '4º)'",
+       "replace: '5º.-' -> '5º)'",
+       "delete: 'legítimos' -> ''",
+       "replace: 'Asimismo se tendrá como carga de la familia los alimentos que uno de los cónyuges está por ley obligado a dar a sus ascendientes. 6º.-' -> '6º)'",
+       "replace: '7º.-' -> '7º)'",
+       "replace: 'apuestas, etc.' -> 'apuestas y similares.'"
+      ]
+     }
+    ]
+   },
+   "art-1966": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1966)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'el marido o' -> 'cualquiera de los cónyuges antes de'",
+       "replace: 'mujer antes' -> 'vigencia'",
+       "replace: 'matrimonio,' -> 'régimen de la sociedad legal de bienes'",
+       "delete: 'se' -> ''",
+       "insert: '' -> 'DEROGADO el inc. 3o. en virtud del art. 4o. Ley 10.783 de 18.9.46'"
+      ]
+     }
+    ]
+   },
+   "art-1968": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1968)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'precio' -> 'precio,'",
+       "replace: 'reajustables' -> 'reajustables,'",
+       "delete: 'del marido o' -> ''",
+       "replace: 'la mujer,' -> 'alguno de los cónyuges'"
+      ]
+     }
+    ]
+   },
+   "art-1994": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/1994)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'el marido y la mujer' -> 'los cónyuges'"
+      ]
+     }
+    ]
+   },
+   "art-2003": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2003)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'colación' -> 'colación,'",
+       "replace: 'la mujer y del marido.' -> 'los cónyuges.'",
+       "replace: 'colación,' -> 'colación'"
+      ]
+     }
+    ]
+   },
+   "art-2010": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2010)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'marido y mujer' -> 'los cónyuges o excónyuges'"
+      ]
+     }
+    ]
+   },
+   "art-2011": {
+    "laws": [
+     "Ley Nº 19.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2011)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2013-08-01",
+      "laws": [
+       "ley-19075"
+      ],
+      "diff": [
+       "replace: 'marido' -> 'cónyuge fallecido'",
+       "replace: 'de la viuda. (Artículo 2369, número 2º).' -> 'del cónyuge supérstite.'"
+      ]
+     }
+    ]
+   },
+   "art-2086": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2086)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": [
+       "delete: 'Por la quiebra o insolvencia del uno o del otro.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-2359": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2359)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2360": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2360)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2361": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2361)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2362": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2362)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2363": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2363)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2364": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2364)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2365": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2365)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2366": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2366)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2367": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2367)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2368": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2368)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2369": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2369)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2370": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2370)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2371": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2371)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2372": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2372)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": [
+       "delete: 'La ley no reconoce otras causas de preferencia que la prenda, la hipoteca y los privilegios.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-2373": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2373)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2374": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2374)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2375": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2375)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2376": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2376)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2377": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2377)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2378": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2378)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2379": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2379)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2380": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2380)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2381": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2381)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2382": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2382)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2383": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2383)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2384": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2384)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2385": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2385)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2386": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2386)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2387": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2387)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2388": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2388)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2389": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/16603-1994/2389)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2393": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2394": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2395": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2396": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2397": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2398": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2399": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2400": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2401": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2402": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2403": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-2404": {
+    "laws": [
+     "Ley Nº 19.920"
+    ],
+    "earliest_text": "the text IMPO still prints for the repealed article",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-03-16",
+      "laws": [
+       "ley-19920"
+      ],
+      "diff": "removed"
+     }
+    ]
+   }
+  },
+  "last_version_equals_impo": true
  }
 }

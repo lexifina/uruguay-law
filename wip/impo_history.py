@@ -129,6 +129,11 @@ def plus_days(day: str, n: int) -> str:
 
 
 VIGENCIA = re.compile(r'regir[áa] a partir del? (?:d[íi]a )?(\d+)[º°]? de (\w+) de (\d{4})', re.I)
+NUMBERS = {'diez': 10, 'quince': 15, 'veinte': 20, 'treinta': 30, 'sesenta': 60, 'noventa': 90,
+           'ciento veinte': 120, 'ciento ochenta': 180}
+RELATIVE = re.compile(r'entrar[áa] en (?:vigencia|vigor) (?:a los )?(\d+|diez|quince|veinte|treinta|sesenta|noventa|'
+                      r'ciento veinte|ciento ochenta)(?: \([a-z ]+\))? días (?:de|después de) su '
+                      r'(promulgación|publicación)', re.I)
 MONTHS = {'enero': 1, 'febrero': 2, 'marzo': 3, 'abril': 4, 'mayo': 5, 'junio': 6, 'julio': 7, 'agosto': 8,
           'setiembre': 9, 'septiembre': 9, 'octubre': 10, 'noviembre': 11, 'diciembre': 12}
 
@@ -136,17 +141,23 @@ MONTHS = {'enero': 1, 'febrero': 2, 'marzo': 3, 'abril': 4, 'mayo': 5, 'junio': 
 def in_force(header: dict, vigencia_text: str | None) -> tuple[str, str]:
     """(in-force day, how it was found) for a law, from its own vigencia article or the default rule."""
     if vigencia_text:
-        m = VIGENCIA.search(re.sub(r'\s+', ' ', vigencia_text))
+        t = re.sub(r'\s+', ' ', vigencia_text)
+        m = VIGENCIA.search(t)
         if m:
             return (f'{m.group(3)}-{MONTHS[m.group(2).lower()]:02d}-{int(m.group(1)):02d}',
                     f'its vigencia article: "{m.group(0)}"')
+        m = RELATIVE.search(t)
+        if m:
+            n = int(m.group(1)) if m.group(1).isdigit() else NUMBERS[m.group(1).lower()]
+            ref = 'fechaPromulgacion' if m.group(2).lower().startswith('promulga') else 'fechaPublicacion'
+            return plus_days(ddmmyyyy(header[ref]), n), f'its vigencia article: "{m.group(0)}"'
     pub = ddmmyyyy(header['fechaPublicacion'])
     return plus_days(pub, 10), f'published {pub}; Código Civil art. 1: ten days after publication'
 
 
 # ---------------------------------------------------------------- items
 
-ITEM = re.compile(r"^(?:(\d+)\s?[º°o]?|([A-ZÑa-zñ]))\)")
+ITEM = re.compile(r"^(?:(\d+)\s?[º°o]?[).]|([A-ZÑa-zñ])\))")
 
 
 def scope_marker(scope: str) -> str | None:
@@ -164,15 +175,34 @@ def quoted_article(law_text: str, art: str, width: int) -> list[str] | None:
     """The new wording an amending article gives to article `art`: the quoted block that opens with
     "ARTICULO <art>." (IMPO's original of the amending law)."""
     t = law_text.replace('\r\n', '\n')
-    m = re.search(r'"\s*ART[IÍ]CULO\s+' + art + r'[º°]?\.?\s*-?\s*', t)
-    if not m:
+    m = re.search(r'"?\s*ART[IÍ]CULO\s+' + art + r'(?!\d)[º°]?\.?\s*-?\s*', t)
+    if not m or '"' not in t[:m.start() + 1]:
         return None
     rest = t[m.end():]
-    end = re.search(r'"\s*(?:\.|\n\s*\n|$)', rest)
+    end = re.search(r'"\s*(?:\.|\n\s*\n|$)|\n\s*ART[IÍ]CULO\s+\d+', rest)   # the quote closes, or the next article
     body = rest[:end.start()] if end else rest
     if re.match(r'Inciso', body.strip()):
         return None                 # only one inciso is quoted
     return impo_paragraphs(body, width)
+
+
+def inciso_no(scope: str) -> int | None:
+    m = re.fullmatch(r'Inciso (\d+)[º°]?\)?', scope.strip())
+    return int(m.group(1)) if m else None
+
+
+def top_level_index(paras: list[str], n: int) -> int | None:
+    """Where inciso n goes: the index of the n-th paragraph that is not an item, or the end."""
+    tops = [i for i, p in enumerate(paras) if not ITEM.match(p)]
+    if n - 1 < len(tops):
+        return tops[n - 1]
+    return len(paras) if n - 1 == len(tops) else None
+
+
+def quoted_paragraphs(law_text: str, width: int) -> list[str] | None:
+    """The one quoted passage of an amending article ("… el siguiente inciso: "…"")."""
+    quotes = re.findall(r'"\s*(.*?)"', law_text.replace('\r\n', '\n'), re.S)
+    return impo_paragraphs(quotes[0], width) if len(quotes) == 1 else None
 
 
 def quoted_item(law_text: str, marker: str, width: int) -> str | None:
@@ -362,6 +392,23 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
             if texts[j] is not UNKNOWN or texts[j - 1] in (None, UNKNOWN):
                 continue
             lev = [e for e in evs if e.law == order[j - 1]]
+            if lev and all(e.kind in ('added', 'added-earlier') and inciso_no(e.scope) for e in lev):
+                # an earlier law that added incisos ("Agrégase … el siguiente inciso: "…""): insert the quoted
+                # inciso at the place IMPO's note gives
+                t = list(texts[j - 1])
+                for e in sorted(lev, key=lambda e: inciso_no(e.scope)):
+                    o = load_cached(law_path(e.law, e.year, e.art, original=True))
+                    q = quoted_paragraphs(o['textoArticulo'], width) if o else None
+                    pos = top_level_index(t, inciso_no(e.scope))
+                    if not q or pos is None:
+                        t = None
+                        break
+                    t[pos:pos] = q
+                if t is not None:
+                    texts[j] = t
+                    how_built[j] = 'the earlier text with ' + ', '.join(
+                        f'{e.scope} as {law_label(e.law)} art. {e.art} adds it' for e in lev)
+                continue
             if not lev or not all(e.kind in ('wording', 'wording-earlier') and scope_marker(e.scope) for e in lev):
                 continue
             t = list(texts[j - 1])
