@@ -109,6 +109,10 @@ def impo_paragraphs(raw: str, width: int = WRAP) -> list[str]:
             cur.append(line)            # the line before ran on: no sentence end, and the next word did not fit
             if cont is None:
                 cont = ind
+                if marker:
+                    seen.add(ind)
+                    if ind > stack[-1]:
+                        stack.append(ind)
         elif cont is None and marker:
             cont = ind
             seen.add(ind)

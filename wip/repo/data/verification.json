@@ -1431,17 +1431,16 @@
        "ley-20443"
       ],
       "diff": [
-       "replace: '1º. Ser' -> '1º.Ser'",
        "insert: '' -> 'dieciocho años de edad o tener'",
-       "replace: '2º.- La' -> 'y no contar, en este último caso, con previa autorización judicial. El juez competente, con citación del o de los representantes legales del adolescente, analizará el grado de evolución de sus faculta'",
+       "replace: '2º.-' -> 'y no contar, en este último caso, con previa autorización judicial. El juez competente, con citación del o de los representantes legales del adolescente, analizará el grado de evolución de sus faculta'",
        "insert: '' -> 'libre'",
        "insert: '' -> 'El matrimonio celebrado en ausencia de consentimiento no tendrá efecto alguno.'",
        "insert: '' -> 'ni por lengua de señas'",
        "insert: '' -> 'judicialmente'",
-       "replace: 'La comprobación se hará por informe médico aprobado judicialmente. 3º.- El' -> '3º.El'",
-       "replace: '4º.- El' -> '4º.El'",
-       "replace: '5º.- En' -> '5º.En'",
-       "replace: '6º.- El homicidio,' -> '6º.La condena por homicidio doloso o ultraintencional, su'",
+       "replace: 'La comprobación se hará por informe médico aprobado judicialmente. 3º.-' -> '3º.'",
+       "replace: '4º.-' -> '4º.'",
+       "replace: '5º.-' -> '5º.'",
+       "replace: '6º.- El homicidio,' -> '6º. La condena por homicidio doloso o ultraintencional, su'",
        "replace: 'complicidad en el homicidio' -> 'complicidad,'",
        "delete: '7º.- La falta de consagración religiosa, cuando ésta se hubiere estipulado como condición resolutoria en el contrato y se reclamase el cumplimiento de ella en el mismo día de la celebración del matrim' -> ''"
       ]
@@ -1524,13 +1523,11 @@
        "replace: 'denuncia' -> 'denuncia,'",
        "replace: 'habiendo aparecido' -> 'habiéndose presentado'",
        "replace: 'del' -> 'de'",
-       "replace: '<i>pro tribunali</i>,' -> 'pro tribunali,'",
        "replace: 'testigos,' -> 'testigos'",
-       "replace: 'novio, <i>de' -> 'contrayente,'",
-       "replace: 'ser marido y mujer</i>.' -> 'unirse en matrimonio civil.'",
+       "replace: 'novio, de' -> 'contrayente,'",
+       "replace: 'ser marido y mujer.' -> 'unirse en matrimonio civil.'",
        "replace: 'del' -> 'de'",
-       "replace: '<i>a' -> 'a'",
-       "replace: 'legítimo</i>;' -> 'legítimo,'"
+       "replace: 'legítimo;' -> 'legítimo,'"
       ]
      }
     ]
@@ -2368,7 +2365,7 @@
        "ley-16719"
       ],
       "diff": [
-       "replace: 'que se' -> 'sin perjuicio de lo dispuesto en el Título <i>Del Matrimonio</i>. Se'",
+       "replace: 'que se' -> 'sin perjuicio de lo dispuesto en el Título Del Matrimonio. Se'",
        "insert: '' -> 'la mayor edad'",
        "replace: 'veintiún' -> 'dieciocho'",
        "replace: '4º.- Por la emancipación' -> 'Los menores'",
@@ -2530,7 +2527,7 @@
        "ley-19075"
       ],
       "diff": [
-       "replace: '<i>ab intestato</i>' -> 'abintestato'",
+       "replace: 'ab intestato' -> 'abintestato'",
        "replace: 'mujer o marido,' -> 'cónyuge,'"
       ]
      }
@@ -2896,8 +2893,6 @@
        "ley-20021"
       ],
       "diff": [
-       "replace: 'de' -> '<i>de'",
-       "replace: 'forzosos' -> 'forzosos</i>'",
        "replace: 'estos' -> 'éstos'",
        "insert: '' -> 'La acción de reducción de donaciones inoficiosas, sólo alcanzará al donatario y a sus sucesores a título universal, sin perjuicio de lo dispuesto en el artículo 1640 inciso segundo.'"
       ]
@@ -2980,12 +2975,14 @@
        "ley-20446"
       ],
       "diff": [
-       "delete: 'de quince años. El que se hiciere por más tiempo caducará a los quince años. Exceptúase el arrendamiento de aquellos inmuebles que tengan como destino predios o talleres logísticos ferroviarios en cuy' -> ''",
-       "replace: 'años' -> 'años.'",
+       "replace: 'quince' -> 'treinta'",
+       "replace: 'quince' -> 'treinta'",
        "replace: 'treinta' -> 'cuarenta y cinco'",
        "replace: 'treinta' -> 'cuarenta y cinco'",
        "replace: 'treinta' -> 'cuarenta y cinco'",
-       "replace: 'treinta años' -> 'cuarenta y cinco años. Exceptúase el arrendamiento de aquellos inmuebles que tengan como destino predios o talleres logísticos ferroviarios en cuyo caso el plazo máximo será de cuarenta y cinco años. '"
+       "replace: 'treinta años' -> 'cuarenta y cinco años.'",
+       "replace: 'treinta' -> 'cuarenta y cinco'",
+       "replace: 'treinta años' -> 'cuarenta y cinco años.'"
       ]
      }
     ]
@@ -3102,7 +3099,6 @@
        "replace: 'el matrimonio,' -> 'la vigencia del régimen de la sociedad legal de bienes,'",
        "replace: '5º.-' -> '5º)'",
        "replace: '6º.-' -> '6º)'",
-       "replace: '<i>de valor</i>' -> 'de valor'",
        "delete: 'del marido o' -> ''",
        "replace: 'la mujer.' -> 'cualquiera de ellos.'",
        "replace: 'el matrimonio,' -> 'la vigencia del régimen de la sociedad legal de bienes,'",
