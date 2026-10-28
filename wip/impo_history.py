@@ -71,9 +71,13 @@ def parse_notes(html: str) -> tuple[list[Event], list[tuple[str, str, str]]]:
         before = flat[:m.start()]
         scope = re.split(r'(?<=\.)\s|\n', before)[-1].strip()
         scope = scope if re.match(r'(Inciso|Literal|Literales|Numeral|Numerales|Apartado|Párrafo)', scope) else ''
+        kind = KIND[m.group('kind').lower()]
+        # "Ver vigencia: Ley Nº 19.920 … artículo 62 (La Ley Nº 19.920 … artículo 62, derogó la Ley … que agregaba
+        # … los artículos 2393 a 2405)": the article was repealed by that law, though IMPO keeps its text.
+        if kind == 'vigencia' and re.match(r'\s*\([^)]*derog[óo]', flat[m.end():]):
+            kind = 'repealed'
         for r in REF.finditer(m.group('refs')):
-            events.append(Event(KIND[m.group('kind').lower()], scope, r.group('n').replace('.', ''), r.group('y'),
-                                r.group('a')))
+            events.append(Event(kind, scope, r.group('n').replace('.', ''), r.group('y'), r.group('a')))
     originals = [(r.group('n').replace('.', ''), r.group('y'), r.group('a')) for r in REF.finditer(orig)]
     return events, originals
 
@@ -324,6 +328,9 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
             later = texts[j + 1]
             if j == 0 and any(e.kind in ('added', 'added-earlier') and not e.scope for e in lev):
                 texts[0], how_built[0] = None, 'added by this law'
+                continue
+            if all(e.kind == 'repealed' and not e.scope for e in lev) and a.current and j == len(order) - 1:
+                texts[j], how_built[j] = a.current, 'the text IMPO still prints for the repealed article'
                 continue
             if j == 0:
                 href = next((h for h in a.original_hrefs if f'/{base}-' in h), None)
