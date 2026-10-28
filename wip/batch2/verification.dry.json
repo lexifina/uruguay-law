@@ -7140,10 +7140,10 @@
    "absent_between": [
     "Artículo 452: absent from 2008-11-02 (Ley Nº 18.387, \"derogado anteriormente\") until 2013-08-14"
    ],
-   "placeholder": [
-    "Artículo 32: today's wording held back until 2013-08-14 (Ley Nº 19.090)",
-    "Artículo 548: today's wording held back until 1992-01-01 (Ley Nº 16.226)"
+   "added_part_removed": [
+    "Artículo 548: before 1992-01-01, today's text without Apartado ordinal 1º) inciso 2º) (Ley Nº 16.226 art. 327 quotes it)"
    ],
+   "placeholder": [],
    "absent_before": []
   },
   "impo_check": {
