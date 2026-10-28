@@ -901,34 +901,22 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/72)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 7 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Documentos.- 72.1' -> '1.-'",
-       "replace: 'Escribano' -> 'escribano'",
-       "replace: '72.2 Los documentos públicos expedidos en el extranjero deberá presentarse legalizados, salvo excepción establecida por leyes o tratados. 72.3 Todo' -> 'Cuando se presente un'",
-       "replace: 'redactado en idioma extranjero' -> 'a los efectos de su ejecución'",
-       "insert: '' -> 'el original, el cual podrá ser devuelto'",
-       "insert: '' -> 'constancia de'",
-       "replace: 'correspondiente traducción realizada por traductor público, salvo excepción consagrada por leyes o tratados. Pero cuando' -> 'presentación si'",
-       "replace: 'trate de libros o documentos muy extensos, podrá disponerse la traducción sólo de aquella parte que interese' -> 'proporcionare copia para ser agregada'",
-       "replace: 'proceso.' -> 'expediente'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '1.-' -> 'Documentos.- 72.1.'",
-       "replace: 'expediente' -> 'expediente. 72.2 Los documentos públicos expedidos en el extranjero deberán presentarse legalizados, salvo excepción establecida por leyes o tratados. 72.3 Todo documento redactado en idioma extranjer'"
+       "replace: '72.1' -> '72.1.'",
+       "replace: 'Escribano' -> 'escribano'",
+       "insert: '' -> 'Cuando se presente un documento a los efectos de su ejecución deberá acompañarse el original, el cual podrá ser devuelto con constancia de su presentación si se proporcionare copia para ser agregada a'",
+       "replace: 'deberá' -> 'deberán'",
+       "replace: 'sólo' -> 'solo'",
+       "insert: '' -> '72.4 El desglose de documentos requerirá mandato judicial y se realizará en la forma prevista por el inciso segundo del artículo 105.1, pudiendo exigirse la sustitución de la documentación desglosada '"
       ]
      }
     ]
@@ -988,31 +976,20 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/79)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Notificación en el domicilio.- 79.1 Cuando corresponda la notificación en el domicilio, el funcionario o escribano público a quien se cometa la diligencia concurrirá al mismo y si hallara allí a la pe' -> '5.-'",
-       "replace: 'Tribunal,' -> 'tribunal,'",
-       "delete: 'personal' -> ''",
-       "replace: 'Justicia' -> 'Justicias'",
-       "replace: 'notificación.' -> 'notificación'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '5.-' -> 'Notificación en el domicilio.- 79.1 Cuando corresponda la notificación en el domicilio, el funcionario o escribano público a quien se cometa la diligencia concurrirá al mismo y si hallara allí a la pe'",
-       "replace: 'Justicias' -> 'Justicia'",
-       "replace: 'notificación' -> 'notificación.'"
+       "replace: 'de la casa.' -> 'del domicilio.'",
+       "replace: 'ellos,' -> 'ello,'",
+       "replace: 'Tribunal,' -> 'tribunal,'",
+       "delete: 'personal' -> ''"
       ]
      }
     ]
@@ -1948,37 +1925,24 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/185)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 7 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Honorarios de los peritos 185.1 Los honorarios de los peritos serán de cargo de la parte que solicitó la diligencia, sin perjuicio de las condenaciones que imponga la sentencia. 185.2 En los casos en ' -> '3.-'",
-       "replace: 'consignar,' -> 'consignar'",
-       "replace: '185.4 Los honorarios' -> 'El tribunal podrá eximir'",
-       "replace: 'los peritos serán regulados siguiendo' -> 'la previa consignación cuando la parte que solicita'",
-       "replace: 'procedimiento previsto' -> 'peritaje justifique, o ello surja de autos, que carece de medio'",
-       "insert: '' -> 'solventarla; en estos casos, el tribunal podrá encargar'",
-       "replace: 'regulación' -> 'pericia a un técnico en la materia, funcionario'",
-       "replace: 'los honorarios de los abogados, aplicando el arancel pertinente o, en su defecto, la regla prevista en el artículo 1834 del Código Civil.' -> 'un organismo estatal, quien no podrá excusarse'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '3.-' -> 'Honorarios de los peritos.- 185.1 Los honorarios de los peritos serán de cargo de la parte que solicitó la diligencia, sin perjuicio de las condenaciones que imponga la sentencia. 185.2 En los casos e'",
-       "replace: 'gastos, los cuales serán fijados en la sentencia definitiva.' -> 'gastos.'",
-       "replace: 'podrá' -> 'podrá, en forma irrecurrible,'",
-       "insert: '' -> 'y del pago de honorarios'",
-       "replace: 'medio' -> 'medios'",
-       "replace: 'excusarse' -> 'excusarse. 185.4 La estimación de los honorarios de los peritos será comunicada a las partes en la oportunidad prevista en el artículo 183.1. Si no mediare oposición, los honorarios serán aprobados po'"
+       "replace: 'peritos' -> 'peritos.-'",
+       "replace: 'consignar,' -> 'consignar'",
+       "replace: 'gastos, los cuales serán fijados' -> 'gastos. El tribunal podrá, en forma irrecurrible, eximir de la previa consignación y del pago de honorarios cuando la parte que solicita el peritaje justifique, o ello surja de autos, que carece de me'",
+       "replace: 'sentencia definitiva.' -> 'materia, funcionario de un organismo estatal, quien no podrá excusarse.'",
+       "replace: 'Los' -> 'La estimación de los'",
+       "insert: '' -> 'será comunicada a las partes en la oportunidad prevista en el artículo 183.1. Si no mediare oposición, los honorarios'",
+       "replace: 'regulados siguiendo' -> 'aprobados por el juez de la causa una vez concluida la labor pericial. En caso contrario, se seguirá'",
+       "insert: '' -> 'como guía'"
       ]
      }
     ]
@@ -2164,32 +2128,27 @@
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/204)",
     "intermediate": {
      "Ley Nº 16.699": "unknown: change shown later",
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16226",
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Plazos de estudio de los tribunales colegiados 204.1 En los tribunales colegiados, el plazo de estudio de que dispone cada integrante será de quince días en los casos de sentencias interlocutorias y d' -> '3.-'",
-       "replace: 'Ministro,' -> 'Ministro'",
-       "replace: 'respectiva' -> 'respectiva, que deberá realizarse'",
-       "replace: 'días.' -> 'días'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16226",
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '3.-' -> 'Plazos de estudio en los tribunales colegiados.- 204.1 En los tribunales colegiados, el estudio será sucesivo. El plazo de que dispone cada integrante será de diez días en los casos de sentencias inte'",
-       "replace: 'Ministro' -> 'ministro, se pondrán al Acuerdo (artículo 203.4). En caso de no dictarse decisión anticipada,'",
-       "insert: '' -> 'días. 204.3 Cualquiera de los ministros podrá solicitar el diligenciamiento de prueba y el tribunal resolverá por sentencia interlocutoria si lo hace en forma previa o una vez culminado el estudio por'",
-       "insert: '' -> 'desde la convocatoria y, una vez culminada, se completará el estudio y se dictará sentencia en la forma y en los plazos previstos por el artículo 203. Si el diligenciamiento de prueba se hubiere dispu'"
+       "replace: 'de' -> 'en'",
+       "replace: 'colegiados' -> 'colegiados.-'",
+       "insert: '' -> 'estudio será sucesivo. El'",
+       "delete: 'de estudio' -> ''",
+       "replace: 'quince' -> 'diez'",
+       "replace: 'treinta' -> 'veinte'",
+       "delete: 'El expediente será pasado a estudio de cada uno de los Ministros en forma simultánea y en facsímil certificado por el secretario. El original quedará en Secretaría para la consulta exclusiva de los in' -> ''",
+       "replace: 'Ministro,' -> 'ministro, se pondrán al Acuerdo (artículo 203.4). En caso de no dictarse decisión anticipada,'",
+       "replace: 'respectiva' -> 'respectiva, que deberá realizarse'",
+       "insert: '' -> '204.3 Cualquiera de los ministros podrá solicitar el diligenciamiento de prueba y el tribunal resolverá por sentencia interlocutoria si lo hace en forma previa o una vez culminado el estudio por todos'"
       ]
      }
     ]
@@ -2976,29 +2935,21 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/285)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Plazos 285.1 En ningún caso podrá interponerse la revisión transcurrido un año desde que hubiere quedado ejecutoriada la resolución impugnable. 285.2' -> '2.-'",
-       "replace: 'el dictado de' -> 'que quede ejecutoriada'",
-       "replace: 'proceso. 285.3 Tampoco será admisible la revisión transcurridos tres meses desde que el recurrente hubiere conocido o debido conocer los motivos en que se fundare la misma.' -> 'proceso'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '2.-' -> 'Plazos.- 285.1 En ningún caso podrá interponerse la revisión transcurridos tres años desde que hubiere quedado ejecutoriada la resolución impugnable. 285.2'",
+       "replace: 'Plazos' -> 'Plazos.-'",
+       "replace: 'transcurrido un año' -> 'transcurridos tres años'",
        "replace: 'el acreditamiento' -> 'la comprobación'",
-       "replace: 'proceso' -> 'proceso. 285.3 Tampoco será admisible la revisión transcurridos seis meses desde que el recurrente hubiere conocido o debido conocer los motivos en que se fundare la misma.'"
+       "replace: 'el dictado de' -> 'que quede ejecutoriada'",
+       "replace: 'tres' -> 'seis'"
       ]
      }
     ]
@@ -3030,28 +2981,20 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/293)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 7 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Regla general. Preceptividad 293.1 Antes de iniciar cualquier proceso deberá pedirse audiencia para intentar la conciliación con el futuro demandado el que será citado en su domicilio (artículos 24 a ' -> '2.-'",
-       "replace: 'lugar' -> 'departamento correspondiente al tribunal competente para conocer'",
-       "replace: 'juicio; en este caso, una vez que el demandado hubiera comparecido en el proceso y constituido domicilio, se celebrará la conciliación citándolo en ese domicilio, pero si no compareciera o sí, haciénd' -> 'juicio'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '2.-' -> 'Regla general. Preceptividad.- 293.1 Antes de iniciar cualquier proceso deberá pedirse audiencia para intentar la conciliación con el futuro demandado el que será citado en su domicilio (artículos 24 '",
-       "replace: 'juicio' -> 'juicio.'"
+       "replace: 'Preceptividad' -> 'Preceptividad.-'",
+       "insert: '' -> 'Será competente el Juzgado de Paz o el Juzgado de Conciliación del territorio jurisdiccional del domicilio del futuro demandado.'",
+       "replace: 'lugar' -> 'departamento correspondiente al tribunal competente para conocer'",
+       "replace: 'juicio; en este caso, una vez que el demandado hubiera comparecido en el proceso y constituido domicilio, se celebrará la conciliación citándolo en ese domicilio, pero si no compareciera o sí, haciénd' -> 'juicio.'"
       ]
      }
     ]
@@ -3284,37 +3227,26 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/315)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Recursos 315.1 La medida se decretará sin conocimiento ni intervención de la contraparte. Ningún incidente o petición planteado por el destinatario de la medida podrá detener su cumplimiento. 315.2 Si' -> '3.-'",
-       "replace: 'apelación subsidiaria;' -> 'apelación;'",
-       "delete: 'apelación contra una' -> ''",
-       "replace: 'decreta' -> 'decrete'",
-       "replace: 'otra,' -> 'otra'",
-       "replace: 'al solo' -> 'sin'",
-       "replace: 'devolutivo.' -> 'suspensivo'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '3.-' -> 'Recursos.- 315.1 La medida se decretará sin conocimiento ni intervención de la contraparte. Ningún incidente o petición planteado por el destinatario de la medida podrá detener su cumplimiento. 315.2 '",
+       "replace: 'Recursos' -> 'Recursos.-'",
+       "replace: 'las medidas' -> 'la medida'",
+       "replace: 'cumplidas.' -> 'cumplida.'",
        "replace: 'admita' -> 'deniegue'",
        "replace: 'deniegue' -> 'disponga el cese de'",
-       "replace: 'recurrible mediante reposición y apelación; también lo será toda otra providencia modificativa de' -> 'apelable con efecto suspensivo. La que'",
-       "replace: 'medida. La providencia que decrete una medida' -> 'admita, modifique'",
-       "replace: 'dispone su sustitución por otra' -> 'sustituya'",
-       "replace: 'suspensivo' -> 'suspensivo.'"
+       "replace: 'recurrible mediante reposición y apelación subsidiaria; también lo será toda otra providencia modificativa de' -> 'apelable con efecto suspensivo. La que'",
+       "replace: 'medida. La apelación contra una providencia que decreta una medida' -> 'admita, modifique'",
+       "replace: 'dispone su sustitución por otra,' -> 'sustituya'",
+       "replace: 'al solo' -> 'sin'",
+       "replace: 'devolutivo.' -> 'suspensivo.'"
       ]
      }
     ]
@@ -3589,33 +3521,23 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/338)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 2 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Procedimiento 338.1 Presentada la demanda, el tribunal, una vez ejercido el control de su regularidad (artículos 24.1 y 119), ordenará el emplazamiento según lo dispuesto en la Sección II, Capítulo II' -> '2.-'",
-       "replace: 'reconvención,' -> 'reconvención'",
-       "replace: '338.3 Transcurridos' -> 'Si se opusieren a la demanda o a la reconvención excepciones previas se conferirá traslado al actor o al demandado, según fuere el caso, por un plazo de diez días. Cuando, por aplicación de este numer'",
-       "replace: 'plazos señalados con contestación o sin ella, se convocará a audiencia preliminar.' -> 'evacuará todos juntos en el plazo de treinta días'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '2.-' -> 'Procedimiento.- 338.1 Presentada la demanda, el tribunal, una vez ejercido el control de su regularidad (numeral 1) del artículo 24 y artículo 119), ordenará el emplazamiento según lo dispuesto en la '",
-       "replace: 'reconvención' -> 'reconvención,'",
-       "replace: 'previas' -> 'previas,'",
-       "replace: 'Cuando,' -> 'Cuando'",
-       "replace: 'numeral,' -> 'numeral'",
-       "replace: 'días' -> 'días. 338.3 Transcurridos los plazos señalados o evacuados los traslados conferidos (artículo 132), salvo el caso previsto en el inciso primero del artículo 134, se convocará a audiencia preliminar, d'"
+       "replace: 'Procedimiento' -> 'Procedimiento.-'",
+       "replace: '(artículos 24.1' -> '(numeral 1) del artículo 24'",
+       "insert: '' -> 'artículo'",
+       "insert: '' -> 'Si se opusieren a la demanda o a la reconvención excepciones previas, se conferirá traslado al actor o al demandado, según fuere el caso, por un plazo de diez días. Cuando por aplicación de este numer'",
+       "delete: 'con contestación' -> ''",
+       "replace: 'sin ella,' -> 'evacuados los traslados conferidos (artículo 132), salvo el caso previsto en el inciso primero del artículo 134,'",
+       "replace: 'preliminar.' -> 'preliminar, de conformidad con lo dispuesto por el artículo 101.'"
       ]
      }
     ]
@@ -3661,33 +3583,29 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/340)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Audiencia preliminar 340.1 Las partes deberán comparecer a la audiencia en forma personal, salvo motivo fundado, a juicio del tribunal, que justificare la comparecencia por representante. Las personas' -> '3.-'",
-       "replace: 'demandado,' -> 'demandado'",
-       "replace: '2º' -> 'segundo'",
-       "replace: '134' -> '134,'",
-       "replace: 'disponga. 340.4 Lo dispuesto en los ordinales 2 y 3 será aplicable, en lo pertinente, cuando mediare reconvención.' -> 'dispone'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '3.-' -> 'Audiencia preliminar.- 340.1 Las partes deberán comparecer a la audiencia en forma personal, salvo motivo fundado, a juicio del tribunal, que justificare la comparecencia por representante. Las person'",
-       "replace: 'demandado' -> 'demandado,'",
+       "replace: 'preliminar' -> 'preliminar.-'",
+       "replace: 'incapaces,' -> 'incapaces'",
+       "replace: 'obligatorio (artículo' -> 'obligatorio(artículo'",
+       "insert: '' -> 'En todo caso, la decisión que recaiga sobre la solicitud de nuevo señalamiento se tendrá por notificada el mismo día de su dictado.'",
+       "replace: 'preliminar,' -> 'preliminar'",
+       "replace: 'pretensión.' -> 'pretensión, incluso si el demandado tampoco compareciere, lo que se declarará en la misma audiencia, sin posibilidad de prorrogarla. El actor podrá justificar su incomparecencia mediante los recursos '",
        "replace: 'dictará sentencia' -> 'cumplirá, sin posibilidad'",
        "replace: 'inmediato' -> 'prórroga fundada en la inasistencia, la actividad prevista en los numerales 1) y 6) del artículo 341 y en el artículo 343, en lo pertinente, la de saneamiento que deba realizar de oficio'",
-       "replace: 'dispone' -> 'dispone. El demandado podrá justificar su incomparecencia mediante los recursos de reposición y apelación sin efecto suspensivo. La providencia que, haciendo lugar a la reposición, tenga por justifica'"
+       "replace: '2º' -> 'segundo'",
+       "replace: '134' -> '134,'",
+       "replace: 'disponga.' -> 'dispone. El demandado podrá justificar su incomparecencia mediante los recursos de reposición y apelación sin efecto suspensivo. La providencia que, haciendo lugar a la reposición, tenga por justifica'",
+       "replace: '3' -> '3,'",
+       "replace: 'reconvención.' -> 'reconvención o pretensión contra terceros. 340.5 Las consecuencias previstas en los artículos 340.2 y 340.3, no serán aplicables cuando en una audiencia anterior se hubieran agotado las etapas a que r'"
       ]
      }
     ]
@@ -3824,34 +3742,44 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/344)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Segunda instancia 344.1 La segunda instancia se provocará por la interposición del recurso de apelación (artículos 248 a 261). 344.2 Si la segunda instancia se tramitare ante tribunal colegiado, el ex' -> '3.-'",
-       "replace: 'la audiencia,' -> 'audiencia'",
-       "replace: '2º),' -> '4)'",
-       "replace: 'dictándose, luego, sentencia. 344.4 En caso de que no se debiera diligenciar prueba, se convocará igualmente a audiencia a efectos de oír a las partes y dictar sentencia. 344.5 La' -> 'dictándose luego'",
-       "delete: 'se dictará conforme a lo dispuesto en los artículos 341, numeral 5º o 343.7, según los casos, dentro de los plazos allí señalados. 344.6 Lo dispuesto en los ordinales precedentes, es aplicable a la se' -> ''"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '3.-' -> 'Segunda instancia.- 344.1 Durante la segunda instancia no se notificará a domicilio las providencias que disponen el pasaje a estudio o el resultado del sorteo de integración en los órganos colegiados'",
-       "insert: '' -> 'el caso excepcional de que el tribunal colegiado decidiere diligenciar prueba, la resolución se adoptará en el acuerdo por dos votos conformes. 344.3 En la'",
-       "replace: '253.2 y 254' -> '204.3, 253.2,'",
-       "insert: '' -> 'del artículo 254 y 257.5)'",
-       "replace: 'instancia, dictándose luego' -> 'instancia (artículo 343.6). 344.4 Si no se hubiere podido completar el diligenciamiento de la prueba en la audiencia, ésta podrá prorrogarse por un plazo no mayor a noventa días, vencido el cual -salv'",
-       "insert: '' -> 'en la forma y en los plazos establecidos en la ley.'"
+       "replace: 'instancia' -> 'instancia.-'",
+       "replace: 'La segunda instancia se provocará por la interposición del recurso de apelación (artículos 248 a 261). 344.2 Si' -> 'Durante'",
+       "insert: '' -> 'no'",
+       "replace: 'tramitare ante' -> 'notificará a domicilio las providencias que disponen el pasaje a estudio o el resultado del sorteo de integración en los órganos colegiados. 344.2 Recibidos los autos por el tribunal de alzada, éste d'",
+       "delete: 'expediente una vez recibido, será pasado a' -> ''",
+       "insert: '' -> 'se hará'",
+       "replace: 'cada integrante' -> 'conformidad con lo dispuesto'",
+       "replace: 'forma simultánea, en reproducción facsimilar.' -> 'el artículo 204.'",
+       "replace: 'tribunal, sea éste colegiado' -> 'tribunal unipersonal, se dictará decisión anticipada (artículo 200)'",
+       "replace: 'unipersonal' -> 'se citará a audiencia. Culminado el estudio por el tribunal colegiado, se celebrará el acuerdo (artículo 204.3)'",
+       "replace: 'hubiere resuelto dictar' -> 'dictare'",
+       "replace: 'anticipada (artículo 200),' -> 'anticipada,'",
+       "insert: '' -> 'En el caso excepcional de que el tribunal colegiado decidiere diligenciar prueba, la resolución se adoptará en el acuerdo por dos votos conformes.'",
+       "replace: 'audiencia,' -> 'audiencia'",
+       "replace: '253.2' -> '204.3, 253.2, numeral 4) del artículo 254'",
+       "replace: '254 numeral 2º),' -> '257.5)'",
+       "replace: 'instancia, dictándose, luego, sentencia.' -> 'instancia (artículo 343.6).'",
+       "replace: 'En caso de que' -> 'Si'",
+       "replace: 'debiera diligenciar prueba,' -> 'hubiere podido completar el diligenciamiento de la prueba en la audiencia, ésta podrá prorrogarse por un plazo no mayor a noventa días, vencido el cual -salvo que excepcionalmente el tribunal, por cau'",
+       "replace: 'convocará igualmente' -> 'prescindirá de la prueba pendiente. Tratándose de tribunal colegiado, una vez diligenciada la prueba en la forma prevista en el artículo 344.3, el expediente pasará nuevamente'",
+       "replace: 'audiencia a efectos' -> 'estudio'",
+       "replace: 'oír a las partes' -> 'los ministros por su orden (artículo 204.3). Finalizado el estudio'",
+       "replace: 'dictar sentencia. 344.5 La' -> 'celebrado el acuerdo, el tribunal dictará'",
+       "replace: 'se dictará conforme a lo dispuesto' -> 'en la forma y'",
+       "delete: 'artículos 341, numeral 5º o 343.7, según los casos, dentro de los' -> ''",
+       "replace: 'allí señalados. 344.6 Lo dispuesto' -> 'establecidos'",
+       "delete: 'los ordinales precedentes, es aplicable a' -> ''",
+       "replace: 'segunda instancia de todos los procesos, salvo lo previso por el artículo 346, numeral 5º, respecto del proceso extraordinario.' -> 'ley.'"
       ]
      }
     ]
@@ -3910,35 +3838,31 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/349)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)",
+     "Ley Nº 19.090": "unknown: change shown later",
      "Ley Nº 19.889": "the later text without the items this law added: Numeral 5)",
      "Ley Nº 20.130": "the later text without the items this law added: Numeral 6)"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Procedencia del proceso extraordinario. Tramitarán por el proceso extraordinario: 1) Las pretensiones de conservar y de recobrar la posesión o la tenencia, la de denuncia de obra nueva y de obra ruino' -> '3.-'",
-       "replace: 'artículos' -> 'artículo'",
-       "replace: '193' -> '192'",
-       "replace: 'incapaces.' -> 'incapaces'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '3.-' -> 'Procedencia del proceso extraordinario.- Tramitarán por el proceso extraordinario: 1) Las pretensiones de conservar y de recobrar la posesión o la tenencia, la de denuncia de obra nueva y de obra ruin'",
+       "replace: 'extraordinario.' -> 'extraordinario.-'",
+       "insert: '' -> '620,'",
+       "replace: '670,' -> '670 y'",
+       "delete: 'y 620' -> ''",
+       "replace: '933' -> '233'",
+       "replace: '197' -> '45'",
+       "replace: '222 del Código del Niño y 1638' -> '64'",
+       "replace: 'Comercio.' -> 'la Niñez y la Adolescencia y 54 de la Ley Nº 18.387, de 23 de octubre de 2008.'",
        "replace: '142' -> '206'",
        "replace: '146' -> '210'",
        "replace: 'del Niño' -> 'de la Niñez'",
-       "replace: 'en los artículo 150, 151, 171 y 173 a 192 de este último Código, así como' -> 'la Adolescencia,'",
-       "replace: 'incapaces' -> 'incapaces, así como las previstas en los artículos 34, 37, 41, 133.1, numeral 2º) del artículo 142, 151, 174 y 189 de este último Código. 4) Toda otra pretensión a la que un texto legal asigne expresa'"
+       "replace: 'en los artículos 150, 151, 171 y 173 a 193 de este último Código, así como' -> 'la Adolescencia,'",
+       "replace: 'incapaces.' -> 'incapaces, así como las previstas en los artículos 34, 37, 41, 133.1, numeral 2º) del artículo 142, 151, 174 y 189 de este último Código. 4) Toda otra pretensión a la que un texto legal asigne expresa'"
       ]
      },
      {
@@ -4425,30 +4349,37 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/378)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Sentencias que condenan al pago de cantidades ilíquidas 378.1 Cantidad ilíquida.- Cuando una sentencia condene al pago de cantidad ilíquida -en todo o en parte- se provocará su liquidación por vía inc' -> '4 (Recursos).-'",
-       "replace: 'liquidación,' -> 'liquidación'",
-       "delete: 'subsidiaria' -> ''",
-       "replace: '254).' -> '254)'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '4 (Recursos).- Contra' -> 'Sentencias que condenan al pago de cantidades ilíquidas.- 378.1 Cantidad ilíquida. Cuando una sentencia condene al pago de cantidad ilíquida en todo o en parte, se provocará, por cualquiera de las par'",
+       "replace: 'ilíquidas' -> 'ilíquidas.-'",
+       "replace: 'ilíquida.-' -> 'ilíquida.'",
+       "replace: '-en' -> 'en'",
+       "replace: 'parte-' -> 'parte,'",
+       "replace: 'provocará' -> 'provocará, por cualquiera de las partes,'",
+       "replace: 'solución,' -> 'solución'",
+       "replace: 'acto jurídico' -> 'título de ejecución'",
+       "replace: 'frutos.-' -> 'frutos y mejoras.'",
+       "replace: 'traslado de la misma,' -> 'traslado,'",
+       "replace: 'deudor' -> 'demandado'",
+       "replace: 'II,' -> 'II'",
+       "replace: 'III,' -> 'III'",
+       "replace: 'liquidación,' -> 'liquidación o si el actor no contradijere la presentada por el demandado,'",
+       "replace: 'que presente el actor,' -> 'presentada por la contraparte,'",
+       "replace: 'perjuicios.-' -> 'perjuicios.'",
+       "replace: 'demanda incidental,' -> 'demanda,'",
+       "replace: 'III,' -> 'III'",
+       "insert: '' -> 'Si el demandado no controvirtiere la liquidación, se estará a la presentada por la contraparte, salvo prueba en contrario.'",
+       "replace: 'Recursos.- Contra' -> 'Recursos. Únicamente será apelable'",
        "replace: 'decida' -> 'resuelva sobre la liquidación, en la forma y en'",
-       "replace: 'incidente de liquidación podrán interponerse los recursos de reposición y apelación (artículos 245, 250.2 y 254)' -> 'plazo previstos para las sentencias interlocutorias, con efecto suspensivo.'"
+       "replace: 'incidente de liquidación, podrán interponerse los recursos de reposición y apelación subsidiaria (artículos 245, 250.2 y 254).' -> 'plazo previstos para las sentencias interlocutorias, con efecto suspensivo.'"
       ]
      }
     ]
@@ -4489,40 +4420,58 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/380)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.871 art. 28 gives it (IMPO original)",
+     "Ley Nº 19.090": "unknown: change shown later",
      "Ley Nº 20.446": "the later text without what this law added: Apartado ordinal 8º), incisos 4º) y 5º) (Ley Nº 20.446 art. 704)"
     },
     "steps": [
      {
-      "day": "1998-01-01",
-      "laws": [
-       "ley-16871"
-      ],
-      "diff": [
-       "replace: 'Embargo 380.1' -> '1.'",
-       "replace: 'tribunal' -> 'Tribunal'",
-       "insert: '' -> 'vehículos automotores, el de'",
-       "replace: 'pedigree' -> 'pedigrí'",
-       "replace: 'registro respectivo:' -> 'Registro respectivo;'",
-       "delete: 'ejecutado. 380.2 Orden.- El embargo y, en su caso, el secuestro, se realizarón en el siguiente orden: bienes muebles, inmuebles, créditos y a falta o insuficiencia de éstos, genéricamente, en los dere' -> ''",
-       "delete: 'ofreciere bienes prioritarios que, a juicio del tribunal, fueren suficientes para cubrir las prestaciones de la ejecución. Cuando se trate de embargo general de derechos, la vía de apremio se suspende' -> ''"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16871",
        "ley-19090"
       ],
       "diff": [
-       "replace: '1.' -> 'Embargo.- 380.1'",
+       "replace: 'Embargo' -> 'Embargo.-'",
        "replace: 'eficacia.-' -> 'eficacia.'",
-       "replace: 'pedigrí' -> 'pedigree'",
+       "replace: 'tribunal' -> 'Tribunal'",
+       "insert: '' -> 'vehículos automotores, el de'",
        "delete: 'general' -> ''",
        "replace: 'derechos,' -> 'todo otro bien registrable, el de créditos y el genérico,'",
        "replace: 'lo' -> 'los'",
-       "replace: 'Registro' -> 'registro'",
-       "insert: '' -> 'ejecutado. 380.2 Orden. El embargo y, en su caso, el secuestro se realizarán en el siguiente orden: bienes muebles, inmuebles, créditos y, a falta o insuficiencia de éstos, el genérico. Este orden pod'",
-       "insert: '' -> 'ofreciere bienes prioritarios que, a juicio del tribunal, fueren suficientes para cubrir las prestaciones de la ejecución. Cuando se trate de embargo genérico, la vía de apremio se suspenderá hasta la'"
+       "replace: 'respectivo:' -> 'respectivo;'",
+       "replace: 'Orden.-' -> 'Orden.'",
+       "replace: 'secuestro,' -> 'secuestro'",
+       "replace: 'realizarón' -> 'realizarán'",
+       "replace: 'y' -> 'y,'",
+       "replace: 'genéricamente, en los derechos del ejecutado.' -> 'el genérico.'",
+       "replace: 'general de derechos,' -> 'genérico,'",
+       "delete: 'de derechos' -> ''",
+       "replace: 'fututos' -> 'futuros registrables'",
+       "replace: 'embargado' -> 'embargado. En caso'",
+       "replace: 'naturaleza inmueble, naves, aeronaves, automotores y la universalidad conocida como establecimiento comercial. En éste último caso, no comprende' -> 'universalidades,'",
+       "insert: '' -> 'las'",
+       "delete: 'esta universalidad, que' -> ''",
+       "insert: '' -> 'Cuando el ejecutante solicitare el embargo específico de bienes comprendidos en un embargo genérico, el nuevo embargo tendrá la fecha del embargo genérico.'",
+       "replace: 'Mejora.-' -> 'Mejora.'",
+       "replace: 'constare' -> 'constatare'",
+       "replace: 'Sustitución.-' -> 'Sustitución.'",
+       "replace: 'ejecutado' -> 'ejecutado,'",
+       "replace: 'embargo: a) Con' -> 'embargo, con'",
+       "delete: 'como regla general,' -> ''",
+       "replace: 'con' -> 'sin'",
+       "replace: 'sustitución; b) En el caso de embargo general de derechos, cuando se denunciare por cualquier persona bienes suficientes.' -> 'sustitución.'",
+       "replace: 'sustitución,' -> 'sustitución'",
+       "replace: 'Créditos.-' -> 'Créditos.'",
+       "replace: 'la efectividad de la medida dispuesta.' -> 'el cobro del crédito.'",
+       "replace: 'Eficacia.-' -> 'Eficacia.'",
+       "delete: 'el artículo 43 de' -> ''",
+       "replace: '10.793, de 25 de setiembre de 1946.' -> 'registral.'",
+       "replace: 'Prelación.-' -> 'Prelación.'",
+       "replace: 'preferencias' -> 'prioridades'",
+       "replace: 'interes,' -> 'intereses,'",
+       "replace: 'terminará' -> 'determinará'",
+       "replace: 'efetivos' -> 'efectivos'",
+       "replace: '1).' -> '1 de este artículo). 380.8 Embargo de cuentas bancarias no identificadas. Para el exclusivo caso de títulos de vía de apremio, sin perjuicio de lo previsto el artículo 379, procederá el embargo de las'"
       ]
      },
      {
@@ -4702,36 +4651,22 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/387)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)",
+     "Ley Nº 19.090": "unknown: change shown later",
      "Ley Nº 20.075": "the wording Ley Nº 19.090 art. 1 gives it (IMPO original)"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Remate.- 387.1. Oportunamente, a petición del ejecutante, el tribunal ordenará el remate sobre la base de las dos terceras partes de la tasación o al mejor postor si así se hubiere acordado y designar' -> '2.-'",
-       "replace: 'precedido' -> 'precedido, a criterio del tribunal,'",
-       "replace: '\"Diario Oficial\", a criterio del tribunal,' -> 'Diario Oficial,'",
-       "replace: '89.' -> '89, así como en otro periódico del lugar donde se celebrará el remate.'",
-       "replace: 'inmueble,' -> 'inmueble'",
-       "replace: 'mismo,' -> 'mismo'",
-       "replace: 'oportunas. 387.3. El rematador informará al tribunal, por lo menos diez días antes del remate, la fecha de éste y la publicidad que se hará, la que deberá adecuarse a los usos y costumbres; la omisión' -> 'oportunas'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '2.-' -> '(Remate).- 387.1'",
-       "replace: 'precedido, a criterio del tribunal,' -> 'precedido'",
+       "replace: 'Remate.- 387.1. Oportunamente, a petición del ejecutante, el tribunal ordenará el remate sobre la base de las dos terceras partes de la tasación o al mejor postor si así se hubiere acordado y designar' -> '(Remate).- 387.1'",
        "replace: 'uno a cinco anuncios' -> 'un anuncio'",
-       "replace: 'Oficial, los que comenzarán a publicarse conforme con lo dispuesto en el artículo 89, así como' -> 'Oficial y'",
-       "replace: 'el remate.' -> 'la subasta. Tratándose de inmuebles, se publicará también un anuncio en un periódico del lugar de ubicación del bien, si éste difiere del de la subasta. 387.2'",
+       "replace: '\"Diario Oficial\", a criterio' -> 'Diario Oficial y en otro periódico'",
+       "replace: 'tribunal, los que comenzarán a publicarse conforme con lo dispuesto' -> 'lugar donde se celebrará la subasta. Tratándose de inmuebles, se publicará también un anuncio'",
+       "replace: 'el artículo 89.' -> 'un periódico del lugar de ubicación del bien, si éste difiere del de la subasta. 387.2'",
        "replace: 'necesariamente,' -> 'necesariamente'",
        "replace: 'autos;' -> 'autos.'",
        "replace: 'remate;' -> 'remate.'",
@@ -4745,11 +4680,51 @@
        "replace: 'comprador;' -> 'comprador, los rubros que se autoriza a imputar como parte del precio, así como el plazo para consignar el saldo, que será de veinte días corridos contados a partir del día hábil siguiente al de la no'",
        "replace: 'interesados,' -> 'interesados'",
        "insert: '' -> 'h) Las prevenciones que el tribunal disponga de conformidad con el artículo 384.3. A los efectos del literal f), se entenderá como rubros a imputar como parte del precio, los tributos adeudados por el'",
-       "replace: 'inmueble' -> 'inmueble,'",
-       "replace: 'anuncie; h) Las prevenciones' -> 'anuncie. El rematador informará al tribunal, por lo menos diez días hábiles antes del remate, la publicidad que se hará, la que deberá adecuarse a los usos y costumbres; la omisión de este requisito a'",
-       "replace: 'Secretaría del tribunal haga notar' -> 'consignación es insuficiente, ésta deberá complementarse en un plazo de cinco días hábiles. Vencido el plazo para consignar previsto'",
-       "replace: 'informe correspondiente' -> 'literal f) del artículo 387.2, todo saldo de pago pendiente se ajustará por el procedimiento legalmente previsto para la liquidación del valor de las obligaciones, desde la fecha del remate'",
-       "replace: 'se consideren oportunas' -> 'hasta la efectiva consignación, sin perjuicio de lo establecido en el artículo 390. Aprobada la integración del precio deberá otorgarse de oficio la escritura o cumplirse la solemnidad requerida, auto'"
+       "replace: 'mismo,' -> 'mismo'",
+       "replace: 'anuncie; h) Las prevenciones que la Secretaría del tribunal haga notar en el informe correspondiente y se consideren oportunas. 387.3.' -> 'anuncie.'",
+       "insert: '' -> 'hábiles'",
+       "delete: 'la fecha de éste y' -> ''",
+       "insert: '' -> 'El ejecutante podrá solicitar, previamente al remate, que se le exonere de consignar la seña y el precio para el caso de resultar mejor postor del bien en cuanto éste no excediere el monto de su crédi'",
+       "replace: 'designado y podrá ser' -> 'designado, pero será'",
+       "insert: '' -> 'propio'",
+       "replace: 'actuario,' -> 'actuario o'",
+       "delete: '387.5' -> ''",
+       "insert: '' -> 'quien preside'",
+       "replace: 'rematador' -> 'remate,'",
+       "replace: 'resultado del remate,' -> 'resultado,'",
+       "insert: '' -> 'postor y el segundo'",
+       "insert: '' -> 'quienes deberán constituir en ese acto domicilio conforme al artículo 71. Dicha acta se pondrá al despacho conjuntamente con la presentación que da cuenta'",
+       "replace: 'cual será definitivo a los efectos del trámite del proceso, salvo expresa modificación ulterior por parte de aquél. En todo caso, dicho domicilio deberá fijarse dentro del radio del tribunal.' -> 'ordinal siguiente.'",
+       "insert: '' -> 'hábiles'",
+       "delete: 'y' -> ''",
+       "delete: 'el acta de la diligencia,' -> ''",
+       "replace: 'efectuados y' -> 'efectuados,'",
+       "replace: 'seña, pudiendo' -> 'seña y liquidar la comisión que corresponda, de conformidad con el arancel que establezca la Suprema Corte de Justicia. El depósito deberá realizarse dentro de los tres días hábiles siguientes al rema'",
+       "replace: 'misma' -> 'seña'",
+       "replace: 'gastadas -con' -> 'gastadas, así como la comisión que corresponda, con'",
+       "replace: 'aprobada- así como' -> 'aprobada. Previa vista a las partes, el tribunal aprobará el remate y las cuentas en forma inapelable. 387.7 El mejor postor acreditará'",
+       "replace: 'comisión' -> 'consignación del saldo de precio conforme al literal f) del artículo 387.2. En ese mismo escrito, en caso de'",
+       "replace: 'corresponda, de conformidad con' -> 'se requiera escritura pública u otra solemnidad'",
+       "replace: 'Arancel que establezca la Suprema Corte de Justicia. 387.7 Si' -> 'mejor postor deberá proponer'",
+       "replace: 'ejecutante adquiriere' -> 'escribano, quien aceptará'",
+       "replace: 'bien' -> 'cargo'",
+       "insert: '' -> 'mismo acto. Podrá imputar al precio únicamente los rubros contemplados en el edicto de'",
+       "replace: 'no tendrá' -> 'y'",
+       "replace: 'consignar' -> 'hubiera abonado. La Oficina Actuaria informará sobre'",
+       "replace: 'seña ni tampoco el precio, en cuanto éste no excediere el monto de su crédito más un diez por ciento correspondiente a los gastos de la ejecución, siempre que acredite que no existen acreedores prefer' -> 'integración'",
+       "replace: 'ofertado. 387.8 El' -> 'en el plazo de cinco días, confiriéndose vista de dicho informe a las partes y el tribunal resolverá en forma inapelable. Si resolviera que la consignación es insuficiente, ésta deberá complementarse '",
+       "replace: 'se aplicará también al saldo pendiente' -> 'desde la fecha del remate y hasta la efectiva consignación, sin perjuicio'",
+       "replace: 'pago' -> 'lo establecido en el artículo 390. Aprobada la integración'",
+       "insert: '' -> 'deberá otorgarse'",
+       "replace: 'venta obtenido' -> 'oficio la escritura o cumplirse la solemnidad requerida, autorizándose por el escribano designado,'",
+       "replace: 'remate judicial a partir' -> 'el plazo'",
+       "replace: 'los sesenta días de ejecutoriado' -> 'treinta días. Si'",
+       "delete: 'auto aprobatorio del remate. Este plazo se suspenderá a pedido del' -> ''",
+       "replace: 'en caso' -> 'no hubiera designado escribano o el designado no autorizara la escritura dentro del plazo previsto, el tribunal nombrará'",
+       "replace: 'impedimento' -> 'oficio un escribano, al'",
+       "replace: 'no le fuera imputable; el comprador podrá hacer entregas a cuenta del precio en todo tiempo, con entera independencia del estado' -> 'fijará un único plazo para autorizar la escritura, bajo pena'",
+       "replace: 'los procedimientos y del otorgamiento de la escritura. Esas sumas, así como la seña a que refiere el ordinal.5 de este artículo, se consignarán' -> 'lo dispuesto'",
+       "replace: 'Banco Hipotecario del Uruguay, sus sucursales o agencias, en cuenta especial de valores que se abrirá al efecto, a la orden del tribunal y bajo el rubro de los autos.' -> 'artículo 390.'"
       ]
      },
      {
@@ -5033,32 +5008,34 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/398)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Obligaciones de hacer 398.1' -> '4.-'",
-       "replace: 'sentencia condenare a hacer algo, el actor solicitará al tribunal que intime al condenado su realización' -> 'obligación cuya ejecución se persigue consiste'",
-       "replace: 'el plazo establecido o en el que aquél determinare. 398.2 Vencido el plazo y si no se diere cumplimiento, el ejecutante podrá optar por el procedimiento previsto en el ordinal tercero o solicitar que ' -> 'otorgar'",
-       "replace: 'ordinal.1.' -> 'ordinal 1.'",
-       "replace: 'abonare.' -> 'abonare'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '4.-' -> 'Obligaciones de hacer.- 398.1 Si el título de ejecución contuviere obligación de hacer, el actor solicitará al tribunal que intime su realización al obligado, conforme con el artículo 372.3, con la ex'",
+       "replace: 'hacer' -> 'hacer.-'",
+       "replace: 'la sentencia condenare a hacer algo,' -> 'el título de ejecución contuviere obligación de hacer,'",
+       "delete: 'al condenado' -> ''",
+       "replace: 'en' -> 'al obligado, conforme con'",
+       "replace: 'plazo establecido o en el que aquél determinare.' -> 'artículo 372.3, con la excepción allí establecida.'",
+       "replace: 'tercero' -> '3'",
+       "replace: 'caso' -> 'caso,'",
+       "insert: '' -> 'y los daños y perjuicios'",
+       "replace: 'del artículo 378.1,.2 ó.3' -> 'de los artículos 378.1, 378.2 o 378.3,'",
+       "replace: 'parte' -> 'parte,'",
+       "replace: 'especie' -> 'especie,'",
+       "replace: 'del artículo 378.1,.2 ó.3,' -> 'de los artículos 378.1, 378.2 o 378.3,'",
+       "insert: '' -> 'La indemnización podrá pedirse directamente aunque no se hubieran solicitado conminaciones.'",
+       "replace: 'sentencia condenare a' -> 'obligación cuya ejecución se persigue consiste en otorgar'",
        "replace: 'a' -> 'con'",
+       "replace: 'ordinal.1.' -> 'ordinal 1.'",
        "insert: '' -> 'y daños'",
-       "replace: 'abonare' -> 'abonare. 398.5 Una vez despachada la ejecución conforme con lo dispuesto en los ordinales precedentes, el ejecutado podrá oponerse de acuerdo con lo dispuesto por el artículo 397.3.'"
+       "insert: '' -> '398.5 Una vez despachada la ejecución conforme con lo dispuesto en los ordinales precedentes, el ejecutado podrá oponerse de acuerdo con lo dispuesto por el artículo 397.3.'"
       ]
      }
     ]
@@ -5371,30 +5348,24 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/406)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 5 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Extensión 406.1' -> '1.-'",
-       "replace: '406.2 Las informaciones que las leyes exigen para' -> 'El irracional disenso y'",
-       "replace: 'realización de ciertos actos, como el otorgamiento de venias y autorizaciones judiciales, rectificación de partidas y asuntos similares, sin perjuicio de lo que, particularmente, establezcan como requ' -> 'disolución'",
-       "replace: 'solicitud; 3) Providencia judicial disponiendo lo que al caso corresponda y notificación de la misma. Sin perjuicio de lo anterior, el tribunal podrá disponer el trámite previsto en el artículo 404, s' -> 'sociedad conyugal son procesos voluntarios'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '1.-' -> 'Extensión.- 406.1'",
-       "insert: '' -> 'auxiliatoria de pobreza tramitarán por la vía del artículo 404. En el caso de la segunda, será competente el tribunal del proceso respectivo y se oirá necesariamente a la contraparte del gestionante y'",
-       "replace: 'son procesos voluntarios' -> 'promovida de común acuerdo tramitará por la vía del artículo 406.3. 406.2 Las informaciones que las leyes exigen para la realización de ciertos actos, como el otorgamiento de venias y autorizaciones j'"
+       "replace: 'Extensión' -> 'Extensión.-'",
+       "insert: '' -> 'El irracional disenso y la auxiliatoria de pobreza tramitarán por la vía del artículo 404. En el caso de la segunda, será competente el tribunal del proceso respectivo y se oirá necesariamente a la co'",
+       "replace: 'solicitud' -> 'Solicitud'",
+       "replace: '404.1;' -> '404.1.'",
+       "replace: 'solicitud;' -> 'solicitud.'",
+       "replace: 'interesado;' -> 'interesado.'",
+       "replace: 'perjuicio;' -> 'perjuicio.'",
+       "replace: 'comparecer,' -> 'comparecer'"
       ]
      }
     ]
@@ -5590,28 +5561,25 @@
     ],
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/438)",
     "intermediate": {
-     "Ley Nº 19.090": "the wording Ley Nº 16.699 art. 4 gives it (IMPO original)"
+     "Ley Nº 19.090": "unknown: change shown later"
     },
     "steps": [
      {
-      "day": "1995-05-12",
-      "laws": [
-       "ley-16699"
-      ],
-      "diff": [
-       "replace: 'Recursos 438.1 Salvo disposición expresa en contrario, las interlocutorias que se pronuncien en el proceso sucesorio, serán susceptibles del recurso de apelación previsto en los artículos 250.2 y 254.' -> '2.-'",
-       "replace: 'ordinario,' -> 'ordinario o extraordinario'",
-       "replace: '253). 438.3 Las apelaciones relativas a medidas de administración o a su cese, se concederán sólo con efecto devolutivo.' -> '253)'"
-      ]
-     },
-     {
       "day": "2013-08-14",
       "laws": [
+       "ley-16699",
        "ley-19090"
       ],
       "diff": [
-       "replace: '2.-' -> 'Recursos.- 438.1 Salvo disposición expresa en contrario, las interlocutorias que se pronuncien en el proceso sucesorio serán susceptibles del recurso de apelación previsto en los artículos 250.2 y 254'",
-       "replace: '253)' -> '253).(*) 438.3 Las sentencias relativas a medidas de administración o a su cese se apelarán sin efecto suspensivo. El régimen recursivo relativo a las restantes medidas cautelares será el dispuesto en'"
+       "replace: 'Recursos' -> 'Recursos.-'",
+       "replace: 'sucesorio,' -> 'sucesorio'",
+       "replace: '254.' -> '254, sin efecto suspensivo. La resolución que pone fin al proceso sucesorio será apelable de conformidad con el artículo 254, con efecto suspensivo.'",
+       "replace: 'ordinario,' -> 'ordinario o extraordinario'",
+       "replace: '253).' -> '253).(*)'",
+       "replace: 'apelaciones' -> 'sentencias'",
+       "replace: 'cese,' -> 'cese'",
+       "replace: 'concederán sólo con' -> 'apelarán sin'",
+       "replace: 'devolutivo.' -> 'suspensivo. El régimen recursivo relativo a las restantes medidas cautelares será el dispuesto en el artículo 315.'"
       ]
      }
     ]
