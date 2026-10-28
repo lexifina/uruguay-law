@@ -7092,6 +7092,7 @@
   },
   "last_version_equals_impo": true,
   "post_pass": {
+   "first_text_from_earlier_law": [],
    "article_vigencia": [],
    "article_vigencia_not_applied": [],
    "absent_between": [
@@ -7976,6 +7977,7 @@
   },
   "last_version_equals_impo": true,
   "post_pass": {
+   "first_text_from_earlier_law": [],
    "article_vigencia": [],
    "article_vigencia_not_applied": [],
    "absent_between": [],
@@ -8093,6 +8095,10 @@
    "Ley Nº 20.446": {
     "day": "2026-01-01",
     "how": "its vigencia article: \"regirá a partir del 1° de enero de 2026\" (artículo 3)"
+   },
+   "Ley Nº 20.519": {
+    "day": "2026-09-24",
+    "how": "published 2026-09-14; Código Civil art. 1: ten days after publication"
    }
   },
   "base_in_force": {
@@ -10017,15 +10023,19 @@
    },
    "art-383": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/383)",
-    "intermediate": {},
+    "intermediate": {
+     "Ley Nº 20.519": "unknown: change shown later"
+    },
     "steps": [
      {
-      "day": "2020-07-24",
+      "day": "2026-09-24",
       "laws": [
-       "ley-19889"
+       "ley-19889",
+       "ley-20519"
       ],
       "diff": [
        "replace: '(Vigencia). El presente Código entrará' -> '(Oportunidad).- Desde la formalización y hasta el vencimiento del plazo para deducir acusación o solicitar sobreseimiento, el fiscal, con el acuerdo del imputado, podrá solicitar al tribunal'",
@@ -10040,83 +10050,122 @@
    },
    "art-384": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "unresolved": "no original text; today's text is used from the start"
    },
    "art-385": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "unresolved": "no original text; today's text is used from the start"
    },
    "art-386": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "unresolved": "no original text; today's text is used from the start"
    },
    "art-387": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "unresolved": "no original text; today's text is used from the start"
    },
    "art-388": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "unresolved": "no original text; today's text is used from the start"
    },
    "art-389": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "unresolved": "no original text; today's text is used from the start"
    },
    "art-390": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "unresolved": "no original text; today's text is used from the start"
    },
    "art-391": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
     "unresolved": "no original text; today's text is used from the start"
    },
    "art-392": {
     "laws": [
-     "Ley Nº 19.889"
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
     ],
-    "unresolved": "no original text; today's text is used from the start"
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
    },
    "art-394": {
     "laws": [
      "Ley Nº 19.549"
     ],
-    "unresolved": "no original text; today's text is used from the start"
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
    },
    "art-397": {
     "laws": [
      "Ley Nº 19.549"
     ],
-    "unresolved": "no original text; today's text is used from the start"
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
    }
   },
   "last_version_equals_impo": true,
   "post_pass": {
+   "first_text_from_earlier_law": [
+    "Artículo 45: the wording Ley Nº 19.474 art. 1 gives it",
+    "Artículo 49: the wording Ley Nº 19.474 art. 1 gives it",
+    "Artículo 97: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 127: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 224: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 268: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 269: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 270: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 271: unknown (placeholder)",
+    "Artículo 272: the wording Ley Nº 19.436 art. 3 gives it",
+    "Artículo 273: the wording Ley Nº 19.436 art. 3 gives it",
+    "Artículo 382: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 383: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 392: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 394: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 397: the wording Ley Nº 19.436 art. 6 gives it"
+   ],
    "article_vigencia": [
     "Artículo 45: 2019-01-01 -> 2018-10-15 (Ley Nº 19.670 art. 292: \"El presente artículo entrará en vigencia a partir de la promulgación\")"
    ],
    "article_vigencia_not_applied": [],
-   "absent_between": [],
+   "absent_between": [
+    "Artículo 383: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 392: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24"
+   ],
    "added_part_removed": [],
    "placeholder": [
     "Artículo 221: today's wording held back until 2018-09-06 (Ley Nº 19.653)",
-    "Artículo 394: today's wording held back until 2017-11-16 (Ley Nº 19.549)",
-    "Artículo 397: today's wording held back until 2017-11-16 (Ley Nº 19.549)"
+    "Artículo 384: today's wording held back until 2026-09-24 (Ley Nº 20.519)",
+    "Artículo 385: today's wording held back until 2026-09-24 (Ley Nº 20.519)",
+    "Artículo 386: today's wording held back until 2026-09-24 (Ley Nº 20.519)",
+    "Artículo 387: today's wording held back until 2026-09-24 (Ley Nº 20.519)",
+    "Artículo 388: today's wording held back until 2026-09-24 (Ley Nº 20.519)",
+    "Artículo 389: today's wording held back until 2026-09-24 (Ley Nº 20.519)",
+    "Artículo 390: today's wording held back until 2026-09-24 (Ley Nº 20.519)",
+    "Artículo 391: today's wording held back until 2026-09-24 (Ley Nº 20.519)"
    ],
    "absent_before": []
   },
