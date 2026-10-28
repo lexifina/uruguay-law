@@ -405,7 +405,7 @@
     "earliest_text": "IMPO original text (/bases/textos-originales-ley/15982-1988/29)",
     "intermediate": {
      "Ley Nº 19.670": "the wording Ley Nº 19.355 art. 649 gives it (IMPO original)",
-     "Ley Nº 19.788": "the wording Ley Nº 19.670 art. 289 gives it (IMPO original)"
+     "Ley Nº 19.788": "unknown: change shown later"
     },
     "steps": [
      {
@@ -426,18 +426,9 @@
       ]
      },
      {
-      "day": "2019-01-01",
-      "laws": [
-       "ley-19670"
-      ],
-      "diff": [
-       "delete: 'violencia doméstica (Ley Nº 17.514, de 2 de julio de 2002),' -> ''",
-       "replace: '2007). 29.2 En aquellos casos en que pudiendo haber intervenido el Ministerio Público como parte principal no lo hubiera hecho, no tendrá intervención como tercero en el proceso. 29.3 Cuando el Minist' -> '2007)'"
-      ]
-     },
-     {
       "day": "2019-10-04",
       "laws": [
+       "ley-19670",
        "ley-19788"
       ],
       "diff": "removed"
@@ -7101,9 +7092,7 @@
   },
   "last_version_equals_impo": true,
   "post_pass": {
-   "article_vigencia": [
-    "Artículo 29: 2019-01-01 -> 2018-10-15 (Ley Nº 19.670 art. 289: \"El presente artículo entrará en vigencia a partir de la promulgación\")"
-   ],
+   "article_vigencia": [],
    "article_vigencia_not_applied": [],
    "absent_between": [
     "Artículo 452: absent from 2008-11-02 (Ley Nº 18.387, \"derogado anteriormente\") until 2013-08-14"
