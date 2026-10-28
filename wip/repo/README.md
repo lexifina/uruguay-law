@@ -99,5 +99,6 @@ La Constitución de la República Oriental del Uruguay como historia git: un arc
 - **Fuentes:** las ediciones fechadas de la Constitución que publica el Parlamento (1967, 1989, 1994, 1997, 2004) y el texto actualizado de IMPO. Las unidades que cambió cada reforma coinciden exactamente con las notas de IMPO ("La redacción de este artículo fue dada por la Reforma Constitucional…").
 - **Fechas:** la Constitución de 1967 rige desde el 15 de febrero de 1967; la reforma de 1989 desde el 1º de mayo de 1990 (disposición V). Las reformas de 1994, 1996 y 2004 rigen desde la proclamación de la Corte Electoral, que no hemos podido fechar con una fuente oficial: esas versiones llevan la fecha del plebiscito.
 - **Diferencias de transcripción** entre IMPO y el Parlamento (por ejemplo "aun"/"aún") no se registran como cambios.
+- **Leyes** (Ley Nº 18.331 de Protección de Datos Personales): la primera versión de cada artículo modificado es el texto original que publica IMPO, y cada cambio se atribuye a la ley que nombran las notas de IMPO ("redacción dada por", "agregado/s por"), en la fecha de vigencia que fija la propia ley o, en su defecto, diez días después de su publicación (Código Civil, art. 1).
 
 Solo los textos del Parlamento y de IMPO son oficiales.

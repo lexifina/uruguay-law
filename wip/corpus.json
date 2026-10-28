@@ -21,7 +21,7 @@
    "name": "IMPO, Base de datos de normativa",
    "url": "https://www.impo.com.uy/bases",
    "retrieved": "2026-10-28",
-   "requests": 47,
+   "requests": 73,
    "licence": "Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases), and the Parlamento del Uruguay (parlamento.gub.uy, read through Wayback Machine captures).",
    "notes": "JSON (?json=true) of the consolidated text in force, with IMPO's notes per article. robots.txt Crawl-Delay: 10 is kept."
   },
@@ -11156,6 +11156,9 @@
   "Constitution: the 1994, 1996 and 2004 reforms took effect when the Corte Electoral proclaimed the result. No source we read dates those proclamations, so their versions are dated on the plebiscite day, and each law's note says so.",
   "Constitution: the 1989 reform is dated 1 May 1990, the day its transitional provision V) puts it in force.",
   "Constitution: the Parlamento letters the 1994 and 2004 transitional provisions as a second V) and a further Z); IMPO letters them V') and Z\"). IMPO's lettering is used (disp-trans-v-prima, disp-trans-z-segunda).",
+  "Laws (impo_history.py): IMPO gives only today's text, with notes naming the amending law and article for each change, and a link to the article as originally published. The first version of an amended article is that original text; today's text follows the last amending law. A text in between is used only when a source gives it: the wording the earlier amending law quotes (IMPO's original of that law), today's text without an item IMPO says a later law added, or the earlier text with an item replaced by the wording the amending law quotes for it. Otherwise the change is shown on the next known day, credited to every law in between, and verification.json lists it as unresolved.",
+  "Laws: an amending law takes effect on the day its own vigencia article gives (\"regirá a partir del …\", read from IMPO's text of the article its notes point to, or for Ley 18.719 its art. 3, read by hand), else ten days after its publication in the Diario Oficial (Código Civil art. 1).",
+  "Laws: amending laws that took effect before the norm's own first day are already in its text and are not credited.",
   "Unit text: IMPO's hard-wrapped lines are joined into paragraphs (one paragraph or lettered item per line); ordinal marks, quotes and IMPO's \"(*)\" amended markers are normalised once in parse.py."
  ],
  "ai_use": [

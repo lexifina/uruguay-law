@@ -221,6 +221,8 @@ def needed_paths(main: dict, base: str, vigencia_arts: dict[str, str]) -> list[s
         vig = d['vigencia'] or vigencia_arts.get(law)
         if vig:
             paths.append(law_path(law, d['year'], vig))
+    # each amending law whole, to find its vigencia article by hand (vigencia_candidates)
+    paths += [law_path(law, d['year']) for law, d in sorted(amending_laws(arts, base).items()) if d['arts']]
     seen, out = set(), []
     for p in paths:
         if p not in seen:
@@ -309,12 +311,12 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
         evs = [e for e in a.events if e.law != base and e.kind != 'vigencia' and e.law in day_of
                and day_of[e.law] > base_day]
         if not evs:
-            chains[a.key] = [(base_day, a.current, [])]
+            chains[a.key] = [(base_day, a.current or None, [])]   # empty: repealed before the norm's first day
             continue
         order = sorted({e.law for e in evs}, key=lambda l: (day_of[l], int(l)))
         repealed = any(e.kind == 'repealed' and not e.scope for e in evs)
         # texts[j] is the text before order[j] took effect; texts[-1] is today's (None once repealed).
-        texts: list = [UNKNOWN] * len(order) + [None if repealed else a.current]
+        texts: list = [UNKNOWN] * len(order) + [None if repealed or not a.current else a.current]
         how_built: list[str] = [''] * len(order)
         for j in range(len(order) - 1, -1, -1):
             law = order[j]
@@ -423,7 +425,7 @@ def build_act(*, slug: str, short: str, title: str, path: str, base: str,
         'articles': report,
         'last_version_equals_impo': all(
             versions[-1]['units'].get(a.key, {}).get('text') == render(a.label, a.current)
-            for a in arts if not any(e.kind == 'repealed' and not e.scope for e in a.events))}
+            for a in arts if a.current and not any(e.kind == 'repealed' and not e.scope for e in a.events))}
     act = {'slug': slug, 'short': short, 'title': title, 'url': f'{fetch.IMPO}/{path}',
            'first_law': law_key(base) if base_is_enactment else None,
            'earlier_laws': [] if base_is_enactment else [law_key(base)], 'versions': versions}
@@ -438,4 +440,15 @@ def _diff(a: list[str], b: list[str]) -> list[str]:
     for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, wa, wb, autojunk=False).get_opcodes():
         if op != 'equal':
             out.append(f'{op}: {" ".join(wa[i1:i2])[:200]!r} -> {" ".join(wb[j1:j2])[:200]!r}')
+    return out
+
+
+def vigencia_candidates(law_json: dict) -> list[tuple[str, str]]:
+    """Articles of a law that speak of its entry into force, for choosing a vigencia article by hand."""
+    out = []
+    for a in law_json.get('articulos', []):
+        t = ' '.join(a['textoArticulo'].split())
+        if re.search(r'(?i)(presente ley|esta ley)[^.]{0,80}(regir|entrar|vigencia|vigor)|'
+                     r'(regir|entrar)[^.]{0,40}(vigencia|vigor)', t):
+            out.append((a['nroArticulo'], t[:300]))
     return out
