@@ -1,0 +1,1399 @@
+{
+ "country": "UY",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la República Oriental del Uruguay",
+   "url": "https://www.impo.com.uy/bases/constitucion/1967-1967",
+   "versions": [
+    {
+     "from": "1967-02-15",
+     "units": 353,
+     "source_url": "https://web.archive.org/web/20250820033544id_/https://infolegislativa.parlamento.gub.uy/temporales/1aea133e-14fa-43c1-ba4a-26cedb0d8c31.HTML",
+     "sha256": "9d47f06292e84bb6311979fb66947cb637ce986519bc747fcae040c00fba9c8c"
+    },
+    {
+     "from": "1990-05-01",
+     "units": 354,
+     "source_url": "https://web.archive.org/web/20141126013720id_/http://www.parlamento.gub.uy:80/constituciones/Const989.htm",
+     "sha256": "f3748e4736fe9080cff6b696dcd6bba1fdf55cf638376a7a28e210e145ce9bbd"
+    },
+    {
+     "from": "1994-11-27",
+     "units": 355,
+     "source_url": "https://web.archive.org/web/20141126035426id_/http://www.parlamento.gub.uy:80/constituciones/Const994.htm",
+     "sha256": "9fc34be4a8f84941bf601aed7ec4bde88758fb28a2102a8f56b635c553469679"
+    },
+    {
+     "from": "1996-12-08",
+     "units": 360,
+     "source_url": "https://web.archive.org/web/20240528053904id_/https://infolegislativa.parlamento.gub.uy/temporales/44c614eb-203a-407e-b0cd-89780505e3cf.HTML",
+     "sha256": "9d871645a7f0b250fac4b5d7d2cd56bd5620facd8d861af872f1d81dd4387650"
+    },
+    {
+     "from": "2004-10-31",
+     "units": 361,
+     "source_url": "https://www.impo.com.uy/bases/constitucion/1967-1967",
+     "sha256": "a9c6b03858fed1419e43c9005717d18a4ac5eb77a6ea38a890d05f6007e553de"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18331",
+   "short": "Ley 18.331",
+   "title": "Ley Nº 18.331 de Protección de Datos Personales",
+   "url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 49,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+     "sha256": "2dd1c02e13c0224c79f3a1843fb3ee0758eb7bc2572cabc45038b861c0ebdcbc"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 49,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+     "sha256": "2dd1c02e13c0224c79f3a1843fb3ee0758eb7bc2572cabc45038b861c0ebdcbc"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 50,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+     "sha256": "2dd1c02e13c0224c79f3a1843fb3ee0758eb7bc2572cabc45038b861c0ebdcbc"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 50,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+     "sha256": "2dd1c02e13c0224c79f3a1843fb3ee0758eb7bc2572cabc45038b861c0ebdcbc"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 50,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+     "sha256": "2dd1c02e13c0224c79f3a1843fb3ee0758eb7bc2572cabc45038b861c0ebdcbc"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 51,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+     "sha256": "2dd1c02e13c0224c79f3a1843fb3ee0758eb7bc2572cabc45038b861c0ebdcbc"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 51,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18331-2008",
+     "sha256": "2dd1c02e13c0224c79f3a1843fb3ee0758eb7bc2572cabc45038b861c0ebdcbc"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-civil",
+   "short": "Código Civil",
+   "title": "Código Civil (texto aprobado por la Ley Nº 16.603)",
+   "url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+   "versions": [
+    {
+     "from": "1994-12-01",
+     "units": 2334,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "1995-10-29",
+     "units": 2334,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2002-09-06",
+     "units": 2334,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2003-11-26",
+     "units": 2333,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2008-01-10",
+     "units": 2332,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2008-01-20",
+     "units": 2332,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2008-11-02",
+     "units": 2302,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2010-08-05",
+     "units": 2302,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2013-08-01",
+     "units": 2302,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2013-08-24",
+     "units": 2302,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 2302,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2018-01-19",
+     "units": 2302,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2019-01-13",
+     "units": 2302,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 2300,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 2288,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2022-01-15",
+     "units": 2287,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 2287,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 2280,
+     "source_url": "https://www.impo.com.uy/bases/codigo-civil/16603-1994",
+     "sha256": "63f8c4b71e76efa6bc4f004c6f02fce424706a04e392c184d3b499c90e46574e"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-penal",
+   "short": "Código Penal",
+   "title": "Código Penal (Ley Nº 9.155)",
+   "url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+   "versions": [
+    {
+     "from": "1934-08-01",
+     "units": 365,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1969-01-31",
+     "units": 365,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1972-07-22",
+     "units": 365,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1973-03-30",
+     "units": 365,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1988-01-01",
+     "units": 365,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1989-07-15",
+     "units": 367,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1991-01-24",
+     "units": 366,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1992-08-16",
+     "units": 359,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1993-05-07",
+     "units": 359,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1995-07-29",
+     "units": 360,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1998-05-02",
+     "units": 360,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "1999-01-18",
+     "units": 364,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2000-07-16",
+     "units": 366,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2001-02-08",
+     "units": 366,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2003-08-16",
+     "units": 366,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2005-09-14",
+     "units": 365,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2006-01-05",
+     "units": 365,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2006-01-14",
+     "units": 364,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2006-10-14",
+     "units": 364,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2007-05-17",
+     "units": 364,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2008-11-10",
+     "units": 364,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2009-07-25",
+     "units": 364,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2011-12-18",
+     "units": 365,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2013-09-07",
+     "units": 369,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2013-10-27",
+     "units": 369,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2014-09-06",
+     "units": 371,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2017-10-28",
+     "units": 371,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2018-01-19",
+     "units": 377,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2018-08-24",
+     "units": 381,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2018-08-30",
+     "units": 381,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 388,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 388,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2023-06-08",
+     "units": 389,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 392,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2024-10-05",
+     "units": 404,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    },
+    {
+     "from": "2024-10-07",
+     "units": 406,
+     "source_url": "https://www.impo.com.uy/bases/codigo-penal/9155-1933",
+     "sha256": "136e617246deb52195f63e9c9b7326fd1842e862c2e9a161e5c6880cbae55162"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-general-proceso",
+   "short": "CGP",
+   "title": "Código General del Proceso (Ley Nº 15.982)",
+   "url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+   "versions": [
+    {
+     "from": "1989-11-20",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "1991-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "1992-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "1992-07-20",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "1995-05-12",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2000-07-16",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2001-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2001-02-08",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2003-10-30",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2004-01-23",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2008-11-02",
+     "units": 549,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2009-05-08",
+     "units": 549,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2013-08-14",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2018-09-06",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2019-10-04",
+     "units": 549,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 549,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2022-06-13",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 550,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 552,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2024-05-18",
+     "units": 552,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2024-10-12",
+     "units": 552,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 552,
+     "source_url": "https://www.impo.com.uy/bases/codigo-general-proceso/15982-1988",
+     "sha256": "554cd94d2452c32ce12b563c5ede41b5b0bb4d0c98a52ea8a713b853ce2bf1ba"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-comercio",
+   "short": "Código de Comercio",
+   "title": "Código de Comercio",
+   "url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+   "versions": [
+    {
+     "from": "1866-01-24",
+     "units": 1251,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "1878-06-20",
+     "units": 1250,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "1879-02-01",
+     "units": 1250,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "1905-09-23",
+     "units": 1250,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "1917-01-15",
+     "units": 1249,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "1977-11-01",
+     "units": 1243,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "1980-12-20",
+     "units": 1243,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "1984-01-28",
+     "units": 1242,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "1989-12-31",
+     "units": 1241,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "2001-02-08",
+     "units": 1241,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 1241,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "2008-11-02",
+     "units": 1236,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "2014-09-19",
+     "units": 1231,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 1231,
+     "source_url": "https://www.impo.com.uy/bases/codigo-comercio/817-1865",
+     "sha256": "83ea2a5274a28d7ea646a26b6f8ba9ee9e89365d8bedd32e3cacb6c8eda7f17a"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-proceso-penal",
+   "short": "CPP",
+   "title": "Código del Proceso Penal (Ley Nº 19.293)",
+   "url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 398,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2017-11-16",
+     "units": 397,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2018-09-06",
+     "units": 399,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2018-10-15",
+     "units": 399,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2018-11-17",
+     "units": 399,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2019-10-06",
+     "units": 399,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 391,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 391,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 392,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 392,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 392,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    },
+    {
+     "from": "2026-09-24",
+     "units": 402,
+     "source_url": "https://www.impo.com.uy/bases/codigo-proceso-penal-2017/19293-2014",
+     "sha256": "bddd2f615691a4c834410195ae205b953e0db2d29435211fab43491f01d2d3bf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17250",
+   "short": "Ley 17.250",
+   "title": "Ley de Relaciones de Consumo (Ley Nº 17.250)",
+   "url": "https://www.impo.com.uy/bases/leyes/17250-2000",
+   "versions": [
+    {
+     "from": "2000-08-27",
+     "units": 52,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17250-2000",
+     "sha256": "ea1c7d9769d56557977c5293b038a4bb7af1e823ce2fa5a2c0d58754a71cb607"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 52,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17250-2000",
+     "sha256": "ea1c7d9769d56557977c5293b038a4bb7af1e823ce2fa5a2c0d58754a71cb607"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 52,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17250-2000",
+     "sha256": "ea1c7d9769d56557977c5293b038a4bb7af1e823ce2fa5a2c0d58754a71cb607"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 52,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17250-2000",
+     "sha256": "ea1c7d9769d56557977c5293b038a4bb7af1e823ce2fa5a2c0d58754a71cb607"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 52,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17250-2000",
+     "sha256": "ea1c7d9769d56557977c5293b038a4bb7af1e823ce2fa5a2c0d58754a71cb607"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 53,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17250-2000",
+     "sha256": "ea1c7d9769d56557977c5293b038a4bb7af1e823ce2fa5a2c0d58754a71cb607"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 53,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17250-2000",
+     "sha256": "ea1c7d9769d56557977c5293b038a4bb7af1e823ce2fa5a2c0d58754a71cb607"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-aduanero",
+   "short": "CAROU",
+   "title": "Código Aduanero de la República Oriental del Uruguay (Ley Nº 19.276)",
+   "url": "https://www.impo.com.uy/bases/codigo-aduanero/19276-2014",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/codigo-aduanero/19276-2014",
+     "sha256": "aea543fbb59defc8e61db13eb6081dcbeb619b70607d5e7d7079b4e930913a79"
+    },
+    {
+     "from": "2015-06-18",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19322-2015/1",
+     "sha256": "59aae164e6d36b4fdf88b58c4e3acbf7d8092ac1a259a1f29a39f97cefcade83"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/codigo-aduanero/19276-2014",
+     "sha256": "aea543fbb59defc8e61db13eb6081dcbeb619b70607d5e7d7079b4e930913a79"
+    },
+    {
+     "from": "2016-06-17",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19394-2016/1",
+     "sha256": "c08f5dcd168a3c92e66f6aa26ad69e759b086ab641031ab38fe18e8ce32df284"
+    },
+    {
+     "from": "2018-09-06",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/codigo-aduanero/19276-2014",
+     "sha256": "aea543fbb59defc8e61db13eb6081dcbeb619b70607d5e7d7079b4e930913a79"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/codigo-aduanero/19276-2014",
+     "sha256": "aea543fbb59defc8e61db13eb6081dcbeb619b70607d5e7d7079b4e930913a79"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/codigo-aduanero/19276-2014",
+     "sha256": "aea543fbb59defc8e61db13eb6081dcbeb619b70607d5e7d7079b4e930913a79"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/codigo-aduanero/19276-2014",
+     "sha256": "aea543fbb59defc8e61db13eb6081dcbeb619b70607d5e7d7079b4e930913a79"
+    },
+    {
+     "from": "2025-09-13",
+     "units": 276,
+     "source_url": "https://www.impo.com.uy/bases/codigo-aduanero/19276-2014",
+     "sha256": "aea543fbb59defc8e61db13eb6081dcbeb619b70607d5e7d7079b4e930913a79"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-tributario",
+   "short": "Código Tributario",
+   "title": "Código Tributario (Decreto-Ley Nº 14.306)",
+   "url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+   "versions": [
+    {
+     "from": "1974-12-16",
+     "units": 112,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "1982-07-08",
+     "units": 112,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "1984-02-09",
+     "units": 110,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "1997-10-19",
+     "units": 110,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 110,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "2007-07-01",
+     "units": 110,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 110,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 111,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 112,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 113,
+     "source_url": "https://www.impo.com.uy/bases/codigo-tributario/14306-1974",
+     "sha256": "ba297de125e62ff320a34849e158d97ccfd5341a63f09fc4d406190db5de5376"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16060",
+   "short": "Ley de Sociedades Comerciales",
+   "title": "Ley de Sociedades Comerciales (Ley Nº 16.060)",
+   "url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+   "versions": [
+    {
+     "from": "1989-12-31",
+     "units": 522,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "1992-09-24",
+     "units": 522,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "1996-01-01",
+     "units": 522,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "1996-06-22",
+     "units": 487,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "1997-07-20",
+     "units": 487,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "1998-01-01",
+     "units": 486,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2000-07-16",
+     "units": 486,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2005-10-24",
+     "units": 486,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2007-07-01",
+     "units": 485,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2008-11-02",
+     "units": 483,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2008-11-24",
+     "units": 482,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 481,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2009-02-05",
+     "units": 481,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2009-12-26",
+     "units": 479,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 482,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 482,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2013-05-19",
+     "units": 481,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 482,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2014-11-01",
+     "units": 482,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 482,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 483,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16060-1989",
+     "sha256": "2b83d055a38009f61d502df15c4b28870f3bae5f268d8ba71ea0df6966676ae8"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-ninez-adolescencia",
+   "short": "CNA",
+   "title": "Código de la Niñez y la Adolescencia (Ley Nº 17.823)",
+   "url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+   "versions": [
+    {
+     "from": "2004-09-24",
+     "units": 223,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2008-01-10",
+     "units": 224,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2008-06-12",
+     "units": 224,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2008-12-20",
+     "units": 225,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 225,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2009-10-26",
+     "units": 229,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 229,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2011-08-21",
+     "units": 229,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2013-02-01",
+     "units": 230,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2013-07-04",
+     "units": 239,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2013-08-01",
+     "units": 239,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2013-08-24",
+     "units": 239,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 239,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 239,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2019-01-28",
+     "units": 239,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2019-10-16",
+     "units": 247,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 247,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 247,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 247,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2023-06-08",
+     "units": 248,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 248,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    },
+    {
+     "from": "2024-06-02",
+     "units": 248,
+     "source_url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+     "sha256": "60d6cabcc63add8474f2d482b94607e00ba5fbf69233fd5f0b2355c711b50247"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18381",
+   "short": "Ley 18.381",
+   "title": "Ley sobre el Derecho de Acceso a la Información Pública (Ley Nº 18.381)",
+   "url": "https://www.impo.com.uy/bases/leyes/18381-2008",
+   "versions": [
+    {
+     "from": "2008-11-17",
+     "units": 35,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18381-2008",
+     "sha256": "fa6b2955723759b4c0a157eca76c0febb651bc71dbdce396ba615124c91dbc3c"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 35,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18381-2008",
+     "sha256": "fa6b2955723759b4c0a157eca76c0febb651bc71dbdce396ba615124c91dbc3c"
+    },
+    {
+     "from": "2014-01-18",
+     "units": 35,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18381-2008",
+     "sha256": "fa6b2955723759b4c0a157eca76c0febb651bc71dbdce396ba615124c91dbc3c"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 35,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18381-2008",
+     "sha256": "fa6b2955723759b4c0a157eca76c0febb651bc71dbdce396ba615124c91dbc3c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17514",
+   "short": "Ley 17.514",
+   "title": "Ley de Erradicación de la Violencia Doméstica (Ley Nº 17.514)",
+   "url": "https://www.impo.com.uy/bases/leyes/17514-2002",
+   "versions": [
+    {
+     "from": "2002-07-19",
+     "units": 29,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17514-2002",
+     "sha256": "4f71bcbcb8587684a2bbcfa37e72749a43ef128da4eefc74c97e86584fa90920"
+    },
+    {
+     "from": "2018-01-19",
+     "units": 23,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17514-2002",
+     "sha256": "4f71bcbcb8587684a2bbcfa37e72749a43ef128da4eefc74c97e86584fa90920"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 23,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17514-2002",
+     "sha256": "4f71bcbcb8587684a2bbcfa37e72749a43ef128da4eefc74c97e86584fa90920"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19580",
+   "short": "Ley 19.580",
+   "title": "Ley de Violencia hacia las Mujeres Basada en Género (Ley Nº 19.580)",
+   "url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 84,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+     "sha256": "665de51a0506a7ef18f1a77a2774cdc659eaaf579e83dad57b0de70ee90dae04"
+    },
+    {
+     "from": "2018-10-15",
+     "units": 84,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+     "sha256": "665de51a0506a7ef18f1a77a2774cdc659eaaf579e83dad57b0de70ee90dae04"
+    },
+    {
+     "from": "2019-10-04",
+     "units": 84,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+     "sha256": "665de51a0506a7ef18f1a77a2774cdc659eaaf579e83dad57b0de70ee90dae04"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 84,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+     "sha256": "665de51a0506a7ef18f1a77a2774cdc659eaaf579e83dad57b0de70ee90dae04"
+    },
+    {
+     "from": "2023-11-06",
+     "units": 84,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+     "sha256": "665de51a0506a7ef18f1a77a2774cdc659eaaf579e83dad57b0de70ee90dae04"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 84,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+     "sha256": "665de51a0506a7ef18f1a77a2774cdc659eaaf579e83dad57b0de70ee90dae04"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 84,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19580-2017",
+     "sha256": "665de51a0506a7ef18f1a77a2774cdc659eaaf579e83dad57b0de70ee90dae04"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19574",
+   "short": "Ley 19.574",
+   "title": "Ley Integral contra el Lavado de Activos (Ley Nº 19.574)",
+   "url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+   "versions": [
+    {
+     "from": "2018-01-20",
+     "units": 79,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+     "sha256": "533e999103b3be802a3884a878e4370c317adef6bc8d31dab0fbe4730c79ce23"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 79,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+     "sha256": "533e999103b3be802a3884a878e4370c317adef6bc8d31dab0fbe4730c79ce23"
+    },
+    {
+     "from": "2019-05-31",
+     "units": 79,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+     "sha256": "533e999103b3be802a3884a878e4370c317adef6bc8d31dab0fbe4730c79ce23"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 79,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+     "sha256": "533e999103b3be802a3884a878e4370c317adef6bc8d31dab0fbe4730c79ce23"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 79,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+     "sha256": "533e999103b3be802a3884a878e4370c317adef6bc8d31dab0fbe4730c79ce23"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 79,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+     "sha256": "533e999103b3be802a3884a878e4370c317adef6bc8d31dab0fbe4730c79ce23"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 80,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+     "sha256": "533e999103b3be802a3884a878e4370c317adef6bc8d31dab0fbe4730c79ce23"
+    },
+    {
+     "from": "2026-04-20",
+     "units": 81,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19574-2017",
+     "sha256": "533e999103b3be802a3884a878e4370c317adef6bc8d31dab0fbe4730c79ce23"
+    }
+   ]
+  }
+ ]
+}
