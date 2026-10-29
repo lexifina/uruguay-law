@@ -7092,6 +7092,7 @@
   },
   "last_version_equals_impo": true,
   "post_pass": {
+   "first_text_from_earlier_law": [],
    "article_vigencia": [],
    "article_vigencia_not_applied": [],
    "absent_between": [
@@ -7111,6 +7112,2214 @@
    "last_version": {
     "equal": true,
     "differ": []
+   }
+  },
+  "unamended_sample": {
+   "textos-originales-ley/15982-1988/16": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/62": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/95": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/137": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/168": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/208": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/236": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/284": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/325": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/410": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/443": "IMPO serves no original text",
+   "textos-originales-ley/15982-1988/524": "IMPO serves no original text"
+  },
+  "before_first_day": {
+   "Ley Nº 16.053": {
+    "day": "1989-07-20",
+    "how": "its vigencia article: \"entrará en vigencia a partir de su promulgación\" (artículo 3)"
+   }
+  }
+ },
+ "codigo-proceso-penal": {
+  "in_force": {
+   "Ley Nº 19.436": {
+    "day": "2016-11-11",
+    "how": "published 2016-11-01; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.474": {
+    "day": "2017-02-18",
+    "how": "published 2017-02-08; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.510": {
+    "day": "2017-07-14",
+    "how": "its vigencia article: \"entrará en vigencia a partir de su promulgación\" (artículo 2)"
+   },
+   "Ley Nº 19.511": {
+    "day": "2017-07-29",
+    "how": "published 2017-07-19; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.544": {
+    "day": "2017-11-01",
+    "how": "its art. 11: \"regirá simultáneamente con la entrada en vigencia de la Ley N° 19.293\" (the CPP, in force 1 November 2017 by its art. 403)"
+   },
+   "Ley Nº 19.549": {
+    "day": "2017-11-16",
+    "how": "published 2017-11-06; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.587": {
+    "day": "2018-01-20",
+    "how": "published 2018-01-10; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.653": {
+    "day": "2018-09-06",
+    "how": "published 2018-08-27; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.670": {
+    "day": "2019-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2019\" (artículo 2)"
+   },
+   "Ley Nº 19.679": {
+    "day": "2018-11-17",
+    "how": "published 2018-11-07; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.831": {
+    "day": "2019-10-06",
+    "how": "published 2019-09-26; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.889": {
+    "day": "2020-07-24",
+    "how": "published 2020-07-14; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.924": {
+    "day": "2021-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2021\" (artículo 3)"
+   },
+   "Ley Nº 20.075": {
+    "day": "2023-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2023\" (artículo 5)"
+   },
+   "Ley Nº 20.212": {
+    "day": "2024-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2024\" (artículo 2)"
+   },
+   "Ley Nº 20.446": {
+    "day": "2026-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2026\" (artículo 3)"
+   },
+   "Ley Nº 20.519": {
+    "day": "2026-09-24",
+    "how": "published 2026-09-14; Código Civil art. 1: ten days after publication"
+   }
+  },
+  "base_in_force": {
+   "day": "2017-11-01",
+   "how": "codigo-proceso-penal-2017/19293-2014/403: \"(Vigencia).- El presente Código entrará en vigencia el 1° de noviembre de 2017. (*)\""
+  },
+  "articles": {
+   "art-012": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/12)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'aplicables).' -> 'aplicables).-'",
+       "insert: '' -> 'oralidad,'"
+      ]
+     }
+    ]
+   },
+   "art-023": {
+    "laws": [
+     "Ley Nº 20.446"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/23)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20446"
+      ],
+      "diff": [
+       "delete: 'En consulta, ejerciendo la superintendencia correctiva, administrativa y disciplinaria respecto de aquellas causas en las que no hubiere existido apelación, sin perjuicio de la independencia técnica d' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-024": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/24)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'Penal).' -> 'Penal).-'",
+       "insert: '' -> 'Los Tribunales de Apelaciones en lo Penal que hubieren intervenido en relación a actuaciones previas a la audiencia de juicio quedarán automáticamente impedidos de intervenir en actuaciones relacionad'"
+      ]
+     }
+    ]
+   },
+   "art-025": {
+    "laws": [
+     "Ley Nº 19.549",
+     "Ley Nº 19.587",
+     "Ley Nº 19.679"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/25)",
+    "intermediate": {
+     "Ley Nº 19.587": "the wording Ley Nº 19.549 art. 3 gives it (IMPO original)",
+     "Ley Nº 19.679": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'Instancia).' -> 'Instancia).-'",
+       "replace: 'En' -> 'Los Jueces Letrados de Primera instancia en lo Penal,'",
+       "replace: 'demás casos' -> 'Jueces Letrados Penales Especializados'",
+       "insert: '' -> 'Crimen Organizado y'",
+       "insert: '' -> 'Jueces Letrados de Primera instancia del Interior con competencia en materia penal,'",
+       "insert: '' -> 'hubieren intervenido en actuaciones previas a la audiencia de juicio quedarán automáticamente impedidos de celebrar la misma y dictar sentencia. A los efectos de'",
+       "replace: 'Código o leyes especiales, les asignen competencia.' -> 'artículo no se considerarán actuaciones previas el dictado de decretos de mero trámite. La Suprema Corte de Justicia reglamentará el régimen de subrogaciones'"
+      ]
+     },
+     {
+      "day": "2018-11-17",
+      "laws": [
+       "ley-19587",
+       "ley-19679"
+      ],
+      "diff": [
+       "insert: '' -> 'En segunda instancia, de los recursos de apelación interpuestos contra las sentencias definitivas de primera instancia dictadas en los procesos por faltas que regula la Ley Nº 19.120, de 20 de agosto '",
+       "replace: '25.3' -> '25.4'",
+       "replace: '25.4' -> '25.5'",
+       "replace: 'instancia' -> 'Instancia'",
+       "replace: 'instancia' -> 'Instancia'",
+       "replace: 'subrogaciones' -> 'subrogaciones. 25.6 La misma regla dispuesta en el numeral 25.5 de este artículo se observará en el caso de los Jueces Letrados de Adolescentes y los Jueces Letrados de Primera Instancia del Interior '"
+      ]
+     }
+    ]
+   },
+   "art-029": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/29)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'subsidiarias).' -> 'subsidiarias).-'",
+       "replace: 'De' -> 'Los jueces que hubieren intervenido en actuaciones previas a'",
+       "replace: 'competencia por razón' -> 'audiencia'",
+       "replace: 'tiempo' -> 'juicio quedarán automáticamente impedidos de celebrar la misma y dictar sentencia. A los efectos de este artículo no se considerarán actuaciones previas el dictado de decretos de mero trámite. La Supr'"
+      ]
+     }
+    ]
+   },
+   "art-031": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/31)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'urgencia).' -> 'urgencia).-'",
+       "replace: 'adoptar' -> 'disponer'",
+       "replace: 'concurren' -> 'son competentes'",
+       "delete: 'De la conexión y acumulación entre pretensiones y procesos' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-039": {
+    "laws": [
+     "Ley Nº 19.831"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/39)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "replace: 'turno).' -> 'turno).-'",
+       "replace: 'comparecencia' -> 'comparecencia. No habrá prevención ni incompetencia por razón de lugar'",
+       "replace: 'por el tribunal de oficio al empezar su actuación, sin perjuicio de' -> 'turno durante'",
+       "replace: 'competencia de urgencia.' -> 'investigación preliminar.'"
+      ]
+     }
+    ]
+   },
+   "art-045": {
+    "laws": [
+     "Ley Nº 19.549",
+     "Ley Nº 19.670"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/45)",
+    "intermediate": {
+     "Ley Nº 19.670": "the wording Ley Nº 19.549 art. 6 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: '(Atribuciones). 45.1' -> '(Atribuciones).-'",
+       "replace: 'Nacional y' -> 'Nacional,'",
+       "insert: '' -> 'y de la Policía Aérea Nacional'",
+       "replace: 'investigación;' -> 'investigación,'",
+       "replace: 'testigos.' -> 'testigos; j) solicitar al Instituto Técnico Forense los antecedentes judiciales del indagado o imputado según corresponda; k) solicitar, en forma fundada, a las instituciones del Estado, toda informac'",
+       "replace: 'representación.' -> 'representación'"
+      ]
+     },
+     {
+      "day": "2019-01-01",
+      "laws": [
+       "ley-19670"
+      ],
+      "diff": [
+       "replace: 'solicitar,' -> 'Solicitar,'",
+       "replace: 'del Estado,' -> 'públicas o privadas,'",
+       "replace: 'representación' -> 'representación.'"
+      ]
+     }
+    ]
+   },
+   "art-049": {
+    "laws": [
+     "Ley Nº 19.653"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/49)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'Nacional y' -> 'Nacional,'",
+       "insert: '' -> 'y de la Policía Aérea Nacional'",
+       "replace: 'proceso penal).' -> 'Proceso Penal).-'",
+       "replace: 'Nacional y' -> 'Nacional,'",
+       "insert: '' -> 'la Policía Aérea Nacional y toda otra que cumpla funciones de policía judicial,'",
+       "replace: 'instrucciones que les impartan los fiscales.' -> 'disposiciones legales vigentes.'"
+      ]
+     }
+    ]
+   },
+   "art-050": {
+    "laws": [
+     "Ley Nº 19.653"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/50)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'Público).' -> 'Público).-'",
+       "replace: 'Los' -> 'A los solos efectos de la investigación criminal y en su rol de auxiliares del Ministerio Público, los'",
+       "replace: 'anterior,' -> '49,'",
+       "replace: 'impartan a los efectos de la investigación,' -> 'impartan,'"
+      ]
+     }
+    ]
+   },
+   "art-053": {
+    "laws": [
+     "Ley Nº 19.653",
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/53)",
+    "intermediate": {
+     "Ley Nº 20.075": "the later text without what this law added: Literal h) (Ley Nº 20.075 art. 144)"
+    },
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'previa).' -> 'previa).-'",
+       "replace: 'prestar' -> 'Cumplir con las fases del accionar policial: observación, prevención, disuasión y excepcionalmente la represión, según los términos establecidos en la Ley Nº 18.315, de 5 de julio de 2008 (Ley de Proc'",
+       "replace: 'víctima; b) practicar' -> 'víctima. c) Practicar'",
+       "replace: 'ley; c) resguardar' -> 'ley. d) Resguardar'",
+       "replace: 'intervinientes; d) identificar' -> 'intervinientes. e) Identificar'",
+       "replace: 'presten voluntariamente' -> 'prestaren de acuerdo a lo dispuesto'",
+       "replace: 'el lugar del hecho, tratándose de los casos a que se alude en los literales b) y c) precedentes; e) recibir' -> 'la ley. f) Recibir'",
+       "replace: 'público; f) efectuar' -> 'público. g) Efectuar'",
+       "delete: 'demás' -> ''",
+       "replace: 'dispusieren' -> 'dispusiere la Ley Nº 18.315, de 5 de julio de 2008 (Ley de Procedimiento Policial) y'",
+       "replace: 'legales.' -> 'legales y reglamentarias.'"
+      ]
+     },
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "insert: '' -> 'h) Recibida la denuncia de presunta estafa, extorsión o receptación, con prueba fehaciente de depósito, giro, transferencia u otra forma de envío de dinero en cualquier moneda, mediante instituciones '"
+      ]
+     }
+    ]
+   },
+   "art-054": {
+    "laws": [
+     "Ley Nº 19.653",
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/54)",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 19.653 art. 4 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'Público).' -> 'Público).-'",
+       "replace: 'administrativa' -> 'administrativa, de acuerdo a la gravedad del hecho,'",
+       "delete: 'cuando corresponda' -> ''",
+       "replace: 'actuaciones previstas en el artículo precedente,' -> 'diligencias que correspondan a la investigación del hecho,'",
+       "replace: 'competente.' -> 'competente'"
+      ]
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "delete: 'inmediatamente y por el medio más expeditivo' -> ''",
+       "replace: 'Público.' -> 'Público en un plazo no mayor a cuatro horas.'",
+       "replace: 'hecho, respecto de las cuales se cumplirá la obligación de información inmediata a la autoridad competente' -> 'hecho.'"
+      ]
+     }
+    ]
+   },
+   "art-055": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/55)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-056": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/56)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-057": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/57)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'generales).' -> 'generales).-'",
+       "insert: '' -> 'Las instrucciones generales no podrán afectar ni menoscabar en forma directa o indirecta la independencia de los Fiscales Letrados (artículo 46).'"
+      ]
+     }
+    ]
+   },
+   "art-059": {
+    "laws": [
+     "Ley Nº 19.653",
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/59)",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 19.653 art. 5 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'vehículo). Se podrá practicar el registro personal' -> 'vehículo).- Respecto'",
+       "replace: 'detenido,' -> 'detenido o de quien existan indicios de que haya cometido o intentado cometer delito, se podrá practicar el registro de su persona,'",
+       "replace: 'personal,' -> 'personal'",
+       "replace: 'del' -> 'de su'",
+       "delete: 'del detenido. Se requerirá autorización específica del fiscal competente, para practicar el registro de tal manera que pueda causar daño a la propiedad del detenido.' -> ''"
+      ]
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'cometido' -> 'cometido, intentado cometer'",
+       "replace: 'intentado' -> 'se disponga a'",
+       "replace: 'sexo' -> 'sexo. Queda asimismo habilitado el registro de personas, de vestimenta, equipaje y vehículo, en busca de armas, drogas u objetos robados, en el marco de procedimientos policiales preventivos rutinario'"
+      ]
+     }
+    ]
+   },
+   "art-061": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/61)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "insert: '' -> 'voluntarias'",
+       "replace: 'imputado' -> 'indagado'",
+       "replace: 'policía).La' -> 'Policía).- La'",
+       "delete: 'solo' -> ''",
+       "replace: 'imputado' -> 'indagado informándole previamente de sus derechos,'",
+       "replace: 'identidad. Si' -> 'identidad y para realizar averiguaciones, investigar, obtener evidencias y aclarar'",
+       "replace: 'imputado manifiesta su' -> 'presunto delito. Atento a lo que resulte de las averiguaciones, investigación y las declaraciones voluntarias del indagado, se procederá a ponerlo a'",
+       "delete: 'a declarar, se tomarán las medidas necesarias' -> ''",
+       "delete: 'inmediatamente' -> ''",
+       "delete: 'Si esto no fuera posible, se podrá consignar las declaraciones que voluntariamente quiera prestar, previa autorización del fiscal y bajo su responsabilidad.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-075": {
+    "laws": [
+     "Ley Nº 19.831"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/75)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "replace: 'defensor).' -> 'defensor).-'",
+       "insert: '' -> 'nulidad, salvo cuando constare fehacientemente que su ausencia fue voluntaria y deliberada, para provocar la'"
+      ]
+     }
+    ]
+   },
+   "art-081-bis": {
+    "laws": [
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-088": {
+    "laws": [
+     "Ley Nº 19.831"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/88)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "replace: 'instar).' -> 'instar).-'",
+       "replace: 'escrito, dejándose en todos los casos constancia en acta.' -> 'escrito.'",
+       "replace: 'deducirse, necesariamente' -> 'deducirse'"
+      ]
+     }
+    ]
+   },
+   "art-089": {
+    "laws": [
+     "Ley Nº 19.831"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/89)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "replace: 'instancia).' -> 'instancia).-'",
+       "replace: 'que se formule por' -> 'podrá formularse mediante'",
+       "replace: 'será firmada' -> 'firmado'",
+       "replace: 'autor, en presencia de la autoridad respectiva.' -> 'autor.'",
+       "delete: 'dígito pulgar derecha del interesado o, en su defecto, la' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-090": {
+    "laws": [
+     "Ley Nº 19.831"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/90)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "replace: 'instar).' -> 'instar).-'",
+       "replace: 'actuaciones judiciales,' -> 'actuaciones,'",
+       "replace: 'formulada dejándose constancia en el acta respectiva.' -> 'formulada.'"
+      ]
+     }
+    ]
+   },
+   "art-096": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/96)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'ofendido).' -> 'ofendido).-'",
+       "delete: 'violación, atentado violento al pudor, corrupción,' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-097": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/97)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'oficio).' -> 'oficio).-'",
+       "delete: 'violación, atentado violento al pudor, corrupción,' -> ''",
+       "replace: 'sí' -> 'si'",
+       "replace: 'años y' -> 'años; e) la persona agraviada'",
+       "replace: 'público; e)' -> 'de cualquier naturaleza; f)'",
+       "replace: 'f)' -> 'g)'",
+       "replace: 'laboral. EXCEPCIONES AL PRINCIPIO DE OBLIGATORIEDAD' -> 'laboral, subordinación o inferioridad jerárquica.'"
+      ]
+     }
+    ]
+   },
+   "art-100": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/100)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'oportunidad).' -> 'oportunidad).-'",
+       "replace: 'los dos años' -> 'un año'",
+       "replace: 'fundada' -> 'fundada, se notificará a la víctima'",
+       "replace: 'formal; también se comunicará' -> 'formal y para su examen, pudiendo en consecuencia el tribunal desestimar la resolución del Ministerio Público y ordenar el inicio de la persecución penal o retomar la ya iniciada. La resolución no adm'",
+       "replace: 'servicio y, en' -> 'Ministerio Público para'",
+       "replace: 'caso, al denunciante y a la víctima que hubiere comparecido. 100.3 Si el tribunal entiende que la decisión del fiscal' -> 'conocimiento. La resolución'",
+       "replace: 'se ajusta a derecho, así lo declarará, con noticia del jerarca del Ministerio Público. En tal caso el' -> 'admitirá recursos. El'",
+       "insert: '' -> 'hasta ese momento'",
+       "replace: 'impedido' -> 'inhibido'",
+       "replace: 'conociendo' -> 'entendiendo'",
+       "replace: 'Los autos' -> '100.5 Las actuaciones'",
+       "replace: 'deberá expedirse en el' -> 'dispondrá de un'",
+       "replace: 'reiterando o rectificando, definitivamente,' -> 'para expedirse. La decisión del fiscal subrogante concluirá'",
+       "replace: 'posición' -> 'cuestión y se comunicará al tribunal, al jerarca del Ministerio Público y al peticionante que solicitó el reexamen del caso. 100.6 El fiscal no podrá aplicar este principio en caso'",
+       "replace: 'la Fiscalía. DE LA ACCIÓN CIVIL' -> 'que el imputado hubiere sido beneficiado con su aplicación, dentro de los tres años anteriores.'"
+      ]
+     }
+    ]
+   },
+   "art-106": {
+    "laws": [
+     "Ley Nº 19.831"
+    ],
+    "earliest_text": "the later text without what this law added: Inciso 2º) (Ley Nº 19.831 art. 20)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "insert: '' -> '(Del requerimiento de firma).- Aclárase que en los supuestos en los cuales la ley procesal penal requiera una firma manuscrita, esa exigencia también queda satisfecha por una firma electrónica (Ley Nº'"
+      ]
+     }
+    ]
+   },
+   "art-111": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/111)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'procesales).' -> 'procesales).- Salvo disposición en contrario, los plazos procesales son perentorios e improrrogables. Vencido el plazo, sin necesidad de petición alguna, el tribunal dictará la resolución que correspo'",
+       "replace: 'suspensión, interrupción, término' -> 'suspensión'",
+       "replace: 'penal,' -> 'penal'",
+       "delete: 'en lo pertinente' -> ''",
+       "delete: 'proceso civil con excepción de lo establecido en el artículo 92 del' -> ''",
+       "replace: 'Proceso.' -> 'Proceso, en lo pertinente.'"
+      ]
+     }
+    ]
+   },
+   "art-119": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/119)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'definitiva).' -> 'definitiva).-'",
+       "replace: 'fecha en' -> 'fecha, el lugar y el tribunal'",
+       "replace: 'se' -> 'lo'",
+       "replace: 'acusados, la mención del representante del Ministerio Público y' -> 'imputados,'",
+       "replace: 'defensor' -> 'delito por el cual se los acusa, el de los defensores'",
+       "replace: 'y' -> 'e identificación del representante de'",
+       "replace: 'mención del delito o delitos imputados;' -> 'Fiscalía General de la Nación;'",
+       "insert: '' -> 'solo podrá tener por acreditados los hechos contenidos en la acusación,'",
+       "replace: 'corresponda.' -> 'corresponda, no pudiendo el tribunal aplicar penas más graves a las requeridas.'",
+       "replace: 'sobreseimiento,' -> 'sobreseimiento'",
+       "insert: '' -> 'la libertad del imputado, la cesación de todas las medidas cautelares y'"
+      ]
+     }
+    ]
+   },
+   "art-127": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/127)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'acusación).' -> 'acusación).-'",
+       "replace: 'sentencia,' -> 'sentencia'",
+       "replace: 'pertinente. Deberá' -> 'pertinente, se presentará por escrito y deberá'",
+       "insert: '' -> 'datos que sirvan para identificar al imputado y su defensor; b) la relación clara, precisa y circunstanciada del hecho o'",
+       "replace: 'el fiscal considere probados' -> 'se le atribuyen al imputado; c) los fundamentos de la imputación, con expresión de los medios de prueba que lo motivan; d) la expresión precisa de las disposiciones legales aplicables'",
+       "replace: 'calificación legal; b)' -> 'debida correlación con los hechos y con'",
+       "replace: 'participación' -> 'intervención atribuida al imputado; e) el ofrecimiento de la prueba para el juicio, la'",
+       "insert: '' -> 'de ser admitida de acuerdo con el artículo 268 de este Código, será incorporada'",
+       "replace: 'ellos hubiere tenido' -> 'la oportunidad procesal pertinente de acuerdo con'",
+       "replace: 'imputado; c)' -> 'artículo 270 de este Código; f)'",
+       "replace: 'concurrentes; d)' -> 'concurrentes y el requerimiento de pena estimado y en su caso, las medidas de seguridad que correspondieren. La acusación solo podrá referirse a los hechos y personas sobre las que se formalizó'",
+       "replace: 'petición de la pena o de la medida de seguridad, según corresponda.' -> 'investigación, aunque se efectuare una distinta calificación jurídica.'"
+      ]
+     }
+    ]
+   },
+   "art-128": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/128)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'defensa).' -> 'defensa).-'",
+       "replace: 'De los modos extraordinarios' -> 'Recibida la acusación el juez emplazará al acusado y su defensor, notificándole la acusación en su contra, para que en el plazo'",
+       "replace: 'conclusión del proceso' -> 'treinta días ofrezca la prueba que pretende producir en juicio oral. Si hubiere varios enjuiciados con diversos defensores, el plazo para evacuar el traslado será común a todos ellos.'"
+      ]
+     }
+    ]
+   },
+   "art-139": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/139)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: '(Documentación).' -> '(Documentación).-'",
+       "replace: 'Lo actuado' -> 'Las audiencias deberán registrarse'",
+       "insert: '' -> 'audio o video. Se utilizarán imágenes y sonidos para documentar actos de prueba o audiencias, quedando prohibida toda forma de edición, tratamiento o modificación de los registros. Se deberá asegurar '",
+       "replace: 'documentará en' -> 'registrará un'",
+       "replace: 'que' -> 'sucinta donde'",
+       "replace: 'labrará durante su transcurso. Además,' -> 'asentarán la fecha, partes intervinientes, ubicación del registro y decisión adoptada. 139.3 Será responsabilidad del juez verificar'",
+       "replace: 'tribunal dispondrá' -> 'correcto funcionamiento de los mecanismos de contingencia establecidos para'",
+       "insert: '' -> 'sistema de'",
+       "insert: '' -> 'audiencias en audio o video. En los casos excepcionales donde el sistema de registro o su sistema de contingencia no estuvieran disponibles, por razón fundada, se utilizará el acta escrita como medio '",
+       "replace: 'actuado mediante la utilización de medios técnicos apropiados. 139.2 Las partes y la víctima podrán solicitar lo que entiendan pertinente para asegurar su fidelidad, estándose en este caso a lo que el' -> 'actuado.'"
+      ]
+     }
+    ]
+   },
+   "art-140": {
+    "laws": [
+     "Ley Nº 19.831"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/140)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "delete: '140.3 Las resoluciones dictadas por el tribunal sobre producción, denegación y diligenciamiento de la prueba, serán apelables con efecto diferido.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-142": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/142)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'procesal).' -> 'procesal).-'",
+       "replace: 'condenatoria,' -> 'condenatoria'",
+       "insert: '' -> '142.3 Estas disposiciones no se aplicarán al proceso abreviado, el que se regirá por lo dispuesto en el Título II del Libro II de este Código.'"
+      ]
+     }
+    ]
+   },
+   "art-144": {
+    "laws": [
+     "Ley Nº 19.549",
+     "Ley Nº 19.653"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/144)",
+    "intermediate": {
+     "Ley Nº 19.653": "the wording Ley Nº 19.549 art. 15 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: '(Medios' -> '(Reglas probatorias).- Podrán probarse los hechos y circunstancias'",
+       "replace: 'prueba). Son medios' -> 'interés para el caso, por cualquier medio'",
+       "replace: 'prueba los previstos' -> 'prueba, salvo que se encuentren'",
+       "replace: 'en este Código y cualquier otro medio no prohibido' -> 'prohibidos'",
+       "replace: 'ley,' -> 'ley. La recolección de evidencias se sujetará a las siguientes reglas: a) la recolección de evidencias probatorias estará a cargo del Ministerio Público,'",
+       "replace: 'pueda utilizarse aplicando analógicamente' -> 'actuará bajo los principios de objetividad y buena fe; b) el imputado y su defensa podrán recolectar sus propias evidencias probatorias y recurrirán al Ministerio Público solo si fuese necesaria su in'",
+       "replace: 'reglas que disciplinan' -> 'partes podrán acordar tener por admitidos ciertos hechos, en cuyo caso corresponderá al juez en la audiencia de control de acusación declararlo como acreditado, dejando debida constancia en el auto de'",
+       "replace: 'los expresamente previstos.' -> 'juicio'"
+      ]
+     },
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'alguna;' -> 'alguna, con excepción de lo previsto en los incisos 271.8 y 271.9.'",
+       "replace: 'juicio' -> 'juicio.'"
+      ]
+     }
+    ]
+   },
+   "art-158": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/158)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'testigos).' -> 'testigos).-'",
+       "delete: 'o ampliatorias' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-164": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/164)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'víctima). 164.1 Para la declaración de la víctima rigen las mismas reglas prescritas para la declaración de los testigos. 164.2' -> 'víctima).-'",
+       "replace: 'sexuales' -> 'sexuales,'",
+       "replace: 'filmación' -> 'declaración será receptada por un funcionario especializado y sin la presencia de las partes, prohibiéndose en este caso el careo. Se utilizará la modalidad de Cámara Gesell o cualquier otro medio téc'",
+       "replace: 'pericial efectuada a la víctima en la etapa' -> 'los puntos de interrogatorio propuestos por las partes, las características del hecho y el estado emocional'",
+       "replace: 'investigación,' -> 'víctima. Sin perjuicio de ello, se'",
+       "replace: 'incorporarse' -> 'prescindir de esta modalidad, previa opinión favorable del representante de la víctima, si atendiendo a las circunstancias del caso, no se advierte ningún riesgo para aquella. Salvo circunstancias exc'",
+       "replace: 'testimonial, en cuanto se hayan cumplido las garantías procesales reguladas en' -> 'anticipada, de acuerdo con lo dispuesto por el artículo 213 de'",
+       "replace: 'Código, sin perjuicio del derecho de las partes a que se efectúen los correspondientes interrogatorios complementarios o ampliatorios.' -> 'Código.'"
+      ]
+     }
+    ]
+   },
+   "art-169": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/169)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'personas).' -> 'personas).-'",
+       "replace: 'testimonial' -> 'testimonial, en lo pertinente,'",
+       "replace: 'cada' -> 'previo al inicio del reconocimiento se interrogará al'",
+       "insert: '' -> 'por separado de los demás, a efectos de que describa a la persona y manifieste si'",
+       "replace: 'hará por separado, describiendo previamente al aludido y expresando si antes' -> 'ha vuelto a ver o'",
+       "replace: 'exhibido, debiendo hacerlo desde un lugar donde' -> 'exhibido antes del acto; b) se le indicará al testigo que el imputado puede o'",
+       "replace: 'pueda ser visto por aquel; b) el aludido elegirá lugar' -> 'estar presente'",
+       "replace: 'fila' -> 'rueda'",
+       "replace: 'varias' -> 'reconocimiento; c) la rueda estará conformada con el imputado y al menos tres'",
+       "replace: 'de aspecto semejante; c) el declarante dirá si' -> 'con características morfológicas y vestimenta similares a aquel. La defensa podrá incorporar'",
+       "replace: 'fila está la persona aludida y la señalará, manifestando las diferencias que encuentre con su percepción anterior. 169.2' -> 'rueda a dos personas más.'",
+       "replace: 'una' -> 'cada fila; d) el imputado elegirá su ubicación en la'",
+       "replace: 'personas. 169.3 De todo lo actuado' -> 'personas; e) el testigo procederá al reconocimiento desde un lugar donde no pueda ser visto, manifestando si el imputado'",
+       "replace: 'redactará acta' -> 'encuentra en la fila. En caso afirmativo indicará las diferencias'",
+       "replace: 'si es posible, se dejará registro mediante' -> 'semejanzas que observa entre su estado actual y'",
+       "replace: 'empleo de medio técnico idóneo. 169.4' -> 'que presentaba a la fecha del hecho. 169.2'",
+       "insert: '' -> '169.3 Durante la indagatoria preliminar el fiscal podrá ordenar la realización del reconocimiento, sin orden ni presencia del juez, pero siempre en presencia de la defensa, en cuyo caso el resultado s'"
+      ]
+     }
+    ]
+   },
+   "art-179": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/179)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-189": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/189)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: '(Objeto).' -> '(Objeto).-'",
+       "replace: 'aquel,' -> 'aquél,'",
+       "replace: 'encontrarán' -> 'encontraran'",
+       "replace: 'delito,' -> 'delito'",
+       "insert: '' -> 'el'",
+       "insert: '' -> 'la'",
+       "replace: 'aquel,' -> 'aquél,'",
+       "insert: '' -> 'su traslado a dependencias policiales por razones de su propia seguridad, o'",
+       "delete: 'solo' -> ''",
+       "replace: 'dos' -> 'hasta cuatro'"
+      ]
+     }
+    ]
+   },
+   "art-190": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/190)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'personas).' -> 'personas).-'",
+       "replace: 'vestimenta,' -> 'vestimenta o'",
+       "replace: 'administrativa, por orden del fiscal o por sí,' -> 'administrativa procederá a registrarlo,'",
+       "replace: 'inmediata a aquel, procederá a registrarlo.' -> 'posteriormente al Ministerio Público, dentro del término establecido para las comunicaciones.'",
+       "replace: 'se invitará' -> 'conminará bajo apercibimiento'"
+      ]
+     }
+    ]
+   },
+   "art-208": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/208)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: 'alcance y duración de la medida, que no podrá exceder un plazo máximo de seis meses, al igual que' -> 'alcance,'",
+       "replace: 'diligencia.' -> 'diligencia y la duración de la medida, cuyo plazo podrá ser extendido de seis meses hasta los dos años para el caso de investigaciones complejas o que involucren a organizaciones criminales. (*)'"
+      ]
+     }
+    ]
+   },
+   "art-213": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/213)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'anticipada).' -> 'anticipada).-'",
+       "replace: 'impedimento,' -> 'impedimento'",
+       "insert: '' -> 'declaración de víctimas de delitos sexuales menores de dieciocho años, personas con discapacidad física, mental o sensorial, de conformidad con lo dispuesto en el artículo 164.2 de este Código; e)'"
+      ]
+     }
+    ]
+   },
+   "art-221": {
+    "laws": [
+     "Ley Nº 19.653"
+    ],
+    "unresolved": "no original text; today's text is used from the start"
+   },
+   "art-223": {
+    "laws": [
+     "Ley Nº 19.653"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/223)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'preventiva).' -> 'preventiva).-'",
+       "replace: 'personal y' -> 'personal,'",
+       "replace: 'individual. En ningún' -> 'individual y a que se presuma su inocencia hasta que la sentencia de condena pase en autoridad de cosa juzgada. La resolución del tribunal, en'",
+       "insert: '' -> 'de acoger'",
+       "insert: '' -> 'solicitud de'",
+       "replace: 'será de aplicación preceptiva.' -> 'del Ministerio Público se regirá por lo establecido en el artículo 224.'"
+      ]
+     }
+    ]
+   },
+   "art-224": {
+    "laws": [
+     "Ley Nº 19.653",
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/224)",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 19.653 art. 8 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'preventiva).' -> 'preventiva).- 224.1'",
+       "insert: '' -> 'semiplena prueba de la existencia del hecho y de la participación del imputado y'",
+       "replace: 'investigación,' -> 'investigación'",
+       "replace: 'sociedad.' -> 'sociedad (artículo 15 de la Constitución de la República). 224.2 El riesgo de fuga, el ocultamiento, el entorpecimiento de la investigación, así como el riesgo para la seguridad de la víctima y de la '"
+      ]
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "insert: '' -> 'A estos efectos, el tribunal podrá acceder a la carpeta fiscal.'",
+       "replace: 'sociedad' -> 'sociedad,'",
+       "delete: 'el imputado posea la calidad de reiterante o reincidente y' -> ''",
+       "replace: 'a)' -> 'A)'",
+       "replace: 'b)' -> 'B)'",
+       "replace: '1' -> '1º'",
+       "replace: '4' -> '4º'",
+       "delete: '-' -> ''",
+       "replace: 'c)' -> 'C)'",
+       "delete: '-' -> ''",
+       "replace: 'd)' -> 'D)'",
+       "replace: 'e)' -> 'E)'",
+       "replace: 'f)' -> 'F)'",
+       "delete: '-' -> ''",
+       "replace: 'g)' -> 'G)'",
+       "replace: 'h)' -> 'H)'",
+       "replace: 'i)' -> 'I)'",
+       "replace: 'j)' -> 'J)'",
+       "replace: 'k)' -> 'K)'",
+       "replace: 'l)' -> 'L)'",
+       "replace: 'preventiva' -> 'preventiva.'"
+      ]
+     }
+    ]
+   },
+   "art-228": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/228)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "insert: '' -> '228.'",
+       "replace: '228.1' -> '228.1.'",
+       "replace: '228.2' -> '228.2.'",
+       "replace: 'salud' -> 'salud. 228.3. En los supuestos previstos en los literales b) y c), previo a decidir, el Juez deberá solicitar siempre la historia clínica al prestador de salud.'"
+      ]
+     }
+    ]
+   },
+   "art-230": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/230)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'solicitud).' -> 'solicitud).-'",
+       "delete: 'o fuera de ella' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-235": {
+    "laws": [
+     "Ley Nº 19.653"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/235)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'Cesará' -> 'En los procesos regidos por este Código, cesará'",
+       "replace: 'el' -> 'El'",
+       "replace: 'el' -> 'El'",
+       "replace: 'el' -> 'El'",
+       "replace: 'hayan' -> 'Hayan'",
+       "replace: 'al' -> 'Al'",
+       "delete: 'De las cauciones' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-248": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/248)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'país).' -> 'país).-'",
+       "replace: 'real' -> 'real, personal'",
+       "replace: 'personal;' -> 'juratoria;'",
+       "replace: 'juez' -> 'juez,'"
+      ]
+     }
+    ]
+   },
+   "art-260": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/260)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'diligencias).' -> 'diligencias).-'",
+       "replace: 'investigados.' -> 'investigados, si fuese necesaria su intervención.'",
+       "insert: '' -> 'La recolección de evidencias estará a cargo del Ministerio Público, no pudiendo ocultarlas a la contraparte por fuera de la regulación legal. En caso de negativa, el imputado y su defensa podrán recur'"
+      ]
+     }
+    ]
+   },
+   "art-264": {
+    "laws": [
+     "Ley Nº 19.549",
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/264)",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 19.549 art. 22 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'actuaciones).' -> 'actuaciones).-'",
+       "insert: '' -> 'formará un legajo de investigación, con el fin de preparar sus planteos, el que no estará sujeto a formalidad alguna, salvo las normas prácticas internas de registración. En el legajo se'",
+       "replace: 'menos,' -> 'menos'",
+       "insert: '' -> 'El legajo de la Fiscalía no podrá ser consultado por el órgano jurisdiccional, quien tendrá que resolver los planteos que le formulen las partes en audiencia, en base a las argumentaciones que estas h'"
+      ]
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "insert: '' -> 'salvo en los casos de los artículos 224.1, 272, 273, 273 BIS y 273 TER de este Código,'",
+       "replace: 'investigación' -> 'investigación.'"
+      ]
+     }
+    ]
+   },
+   "art-265": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/265)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'investigación preliminar cuando el imputado no está privado de libertad).' -> 'investigación).-'",
+       "delete: 'preliminar' -> ''",
+       "replace: 'contado' -> 'a contar'",
+       "replace: 'su inicio, cuando el imputado no se encontrare privado' -> 'la formalización'",
+       "replace: 'libertad.' -> 'la investigación.'"
+      ]
+     }
+    ]
+   },
+   "art-266": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/266)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'investigación).' -> 'investigación).-'",
+       "replace: 'Concluida' -> 'Cuando existan elementos objetivos suficientes que den cuenta de'",
+       "replace: 'indagatoria preliminar, si' -> 'comisión'",
+       "delete: 'ella resulta que se ha cometido' -> ''",
+       "replace: 'que están identificados' -> 'de la identificación de'",
+       "replace: 'autores, coautores o cómplices,' -> 'responsables,'",
+       "delete: 'preliminar. Lo anterior se entenderá sin perjuicio' -> ''",
+       "replace: 'lo dispuesto en el artículo 100 de este Código (principio de oportunidad).' -> 'formalización.'",
+       "replace: 'Código,' -> 'Código'",
+       "replace: 'indagatoria' -> 'investigación'",
+       "replace: 'a emplear;' -> 'con que cuenta;'",
+       "replace: 'encontrara' -> 'encontrare'",
+       "replace: 'verbalmente,' -> 'verbalmente'",
+       "insert: '' -> '266.5 Si el imputado se encontrare en libertad, recibida la solicitud de formalización, el juez convocará a las partes y a la víctima a audiencia, la que deberá celebrarse en un plazo no mayor a veint'"
+      ]
+     }
+    ]
+   },
+   "art-268": {
+    "laws": [
+     "Ley Nº 19.549",
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/268)",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 19.549 art. 25 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'preliminar).' -> 'de control de acusación).'",
+       "replace: 'Conforme' -> 'Vencido el plazo contemplado en el artículo 128 de este Código, el juez convocará'",
+       "insert: '' -> 'las partes y a la víctima, si hubiere comparecido a la audiencia de formalización, a una audiencia de control de la acusación, dentro de los diez días siguientes. Como cuestión previa en la audiencia,'",
+       "replace: '134' -> '139'",
+       "replace: 'Código, la audiencia preliminar será presidida por el tribunal y a ella deberán comparecer el fiscal y el imputado asistido por su defensor. 268.2 Si el imputado no hubiera designado defensor, el trib' -> 'Código'"
+      ]
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'ofrecerá su' -> 'enunciará la'",
+       "insert: '' -> 'ofrecida oportunamente'",
+       "replace: 'e' -> 'o'",
+       "replace: 'defensa' -> 'contraparte'",
+       "replace: 'la defensa.' -> 'las partes.'",
+       "replace: 'Código' -> 'Código.'"
+      ]
+     }
+    ]
+   },
+   "art-269": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/269)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: '(Desarrollo' -> '(Proceso'",
+       "replace: 'la audiencia preliminar).' -> 'conocimiento).-'",
+       "insert: '' -> '(Auto de apertura a juicio).-'",
+       "replace: 'juez interrogará al imputado sobre sus datos identificatorios conforme' -> 'auto de apertura'",
+       "replace: 'lo previsto' -> 'juicio oral contendrá: a) el órgano jurisdiccional competente para intervenir'",
+       "replace: 'artículo 66.1 de este Código, le comunicará detalladamente el hecho presuntamente delictivo' -> 'juicio oral; b) las partes intervinientes con sus respectivos domicilios; c) la acusación y la contestación admitidas; d) los hechos'",
+       "replace: 'le atribuye, le informará sobre el derecho a ejercer su defensa y el derecho a no declarar. 269.2 A continuación el juez dará la palabra al fiscal, quien expondrá las razones' -> 'dieron'",
+       "replace: 'las que solicitó la formalización de la investigación. El fiscal relatará los hechos presuntamente delictivos, expresará la participación que' -> 'acreditados'",
+       "replace: 'ellos atribuye al imputado, propondrá la calificación jurídica de los mismos que estime adecuada con indicación' -> 'virtud'",
+       "replace: 'normas legales aplicables, ofrecerá los medios de' -> 'convenciones probatorias arribadas; e) la'",
+       "replace: 'se proponga emplear y solicitará al tribunal' -> 'hubiera sido admitida, asentando los datos necesarios para'",
+       "replace: 'adopción de las medidas cautelares que considere necesarias, en su caso. Si estimare suficiente la prueba reunida, el fiscal podrá pedir además que se siga el proceso extraordinario. 269.3 A continuac' -> 'presentación'",
+       "replace: 'naturaleza' -> 'en juicio; f) los planteos efectuados y rechazados; y g) cuando el acusado soporte una medida cautelar, la indicación sobre su subsistencia y su duración. El auto de apertura a juicio es irrecurrible '",
+       "replace: 'pretendan formular' -> 'será remitido al juez respectivo. 269.2 (Preparación del juicio oral).- En'",
+       "replace: 'fiscal y' -> 'plazo de cinco días de dictado'",
+       "replace: 'defensor. 269.5 Tras la declaración del imputado' -> 'auto de apertura de juicio oral,'",
+       "replace: 'le dará la palabra' -> 'comunicará'",
+       "delete: 'su defensor para que formule los descargos, ofrezca los medios de prueba que estime necesarios y conteste el pedido fiscal o de la víctima de medidas cautelares, en su caso. Si el fiscal hubiere solic' -> ''",
+       "replace: 'resolverá de inmediato las siguientes cuestiones: a) la admisión de la solicitud fiscal de formalización de la investigación. La formalización de la investigación aparejará la sujeción del imputado al' -> 'que intervendrá'",
+       "insert: '' -> 'audiencia y la fecha de su realización, la'",
+       "delete: 'pueda recaer pena de penitenciaría, tendrá el efecto previsto en el artículo 80 de la Constitución de la República; b) la vía procesal a seguir, en caso de que el fiscal haya solicitado seguir la extr' -> ''",
+       "replace: 'dictar esta resolución dentro de las cuarenta y ocho horas siguientes a la detención, de conformidad con lo dispuesto en el artículo 16 de la Constitución de la República. 269.7 Si el juez dispone la ' -> 'tener lugar no antes'",
+       "replace: 'hábiles' -> 'ni después de tres meses'",
+       "replace: 'recepción' -> 'notificación'",
+       "replace: 'expediente. 269.8 A continuación el juez se pronunciará sobre' -> 'auto referido. 269.3 (Citación).- El juzgado procederá a la citación de'",
+       "replace: 'medios probatorios propuestos, rechazando los que fueren inadmisibles, innecesarios o inconducentes' -> 'testigos, peritos, intérpretes'",
+       "delete: 'procederá al diligenciamiento de' -> ''",
+       "replace: 'prueba.' -> 'víctima.'"
+      ]
+     }
+    ]
+   },
+   "art-270": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/270)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: '(Audiencia complementaria).' -> '(Apertura de juicio oral y audiencia).-'",
+       "replace: 'Si la prueba no hubiera podido diligenciarse en su totalidad en' -> 'La dirección de'",
+       "replace: 'preliminar,' -> 'le compete al juez, quien presidirá el juicio, hará las advertencias legales y moderará el debate. Tendrá poder de disciplina para velar por el orden y el respeto debido. 270.2 El juicio'",
+       "replace: 'citará a' -> 'realizará con la presencia ininterrumpida del juez y de todas'",
+       "replace: 'partes y a la víctima que hubiera comparecido en' -> 'partes. El imputado no podrá retirarse de'",
+       "replace: 'preliminar, para una' -> 'sin el permiso del juez. 270.3 La'",
+       "replace: 'complementaria' -> 'de juicio oral se desarrollará'",
+       "insert: '' -> 'forma continua y deberá prolongarse en sesiones sucesivas hasta su finalización. El tribunal podrá suspender la audiencia por razones de absoluta necesidad y por'",
+       "insert: '' -> 'tiempo mínimo que resulte necesario, el que no podrá extenderse por'",
+       "replace: 'breve tiempo posible,' -> 'de diez días, salvo casos excepcionales y debidamente fundados. 270.4 Constituido el tribunal el día y hora programada se declarará abierto el debate, advirtiendo al imputado sobre'",
+       "replace: 'que se celebrará con los requisitos previstos en los artículos 134 a 139 de este Código. 270.2 Esta audiencia podrá prorrogarse de oficio o a petición de parte, si faltare diligenciar alguna prueba qu' -> 'importancia del acto, el significado'",
+       "replace: 'audiencia, siempre' -> 'audiencia y los derechos'",
+       "replace: 'el tribunal' -> 'le asisten. 270.5 Inmediatamente se cederá'",
+       "replace: 'considere indispensable, en cuyo caso arbitrará los medios necesarios' -> 'palabra al fiscal'",
+       "replace: 'esté diligenciada en la fecha fijada para la reanudación' -> 'exponga sus alegatos'",
+       "replace: 'la audiencia. 270.3 Las partes podrán proponer, hasta la deducción de la acusación, diligencias probatorias que no pudieron ser ofrecidas oportunamente, por ser claramente supervinientes o referidas a' -> 'apertura. Luego se invitará'",
+       "replace: 'conteste. 270.5 Si' -> 'haga lo propio. Durante toda'",
+       "replace: 'complejidad' -> 'duración'",
+       "replace: 'asunto lo amerita,' -> 'juicio,'",
+       "replace: 'fiscal podrá solicitar prórroga de la audiencia para deducir acusación por un plazo máximo de diez días corridos. Igual prórroga podrá ser solicitada por la defensa para su contestación. El tribunal r' -> 'imputado'",
+       "insert: '' -> 'habilitado'",
+       "replace: 'lo dispuesto en el artículo 129 de este Código. 270.7 El fiscal podrá modificar en la acusación o antes de ella, la pretensión formulada al solicitar la formalización de la investigación respecto de l' -> 'realizar las declaraciones que considere pertinentes, siempre que'",
+       "replace: 'pronunciará sentencia, cuyos fundamentos' -> 'lo considere oportuno. Las partes'",
+       "replace: 'formularse dentro de los quince días siguientes. En los casos en que la complejidad' -> 'formularle preguntas, bajo las reglas'",
+       "replace: 'asunto lo justifique, podrá prorrogar la audiencia por un plazo no mayor a treinta días para dictar la sentencia con sus fundamentos. 270.9 Todo lo actuado se documentará conforme a lo dispuesto en el' -> 'examen y contra examen.'"
+      ]
+     }
+    ]
+   },
+   "art-271": {
+    "laws": [
+     "Ley Nº 19.549",
+     "Ley Nº 19.653",
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/271)",
+    "intermediate": {
+     "Ley Nº 19.653": "the later text without what this law added: Numerales 8) y 9) (Ley Nº 19.653 art. 14)",
+     "Ley Nº 19.889": "the later text without what this law added: Numeral 1 BIS) (Ley Nº 19.889 art. 39), Numeral 1 TER) (Ley Nº 19.889 art. 40)"
+    },
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: '(Resoluciones dictadas' -> '(Producción de prueba, alegatos y sentencia).- 271.1 Después de las presentaciones iniciales se recibirá la prueba ofrecida por las partes y la víctima si correspondiere. Comenzando por la prueba de l'",
+       "replace: 'audiencia). 271.1 Las resoluciones dictadas' -> 'su caso y finalizando con la prueba de la defensa. La prueba deberá producirse en la audiencia de juicio, no resultando válida la incorporación como prueba de actuaciones realizadas durante la investi'",
+       "replace: 'curso' -> 'presente Código. 271.3 Las partes podrán objetar las preguntas inadmisibles. El tribunal tratará el planteo'",
+       "insert: '' -> 'inmediato, con mínima sustanciación si fuese necesario, evitando que'",
+       "replace: 'audiencias admiten recurso' -> 'objeciones se utilicen para alterar la continuidad del testimonio. 271.4 Cuando sea necesario para demostrar o superar contradicciones o fuere indispensable para ayudar a recordar al testigo o perito,'",
+       "replace: 'reposición,' -> 'una declaración sin tenerla incorporada como prueba. 271.5 Los documentos, informes, objetos secuestrados, grabaciones y elementos de prueba audiovisual solo podrán ingresar al debate previa acreditac'",
+       "insert: '' -> 'tribunal concederá sucesivamente la palabra al fiscal, al abogado de la víctima si hubiera comparecido y al defensor para que, en ese orden, expresen sus alegatos finales. Todas las partes tendrán der'",
+       "insert: '' -> 'manifestar y luego de ello, se declarará cerrado el debate. 271.7 El tribunal'",
+       "replace: 'proponerse y sustanciarse en' -> 'dictar'",
+       "replace: 'propia' -> 'sentencia al término de la'",
+       "delete: 'decidirse' -> ''",
+       "replace: 'forma inmediata' -> 'esa oportunidad expedir el fallo con sus fundamentos. Excepcionalmente, cuando la complejidad del asunto no permitiere pronunciar la decisión inmediatamente, el tribunal podrá prorrogar la audiencia'",
+       "replace: 'el tribunal. 271.2 La' -> 'un plazo no mayor a quince días para dictar la'",
+       "delete: 'interlocutoria dictada conforme a lo dispuesto en el artículo 269.6 de este Código, admite el recurso de apelación sin efecto suspensivo. Si se dispone el archivo de las actuaciones, la resolución ser' -> ''",
+       "replace: 'efecto suspensivo. 271.3 Todas las resoluciones sobre producción, denegación y diligenciamiento de la prueba serán apelables con efecto diferido. DEL PROCESO EXTRAORDINARIO EN MATERIA DE CRÍMENES Y DE' -> 'sus fundamentos.'"
+      ]
+     },
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "insert: '' -> '271.8 El tribunal podrá disponer, durante el plazo para dictar sentencia, diligencias para mejor proveer. Las partes podrán solicitar, a modo de contraprueba, diligencias complementarias de las dispue'"
+      ]
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "insert: '' -> '271.1 BIS (Prueba nueva).- A solicitud de alguna de las partes, el juez podrá ordenar la recepción de pruebas que no hubieren ofrecido oportunamente (artículos 127 y 128), cuando se justificare no hab'"
+      ]
+     }
+    ]
+   },
+   "art-272": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/272)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: '(Procedencia). Si' -> '(Procedencia).- Se aplicará'",
+       "replace: 'Ministerio Público entendiera suficiente' -> 'proceso abreviado para el juzgamiento de hechos que constituyan delitos cuyo tipo básico esté castigado con una pena mínima no superior a cuatro años de penitenciaría o de una pena no privativa de lib'",
+       "replace: 'prueba reunida para fundar la acusación,' -> 'entidad de esta última. No se aplicará el proceso abreviado'",
+       "replace: 'solicitar la formalización' -> 'homicidio con circunstancias agravantes especiales (artículo 311 del Código Penal), ni al homicidio con circunstancias agravantes muy especiales (artículo 312 del Código Penal). Será necesario que el '",
+       "replace: 'investigación o en' -> 'investigación, los acepte expresamente y manifieste su conformidad con'",
+       "replace: 'audiencia preliminar podrá pedir que el proceso se tramite por la vía extraordinaria. Si la defensa no se opusiere, el juez deberá acceder al pedido del fiscal. En caso contrario el juez resolverá de ' -> 'aplicación'",
+       "replace: 'Código.' -> 'proceso. La existencia de varios imputados no impedirá la aplicación de estas reglas a algunos de ellos. En ese caso, el acuerdo celebrado con un imputado no podrá ser utilizado como prueba en contra '"
+      ]
+     }
+    ]
+   },
+   "art-273": {
+    "laws": [
+     "Ley Nº 19.653",
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/273)",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 19.653 art. 9 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: '(Procedimiento).' -> '(Procedimiento).-'",
+       "replace: 'extraordinario' -> 'abreviado'",
+       "replace: 'Si todos los imputados hubieran aceptado' -> 'Desde'",
+       "replace: 'tramitación por' -> 'formalización y hasta el vencimiento del plazo para deducir acusación o solicitar sobreseimiento, el fiscal podrá acordar con el imputado'",
+       "replace: 'vía' -> 'aplicación'",
+       "replace: 'extraordinario,' -> 'abreviado. 273.2 La aceptación de los hechos y de los antecedentes de la investigación por el imputado, será considerada por el Ministerio Público al momento de solicitar la pena, pudiendo disminuir l'",
+       "replace: 'habrá declinación de competencia' -> 'cumple con los requisitos legales, declarará su inadmisibilidad. En este caso, la pena requerida'",
+       "replace: 'supuesto previsto en' -> 'proceso abreviado no será vinculante para'",
+       "replace: 'artículo 269.7 de este Código. 273.2 La acusación' -> 'Ministerio Público'",
+       "replace: 'defensa se formularán verbalmente en audiencia, luego del diligenciamiento' -> 'aceptación de los hechos y de los antecedentes'",
+       "replace: 'prueba; el tribunal' -> 'investigación por parte del imputado se tendrá por'",
+       "replace: 'otorgará prórroga a las partes a tales efectos. 273.3 El tribunal dictará sentencia con sus fundamentos en' -> 'formulada. 273.4 En'",
+       "replace: 'pero' -> 'el juez dictará sentencia, luego de oír a la víctima si esta estuviera presente en la audiencia, la que en caso de ser condenatoria, no podrá imponer una pena mayor a la solicitada por el Ministerio P'",
+       "replace: 'complejos podrá prorrogar' -> 'de violación (artículo 272 del Código Penal), abuso sexual (artículo 272 - BIS del Código Penal), abuso sexual especialmente agravado (artículo 272 - TER del Código Penal), atentado violento al pudor '",
+       "replace: 'hasta por' -> 'en la que se dictó sentencia, esta será notificada del acuerdo alcanzado entre la Fiscalía y el imputado, en el plazo de'",
+       "replace: 'días, al efecto indicado. DEL PROCESO EN MATERIA DE FALTAS' -> 'días'"
+      ]
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'que' -> 'que,'",
+       "insert: '' -> 'la'",
+       "replace: 'Público' -> 'Público,'",
+       "replace: 'inciso' -> 'artículo'",
+       "replace: 'correspondiente, en los casos de violación (artículo 272 del Código Penal), abuso sexual (artículo 272 - BIS del Código Penal), abuso sexual especialmente agravado (artículo 272 - TER del Código Penal' -> 'correspondiente.'",
+       "replace: 'días' -> 'días.'"
+      ]
+     }
+    ]
+   },
+   "art-273-bis": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-273-ter": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-288-bis": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-295-bis": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {
+     "Ley Nº 20.075": "the later text without what this law added: Inciso 5º, numeral XIII) (Ley Nº 20.075 art. 122)"
+    },
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": "added"
+     },
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "insert: '' -> 'XIII). Delitos previstos por el inciso segundo del artículo 33 de la Ley Nº 19.574, de 20 de diciembre de 2017.'"
+      ]
+     }
+    ]
+   },
+   "art-298": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/298)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: '(Presupuestos).' -> '(Presupuestos).-'",
+       "replace: 'libertad al quedar ejecutoriada la sentencia de condena,' -> 'libertad,'",
+       "replace: 'Este' -> 'Cuando el'",
+       "insert: '' -> 'sea aplicable o se otorgue a penados extranjeros que no residan legalmente en el país, el Poder Ejecutivo podrá disponer su expulsión del territorio nacional. 298.4 La libertad anticipada'",
+       "replace: 'prisión,' -> 'prisión'",
+       "replace: 'multa,' -> 'multa'"
+      ]
+     }
+    ]
+   },
+   "art-301-bis": {
+    "laws": [
+     "Ley Nº 19.653",
+     "Ley Nº 19.889",
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {
+     "Ley Nº 19.889": "the later text without what this law added: Literales j), k) y l) (Ley Nº 19.889 art. 35)",
+     "Ley Nº 19.924": "the later text without what this law added: Literales m) y n) (Ley Nº 19.924 art. 196)"
+    },
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": "added"
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "insert: '' -> 'j) Rapiña (artículo 344 del Código Penal). k) Rapiña con privación de libertad. Copamiento (artículo 344 BIS del Código Penal). l) Extorsión (artículo 345 del Código Penal).'"
+      ]
+     },
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "insert: '' -> 'm) Delitos previstos en la Ley Nº 17.815, de 6 de setiembre de 2004, y sus modificativas. n) Delitos previstos en el Decreto-Ley Nº 14.294, de 31 de octubre de 1974, y sus modificativas.'"
+      ]
+     }
+    ]
+   },
+   "art-301-ter": {
+    "laws": [
+     "Ley Nº 19.653"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-304": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/304)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "insert: '' -> 'o sustitución'",
+       "insert: '' -> 'sustituirse o'",
+       "insert: '' -> 'En los casos en que se resuelva aplazar o sustituir la pena privativa de libertad el juez competente impondrá al condenado una o varias de las condiciones o medidas limitativas de la libertad ambulato'",
+       "insert: '' -> 'Lo dispuesto en este artículo no procede en casos de reincidencia, reiteración o habitualidad.'"
+      ]
+     }
+    ]
+   },
+   "art-305": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/305)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: 'condenado).' -> 'condenado).-'",
+       "insert: '' -> 'En todos los casos y previo a decidir, el Juez deberá, de oficio, solicitar siempre la historia clínica al prestador de salud.'"
+      ]
+     }
+    ]
+   },
+   "art-331": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/331)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'extradición).' -> 'extradición).-'",
+       "replace: 'pedido,' -> 'pedido'",
+       "replace: 'políticos,' -> 'políticos'",
+       "replace: 'redacción;' -> 'resolución;'"
+      ]
+     }
+    ]
+   },
+   "art-339": {
+    "laws": [
+     "Ley Nº 19.653"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/339)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'los ciento veinte días,' -> 'dos años,'",
+       "delete: 'PROCEDIMIENTO' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-341": {
+    "laws": [
+     "Ley Nº 19.653"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/341)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19653"
+      ],
+      "diff": [
+       "replace: 'requirente).' -> 'requirente).-'",
+       "replace: 'posteriormente hasta la audiencia de debate,' -> 'posteriormente,'",
+       "replace: 'deberá' -> 'podrá'"
+      ]
+     }
+    ]
+   },
+   "art-344": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/344)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'debate).' -> 'debate).-'",
+       "replace: 'ofrecer' -> 'Ofrecer'",
+       "replace: 'Si' -> 'Sí'",
+       "replace: 'ofrecido,' -> 'ofrecido'",
+       "replace: '273' -> '271'"
+      ]
+     }
+    ]
+   },
+   "art-362": {
+    "laws": [
+     "Ley Nº 19.831"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/362)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "delete: '362.3 Con efecto diferido en los casos expresamente establecidos por este Código.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-365": {
+    "laws": [
+     "Ley Nº 19.831",
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/365)",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 19.831 art. 18 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2019-10-06",
+      "laws": [
+       "ley-19831"
+      ],
+      "diff": [
+       "replace: '(Exclusiones).' -> '(Exclusiones).-'",
+       "replace: 'TRÁMITE ANTE EL TRIBUNAL DE ALZADA' -> 'El recurso de apelación contra la admisión o el rechazo de la prisión preventiva, su sustitución o prórroga, contra el rechazo de la formalización de la investigación o del pedido de sobreseimiento in'"
+      ]
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: '-presencial' -> 'presencial'",
+       "replace: 'Judicial-' -> 'Judicial'",
+       "insert: '' -> 'Cuando se interponga recurso de apelación contra la admisión de la formalización y contra la admisión o rechazo de la prisión preventiva, ambos recursos se sustanciarán conjuntamente en la forma previ'",
+       "replace: 'sobreseimiento' -> 'sobreseimiento.'"
+      ]
+     }
+    ]
+   },
+   "art-367": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/367)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: 'instancia).' -> 'instancia).-'",
+       "replace: 'sin' -> 'con'",
+       "delete: 'RECURSO DE CASACIÓN' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-382": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/382)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2017-11-16",
+      "laws": [
+       "ley-19549"
+      ],
+      "diff": [
+       "replace: '(Derogación).' -> '(Mediación extraprocesal).-'",
+       "replace: 'Deróganse' -> 'Cuando se trate de conductas con apariencia delictiva que no revistan gravedad, el Ministerio Público puede derivar el caso'",
+       "replace: 'partir' -> 'formas extraprocesales de resolución de ese conflicto. 382.2 El Poder Judicial tendrá competencia en la resolución del caso, a través'",
+       "replace: 'vigencia' -> 'mediación extraprocesal. 382.3 Para dar inicio al proceso restaurativo se requiere'",
+       "replace: 'este Código,' -> 'la conformidad manifiesta del presunto autor y de la presunta víctima, quienes deben ser preceptiva y oportunamente informados por'",
+       "insert: '' -> 'funcionario a cargo. 382.4 En caso de llegar a un acuerdo de reparación el Poder Judicial controlará su cumplimiento. 382.5 El Poder Judicial llevará un registro que especificará los acuerdos no alcan'",
+       "insert: '' -> 'Penal) o explotación sexual (Ley Nº 17.815, de 6 de setiembre de 2004),'",
+       "replace: 'Proceso Penal (Decreto-Ley Nº 15.032,' -> 'delito'",
+       "replace: '7' -> 'violencia doméstica (artículo 321 bis del Código Penal) así como respecto'",
+       "replace: 'julio de 1980), sus modificaciones y todas las disposiciones legales y reglamentarias' -> 'otros tipos penales'",
+       "replace: 'opongan al presente. 382.2 No obstante lo establecido' -> 'hayan cometido como forma de ejercer violencia basada'",
+       "replace: 'el inciso anterior, las referidas disposiciones continuarán aplicándose a los asuntos en trámite judicial hasta la sentencia definitiva de primera instancia, inclusive.' -> 'género.'"
+      ]
+     }
+    ]
+   },
+   "art-383": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19293-2014/383)",
+    "intermediate": {
+     "Ley Nº 20.519": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2026-09-24",
+      "laws": [
+       "ley-19889",
+       "ley-20519"
+      ],
+      "diff": [
+       "replace: '(Vigencia). El presente Código entrará' -> '(Oportunidad).- Desde la formalización y hasta el vencimiento del plazo para deducir acusación o solicitar sobreseimiento, el fiscal, con el acuerdo del imputado, podrá solicitar al tribunal'",
+       "replace: 'vigencia el 1º de febrero de 2017. Sala de Sesiones' -> 'forma fundada y bajo su responsabilidad funcional (artículos 24 y 25'",
+       "replace: 'Cámara' -> 'Constitución'",
+       "replace: 'Representantes,' -> 'la República), la suspensión condicional del proceso a cambio de condiciones u obligaciones. La suspensión procederá cuando no exista interés público'",
+       "replace: 'Montevideo,' -> 'la persecución y cuando la gravedad de la culpabilidad no se oponga'",
+       "replace: '10 de diciembre de 2014. GUSTAVO BORSARI BRENNA, 1er. Vicepresidente; JOSÉ PEDRO MONTERO, Secretario. MINISTERIO DEL INTERIOR MINISTERIO DE RELACIONES EXTERIORES MINISTERIO DE ECONOMÍA Y FINANZAS MINI' -> 'ello.'"
+      ]
+     }
+    ]
+   },
+   "art-384": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-385": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-386": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-387": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-388": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-389": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-390": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-391": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-392": {
+    "laws": [
+     "Ley Nº 19.889",
+     "Ley Nº 20.519"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-394": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   },
+   "art-397": {
+    "laws": [
+     "Ley Nº 19.549"
+    ],
+    "unresolved": "no original text; today's text is used from the start",
+    "resolved_by_post_pass": "the wording Ley Nº 19.436 art. 6 gives it"
+   }
+  },
+  "last_version_equals_impo": true,
+  "post_pass": {
+   "first_text_from_earlier_law": [
+    "Artículo 45: the wording Ley Nº 19.474 art. 1 gives it",
+    "Artículo 49: the wording Ley Nº 19.474 art. 1 gives it",
+    "Artículo 97: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 127: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 224: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 268: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 269: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 270: the wording Ley Nº 19.436 art. 2 gives it",
+    "Artículo 271: unknown (placeholder)",
+    "Artículo 272: the wording Ley Nº 19.436 art. 3 gives it",
+    "Artículo 273: the wording Ley Nº 19.436 art. 3 gives it",
+    "Artículo 382: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 383: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 384: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 385: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 386: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 387: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 388: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 389: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 390: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 391: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 392: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 394: the wording Ley Nº 19.436 art. 6 gives it",
+    "Artículo 397: the wording Ley Nº 19.436 art. 6 gives it"
+   ],
+   "article_vigencia": [
+    "Artículo 45: 2019-01-01 -> 2018-10-15 (Ley Nº 19.670 art. 292: \"El presente artículo entrará en vigencia a partir de la promulgación\")"
+   ],
+   "article_vigencia_not_applied": [],
+   "absent_between": [
+    "Artículo 383: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 384: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 385: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 386: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 387: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 388: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 389: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 390: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 391: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24",
+    "Artículo 392: absent from 2020-07-24 (Ley Nº 19.889, \"derogado anteriormente\") until 2026-09-24"
+   ],
+   "added_part_removed": [],
+   "placeholder": [
+    "Artículo 221: today's wording held back until 2018-09-06 (Ley Nº 19.653)"
+   ],
+   "absent_before": []
+  },
+  "impo_check": {
+   "today": {
+    "equal": true,
+    "differ": []
+   },
+   "last_version": {
+    "equal": true,
+    "differ": []
+   }
+  },
+  "before_first_day": {
+   "Ley Nº 19.436": {
+    "day": "2016-11-11",
+    "how": "published 2016-11-01; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.474": {
+    "day": "2017-02-18",
+    "how": "published 2017-02-08; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.510": {
+    "day": "2017-07-14",
+    "how": "its vigencia article: \"entrará en vigencia a partir de su promulgación\" (artículo 2)"
+   },
+   "Ley Nº 19.511": {
+    "day": "2017-07-29",
+    "how": "published 2017-07-19; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.544": {
+    "day": "2017-11-01",
+    "how": "its art. 11: \"regirá simultáneamente con la entrada en vigencia de la Ley N° 19.293\" (the CPP, in force 1 November 2017 by its art. 403)"
    }
   }
  }
