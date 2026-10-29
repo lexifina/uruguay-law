@@ -1,0 +1,165 @@
+{
+ "ley-18381": {
+  "in_force": {
+   "Ley Nº 18.719": {
+    "day": "2011-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2011\" (artículo 3)"
+   },
+   "Ley Nº 19.178": {
+    "day": "2014-01-18",
+    "how": "published 2014-01-08; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.996": {
+    "day": "2022-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2022\" (artículo 2)"
+   }
+  },
+  "base_in_force": {
+   "day": "2008-11-17",
+   "how": "published 2008-11-07; Código Civil art. 1: ten days after publication"
+  },
+  "articles": {
+   "art-005": {
+    "laws": [
+     "Ley Nº 19.996"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18381-2008/5)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2022-01-01",
+      "laws": [
+       "ley-19996"
+      ],
+      "diff": [
+       "delete: '(Difusión de la información pública).-' -> ''",
+       "replace: 'sitios web' -> 'medios electrónicos'",
+       "replace: 'a' -> 'con'",
+       "insert: '' -> 'En el caso de informaciones que cuenten con una periodicidad determinada legal o reglamentariamente para su actualización, los organismos estatales o no estatales obligados por la presente ley no tend'"
+      ]
+     }
+    ]
+   },
+   "art-009": {
+    "laws": [
+     "Ley Nº 19.178"
+    ],
+    "earliest_text": "the later text without what this law added: Literal g) e incisos 2º), 3º) y 4º) (Ley Nº 19.178 art. 1)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-01-18",
+      "laws": [
+       "ley-19178"
+      ],
+      "diff": [
+       "insert: '' -> 'G) Afectar la provisión libre y franca de asesoramientos, opiniones o recomendaciones que formen parte del proceso deliberativo de los sujetos obligados hasta que sea adoptada la decisión respectiva, '"
+      ]
+     }
+    ]
+   },
+   "art-021": {
+    "laws": [
+     "Ley Nº 19.178"
+    ],
+    "earliest_text": "the later text without what this law added: Literal k) (Ley Nº 19.178 art. 2)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-01-18",
+      "laws": [
+       "ley-19178"
+      ],
+      "diff": [
+       "insert: '' -> 'K) Solicitar al sujeto obligado la desclasificación de la información que hubiere sido clasificada sin ajustarse a los criterios de clasificación establecidos en la presente ley.'"
+      ]
+     }
+    ]
+   },
+   "art-033": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18381-2008/33)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'información).- En el plazo no mayor a un año desde la vigencia' -> 'información). Al 31'",
+       "replace: 'la presente ley,' -> 'julio de 2012,'",
+       "replace: '8º' -> '9º'",
+       "replace: 'La' -> 'En la misma fecha, la'",
+       "replace: 'desclasificarse en el plazo perentorio de seis meses.' -> 'ser desclasificada.'",
+       "replace: 'de vigencia de la presente ley,' -> 'señalada,'"
+      ]
+     }
+    ]
+   },
+   "art-034": {
+    "laws": [
+     "Ley Nº 18.719"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/18381-2008/34)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-01-01",
+      "laws": [
+       "ley-18719"
+      ],
+      "diff": [
+       "replace: 'obligados).-' -> 'obligados).'",
+       "replace: 'dos' -> 'cuatro'",
+       "replace: 'sanciones' -> 'sanción'"
+      ]
+     }
+    ]
+   }
+  },
+  "last_version_equals_impo": true,
+  "post_pass": {
+   "first_text_from_earlier_law": [],
+   "article_vigencia": [],
+   "article_vigencia_not_applied": [],
+   "absent_between": [],
+   "added_part_removed": [],
+   "placeholder": [],
+   "absent_before": [],
+   "whole_rewrites": []
+  },
+  "impo_check": {
+   "today": {
+    "equal": true,
+    "differ": []
+   },
+   "last_version": {
+    "equal": true,
+    "differ": []
+   }
+  },
+  "unamended_sample": {
+   "leyes-originales/18381-2008/2": "same words",
+   "leyes-originales/18381-2008/4": "same words",
+   "leyes-originales/18381-2008/7": "same words",
+   "leyes-originales/18381-2008/10": "same words",
+   "leyes-originales/18381-2008/12": "same words",
+   "leyes-originales/18381-2008/14": "same words",
+   "leyes-originales/18381-2008/16": "same words",
+   "leyes-originales/18381-2008/18": "same words",
+   "leyes-originales/18381-2008/20": "same words",
+   "leyes-originales/18381-2008/23": "same words",
+   "leyes-originales/18381-2008/25": "same words",
+   "leyes-originales/18381-2008/27": "same words"
+  },
+  "suspensions": []
+ },
+ "_shared_law_entries_differing": {},
+ "_headings_dropped": [
+  "DEL PROCEDIMIENTO ADMINISTRATIVO PARA ACCEDER A LA INFORMACION PUBLICA",
+  "ORGANO DE CONTROL"
+ ]
+}
