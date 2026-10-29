@@ -1146,18 +1146,65 @@
    }
   },
   "unamended_sample": {
-   "textos-originales-decreto-ley/14306-1974/5": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/13": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/21": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/29": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/40": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/48": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/56": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/65": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/75": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/86": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/95": "IMPO serves no original text",
-   "textos-originales-decreto-ley/14306-1974/105": "IMPO serves no original text"
+   "decretos-leyes-originales/14306-1974/5": {
+    "original": [
+     "(Integración analógica).- La integración analógica es procedimiento admisible para colmar los vacíos legales, pero en virtud de ella no pueden crearse tributos, infracciones ni exoneraciones.",
+     "En las situaciones que no puedan resolverse por las disposiciones de este Código o por las particulares sobre cada materia, se aplicarán supletoriamente las normas análogas y los principios generales de derecho tributario y, en su defecto, los de otras ramas jurídicas que más se avengan a su naturaleza y fines."
+    ],
+    "impo_today": [
+     "(Integración analógica).- La integración analógica es procedimiento admisible para colmar los vacíos legales, pero en virtud de ella no pueden crearse tributos, infracciones ni exoneraciones.",
+     "En las situaciones que no puedan resolverse por las disposiciones de este Código o por los particulares sobre cada materia, se aplicarán supletoriamente las normas análogas y los principios generales de derecho tributario y, en su defecto, los de otras ramas jurídicas que más se avengan a su naturaleza y fines."
+    ]
+   },
+   "decretos-leyes-originales/14306-1974/13": {
+    "original": [
+     "(Contribución especial).- Contribución especial es el tributo cuyo presupuesto de hecho se caracteriza por un beneficio económico particular proporcionado al contribuyente por la realización de obras públicas o de actividades estatales; su producto no debe tener un destino ajeno a la financiación de las obras o actividades correspondientes.",
+     "En el caso de obras públicas, la prestación tiene como límite total el costo de las mismas y como límite individual el incremento de valor del inmueble beneficiado.",
+     "Con contribuciones especiales los aportes a cargo de patronos y trabajadores destinados a los organismos estatales de seguridad social."
+    ],
+    "impo_today": [
+     "(Contribución especial).- Contribución especial es el tributo cuyo presupuesto de hecho se caracteriza por un beneficio económico particular proporcionado al contribuyente por la realización de obras públicas o de actividades estatales; su producto no debe tener un destino ajeno a la financiación de las obras o actividades correspondientes.",
+     "En el caso de obras públicas, la prestación tiene como límite total el costo de las mismas y como límite individual el incremento de valor del inmueble beneficiado.",
+     "Son contribuciones especiales los aportes a cargo de patronos y trabajadores destinados a los organismos estatales de seguridad social."
+    ]
+   },
+   "decretos-leyes-originales/14306-1974/21": "same words",
+   "decretos-leyes-originales/14306-1974/29": "same words",
+   "decretos-leyes-originales/14306-1974/40": {
+    "original": [
+     "(Suspensión de la prescripción).- La interposición por el interesado de cualquier recurso administrativo o de acciones o recursos jurisdiccionales, suspenderá el curso de la prescripción hasta que se configure resolución definitiva expresa o hasta que quede ejecutoriada la sentencia, en su caso."
+    ],
+    "impo_today": [
+     "(Suspensión de la prescripción).- La interposición por el interesado de cualquier recurso administrativo o de acciones o recursos jurisdiccionales, suspenderá el curso de la prescripción hasta que se configure resolución definitiva ficta; se notifique la resolución definitiva expresa, o hasta que quede ejecutoriada la sentencia, en su caso."
+    ]
+   },
+   "decretos-leyes-originales/14306-1974/48": "same words",
+   "decretos-leyes-originales/14306-1974/56": "same words",
+   "decretos-leyes-originales/14306-1974/65": "same words",
+   "decretos-leyes-originales/14306-1974/75": {
+    "original": [
+     "Sección Cuarta",
+     "Repetición de pago",
+     "(Competencia).- En aquellos casos en que el contribuyente tenga derecho a devolución, ya sea por pago indebido o por disposición de leyes o reglamentos aplicables, la solicitud deberá presentarse ante la oficina recaudadora correspondiente.",
+     "La petición deberá individualizar el pago que la motiva, citar las disposiciones legales en que se funda y determinar el importe reclamado."
+    ],
+    "impo_today": [
+     "(Competencia).- En aquellos casos en que el contribuyente tenga derecho a devolución, ya sea por pago indebido o por disposición de leyes o reglamentos aplicables, la solicitud deberá presentarse ante la oficina recaudadora correspondiente.",
+     "La petición deberá individualizar el pago que la motiva, citar las disposiciones legales en que se funda y determinar el importe reclamado."
+    ]
+   },
+   "decretos-leyes-originales/14306-1974/86": "same words",
+   "decretos-leyes-originales/14306-1974/95": "same words",
+   "decretos-leyes-originales/14306-1974/105": {
+    "original": [
+     "(Responsabilidad por acto de los representantes y de los dependientes).- Cuando un mandatario, representante, administrador o encargado incurriere en infracción, los representantes serán solidariamente responsables por las sanciones pecuniarias.",
+     "Las personas o entidades y los patronos en general serán solidariamente responsables por las sanciones pecuniarias aplicadas a sus dependencias por su actuación como tales."
+    ],
+    "impo_today": [
+     "(Responsabilidad por acto de los representantes y de los dependientes).- Cuando un mandatario, representante, administrador o encargado incurriere en infracción, los representados serán solidariamente responsables por las sanciones pecuniarias.",
+     "Las personas o entidades y los patronos en general serán solidariamente responsables por las sanciones pecuniarias aplicadas a sus dependientes, por su actuación como tales."
+    ]
+   }
   },
   "suspensions": []
  },
@@ -1379,7 +1426,7 @@
        "replace: 'Público' -> 'Nacional de Comercio. En la obligación de inscribir no quedan comprendidos los negocios de apoderamiento. La actuación de sociedades con administradores, representantes o directores no inscriptos, har'",
        "replace: 'para su incorporación' -> 'todo cambio de sede social'",
        "replace: 'legajo' -> 'que refiere el artículo 13'",
-       "replace: 'la sociedad. De la documentación y contabilidad' -> 'esta ley.'"
+       "replace: 'la sociedad.' -> 'esta ley.'"
       ]
      }
     ]
@@ -1924,7 +1971,7 @@
       ],
       "diff": [
        "replace: 'cinco' -> 'quince'",
-       "replace: 'plazo. SUB-SECCION VI De los libros sociales' -> 'plazo'"
+       "replace: 'plazo.' -> 'plazo'"
       ]
      },
      {
@@ -2064,8 +2111,7 @@
        "replace: 'acciones).' -> 'acciones).-'",
        "replace: 'resolución,' -> 'resolución'",
        "replace: 'meses,' -> 'meses'",
-       "replace: 'Oficial;' -> 'Oficial y en otro diario o periódico; y'",
-       "delete: 'SUB-SECCION IX De la impugnación de las resoluciones de las asambleas' -> ''"
+       "replace: 'Oficial;' -> 'Oficial y en otro diario o periódico; y'"
       ]
      }
     ]
@@ -2216,7 +2262,7 @@
        "replace: 'obstante,' -> 'obstante'",
        "replace: 'la' -> 'disposiciones estatutarias vigentes,'",
        "insert: '' -> 'También podrá suministrar la referida información a otros órganos u organismos nacionales con responsabilidades y competencias de supervisión y contralor sobre la actividad de la sociedad en cuestión,'",
-       "replace: 'anteriores. SUB-SECCION XII De los bonos o partes beneficiarias' -> 'anteriores'"
+       "replace: 'anteriores.' -> 'anteriores'"
       ]
      },
      {
@@ -2847,25 +2893,8 @@
    "leyes-originales/16060-1989/22": "same words",
    "leyes-originales/16060-1989/60": "same words",
    "leyes-originales/16060-1989/105": "same words",
-   "leyes-originales/16060-1989/143": {
-    "original": [
-     "(Causales contractuales). Los socios podrán establecer en el contrato social causales de rescisión parcial y de disolución no previstas por la ley.",
-     "SUBSECCION I",
-     "De la rescisión parcial"
-    ],
-    "impo_today": [
-     "(Causales contractuales). Los socios podrán establecer en el contrato social causales de rescisión parcial y de disolución no previstas por la ley."
-    ]
-   },
-   "leyes-originales/16060-1989/183": {
-    "original": [
-     "(Conservación de libros y documentos sociales). En defecto de acuerdo de los socios, se decidirá judicialmente quién conservará los libros y documentos sociales.",
-     "De la intervención judicial"
-    ],
-    "impo_today": [
-     "(Conservación de libros y documentos sociales). En defecto de acuerdo de los socios, se decidirá judicialmente quién conservará los libros y documentos sociales."
-    ]
-   },
+   "leyes-originales/16060-1989/143": "same words",
+   "leyes-originales/16060-1989/183": "same words",
    "leyes-originales/16060-1989/220": "same words",
    "leyes-originales/16060-1989/260": "same words",
    "leyes-originales/16060-1989/301": "same words",
@@ -2880,15 +2909,7 @@
    },
    "leyes-originales/16060-1989/385": "same words",
    "leyes-originales/16060-1989/428": "same words",
-   "leyes-originales/16060-1989/500": {
-    "original": [
-     "(Remisión). Salvo disposición expresa en el contrato o en este Capítulo, se aplicará lo dispuesto para las sociedades en general y para las colectivas en particular.",
-     "De los consorcios"
-    ],
-    "impo_today": [
-     "(Remisión). Salvo disposición expresa en el contrato o en este Capítulo, se aplicará lo dispuesto para las sociedades en general y para las colectivas en particular."
-    ]
-   }
+   "leyes-originales/16060-1989/500": "same words"
   },
   "suspensions": []
  },
@@ -3341,8 +3362,7 @@
        "delete: 'Juez' -> ''",
        "replace: 'dichas pretensiones,' -> 'todas las pretensiones antes mencionadas'",
        "insert: '' -> 'Juez'",
-       "replace: 'domicilio del' -> 'lugar en que reside el'",
-       "delete: 'III -Visitas' -> ''"
+       "replace: 'domicilio del' -> 'lugar en que reside el'"
       ]
      }
     ]
@@ -3556,8 +3576,7 @@
       ],
       "diff": [
        "replace: 'Juez' -> 'juez'",
-       "insert: '' -> 'o agraven'",
-       "delete: 'I -Derechos y garantías del procedimiento' -> ''"
+       "insert: '' -> 'o agraven'"
       ]
      }
     ]
@@ -3920,9 +3939,10 @@
       ],
       "diff": [
        "replace: '(Recurribilidad).-' -> '(Medios de comunicación).- Los medios de comunicación que infringieren lo dispuesto en el artículo 96 de este Código, incurrirán en multa entre 100 UR (cien unidades reajustables) y 2.000 UR (dos mil '",
-       "replace: 'sentencia podrá ser apelada ante el Tribunal' -> 'difusión y alcance que tuvo la noticia. B) La reiteración, la que se configurará por la comisión'",
-       "replace: 'Familia respectivo, cuya decisión hará cosa juzgada. IV- Principios' -> 'dos o más infracciones del mismo tipo dentro del término de cinco años. C) La continuidad, entendiéndose por tal la violación repetida'",
-       "replace: 'ejecución' -> 'prohibición. D) La reincidencia, la que se configurará por la comisión de una nueva infracción del mismo tipo antes de transcurridos cinco años de la aplicación por la Administración, por resolución f'"
+       "replace: 'sentencia podrá ser apelada ante' -> 'difusión y alcance que tuvo la noticia. B) La reiteración, la que se configurará por la comisión de dos o más infracciones del mismo tipo dentro del término de cinco años. C) La continuidad, entendién'",
+       "replace: 'Tribunal' -> 'Instituto'",
+       "replace: 'Familia respectivo,' -> 'la Niñez y la Adolescencia del Uruguay'",
+       "replace: 'decisión hará cosa juzgada.' -> 'resolución será pasible de los recursos administrativos correspondientes y se considerará título ejecutivo. Lo recaudado se destinará a financiar programas de rehabilitación a cargo de dicho organismo'"
       ]
      }
     ]
@@ -4030,8 +4050,7 @@
       ],
       "diff": [
        "replace: 'expediente, salvo casos excepcionales, a juicio del Juez' -> 'expediente. A solicitud de las partes'",
-       "replace: 'adolescente. IX -De' -> 'adolescente, el Juez en casos excepcionales, podrá disponer la reserva de'",
-       "replace: 'comunicaciones procesales' -> 'actuaciones respecto de alguno de los intervinientes.'"
+       "replace: 'adolescente.' -> 'adolescente, el Juez en casos excepcionales, podrá disponer la reserva de las actuaciones respecto de alguno de los intervinientes.'"
       ]
      }
     ]
@@ -4098,7 +4117,7 @@
        "replace: 'casos no contemplados' -> 'plazos).- Todos los plazos señalados'",
        "replace: 'se aplicarán, en lo pertinente,' -> 'son perentorios e improrrogables. En casos excepcionales, el Juez, a solicitud de'",
        "replace: 'disposiciones del Código General del Proceso (artículos 76 a 90 de' -> 'partes, podrá suspender su curso fundando'",
-       "replace: 'Sección III). X - Plazos procesales' -> 'medida y su duración.'"
+       "replace: 'Sección III).' -> 'medida y su duración.'"
       ]
      }
     ]
@@ -4677,7 +4696,7 @@
        "replace: 'Jueces' -> 'avances y resultados'",
        "replace: 'Familia (artículo 71' -> 'las prestaciones efectuadas, en un plazo'",
        "replace: 'la Ley Nº 15.750,' -> 'seis meses posteriores al inicio'",
-       "replace: '24 de junio de 1985). II -Del maltrato y abuso del niño o adolescente' -> 'los tratamientos.'"
+       "replace: '24 de junio de 1985).' -> 'los tratamientos.'"
       ]
      }
     ]
@@ -5072,8 +5091,7 @@
        "replace: 'medidas del caso para la protección del niño, pero no podrá dar comienzo al procedimiento establecido en el artículo anterior hasta que se cumpla el lapso fijado' -> 'mismas responsabilidades y excepciones previstas'",
        "replace: 'primero' -> 'anterior. Si requerido por el Juez, el INAU no se expidiere en el plazo que éste le fije, podrá prescindir'",
        "replace: 'este artículo y previa citación' -> 'su informe a los efectos'",
-       "replace: 'los progenitores del niño. IV -De' -> 'tomar'",
-       "replace: 'adopción Adopción simple' -> 'decisión que corresponda.'"
+       "replace: 'los progenitores del niño.' -> 'tomar la decisión que corresponda.'"
       ]
      }
     ]
@@ -5661,8 +5679,10 @@
        "replace: '(Sentencia).- Con' -> '(Efectos).- Realizada la adopción los vínculos de filiación anterior del niño, niña o adolescente se sustituirán por los vínculos de filiación adoptivos a todos sus efectos, con excepción de los imped'",
        "replace: 'testimonio' -> 'artículo 91 del Código Civil y del derecho de mantener vínculos regulares con su familia de origen o parte de ella, de acuerdo con los artículos 138 y 146. Deberá hacerse constar dicha sustitución en '",
        "replace: 'sentencia ejecutoriada' -> 'misma, quien se reputará en adelante con los mismos derechos y deberes'",
-       "replace: 'autorice' -> 'si hubiera nacido del o los adoptantes. IV - De'",
-       "replace: 'legitimación adoptiva, la parte solicitante efectuará la inscripción del niño o adolescente en la Dirección General del Registro de Estado Civil como hijo legítimo inscripto fuera de término. En la pa' -> 'adopción internacional'"
+       "replace: 'autorice la legitimación adoptiva, la parte solicitante efectuará la inscripción' -> 'si hubiera nacido'",
+       "delete: 'niño' -> ''",
+       "delete: 'adolescente en la Dirección General del Registro de Estado Civil como hijo legítimo inscripto fuera de término. En la partida correspondiente no se hará mención alguna del juicio y su texto será el co' -> ''",
+       "replace: 'hijos habidos dentro del matrimonio. El testimonio de la sentencia se archivará en forma, dejándose constancia de haberse efectuado la inscripción mencionada. Toda la tramitación y la expedición de pa' -> 'adoptantes.'"
       ]
      },
      {
@@ -5680,8 +5700,7 @@
        "insert: '' -> 'plena'",
        "replace: 'se reputará' -> 'como hijo será titular desde el emplazamiento de su nuevo estado civil y'",
        "replace: 'con' -> 'de'",
-       "replace: 'del' -> 'de el'",
-       "delete: 'IV - De la adopción internacional' -> ''"
+       "replace: 'del' -> 'de el'"
       ]
      }
     ]
@@ -5925,7 +5944,7 @@
        "replace: 'funcionamiento' -> 'niño, niña o adolescente deberá ser oído preceptivamente. E) Orientar y acompañar el proceso'",
        "replace: 'instituciones privadas con personalidad jurídica' -> 'integración familiar, tomando las acciones para garantizar una satisfactoria inserción familiar del niño, niña o adolescente'",
        "replace: 'especialización' -> 'supervisar el cumplimiento del derecho al conocimiento de su origen e identidad. F) Asesorar al Juez toda vez que le sea requerido su informe. G) Orientar y apoyar a adoptados y adoptadas, adoptantes '",
-       "replace: 'la materia.' -> 'el proceso de conocimiento y acercamiento de las mismas. VII - Del registro de adopciones'"
+       "replace: 'la materia.' -> 'el proceso de conocimiento y acercamiento de las mismas.'"
       ]
      },
      {
@@ -5946,7 +5965,7 @@
        "replace: 'casos el' -> 'siguientes casos: 1) si en la lista no existieran interesados en la adopción de'",
        "replace: 'adolescente deberá ser oído preceptivamente.' -> 'adolescente; 2) en caso de niños, niñas o adolescentes con capacidades diferentes; 3) hermanos; 4) cuando se trate de adopción integradora.'",
        "replace: 'requerido su informe.' -> 'requerido.'",
-       "replace: 'mismas. VII - Del registro de adopciones' -> 'mismas'"
+       "replace: 'mismas.' -> 'mismas'"
       ]
      },
      {
