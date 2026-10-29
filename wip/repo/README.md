@@ -14,6 +14,14 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `codigo-civil/` | Código Civil, as approved by Ley Nº 16.603 (1994) | 18 | From the re-edition approved by Ley 16.603 (in force 1 December 1994) through 20 amending laws (Leyes 16.719 to 20.446), to today. The code of 1868 and its changes before 1994 are not included |
 | `codigo-penal/` | Código Penal (Ley Nº 9.155 of 1933) | 36 | As enacted (in force 1 August 1934, Ley 9.414 art. 2), then 47 amending laws from Ley 13.737 (1969) to Ley 20.353 (2024), to today. IMPO records no amendment between 1934 and 1969 (see below) |
 | `ley-18331/` | Ley Nº 18.331 de Protección de Datos Personales (2008) | 7 | As enacted (in force 28 August 2008), then every amending law IMPO names: Leyes 18.719, 18.996, 19.355, 19.670, 19.924 and 20.075, to today |
+| `codigo-general-proceso/` | Código General del Proceso (Ley Nº 15.982 of 1988) | 28 | From its entry into force (20 November 1989, art. 547), with Ley 16.053's earlier changes, through 36 amending laws to today |
+| `codigo-comercio/` | Código de Comercio (1865) | 14 | The 1865 code as IMPO gives it, dated 24 January 1866 (Ley 841), through 15 amending laws and decree-laws to today; Libro IV (quiebras) reads a placeholder from 1879, as no source gives its 1878 and 1900 texts |
+| `codigo-proceso-penal/` | Código del Proceso Penal (Ley Nº 19.293 of 2014) | 12 | From its entry into force (1 November 2017, art. 403), with the laws that changed it before that day, through 12 amending laws to today |
+| `codigo-tributario/` | Código Tributario (Decreto-Ley Nº 14.306 of 1974) | 10 | As enacted (in force 16 December 1974), then 13 amending decree-laws and laws from Decreto-Ley 14.416 (1975) to Ley 20.446 (2025), to today |
+| `ley-16060/` | Ley Nº 16.060 de Sociedades Comerciales (1989) | 21 | As enacted (in force 31 December 1989, art. 511), then 21 amending laws from Ley 16.296 (1992) to Ley 19.924 (2020), to today |
+| `ley-17250/` | Ley Nº 17.250 de Relaciones de Consumo (2000) | 7 | As enacted (in force 27 August 2000), then Leyes 18.046, 18.362, 19.149, 19.355, 19.924 and 20.212, to today. Ley 20.531 (in force 1 January 2027) is not in IMPO's consolidated text yet |
+| `codigo-ninez-adolescencia/` | Código de la Niñez y la Adolescencia (Ley Nº 17.823 of 2004) | 22 | As enacted (in force 24 September 2004), then 24 amending laws from Ley 17.930 (2005) to Ley 20.266 (2024), to today. Articles added inside a chapter are `art-132-1.md` (Artículo 132.1) |
+| `codigo-aduanero/` | Código Aduanero (CAROU, Ley Nº 19.276 of 2014) | 9 | As enacted (in force 18 March 2015, art. 276), then 6 amending laws to today, and two wording-unchanged commits for Leyes 19.322 and 19.394, which suspended arts. 224 to 257 and 269 until 16 July 2017 |
 
 The articles are `<act>/art-NNN.md` (`art-009-bis.md` for Artículo 9 BIS; four digits in the Código Civil, `art-1782.md`); the Constitution's Disposiciones Transitorias y Especiales are `constitucion/disp-trans-<letter>.md` (`-prima` for V'), Z'), `-segunda` for Z")). The per-act `README.md` lists every provision, how often it changed and when.
 
@@ -75,6 +83,8 @@ The author of a commit is the reform or law that made the change, with an e-mail
 - The exact proclamation day of the 1994, 1996 and 2004 reforms (see Dates).
 - Section and chapter headings, which are not units. IMPO's headings are not part of the article text.
 - Changes to a law that IMPO's notes do not record. The history of a law is only as complete as IMPO's notes.
+- The Ley de Urgente Consideración (Ley 19.889) as an act of its own: IMPO's consolidated text of it gives 253 of its 476 articles only as pointers to the laws they amended. Its changes are in those laws' histories (here the Códigos Civil, Penal, de Comercio, General del Proceso, del Proceso Penal and de la Niñez y la Adolescencia).
+- In the Código Tributario, art. 40 has words ("ficta; se notifique la resolución definitiva") that its 1974 original lacks and no amending law IMPO names explains; like every article IMPO records no change to, it shows today's text throughout.
 - Interpretative laws (for example Ley 19.355 art. 84 on Ley 18.331 arts. 9 and 17), which change no words.
 
 Only the texts published by the Parlamento and IMPO are authoritative. This repository is a research aid, not legal advice.
