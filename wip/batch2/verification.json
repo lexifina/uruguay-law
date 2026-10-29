@@ -4729,8 +4729,7 @@
        "replace: 'Oficial' -> 'Oficial, en la red informática del Poder Judicial'",
        "replace: 'otro' -> 'un'",
        "replace: 'del lugar' -> 'habilitado de la localidad'",
-       "replace: 'subasta.' -> 'subasta, de acuerdo a lo dispuesto en el artículo 89.'",
-       "insert: '' -> '(*)'"
+       "replace: 'subasta.' -> 'subasta, de acuerdo a lo dispuesto en el artículo 89.'"
       ]
      }
     ]
@@ -5566,7 +5565,6 @@
        "replace: 'sucesorio,' -> 'sucesorio'",
        "replace: '254.' -> '254, sin efecto suspensivo. La resolución que pone fin al proceso sucesorio será apelable de conformidad con el artículo 254, con efecto suspensivo.'",
        "replace: 'ordinario,' -> 'ordinario o extraordinario'",
-       "replace: '253).' -> '253).(*)'",
        "replace: 'apelaciones' -> 'sentencias'",
        "replace: 'cese,' -> 'cese'",
        "replace: 'concederán sólo con' -> 'apelarán sin'",
@@ -7102,7 +7100,8 @@
     "Artículo 548: before 1992-01-01, today's text without Apartado ordinal 1º) inciso 2º) (Ley Nº 16.226 art. 327 quotes it)"
    ],
    "placeholder": [],
-   "absent_before": []
+   "absent_before": [],
+   "whole_rewrites": []
   },
   "impo_check": {
    "today": {
@@ -7133,6 +7132,822 @@
     "day": "1989-07-20",
     "how": "its vigencia article: \"entrará en vigencia a partir de su promulgación\" (artículo 3)"
    }
+  }
+ },
+ "codigo-comercio": {
+  "in_force": {
+   "Ley Nº 13.665": {
+    "day": "1968-07-06",
+    "how": "published 1968-06-26; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 1.396": {
+    "day": "1878-06-20",
+    "how": "promulgated 1878-06-10, no publication day in IMPO; Código Civil art. 1: ten days after promulgation"
+   },
+   "Decreto-Ley Nº 14.701": {
+    "day": "1977-11-01",
+    "how": "its vigencia article: \"entrará en vigencia el 1º de noviembre de 1977\" (artículo 127)"
+   },
+   "Decreto-Ley Nº 15.080": {
+    "day": "1980-12-20",
+    "how": "published 1980-12-10; Código Civil art. 1: ten days after publication"
+   },
+   "Decreto-Ley Nº 15.508": {
+    "day": "1984-01-28",
+    "how": "published 1984-01-18; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 1.565": {
+    "day": "1882-05-06",
+    "how": "promulgated 1882-04-26, no publication day in IMPO; Código Civil art. 1: ten days after promulgation"
+   },
+   "Ley Nº 16.060": {
+    "day": "1989-12-31",
+    "how": "its vigencia article: \"entrará en vigencia a los sesenta días de su publicación\" (artículo 511)"
+   },
+   "Ley Nº 17.292": {
+    "day": "2001-02-08",
+    "how": "published 2001-01-29; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 17.930": {
+    "day": "2006-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1º de enero de 2006\" (artículo 2)"
+   },
+   "Ley Nº 18.387": {
+    "day": "2008-11-02",
+    "how": "its vigencia article: \"entrará en vigencia a los diez días de su promulgación\" (artículo 255)"
+   },
+   "Ley Nº 19.246": {
+    "day": "2014-09-19",
+    "how": "published 2014-09-09; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.889": {
+    "day": "2020-07-24",
+    "how": "published 2020-07-14; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 2.956": {
+    "day": "1905-09-23",
+    "how": "published 1905-09-13; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 5.392": {
+    "day": "1916-02-20",
+    "how": "published 1916-02-10; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 5.548": {
+    "day": "1917-01-15",
+    "how": "published 1917-01-05; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 8.045": {
+    "day": "1926-11-23",
+    "how": "published 1926-11-13; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 8.301": {
+    "day": "1928-10-29",
+    "how": "published 1928-10-19; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 8.461": {
+    "day": "1929-09-21",
+    "how": "published 1929-09-11; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 9.280": {
+    "day": "1934-03-19",
+    "how": "published 1934-03-09; Código Civil art. 1: ten days after publication"
+   }
+  },
+  "base_in_force": {
+   "day": "1866-01-24",
+   "how": "leyes/841-1866: promulgated 1866-01-24, \"Fíjase la fecha en que comenzará a regir el Código de Comercio.\"; the day it fixes is only in IMPO's scan, which is not read (no OCR), so the code is dated on that law's promulgation"
+  },
+  "articles": {
+   "art-0029": {
+    "laws": [
+     "Ley Nº 5.392",
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/29)",
+    "intermediate": {
+     "Ley Nº 18.387": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-5392",
+       "ley-18387"
+      ],
+      "diff": [
+       "delete: 'Los quebrados que no hayan obtenido rehabilitación, salvo las limitaciones del artículo 1613.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0062": {
+    "laws": [
+     "Ley Nº 5.548"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/62)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1917-01-15",
+      "laws": [
+       "ley-5548"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0069": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/69)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": [
+       "delete: 'En caso de quiebra, el negociante que se encontrase no haber llevado los libros en la forma y con los requisitos prescritos en los artículos precedentes, será reputado culpable en los términos estable' -> ''",
+       "replace: 'fallidos' -> 'de los fallidos,'",
+       "replace: 'llevados,' -> 'llevados'"
+      ]
+     }
+    ]
+   },
+   "art-0113": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/113)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0114-123": {
+    "laws": [
+     "Decreto-Ley Nº 15.508"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/114_123)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1984-01-28",
+      "laws": [
+       "decreto-ley-15508"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0131": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/131)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0197": {
+    "laws": [
+     "Decreto-Ley Nº 14.701"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/197)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1977-11-01",
+      "laws": [
+       "decreto-ley-14701"
+      ],
+      "diff": [
+       "delete: 'La falta de expresión de causa o la falsa causa, en las obligaciones transmisibles por vía de endoso, nunca puede oponerse al tercero, portador de buena fe.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0246": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/246)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": [
+       "replace: 'contratos,' -> 'contratos'",
+       "replace: 'jure' -> 'jure,'",
+       "replace: 'convención' -> 'convención,'",
+       "replace: '(art.' -> '(artículo'",
+       "replace: 'judicialmente;' -> 'judicialmente,'",
+       "delete: 'El derecho a pedir la resolución del contrato, cesa en caso de quiebra.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0384": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/384)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": [
+       "replace: 'respectivo.' -> 'respectivos.'",
+       "delete: 'Que en caso de falencia será pagado preferentemente o con privilegio sobre el producto de los mismos géneros.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0385": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/385)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": [
+       "replace: 'Para gozar' -> 'Gozará asimismo del derecho'",
+       "replace: 'la preferencia establecida en el artículo precedente, es menester que' -> 'retención, si'",
+       "replace: 'estén' -> 'se hallan'",
+       "replace: 'poder del consignatario, o que se hallen a su disposición, y que a lo menos se haya verificado la expedición' -> 'camino'",
+       "replace: 'consignatario, y que éste haya recibido un duplicado del conocimiento' -> 'fallido, probándose la remesa por conocimientos'",
+       "replace: 'carta' -> 'cartas'"
+      ]
+     }
+    ]
+   },
+   "art-0387-512": {
+    "laws": [
+     "Ley Nº 16.060"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/387_512)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1989-12-31",
+      "laws": [
+       "ley-16060"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0670": {
+    "laws": [
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/670)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0712": {
+    "laws": [
+     "Ley Nº 1.565",
+     "Ley Nº 2.956"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/712)",
+    "intermediate": {
+     "Ley Nº 2.956": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "1905-09-23",
+      "laws": [
+       "ley-1565",
+       "ley-2956"
+      ],
+      "diff": [
+       "replace: 'ascender' -> 'ascender,'",
+       "replace: 'las partes se han sujetado a los intereses que cobren los Bancos públicos,' -> 'dicho interés es del seis por ciento por año,'"
+      ]
+     }
+    ]
+   },
+   "art-0753": {
+    "laws": [
+     "Ley Nº 1.396"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/753)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1878-06-20",
+      "laws": [
+       "ley-1396"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0773": {
+    "laws": [
+     "Decreto-Ley Nº 15.080",
+     "Ley Nº 17.930"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/773)",
+    "intermediate": {
+     "Ley Nº 17.930": "the wording Decreto-Ley Nº 15.080 art. 1 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "1980-12-20",
+      "laws": [
+       "decreto-ley-15080"
+      ],
+      "diff": [
+       "replace: 'usufructo,' -> 'usufructo y sobre naves'",
+       "replace: 'sobre naves.' -> 'diques flotantes'"
+      ]
+     },
+     {
+      "day": "2006-01-01",
+      "laws": [
+       "ley-17930"
+      ],
+      "diff": [
+       "delete: 'no' -> ''",
+       "replace: 'tener lugar sino' -> 'constituirse'",
+       "replace: 'raíces' -> 'inmuebles'",
+       "insert: '' -> 'en'",
+       "insert: '' -> 'y diques flotantes. También se podrá constituir sobre un buque en construcción y se inscribirá en el Registro Nacional de Buques. La hipoteca puede constituirse a partir de la firma del contrato de co'",
+       "replace: 'diques flotantes' -> 'cuando el buque se encuentre en curso de construcción. A los efectos de lo establecido en el inciso anterior se consideran partes integrantes del buque en construcción y sujetos a la garantía, los mat'"
+      ]
+     }
+    ]
+   },
+   "art-0788-931": {
+    "laws": [
+     "Decreto-Ley Nº 14.701"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/788_931)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1977-11-01",
+      "laws": [
+       "decreto-ley-14701"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0932": {
+    "laws": [
+     "Decreto-Ley Nº 14.701"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/932)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1977-11-01",
+      "laws": [
+       "decreto-ley-14701"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0933": {
+    "laws": [
+     "Decreto-Ley Nº 14.701"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/933)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1977-11-01",
+      "laws": [
+       "decreto-ley-14701"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0934": {
+    "laws": [
+     "Decreto-Ley Nº 14.701"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/934)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1977-11-01",
+      "laws": [
+       "decreto-ley-14701"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-0941": {
+    "laws": [
+     "Decreto-Ley Nº 14.701"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/941)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1977-11-01",
+      "laws": [
+       "decreto-ley-14701"
+      ],
+      "diff": [
+       "replace: 'válida,' -> 'válida'",
+       "delete: 'Vale igualmente la paga hecha de buena fe y al vencimiento, no antes, de la letra, pagaré o billete de comercio, al que fuese portador en virtud de un endoso falso.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-0968": {
+    "laws": [
+     "Decreto-Ley Nº 14.701"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/968)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1977-11-01",
+      "laws": [
+       "decreto-ley-14701"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1000": {
+    "laws": [
+     "Decreto-Ley Nº 14.701"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1000)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1977-11-01",
+      "laws": [
+       "decreto-ley-14701"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1018": {
+    "laws": [
+     "Ley Nº 19.889"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1018)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'prescriptas' -> 'prescriptas,'",
+       "replace: 'veinte' -> 'diez'"
+      ]
+     }
+    ]
+   },
+   "art-1019": {
+    "laws": [
+     "Ley Nº 17.292"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1019)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2001-02-08",
+      "laws": [
+       "ley-17292"
+      ],
+      "diff": [
+       "replace: 'años:' -> 'años;'",
+       "replace: 'letras u otros papeles endosables, si no ha mediado condenación,' -> 'vales, conformes'",
+       "insert: '' -> 'pagarés contra el librador,'",
+       "replace: 'cuatros' -> 'cuatro'",
+       "replace: 'la fecha del protesto, y en defecto de éste, desde la fecha del' -> 'el'",
+       "replace: 'en los casos del artículo 861, y' -> 'o'",
+       "delete: 'en los' -> ''",
+       "replace: '(artículo 1556). Lo dispuesto' -> 'prevista'",
+       "delete: 'este artículo, se entenderá sin perjuicio de lo que establece' -> ''",
+       "replace: '862.' -> '1606 de este Código en su caso.'",
+       "replace: 'haberl' -> 'haber'",
+       "replace: 'termino' -> 'pago'",
+       "replace: 'pagos' -> 'términos'"
+      ]
+     }
+    ]
+   },
+   "art-1026": {
+    "laws": [
+     "Ley Nº 17.292"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1026)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2001-02-08",
+      "laws": [
+       "ley-17292"
+      ],
+      "diff": [
+       "replace: 'prescriba, renovando el título, o haciendo novación.' -> 'prescribía.'",
+       "replace: 'protesta' -> 'intimación'",
+       "replace: 'intimada' -> 'practicada'",
+       "replace: 'ausente,' -> 'ausente'",
+       "insert: '' -> '4. Por la admisión de una pretensión concursal deducida por el deudor.'",
+       "replace: 'empieza' -> 'comienza'",
+       "replace: 'reconocimiento, reforma del título o novación;' -> 'reconocimiento;'",
+       "insert: '' -> 'la'",
+       "insert: '' -> 'o'",
+       "replace: 'protesta, o de su' -> 'última'",
+       "insert: '' -> 'el Diario Oficial; en el caso del numeral 4., comienza a correr de nuevo, una vez concluido el proceso concursal. En materia de títulos valores cuando haya recaído sentencia de condena se aplicará lo '",
+       "replace: 'diarios.' -> 'artículos 1216 y 1220 del Código Civil.'"
+      ]
+     }
+    ]
+   },
+   "art-1031": {
+    "laws": [
+     "Decreto-Ley Nº 15.080"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1031)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1980-12-20",
+      "laws": [
+       "decreto-ley-15080"
+      ],
+      "diff": [
+       "replace: 'sólo' -> 'o de un dique flotante, solo'"
+      ]
+     }
+    ]
+   },
+   "art-1040": {
+    "laws": [
+     "Ley Nº 19.246"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1040)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-09-19",
+      "laws": [
+       "ley-19246"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1041": {
+    "laws": [
+     "Ley Nº 19.246"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1041)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-09-19",
+      "laws": [
+       "ley-19246"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1042": {
+    "laws": [
+     "Ley Nº 19.246"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1042)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-09-19",
+      "laws": [
+       "ley-19246"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1050": {
+    "laws": [
+     "Ley Nº 19.246"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1050)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-09-19",
+      "laws": [
+       "ley-19246"
+      ],
+      "diff": [
+       "replace: 'cesa en todos los casos, por' -> 'podrá limitarse mediante'",
+       "insert: '' -> 'valor del'",
+       "insert: '' -> 'más'",
+       "insert: '' -> 'más'",
+       "replace: 'ganados' -> 'y pasajes percibidos'",
+       "replace: 'capitán.' -> 'capitán y los créditos a su favor que hayan nacido durante el mismo.'",
+       "replace: 'constar por medio de instrumento público. Cada partícipe quedará exonerado de su responsabilidad por' -> 'mediante presentación judicial y en'",
+       "replace: 'abandono de su parte' -> 'mismo acto deberá depositarse a la orden del tribunal un valor igual al del buque antes del accidente más los créditos indicados'",
+       "replace: 'la forma expresada.' -> 'el inciso anterior.'",
+       "insert: '' -> 'Tampoco estarán comprendidos en el abandono los créditos contra terceros por los hechos que generaron el daño o naufragio de la nave. Si ya existieran demandas contra el buque, la petición deberá pres'"
+      ]
+     }
+    ]
+   },
+   "art-1256": {
+    "laws": [
+     "Ley Nº 19.246"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1256)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-09-19",
+      "laws": [
+       "ley-19246"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1257": {
+    "laws": [
+     "Ley Nº 19.246"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1257)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-09-19",
+      "laws": [
+       "ley-19246"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1523-1781": {
+    "laws": [
+     "Ley Nº 5.392",
+     "Ley Nº 5.548",
+     "Ley Nº 8.045",
+     "Ley Nº 8.301",
+     "Ley Nº 8.461",
+     "Ley Nº 9.280",
+     "Ley Nº 13.665",
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1523_1747)",
+    "intermediate": {
+     "Ley Nº 5.548": "unknown: change shown later",
+     "Ley Nº 8.045": "unknown: change shown later",
+     "Ley Nº 8.301": "unknown: change shown later",
+     "Ley Nº 8.461": "unknown: change shown later",
+     "Ley Nº 9.280": "unknown: change shown later",
+     "Ley Nº 13.665": "unknown: change shown later",
+     "Ley Nº 18.387": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-5392",
+       "ley-5548",
+       "ley-8045",
+       "ley-8301",
+       "ley-8461",
+       "ley-9280",
+       "ley-13665",
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   },
+   "art-1764-1785": {
+    "laws": [
+     "Ley Nº 17.292",
+     "Ley Nº 18.387"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-ley/817-1865/1748_1768)",
+    "intermediate": {
+     "Ley Nº 18.387": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2008-11-02",
+      "laws": [
+       "ley-17292",
+       "ley-18387"
+      ],
+      "diff": "removed"
+     }
+    ]
+   }
+  },
+  "last_version_equals_impo": true,
+  "post_pass": {
+   "first_text_from_earlier_law": [],
+   "article_vigencia": [],
+   "article_vigencia_not_applied": [],
+   "absent_between": [],
+   "added_part_removed": [],
+   "placeholder": [],
+   "absent_before": [],
+   "whole_rewrites": [
+    "art-1523-1781: the 1865 text until 1879-02-01, then \"[La fuente no da el texto vigente en esta fecha.]\" (Ley Nº 1.422 replaced it whole; IMPO's summary: \"empiece a regir desde el 1º de Febrero de 1879\"), removed on 2008-11-02; not credited within the unknown text: ley-5392, ley-5548, ley-8045, ley-8301, ley-8461, ley-9280, ley-13665",
+    "art-1764-1785: the 1865 text until 1879-02-01, then \"[La fuente no da el texto vigente en esta fecha.]\" (Ley Nº 1.422 replaced it whole; IMPO's summary: \"empiece a regir desde el 1º de Febrero de 1879\"), removed on 2008-11-02; not credited within the unknown text: ley-17292"
+   ]
+  },
+  "impo_check": {
+   "today": {
+    "equal": true,
+    "differ": []
+   },
+   "last_version": {
+    "equal": true,
+    "differ": []
+   }
+  },
+  "unamended_sample": {
+   "textos-originales-ley/817-1865/66": {
+    "original": [
+     "En cuanto al modo de llevar así los libros prescritos por el artículo 55 como los auxiliares que no son exigidos por la ley, se prohíbe: 1. Alterar en los asientos el orden progresivo de las fechas y operaciones con que deben hacerse según lo prescrito en el artículo 56. 2. Dejar blancos ni huecos, pues todas sus partidas se han de suceder unas a otras, sin que entre ellas quede lugar para intercalaciones ni adiciones. 3. Hacer interlineaciones, raspaduras ni enmiendas, sino que todas las equivocaciones y omisiones que se cometan, se han de salvar por medio de un nuevo asiento hecho en la fecha en que se advierta la omisión o el error. 4. Tachar asiento alguno. 5. Mutilar alguna parte del libro, arrancar alguna hoja o alterar la encuadernación y foliación."
+    ],
+    "impo_today": [
+     "En cuanto al modo de llevar así los libros prescritos por el artículo 55 como los auxiliares que no son exigidos por la ley, se prohíbe:",
+     "1. Alterar en los asientos el orden progresivo de las fechas y operaciones con que deben hacerse, según lo prescrito en el artículo 56.",
+     "2. Dejar blancos ni huecos, pues todas sus partidas se han de suceder unas a otras, sin que entre ellas quede lugar para intercalaciones ni adiciones.",
+     "3. Hacer interlineaciones, raspaduras ni enmiendas, sino que todas las equivocaciones y omisiones que se cometan, se han de salvar por medio de un nuevo asiento, hecho en la fecha en que se advierta la omisión o el error.",
+     "4. Tachar asiento alguno.",
+     "5. Mutilar alguna parte del libro, arrancar alguna foja o alterar la encuadernación y foliación."
+    ]
+   },
+   "textos-originales-ley/817-1865/181": "same words",
+   "textos-originales-ley/817-1865/283": "same words",
+   "textos-originales-ley/817-1865/382": {
+    "original": [
+     "El comisionista por su parte está obligado a rendir al comitente, luego de evacuada la comisión, cuenta detallada y justificada de las cantidades percibidas, reintegrando al comitente, por lo medios que éste le prescriba, el sobrante que resulte a su favor. En caso de morosidad en su pago, queda responsable de los intereses de plaza por la cantidad retenida desde la fecha en que por la cuenta resulte deudor."
+    ],
+    "impo_today": [
+     "El comisionista por su parte está obligado a rendir al comitente, luego de evacuada la comisión, cuenta detallada y justificada de las cantidades percibidas, reintegrando al comitente, por los medios que éste le prescriba, el sobrante que resulte a su favor.",
+     "En caso de morosidad en su pago, queda responsable de los intereses de plaza por la cantidad retenida desde la fecha en que por la cuenta resulte deudor."
+    ]
+   },
+   "textos-originales-ley/817-1865/610": "same words",
+   "textos-originales-ley/817-1865/710": "same words",
+   "textos-originales-ley/817-1865/962": "same words",
+   "textos-originales-ley/817-1865/1073": "same words",
+   "textos-originales-ley/817-1865/1172": "same words",
+   "textos-originales-ley/817-1865/1273": "same words",
+   "textos-originales-ley/817-1865/1372": "same words",
+   "textos-originales-ley/817-1865/1471": "same words"
   }
  },
  "codigo-proceso-penal": {
@@ -8195,7 +9010,7 @@
       ],
       "diff": [
        "replace: 'alcance y duración de la medida, que no podrá exceder un plazo máximo de seis meses, al igual que' -> 'alcance,'",
-       "replace: 'diligencia.' -> 'diligencia y la duración de la medida, cuyo plazo podrá ser extendido de seis meses hasta los dos años para el caso de investigaciones complejas o que involucren a organizaciones criminales. (*)'"
+       "replace: 'diligencia.' -> 'diligencia y la duración de la medida, cuyo plazo podrá ser extendido de seis meses hasta los dos años para el caso de investigaciones complejas o que involucren a organizaciones criminales.'"
       ]
      }
     ]
@@ -9288,7 +10103,8 @@
    "placeholder": [
     "Artículo 221: today's wording held back until 2018-09-06 (Ley Nº 19.653)"
    ],
-   "absent_before": []
+   "absent_before": [],
+   "whole_rewrites": []
   },
   "impo_check": {
    "today": {
