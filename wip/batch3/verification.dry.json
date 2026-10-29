@@ -4796,16 +4796,25 @@
     ],
     "earliest_text": "added by this law",
     "intermediate": {
-     "Ley Nº 19.747": "unknown: change shown later"
+     "Ley Nº 19.747": "the wording Ley Nº 19.092 art. 2 gives it (IMPO original)"
     },
     "steps": [
      {
-      "day": "2019-10-16",
+      "day": "2013-07-04",
       "laws": [
-       "ley-19092",
-       "ley-19747"
+       "ley-19092"
       ],
       "diff": "added"
+     },
+     {
+      "day": "2019-10-16",
+      "laws": [
+       "ley-19747"
+      ],
+      "diff": [
+       "replace: '125' -> '120.5'",
+       "replace: '132.2.' -> '132.2 de este Código.'"
+      ]
      }
     ]
    },
@@ -4878,7 +4887,39 @@
      "Ley Nº 19.092",
      "Ley Nº 19.889"
     ],
-    "unresolved": "no original text; today's text is used from the start"
+    "earliest_text": "added by this law",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 19.092 art. 2 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2013-07-04",
+      "laws": [
+       "ley-19092"
+      ],
+      "diff": "added"
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'Juez' -> 'juez'",
+       "replace: '(INAU).' -> '(INAU): A)'",
+       "replace: 'especializada, y con dictamen del Ministerio Público.' -> 'especializada.'",
+       "replace: 'INAU,' -> 'INAU'",
+       "insert: '' -> 'B)'",
+       "replace: 'Directorio' -> 'Tribunal podrá prescindir de la selección realizada por el equipo técnico'",
+       "replace: 'INAU tendrá legitimación activa para apelar' -> 'Departamento de Adopciones del INAU, por decisión excepcional y fundada, en aquellas situaciones de hecho en las que, un niño, niña o adolescente, se encuentre plenamente integrado a un núcleo familia'",
+       "replace: 'sentencia que no contemple' -> 'situación aludida a juicio del Tribunal interviniente,'",
+       "replace: 'sugerencia' -> 'tenencia se encontrará habilitada en los términos previstos por el literal B del artículo 140'",
+       "replace: 'su equipo técnico.' -> 'este Código, quedando habilitados los tenedores a promover el proceso de Separación Definitiva y Adopción Plena. El Tribunal gozará de las más amplias facultades de acuerdo al artículo 350 del Código '",
+       "replace: 'el inciso anterior' -> 'este artículo'",
+       "replace: 'conjunta' -> 'conjunta.'"
+      ]
+     }
+    ]
    },
    "art-133": {
     "laws": [
@@ -4933,14 +4974,78 @@
      "Ley Nº 18.590",
      "Ley Nº 19.092"
     ],
-    "unresolved": "no original text; today's text is used from the start"
+    "earliest_text": "added by this law",
+    "intermediate": {
+     "Ley Nº 19.092": "the wording Ley Nº 18.590 art. 3 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2009-10-26",
+      "laws": [
+       "ley-18590"
+      ],
+      "diff": "added"
+     },
+     {
+      "day": "2013-07-04",
+      "laws": [
+       "ley-19092"
+      ],
+      "diff": [
+       "replace: 'o' -> 'y'",
+       "replace: 'correspondiere y escuchar al' -> 'correspondiere. El'",
+       "replace: 'adolescente, a' -> 'adolescente y'",
+       "replace: 'y a las personas que hasta la fecha se han encargado de su cuidado, así como -si fuera posible- a otros integrantes de su familia hasta el tercer grado de consanguinidad.' -> 'serán partes del proceso.'",
+       "replace: 'Juez Letrado de Familia o el Juez' -> 'Juzgado'",
+       "insert: '' -> 'de los adoptantes. El Juez que previno, deberá proporcionar los antecedentes del caso a fin de incorporarlos al proceso. El Instituto del Niño y Adolescente del Uruguay podrá patrocinar a los demandan'",
+       "replace: 'adolescente.' -> 'adolescente de su familia de origen.'",
+       "replace: 'proceso' -> 'juicio'",
+       "replace: 'los artículos 138 y 146 de este Código (Preservación de vínculos personales y afectivos con la familia de origen y visitas con la familia de origen).' -> 'el artículo 138.'",
+       "replace: 'misma.' -> 'misma, estableciendo quién o quiénes asumirán en el futuro la responsabilidad respecto del menor.'",
+       "replace: 'serán gratuitos' -> 'se harán'",
+       "replace: 'Oficial.' -> 'Oficial por el término de treinta días. Los mismos serán gratuitos.'"
+      ]
+     }
+    ]
    },
    "art-133-2": {
     "laws": [
      "Ley Nº 18.590",
      "Ley Nº 19.889"
     ],
-    "unresolved": "no original text; today's text is used from the start"
+    "earliest_text": "added by this law",
+    "intermediate": {
+     "Ley Nº 19.889": "the wording Ley Nº 18.590 art. 3 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2009-10-26",
+      "laws": [
+       "ley-18590"
+      ],
+      "diff": "added"
+     },
+     {
+      "day": "2020-07-24",
+      "laws": [
+       "ley-19889"
+      ],
+      "diff": [
+       "replace: 'niño' -> 'niño, niña'",
+       "replace: 'niña' -> 'adolescente'",
+       "replace: 'Juez' -> 'juez'",
+       "replace: 'sólo' -> 'solo'",
+       "replace: 'al INAU,' -> 'a dicho Instituto,'",
+       "replace: 'técnico' -> 'técnico,'",
+       "replace: 'caso.' -> 'caso, así como también de acuerdo a lo establecido en el artículo 132.6 en relación a aquellas situaciones de hecho en las cuales el niño, niña o adolescente, se encuentre plenamente integrado a un nú'",
+       "replace: 'en el inciso anterior' -> 'anteriormente'",
+       "delete: 'El INAU sólo podrá disponer la integración familiar de niños, niñas o adolescentes en régimen de tenencia con fines de adopción de conformidad a lo dispuesto en el artículo anterior. Prohíbese la entr' -> ''",
+       "replace: 'niños' -> 'niños, niñas'",
+       "replace: 'niñas' -> 'adolescentes'",
+       "replace: 'Juez' -> 'juez'"
+      ]
+     }
+    ]
    },
    "art-134": {
     "laws": [
@@ -6289,68 +6394,18 @@
    "article_vigencia_not_applied": [],
    "absent_between": [],
    "added_part_removed": [],
-   "placeholder": [
-    "Artículo 132 6: today's wording held back until 2020-07-24 (Ley Nº 19.889)",
-    "Artículo 133 1: today's wording held back until 2013-07-04 (Ley Nº 19.092)",
-    "Artículo 133 2: today's wording held back until 2020-07-24 (Ley Nº 19.889)"
-   ],
+   "placeholder": [],
    "absent_before": [],
    "whole_rewrites": []
   },
   "impo_check": {
    "today": {
-    "equal": false,
-    "differ": [
-     "art-120-1",
-     "art-120-2",
-     "art-120-3",
-     "art-120-4",
-     "art-120-5",
-     "art-120-6",
-     "art-120-7",
-     "art-120-8",
-     "art-132-1",
-     "art-132-2",
-     "art-132-3",
-     "art-132-4",
-     "art-132-5",
-     "art-132-6",
-     "art-133-1",
-     "art-133-2",
-     "art-135-1",
-     "art-139-1",
-     "art-139-2",
-     "art-158-1",
-     "art-160-1",
-     "art-160-2"
-    ]
+    "equal": true,
+    "differ": []
    },
    "last_version": {
-    "equal": false,
-    "differ": [
-     "art-120-1",
-     "art-120-2",
-     "art-120-3",
-     "art-120-4",
-     "art-120-5",
-     "art-120-6",
-     "art-120-7",
-     "art-120-8",
-     "art-132-1",
-     "art-132-2",
-     "art-132-3",
-     "art-132-4",
-     "art-132-5",
-     "art-132-6",
-     "art-133-1",
-     "art-133-2",
-     "art-135-1",
-     "art-139-1",
-     "art-139-2",
-     "art-158-1",
-     "art-160-1",
-     "art-160-2"
-    ]
+    "equal": true,
+    "differ": []
    }
   },
   "unamended_sample": {
