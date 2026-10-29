@@ -1,26 +1,110 @@
 {
- "ley-17514": {
+ "ley-19580": {
   "in_force": {
-   "Ley Nº 19.580": {
-    "day": "2018-01-19",
-    "how": "published 2018-01-09; Código Civil art. 1: ten days after publication"
-   },
    "Ley Nº 19.670": {
     "day": "2019-01-01",
     "how": "its vigencia article: \"regirá a partir del 1° de enero de 2019\" (artículo 2)"
+   },
+   "Ley Nº 19.791": {
+    "day": "2019-10-04",
+    "how": "published 2019-09-24; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.924": {
+    "day": "2021-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2021\" (artículo 3)"
+   },
+   "Ley Nº 20.212": {
+    "day": "2024-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2024\" (artículo 2)"
+   },
+   "Ley Nº 20.446": {
+    "day": "2026-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2026\" (artículo 3)"
    }
   },
   "base_in_force": {
-   "day": "2002-07-19",
-   "how": "published 2002-07-09; Código Civil art. 1: ten days after publication"
+   "day": "2018-01-19",
+   "how": "published 2018-01-09; Código Civil art. 1: ten days after publication"
   },
   "articles": {
-   "art-009": {
+   "art-018": {
     "laws": [
-     "Ley Nº 19.670"
+     "Ley Nº 19.924",
+     "Ley Nº 20.446"
     ],
-    "earliest_text": "the later text without what this law added: Inciso 2º) (Ley Nº 19.670 art. 236)",
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19580-2017/18)",
+    "intermediate": {
+     "Ley Nº 20.446": "the wording Ley Nº 19.924 art. 508 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "replace: 'Mujeres).-Créase' -> 'Mujeres).- Créase'",
+       "replace: 'comisión interinstitucional' -> 'Comisión Honoraria Interinstitucional'",
+       "replace: 'la Oficina' -> 'el Ministerio'",
+       "replace: 'Planeamiento y Presupuesto,' -> 'Desarrollo Social,'",
+       "replace: 'Interior, el Instituto Nacional de las Mujeres' -> 'Interior'",
+       "replace: 'Red Uruguaya' -> 'Fiscalía General de la Nación. La referida Comisión podrá convocar a organizaciones de la Sociedad Civil dedicadas a la lucha'",
+       "replace: 'Violencia Domestica y Sexual.' -> 'violencia basada en género.'",
+       "replace: 'cargos' -> 'integrantes de dicha comisión'",
+       "delete: 'rentados y ocupados por' -> ''",
+       "replace: 'profesionales' -> 'de probada experiencia'",
+       "insert: '' -> 'del Instituto Nacional'",
+       "replace: 'la Oficina de Planeamiento y Presupuesto,' -> 'las Mujeres,'",
+       "insert: '' -> 'administrativa, así como'",
+       "replace: 'necesaria.' -> 'necesaria para su funcionamiento'"
+      ]
+     },
+     {
+      "day": "2026-01-01",
+      "laws": [
+       "ley-20446"
+      ],
+      "diff": [
+       "replace: '(Observatorio' -> '\"Observatorio'",
+       "replace: 'Mujeres).-' -> 'Mujeres\".-'",
+       "replace: 'Comisión Honoraria Interinstitucional' -> 'comisión interinstitucional'",
+       "replace: 'Interior y' -> 'Interior,'",
+       "replace: 'Nación. La referida Comisión podrá convocar a organizaciones de' -> 'Nación y'",
+       "replace: 'Sociedad Civil dedicadas a la lucha' -> 'Red Uruguaya'",
+       "replace: 'violencia basada en género.' -> 'Violencia Doméstica y Sexual.'",
+       "delete: 'administrativa, así como' -> ''",
+       "replace: 'necesaria para su funcionamiento' -> 'necesaria.'"
+      ]
+     }
+    ]
+   },
+   "art-019": {
+    "laws": [
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19580-2017/19)",
     "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "delete: 'C) Evaluar el impacto de las políticas públicas en la materia y realizar recomendaciones para su fortalecimiento.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-058": {
+    "laws": [
+     "Ley Nº 19.670",
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19580-2017/58)",
+    "intermediate": {
+     "Ley Nº 20.212": "the wording Ley Nº 19.670 art. 290 gives it (IMPO original)"
+    },
     "steps": [
      {
       "day": "2019-01-01",
@@ -28,104 +112,63 @@
        "ley-19670"
       ],
       "diff": [
-       "insert: '' -> 'La Suprema Corte de Justicia podrá disponer el uso de protocolos de actuación pericial que reglamentará, a efectos de detección y calificación de situaciones de violencia doméstica. Los tribunales pod'"
+       "replace: 'Transfórmense' -> 'Transfórmanse'",
+       "replace: 'Especializadas en' -> 'Penales de Montevideo de Delitos Sexuales, Violencia Doméstica y'",
+       "delete: 'Doméstica y Sexual,' -> ''",
+       "insert: '' -> 'la investigación y litigio de'",
+       "replace: 'procesos a' -> 'delitos'",
+       "replace: 'refiere el artículo 51' -> 'se le asignen en función'",
+       "replace: 'esta ley.' -> 'los criterios de flexibilidad y dinamismo (artículo 9º de la Ley Nº 19.483, de 5 de enero de 2017)'"
+      ]
+     },
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: 'Especializadas).-' -> 'Penales de Montevideo de Delitos Sexuales, Violencia Doméstica y Violencia Basada en Género).-'",
+       "replace: 'Especializadas en' -> 'Penales de Montevideo de Delitos Sexuales,'",
+       "insert: '' -> 'y Violencia Basada en Género'",
+       "replace: 'Sexuales,' -> 'Sexuales y Fiscalías Penales de Montevideo de'",
+       "replace: '2017)' -> '2017).'"
       ]
      }
     ]
    },
-   "art-024": {
+   "art-065": {
     "laws": [
-     "Ley Nº 19.580"
+     "Ley Nº 20.212"
     ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/24)",
+    "earliest_text": "the later text without what this law added: Literal C), inciso 2º) (Ley Nº 20.212 art. 513)",
     "intermediate": {},
     "steps": [
      {
-      "day": "2018-01-19",
+      "day": "2024-01-01",
       "laws": [
-       "ley-19580"
+       "ley-20212"
       ],
-      "diff": "removed"
+      "diff": [
+       "insert: '' -> 'En los casos en que se considere en riesgo el derecho a la vida o a la integridad física de una víctima de violencia doméstica o de género, el tribunal podrá disponer la colocación del dispositivo de '"
+      ]
      }
     ]
    },
-   "art-025": {
+   "art-079": {
     "laws": [
-     "Ley Nº 19.580"
+     "Ley Nº 19.791"
     ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/25)",
+    "earliest_text": "the later text without what this law added: Inciso 2º) (Ley Nº 19.791 art. 3)",
     "intermediate": {},
     "steps": [
      {
-      "day": "2018-01-19",
+      "day": "2019-10-04",
       "laws": [
-       "ley-19580"
+       "ley-19791"
       ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-026": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/26)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-027": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/27)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-028": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/28)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-029": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/29)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
+      "diff": [
+       "insert: '' -> 'La suspensión e inhabilitación para el ejercicio de la patria potestad y funciones establecidas en este artículo será del doble de lo previsto en el mismo en caso de reincidencia.'"
+      ]
      }
     ]
    }
@@ -133,7 +176,10 @@
   "last_version_equals_impo": true,
   "post_pass": {
    "first_text_from_earlier_law": [],
-   "article_vigencia": [],
+   "article_vigencia": [
+    "Artículo 58: 2019-01-01 -> 2018-10-15 (Ley Nº 19.670 art. 290: \"El presente artículo entrará en vigencia a partir de la promulgación\")",
+    "Artículo 58: 2024-01-01 -> 2023-11-06 (Ley Nº 20.212 art. 512: \"Lo dispuesto en este artículo entrará en vigencia a partir de la promulgación\")"
+   ],
    "article_vigencia_not_applied": [],
    "absent_between": [],
    "added_part_removed": [],
@@ -152,25 +198,60 @@
    }
   },
   "unamended_sample": {
-   "leyes-originales/17514-2002/1": "same words",
-   "leyes-originales/17514-2002/2": "same words",
-   "leyes-originales/17514-2002/3": "same words",
-   "leyes-originales/17514-2002/4": "same words",
-   "leyes-originales/17514-2002/5": "same words",
-   "leyes-originales/17514-2002/6": "same words",
-   "leyes-originales/17514-2002/7": "same words",
-   "leyes-originales/17514-2002/8": "same words",
-   "leyes-originales/17514-2002/10": "same words",
-   "leyes-originales/17514-2002/11": "same words",
-   "leyes-originales/17514-2002/12": "same words",
-   "leyes-originales/17514-2002/13": "same words"
+   "leyes-originales/19580-2017/4": "same words",
+   "leyes-originales/19580-2017/10": "same words",
+   "leyes-originales/19580-2017/16": "same words",
+   "leyes-originales/19580-2017/24": {
+    "original": [
+     "(Directrices para las políticas de seguridad).- El",
+     "Ministerio del Interior y todo otro órgano y organismo vinculado a las políticas de seguridad, en el ámbito de sus competencias, deben:",
+     "A) Transversalizar la perspectiva de género en la política pública de seguridad, integrando el derecho a la vida libre de violencia como derecho humano de las mujeres de todas las edades.",
+     "B) Diseñar y difundir materiales informativos sobre medidas de prevención, seguridad y preservación de la prueba, ante situaciones de violencia basada en género hacia las mujeres, en todos los ámbitos en que se produzcan y en todas sus formas de expresión. Los materiales tendrán en cuenta las normas de accesibilidad para las personas en situación de discapacidad, así como a la distintas franjas etarias.",
+     "C) Aprobar las reglamentaciones, protocolos y guías necesarias para que la intervención policial en situaciones de violencia basada en género sea oportuna, de calidad y eficaz, evite la revictimización, asegure la protección de las mujeres y facilite la debida investigación. Se tendrá especialmente en cuenta la situación de las mujeres que se ven impedidas de acudir a la sede policial por situaciones de discapacidad o dependencia.",
+     "D) Desarrollar modelos de investigación adecuados a las características propias de los ilícitos sexuales o basados en otras formas de violencia de género, que se sustenten en pruebas técnicas y científicas y que eviten centrar la prueba en el testimonio de las víctimas.",
+     "E) Crear unidades policiales especializadas en violencia basada en género y fortalecer las existentes, asegurando que sean accesibles, incluso para las mujeres rurales y para las mujeres en situación de discapacidad, dotándolas de los recursos necesarios para una respuesta de calidad.",
+     "F) Registrar denuncias y actuaciones policiales en situaciones de violencia basada en género, en articulación con el Instituto Nacional de las Mujeres.",
+     "G) Sistematizar la información sobre las manifestaciones, características y contexto en que ocurren las conductas delictivas vinculadas a la violencia basada en género, teniendo en cuenta las realidades de los distintos departamentos del país, de forma que permitan el monitoreo de las políticas de seguridad y aporte transparencia a la gestión.",
+     "H) Capacitar en forma permanente a todo el personal en materia de violencia basada en género.",
+     "I) Incluir en la currícula de formación de todos los niveles educativos de la Dirección Nacional de Educación Policial, la capacitación, teórica y práctica, en derechos de las mujeres, derechos sexuales y reproductivos, diversidad sexual y en violencia basada en género, desde la perspectiva de derechos humanos y teniendo en cuenta la diversidad de edades y situaciones de discapacidad."
+    ],
+    "impo_today": [
+     "(Directrices para las políticas de seguridad).- El Ministerio del",
+     "Interior y todo otro órgano y organismo vinculado a las políticas de seguridad, en el ámbito de sus competencias, deben:",
+     "A) Transversalizar la perspectiva de género en la política pública de seguridad, integrando el derecho a la vida libre de violencia como derecho humano de las mujeres de todas las edades.",
+     "B) Diseñar y difundir materiales informativos sobre medidas de prevención, seguridad y preservación de la prueba, ante situaciones de violencia basada en género hacia las mujeres, en todos los ámbitos en que se produzcan y en todas sus formas de expresión. Los materiales tendrán en cuenta las normas de accesibilidad para las personas en situación de discapacidad, así como a la distintas franjas etarias.",
+     "C) Aprobar las reglamentaciones, protocolos y guías necesarias para que la intervención policial en situaciones de violencia basada en género sea oportuna, de calidad y eficaz, evite la revictimización, asegure la protección de las mujeres y facilite la debida investigación. Se tendrá especialmente en cuenta la situación de las mujeres que se ven impedidas de acudir a la sede policial por situaciones de discapacidad o dependencia.",
+     "D) Desarrollar modelos de investigación adecuados a las características propias de los ilícitos sexuales o basados en otras formas de violencia de género, que se sustenten en pruebas técnicas y científicas y que eviten centrar la prueba en el testimonio de las víctimas.",
+     "E) Crear unidades policiales especializadas en violencia basada en género y fortalecer las existentes, asegurando que sean accesibles, incluso para las mujeres rurales y para las mujeres en situación de discapacidad, dotándolas de los recursos necesarios para una respuesta de calidad.",
+     "F) Registrar denuncias y actuaciones policiales en situaciones de violencia basada en género, en articulación con el Instituto Nacional de las Mujeres.",
+     "G) Sistematizar la información sobre las manifestaciones, características y contexto en que ocurren las conductas delictivas vinculadas a la violencia basada en género, teniendo en cuenta las realidades de los distintos departamentos del país, de forma que permitan el monitoreo de las políticas de seguridad y aporte transparencia a la gestión.",
+     "H) Capacitar en forma permanente a todo el personal en materia de violencia basada en género.",
+     "I) Incluir en la currícula de formación de todos los niveles educativos de la Dirección Nacional de Educación Policial, la capacitación, teórica y práctica, en derechos de las mujeres, derechos sexuales y reproductivos, diversidad sexual y en violencia basada en género, desde la perspectiva de derechos humanos y teniendo en cuenta la diversidad de edades y situaciones de discapacidad."
+    ]
+   },
+   "leyes-originales/19580-2017/30": "same words",
+   "leyes-originales/19580-2017/36": "same words",
+   "leyes-originales/19580-2017/42": "same words",
+   "leyes-originales/19580-2017/49": "same words",
+   "leyes-originales/19580-2017/56": "same words",
+   "leyes-originales/19580-2017/63": "same words",
+   "leyes-originales/19580-2017/70": "same words",
+   "leyes-originales/19580-2017/78": "same words"
   },
   "suspensions": []
  },
- "_shared_law_entries_differing": {},
+ "_shared_law_entries_differing": {
+  "ley-19580": {
+   "title": [
+    "LEY DE VIOLENCIA HACIA LAS MUJERES BASADA EN GENERO. MODIFICACION A DISPOSICIONES DEL CODIGO CIVIL Y CODIGO PENAL. DEROGACION DE LOS ARTS. 24 A 29 DE LA LEY 17.514",
+    "Ley de Violencia hacia las Mujeres Basada en Género (Ley Nº 19.580)"
+   ]
+  }
+ },
  "_headings_dropped": [
-  "JURISDICCION Y COMPETENCIA",
-  "LEGITIMACION DEL DENUNCIANTE Y LLAMADO A TERCEROS A JUICIO",
-  "MEDIDAS DE PROTECCION"
+  "DIRECTRICES PARA LAS POLÍTICAS PÚBLICAS",
+  "PROCESOS DE FAMILIA",
+  "PROCESOS DE PROTECCIÓN EN EL ÁMBITO JUDICIAL",
+  "RED DE SERVICIOS DE ATENCIÓN A MUJERES EN SITUACIÓN DE VIOLENCIA BASADA EN GÉNERO"
  ]
 }
