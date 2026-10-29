@@ -1,345 +1,49 @@
 {
- "ley-18381": {
+ "codigo-mineria": {
   "in_force": {
-   "Ley Nº 18.719": {
-    "day": "2011-01-01",
-    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2011\" (artículo 3)"
+   "Decreto-Ley Nº 15.516": {
+    "day": "1984-01-28",
+    "how": "published 1984-01-18; Código Civil art. 1: ten days after publication"
    },
-   "Ley Nº 19.178": {
-    "day": "2014-01-18",
-    "how": "published 2014-01-08; Código Civil art. 1: ten days after publication"
+   "Ley Nº 15.903": {
+    "day": "1988-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1º de enero de 1988\" (artículo 2)"
    },
-   "Ley Nº 19.996": {
-    "day": "2022-01-01",
-    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2022\" (artículo 2)"
-   }
-  },
-  "base_in_force": {
-   "day": "2008-11-17",
-   "how": "published 2008-11-07; Código Civil art. 1: ten days after publication"
-  },
-  "articles": {
-   "art-005": {
-    "laws": [
-     "Ley Nº 19.996"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/18381-2008/5)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2022-01-01",
-      "laws": [
-       "ley-19996"
-      ],
-      "diff": [
-       "delete: '(Difusión de la información pública).-' -> ''",
-       "replace: 'sitios web' -> 'medios electrónicos'",
-       "replace: 'a' -> 'con'",
-       "insert: '' -> 'En el caso de informaciones que cuenten con una periodicidad determinada legal o reglamentariamente para su actualización, los organismos estatales o no estatales obligados por la presente ley no tend'"
-      ]
-     }
-    ]
+   "Ley Nº 16.170": {
+    "day": "1991-01-01",
+    "how": "its vigencia article: \"entrará en vigencia el 1º de enero de 1991\" (artículo 2)"
    },
-   "art-009": {
-    "laws": [
-     "Ley Nº 19.178"
-    ],
-    "earliest_text": "the later text without what this law added: Literal g) e incisos 2º), 3º) y 4º) (Ley Nº 19.178 art. 1)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2014-01-18",
-      "laws": [
-       "ley-19178"
-      ],
-      "diff": [
-       "insert: '' -> 'G) Afectar la provisión libre y franca de asesoramientos, opiniones o recomendaciones que formen parte del proceso deliberativo de los sujetos obligados hasta que sea adoptada la decisión respectiva, '"
-      ]
-     }
-    ]
+   "Ley Nº 16.226": {
+    "day": "1992-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1º de enero de 1992\" (artículo 2)"
    },
-   "art-021": {
-    "laws": [
-     "Ley Nº 19.178"
-    ],
-    "earliest_text": "the later text without what this law added: Literal k) (Ley Nº 19.178 art. 2)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2014-01-18",
-      "laws": [
-       "ley-19178"
-      ],
-      "diff": [
-       "insert: '' -> 'K) Solicitar al sujeto obligado la desclasificación de la información que hubiere sido clasificada sin ajustarse a los criterios de clasificación establecidos en la presente ley.'"
-      ]
-     }
-    ]
+   "Ley Nº 17.930": {
+    "day": "2006-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1º de enero de 2006\" (artículo 2)"
    },
-   "art-033": {
-    "laws": [
-     "Ley Nº 18.719"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/18381-2008/33)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2011-01-01",
-      "laws": [
-       "ley-18719"
-      ],
-      "diff": [
-       "replace: 'información).- En el plazo no mayor a un año desde la vigencia' -> 'información). Al 31'",
-       "replace: 'la presente ley,' -> 'julio de 2012,'",
-       "replace: '8º' -> '9º'",
-       "replace: 'La' -> 'En la misma fecha, la'",
-       "replace: 'desclasificarse en el plazo perentorio de seis meses.' -> 'ser desclasificada.'",
-       "replace: 'de vigencia de la presente ley,' -> 'señalada,'"
-      ]
-     }
-    ]
+   "Ley Nº 18.172": {
+    "day": "2008-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1º de enero de 2008\" (artículo 2)"
    },
-   "art-034": {
-    "laws": [
-     "Ley Nº 18.719"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/18381-2008/34)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2011-01-01",
-      "laws": [
-       "ley-18719"
-      ],
-      "diff": [
-       "replace: 'obligados).-' -> 'obligados).'",
-       "replace: 'dos' -> 'cuatro'",
-       "replace: 'sanciones' -> 'sanción'"
-      ]
-     }
-    ]
-   }
-  },
-  "last_version_equals_impo": true,
-  "post_pass": {
-   "first_text_from_earlier_law": [],
-   "article_vigencia": [],
-   "article_vigencia_not_applied": [],
-   "absent_between": [],
-   "added_part_removed": [],
-   "placeholder": [],
-   "absent_before": [],
-   "whole_rewrites": [],
-   "inciso_runs": []
-  },
-  "impo_check": {
-   "today": {
-    "equal": true,
-    "differ": []
+   "Ley Nº 18.362": {
+    "day": "2009-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2009\" (artículo 2)"
    },
-   "last_version": {
-    "equal": true,
-    "differ": []
-   }
-  },
-  "unamended_sample": {
-   "leyes-originales/18381-2008/2": "same words",
-   "leyes-originales/18381-2008/4": "same words",
-   "leyes-originales/18381-2008/7": "same words",
-   "leyes-originales/18381-2008/10": "same words",
-   "leyes-originales/18381-2008/12": "same words",
-   "leyes-originales/18381-2008/14": "same words",
-   "leyes-originales/18381-2008/16": "same words",
-   "leyes-originales/18381-2008/18": "same words",
-   "leyes-originales/18381-2008/20": "same words",
-   "leyes-originales/18381-2008/23": "same words",
-   "leyes-originales/18381-2008/25": "same words",
-   "leyes-originales/18381-2008/27": "same words"
-  },
-  "suspensions": []
- },
- "ley-17514": {
-  "in_force": {
-   "Ley Nº 19.580": {
-    "day": "2018-01-19",
-    "how": "published 2018-01-09; Código Civil art. 1: ten days after publication"
+   "Ley Nº 18.813": {
+    "day": "2011-11-14",
+    "how": "published 2011-11-04; Código Civil art. 1: ten days after publication"
    },
-   "Ley Nº 19.670": {
-    "day": "2019-01-01",
-    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2019\" (artículo 2)"
-   }
-  },
-  "base_in_force": {
-   "day": "2002-07-19",
-   "how": "published 2002-07-09; Código Civil art. 1: ten days after publication"
-  },
-  "articles": {
-   "art-009": {
-    "laws": [
-     "Ley Nº 19.670"
-    ],
-    "earliest_text": "the later text without what this law added: Inciso 2º) (Ley Nº 19.670 art. 236)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2019-01-01",
-      "laws": [
-       "ley-19670"
-      ],
-      "diff": [
-       "insert: '' -> 'La Suprema Corte de Justicia podrá disponer el uso de protocolos de actuación pericial que reglamentará, a efectos de detección y calificación de situaciones de violencia doméstica. Los tribunales pod'"
-      ]
-     }
-    ]
-   },
-   "art-024": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/24)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-025": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/25)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-026": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/26)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-027": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/27)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-028": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/28)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   },
-   "art-029": {
-    "laws": [
-     "Ley Nº 19.580"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/17514-2002/29)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2018-01-19",
-      "laws": [
-       "ley-19580"
-      ],
-      "diff": "removed"
-     }
-    ]
-   }
-  },
-  "last_version_equals_impo": true,
-  "post_pass": {
-   "first_text_from_earlier_law": [],
-   "article_vigencia": [],
-   "article_vigencia_not_applied": [],
-   "absent_between": [],
-   "added_part_removed": [],
-   "placeholder": [],
-   "absent_before": [],
-   "whole_rewrites": [],
-   "inciso_runs": []
-  },
-  "impo_check": {
-   "today": {
-    "equal": true,
-    "differ": []
-   },
-   "last_version": {
-    "equal": true,
-    "differ": []
-   }
-  },
-  "unamended_sample": {
-   "leyes-originales/17514-2002/1": "same words",
-   "leyes-originales/17514-2002/2": "same words",
-   "leyes-originales/17514-2002/3": "same words",
-   "leyes-originales/17514-2002/4": "same words",
-   "leyes-originales/17514-2002/5": "same words",
-   "leyes-originales/17514-2002/6": "same words",
-   "leyes-originales/17514-2002/7": "same words",
-   "leyes-originales/17514-2002/8": "same words",
-   "leyes-originales/17514-2002/10": "same words",
-   "leyes-originales/17514-2002/11": "same words",
-   "leyes-originales/17514-2002/12": "same words",
-   "leyes-originales/17514-2002/13": "same words"
-  },
-  "suspensions": []
- },
- "ley-19580": {
-  "in_force": {
-   "Ley Nº 19.670": {
-    "day": "2019-01-01",
-    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2019\" (artículo 2)"
-   },
-   "Ley Nº 19.791": {
-    "day": "2019-10-04",
-    "how": "published 2019-09-24; Código Civil art. 1: ten days after publication"
+   "Ley Nº 18.996": {
+    "day": "2013-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2013\" (artículo 2)"
    },
    "Ley Nº 19.924": {
     "day": "2021-01-01",
     "how": "its vigencia article: \"regirá a partir del 1° de enero de 2021\" (artículo 3)"
+   },
+   "Ley Nº 20.075": {
+    "day": "2023-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2023\" (artículo 5)"
    },
    "Ley Nº 20.212": {
     "day": "2024-01-01",
@@ -351,40 +55,329 @@
    }
   },
   "base_in_force": {
-   "day": "2018-01-19",
-   "how": "published 2018-01-09; Código Civil art. 1: ten days after publication"
+   "day": "1982-04-01",
+   "how": "codigo-mineria/15242-1982/135: \"El presente Código de Minería entrará en vigencia el 1º de abril de 1982. (*)\""
   },
   "articles": {
-   "art-018": {
+   "art-016": {
     "laws": [
-     "Ley Nº 19.924",
-     "Ley Nº 20.446"
+     "Ley Nº 18.813"
     ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19580-2017/18)",
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/16)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "insert: '' -> 'El titular de una concesión para explotar que esté en condiciones de exportar minerales metálicos, deberá ofrecer al mercado interno y a precio \"Free on Board\", el 15% (quince por ciento) del total de'"
+      ]
+     }
+    ]
+   },
+   "art-019": {
+    "laws": [
+     "Ley Nº 18.172"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/19)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-01-01",
+      "laws": [
+       "ley-18172"
+      ],
+      "diff": [
+       "insert: '' -> 'No podrán ser titulares de derechos mineros las personas físicas o jurídicas que mantengan deudas determinadas por resoluciones firmes con la Dirección Nacional de Minería y Geología. Tampoco podrán s'"
+      ]
+     }
+    ]
+   },
+   "art-021": {
+    "laws": [
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/21)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "replace: 'recisión' -> 'rescisión'",
+       "replace: 'extraídas' -> 'extraidas'",
+       "replace: 'superficie.' -> 'superficie;'",
+       "replace: 'seis' -> 'doce'",
+       "insert: '' -> 'previas'",
+       "replace: 'Código;' -> 'Código.'"
+      ]
+     }
+    ]
+   },
+   "art-022": {
+    "laws": [
+     "Ley Nº 17.930"
+    ],
+    "earliest_text": "the later text without what this law added: Literal f) (Ley Nº 17.930 art. 182)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2006-01-01",
+      "laws": [
+       "ley-17930"
+      ],
+      "diff": [
+       "insert: '' -> 'f) Por haber sido dejada sin efecto o desistida la solicitud de título de minero.'"
+      ]
+     }
+    ]
+   },
+   "art-031": {
+    "laws": [
+     "Ley Nº 18.172",
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/31)",
     "intermediate": {
-     "Ley Nº 20.446": "the wording Ley Nº 19.924 art. 508 gives it (IMPO original)"
+     "Ley Nº 18.813": "the wording Ley Nº 18.172 art. 194 gives it (IMPO original)"
     },
     "steps": [
+     {
+      "day": "2008-01-01",
+      "laws": [
+       "ley-18172"
+      ],
+      "diff": [
+       "replace: 'Todos los inmuebles quedan sujetos a las siguientes servidumbres mineras: a)' -> 'A)'",
+       "replace: 'prospección; b) De ocupación temporaria o permanente: Que habilita el reconocimiento del subsuelo por medio de sondeos y perforaciones, comprendiendo el emplazamiento y circulación de máquinas, instal' -> 'prospección. Por autorización fundada'",
+       "replace: 'actividad minera; c) De paso: Para el acceso a los lugares' -> 'Dirección Nacional'",
+       "replace: 'laboreo' -> 'Minería'",
+       "replace: 'campamento instalado. La servidumbre se establecerá por los puntos más favorables para sus fines procurando causar el menor perjuicio al predio sirviente. El ancho' -> 'Geología la extracción'",
+       "replace: 'la senda' -> 'muestras'",
+       "replace: 'paso será el' -> 'sustancias minerales podrá efectuarse mediante perforaciones, siempre y cuando ello fuera'",
+       "delete: 'para el tránsito seguro de las personas y vehículos y para el acarreo o transporte de los materiales necesarios para las labores y para el retiro de las sustancias extraidas. Los caminos abiertos para' -> ''"
+      ]
+     },
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'A)' -> 'Todos los inmuebles quedan sujetos a las siguientes servidumbres mineras: a)'",
+       "replace: 'Por autorización fundada' -> 'b) De ocupación temporaria o permanente: Que habilita el reconocimiento del subsuelo por medio de sondeos y perforaciones, comprendiendo el emplazamiento y circulación de máquinas, instalaciones, vehí'",
+       "replace: 'Dirección Nacional' -> 'actividad minera; c) De paso: Para el acceso a los lugares'",
+       "replace: 'Minería' -> 'laboreo'",
+       "replace: 'Geología' -> 'campamento instalado. La servidumbre se establecerá por los puntos más favorables para sus fines procurando causar el menor perjuicio al predio sirviente. El ancho de'",
+       "replace: 'extracción' -> 'senda'",
+       "replace: 'muestras' -> 'paso será el indispensable para el tránsito seguro'",
+       "insert: '' -> 'las personas y vehículos y para el acarreo o transporte de los materiales necesarios para las labores y para el retiro de las'",
+       "replace: 'minerales podrá efectuarse mediante perforaciones, siempre' -> 'extraidas. Los caminos abiertos para una mina aprovecharán a las demás que se encuentran en el mismo asiento'",
+       "replace: 'cuando ello fuera indispensable' -> 'en tal caso los costos de conservación se repartirán a prorrata entre los titulares de derechos mineros; d) De tendido de ductos: Que comprende el tendido de cañerías, el establecimiento de plantas de'"
+      ]
+     }
+    ]
+   },
+   "art-032": {
+    "laws": [
+     "Ley Nº 16.170",
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/32)",
+    "intermediate": {
+     "Ley Nº 18.813": "the wording Ley Nº 16.170 art. 301 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "1991-01-01",
+      "laws": [
+       "ley-16170"
+      ],
+      "diff": [
+       "replace: 'declarada, en cada caso,' -> 'declarada'",
+       "replace: 'Ejecutivo,' -> 'Ejecutivo'",
+       "replace: 'estudio necesarias para' -> 'estudio, las que serán declaradas por'",
+       "replace: 'investigación geológica' -> 'Dirección Nacional de Minería'",
+       "replace: 'minera a que se refiere el Capítulo IX del Título III del Libro Primero.' -> 'Geología'"
+      ]
+     },
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'Geología' -> 'Geología, requiriendo vista previa al superficiario.'"
+      ]
+     }
+    ]
+   },
+   "art-033": {
+    "laws": [
+     "Ley Nº 16.170"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/33)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1991-01-01",
+      "laws": [
+       "ley-16170"
+      ],
+      "diff": [
+       "replace: 'minera' -> 'minera, con excepción de la de estudio,'",
+       "replace: 'necesarias;' -> 'necesarias.'",
+       "replace: 'o' -> 'en el domicilio denunciado'",
+       "replace: 'edictos, si' -> 'el gestionante. No hallándose en el mismo la persona a quien deba hacerse la notificación, se dejará un cedulón que contenga la providencia, su fecha y la de la notificación y se pondrá constancia de '",
+       "insert: '' -> 'la notificación se hará por edictos'",
+       "replace: 'el \"Diario Oficial\"' -> 'un diario de circulación nacional'",
+       "insert: '' -> 'A los efectos de autorizar la publicación por edictos, que serán de cargo del solicitante, la Dirección Nacional de Minería y Geología (DINAMIGE) podrá exigir del mismo la prueba que considere conveni'",
+       "replace: 'hábiles' -> 'hábiles,'",
+       "replace: 'vista,' -> 'vista'",
+       "replace: 'del' -> 'de'",
+       "replace: 'inmueble,' -> 'inmueble'"
+      ]
+     }
+    ]
+   },
+   "art-034": {
+    "laws": [
+     "Ley Nº 16.170"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/34)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "1991-01-01",
+      "laws": [
+       "ley-16170"
+      ],
+      "diff": [
+       "replace: 'que se impone. Esta' -> 'de ocupación, paso u ocupación y paso. El acto de otorgamiento del permiso de prospección será suficiente para la adquisición de la servidumbre minera de estudio. La'"
+      ]
+     }
+    ]
+   },
+   "art-045": {
+    "laws": [
+     "Ley Nº 16.226",
+     "Ley Nº 18.813",
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/45)",
+    "intermediate": {
+     "Ley Nº 18.813": "unknown: change shown later",
+     "Ley Nº 19.924": "the wording Ley Nº 18.813 art. 5 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-16226",
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'nuevos pesos 100.00 (nuevos pesos cien)' -> '150 UI (ciento cincuenta unidades indexadas)'",
+       "replace: 'N$ 200.00 (nuevos pesos doscientos)' -> '300 UI (trescientas unidades indexadas)'",
+       "replace: 'exploración' -> 'exploración,'",
+       "replace: 'permiso, abonará' -> 'permiso abonará,'",
+       "replace: 'exploración' -> 'exploración,'",
+       "replace: '-Por' -> '- Por'",
+       "replace: 'N$ 200.00 (nuevos pesos doscientos),' -> '300 UI (trescientas unidades indexadas)'",
+       "replace: '-Por' -> '- Por'",
+       "replace: 'N$ 400.00 (nuevos pesos cuatrocientos),' -> '600 UI (seiscientas unidades indexadas)'",
+       "replace: '-Por' -> '- Por'",
+       "replace: 'N$ 600.00 (nuevos pesos seiscientos),' -> '900 UI (novecientas unidades indexadas)'",
+       "replace: 'abonará' -> 'abonará,'",
+       "replace: 'concesión' -> 'concesión,'",
+       "replace: '1)' -> '1A)'",
+       "insert: '' -> 'para yacimientos de sustancias minerales no metálicas pertenecientes a Clase III y Clase IV'",
+       "insert: '' -> 'de comercialización'",
+       "delete: 'bruto' -> ''",
+       "replace: 'mina, antes de sufrir cualquier proceso de beneficio o transformación de sus componentes. Este' -> 'mina. Dicho'",
+       "delete: 'ponderado de los precios que el producto bruto tenga, en el último año transcurrido, en las plazas principales de comercialización, deducido el costo del transporte. Si el producto bruto extraído no s' -> ''",
+       "replace: 'este' -> 'comercialización del'",
+       "delete: 'resultante,' -> ''",
+       "replace: 'año transcurrido y' -> 'semestre. 1B) El Canon de producción para los yacimientos de sustancias minerales metálicas pertenecientes a la Clase III, constituirá un porcentaje del monto \"Free on Board\" del mineral exportado o d'",
+       "replace: 'las plazas principales de comercialización deduciendo,' -> 'plaza,'",
+       "delete: 'este caso, además del costo del transporte,' -> ''",
+       "replace: 'costo' -> 'período considerado. Si el valor unitario que surge'",
+       "replace: 'elaboración o transformación sufrida, para llegar al valor' -> 'facturación fuere inferior en más'",
+       "replace: 'producto bruto;' -> '10% (diez por ciento) del promedio de los precios de dicho mineral en el mercado internacional en el mismo período, se tomará este último a los efectos de determinar el monto sobre el que se aplicará '",
+       "replace: 'a)' -> 'A)'",
+       "replace: 'III:' -> 'III, excepto los correspondientes a sustancias minerales metálicas:'",
+       "replace: '5%.' -> '5% (cinco por ciento).'",
+       "insert: '' -> '(dos por ciento)'",
+       "insert: '' -> '(tres por ciento)'",
+       "replace: 'superficial;' -> 'superficial.'",
+       "replace: '8%,' -> '8% (ocho por ciento),'",
+       "insert: '' -> '(tres por ciento)'",
+       "insert: '' -> '(cinco por ciento)'",
+       "replace: 'superficial; b)' -> 'superficial. B) Para los yacimientos de la Clase III, correspondientes a sustancias minerales metálicas: Para todo el período de explotación: 5% (cinco por ciento). Este porcentaje se compone de: un 3'",
+       "replace: '10%.' -> '10% (diez por ciento).'",
+       "insert: '' -> '(cinco por ciento)'",
+       "insert: '' -> '(cinco por ciento)'",
+       "replace: 'superficial;' -> 'superficial.'",
+       "replace: 'inmuebles;' -> 'inmuebles.'",
+       "replace: 'según las siguientes reglas: a) Por' -> 'por'",
+       "delete: 'dentro de los diez días hábiles siguientes al vencimiento. El porcentaje correspondiente será calculado sobre la producción mínima del programa de producción aprobado; b) Cada dos semestres vencidos, ' -> ''",
+       "replace: 'vencimiento' -> 'vencimiento. A estos efectos se deberán presentar las planillas de producción y de comercialización'",
+       "replace: 'segundo semestre. El pago del saldo del Canon, que resulte por reliquidación, deberá ser abonado dentro de los diez días hábiles siguientes a' -> 'semestre en cuestión, con'",
+       "replace: 'notificación que realice la Administración. Si la producción efectiva fuera inferior al mínimo programado, el Canon quedará consolidado para el semestre respectivo sobre el mínimo del programa. El ini' -> 'correspondiente documentación probatoria.'"
+      ]
+     },
      {
       "day": "2021-01-01",
       "laws": [
        "ley-19924"
       ],
       "diff": [
-       "replace: 'Mujeres).-Créase' -> 'Mujeres).- Créase'",
-       "replace: 'comisión interinstitucional' -> 'Comisión Honoraria Interinstitucional'",
-       "replace: 'la Oficina' -> 'el Ministerio'",
-       "replace: 'Planeamiento y Presupuesto,' -> 'Desarrollo Social,'",
-       "replace: 'Interior, el Instituto Nacional de las Mujeres' -> 'Interior'",
-       "replace: 'Red Uruguaya' -> 'Fiscalía General de la Nación. La referida Comisión podrá convocar a organizaciones de la Sociedad Civil dedicadas a la lucha'",
-       "replace: 'Violencia Domestica y Sexual.' -> 'violencia basada en género.'",
-       "replace: 'cargos' -> 'integrantes de dicha comisión'",
-       "delete: 'rentados y ocupados por' -> ''",
-       "replace: 'profesionales' -> 'de probada experiencia'",
-       "insert: '' -> 'del Instituto Nacional'",
-       "replace: 'la Oficina de Planeamiento y Presupuesto,' -> 'las Mujeres,'",
-       "insert: '' -> 'administrativa, así como'",
-       "replace: 'necesaria.' -> 'necesaria para su funcionamiento'"
+       "replace: 'Canon' -> 'Poder Ejecutivo determinará la periodicidad de pago del canon'",
+       "delete: 'se pagará por semestre vencido' -> ''",
+       "delete: 'dentro' -> ''",
+       "replace: 'los veinte días hábiles siguientes al vencimiento. A estos efectos se deberán presentar' -> 'presentación de'",
+       "replace: 'semestre en cuestión,' -> 'período, a los efectos de la liquidación del canon. Dichas planillas deberán contar'",
+       "delete: 'correspondiente' -> ''",
+       "replace: 'probatoria.' -> 'probatoria cuando así corresponda.'"
+      ]
+     }
+    ]
+   },
+   "art-048": {
+    "laws": [
+     "Decreto-Ley Nº 15.516",
+     "Ley Nº 19.924",
+     "Ley Nº 20.446"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/48)",
+    "intermediate": {
+     "Ley Nº 19.924": "the wording Decreto-Ley Nº 15.516 art. 1 gives it (IMPO original)",
+     "Ley Nº 20.446": "the wording Ley Nº 19.924 art. 304 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "1984-01-28",
+      "laws": [
+       "decreto-ley-15516"
+      ],
+      "diff": [
+       "replace: '96' -> '94'",
+       "replace: 'Código Tributario.' -> '\"Código Tributario'"
+      ]
+     },
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "replace: 'pecuniarias,' -> 'pecuniarias'",
+       "insert: '' -> 'El pago de los derechos y cánones se deberá efectuar cronológicamente conforme a su respectivo vencimiento, no pudiendo en ningún caso cancelar el último adeudo si existieren deudas anteriores.'",
+       "replace: '\"Código Tributario' -> 'Código Tributario. El Ministerio de Industria, Energía y Minería podrá otorgar convenios de facilidades de pagos a las personas físicas o jurídicas que adeuden sumas por concepto de canon de producció'"
       ]
      },
      {
@@ -393,60 +386,65 @@
        "ley-20446"
       ],
       "diff": [
-       "replace: '(Observatorio' -> '\"Observatorio'",
-       "replace: 'Mujeres).-' -> 'Mujeres\".-'",
-       "replace: 'Comisión Honoraria Interinstitucional' -> 'comisión interinstitucional'",
-       "replace: 'Interior y' -> 'Interior,'",
-       "replace: 'Nación. La referida Comisión podrá convocar a organizaciones de' -> 'Nación y'",
-       "replace: 'Sociedad Civil dedicadas a la lucha' -> 'Red Uruguaya'",
-       "replace: 'violencia basada en género.' -> 'Violencia Doméstica y Sexual.'",
-       "delete: 'administrativa, así como' -> ''",
-       "replace: 'necesaria para su funcionamiento' -> 'necesaria.'"
+       "replace: 'obstante' -> 'obstante,'",
+       "replace: 'superficie o' -> 'superficie,'",
+       "insert: '' -> 'y multas por infracciones a las normas mineras,'",
+       "replace: 'antedichos' -> 'antedichos.'"
       ]
      }
     ]
    },
-   "art-019": {
+   "art-057": {
     "laws": [
-     "Ley Nº 19.924"
+     "Ley Nº 20.212"
     ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19580-2017/19)",
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/57)",
     "intermediate": {},
     "steps": [
      {
-      "day": "2021-01-01",
+      "day": "2024-01-01",
       "laws": [
-       "ley-19924"
+       "ley-20212"
       ],
       "diff": [
-       "delete: 'C) Evaluar el impacto de las políticas públicas en la materia y realizar recomendaciones para su fortalecimiento.' -> ''"
+       "replace: 'violaciones,' -> 'violaciones'",
+       "replace: 'general,' -> 'general'",
+       "insert: '' -> 'así como'",
+       "insert: '' -> 'En el caso de las violaciones mencionadas precedentemente, que a juicio de la Dirección Nacional de Minería y Geología sean consideradas graves, los inspectores de dicho organismo dispondrán en forma '"
       ]
      }
     ]
    },
-   "art-058": {
+   "art-059": {
     "laws": [
-     "Ley Nº 19.670",
+     "Ley Nº 18.172",
+     "Ley Nº 18.813",
      "Ley Nº 20.212"
     ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19580-2017/58)",
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/59)",
     "intermediate": {
-     "Ley Nº 20.212": "the wording Ley Nº 19.670 art. 290 gives it (IMPO original)"
+     "Ley Nº 18.813": "the wording Ley Nº 18.172 art. 194 gives it (IMPO original)",
+     "Ley Nº 20.212": "the wording Ley Nº 18.813 art. 6 gives it (IMPO original)"
     },
     "steps": [
      {
-      "day": "2019-01-01",
+      "day": "2008-01-01",
       "laws": [
-       "ley-19670"
+       "ley-18172"
       ],
       "diff": [
-       "replace: 'Transfórmense' -> 'Transfórmanse'",
-       "replace: 'Especializadas en' -> 'Penales de Montevideo de Delitos Sexuales, Violencia Doméstica y'",
-       "delete: 'Doméstica y Sexual,' -> ''",
-       "insert: '' -> 'la investigación y litigio de'",
-       "replace: 'procesos a' -> 'delitos'",
-       "replace: 'refiere el artículo 51' -> 'se le asignen en función'",
-       "replace: 'esta ley.' -> 'los criterios de flexibilidad y dinamismo (artículo 9º de la Ley Nº 19.483, de 5 de enero de 2017)'"
+       "replace: 'Las infracciones administrativas serán objeto de las siguientes sanciones: a) Apercibimiento; b) Multas, que se graduarán según la infracción y la circunstancia agravante de reiteración, entre N$ 500.' -> 'C) Caducidad'",
+       "insert: '' -> 'En el caso de actividad extractiva sin título o autorización habilitante para la explotación se aplicará directamente esta sanción'"
+      ]
+     },
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'C)' -> 'Las infracciones administrativas serán objeto de las siguientes sanciones: a) Apercibimiento. b) Multas, que se graduarán según la infracción y la circunstancia agravante de reiteración, en leves, gra'",
+       "insert: '' -> 'sanción. d) Desestimación de la solicitud minera en trámite. En el caso de actividad extractiva sin título o autorización habilitante para la explotación, se aplicará directamente esta'"
       ]
      },
      {
@@ -455,20 +453,1018 @@
        "ley-20212"
       ],
       "diff": [
-       "replace: 'Especializadas).-' -> 'Penales de Montevideo de Delitos Sexuales, Violencia Doméstica y Violencia Basada en Género).-'",
-       "replace: 'Especializadas en' -> 'Penales de Montevideo de Delitos Sexuales,'",
-       "insert: '' -> 'y Violencia Basada en Género'",
-       "replace: 'Sexuales,' -> 'Sexuales y Fiscalías Penales de Montevideo de'",
-       "replace: '2017)' -> '2017).'"
+       "replace: '1:600.000' -> '1.600.000'",
+       "delete: 'En el caso de actividad extractiva sin título o autorización habilitante para la explotación se aplicará directamente esta sanción.' -> ''",
+       "replace: 'En' -> 'A los efectos de aplicar las sanciones dispuestas precedentemente, la administración evaluará la naturaleza de la infracción cometida e impondrá la que estime pertinente. Las sanciones enunciadas en'",
+       "replace: 'caso' -> 'presente artículo serán aplicadas sin perjuicio'",
+       "delete: 'actividad extractiva sin título o autorización habilitante para' -> ''",
+       "replace: 'explotación, se aplicará directamente esta sanción' -> 'clausura dispuesta en el artículo 57 la que no reviste naturaleza sancionatoria.'"
+      ]
+     }
+    ]
+   },
+   "art-060": {
+    "laws": [
+     "Ley Nº 18.172"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/60)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-01-01",
+      "laws": [
+       "ley-18172"
+      ],
+      "diff": [
+       "replace: 'prospección,' -> 'prospección (a excepción de los yacimientos de la Clase IV que no podrán ser objeto de dicho título),'"
+      ]
+     }
+    ]
+   },
+   "art-063": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/63)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'fases:' -> 'fases, en caso de corresponder:'",
+       "replace: 'aplicar;' -> 'aplicar.'",
+       "replace: 'inversiones;' -> 'inversiones y el estudio de su viabilidad.'",
+       "replace: 'mineras;' -> 'mineras.'",
+       "replace: 'fase;' -> 'fase.'",
+       "replace: '64);' -> '64).'",
+       "insert: '' -> 'g) Acreditar la obtención de las autorizaciones ambientales, conforme a la normativa vigente.'",
+       "replace: 'Minas,' -> 'Minas'"
       ]
      }
     ]
    },
    "art-065": {
     "laws": [
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/65)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "insert: '' -> 'de exploración y explotación'",
+       "replace: 'cultivados,' -> 'cultivados'",
+       "insert: '' -> 'o'",
+       "replace: 'agua,' -> 'agua superficiales,'",
+       "replace: 'Geología,' -> 'Geología'"
+      ]
+     }
+    ]
+   },
+   "art-067": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/67)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "delete: 'del literal a)' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-068": {
+    "laws": [
+     "Ley Nº 18.362",
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/68)",
+    "intermediate": {
+     "Ley Nº 18.813": "the wording Ley Nº 18.362 art. 230 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2009-01-01",
+      "laws": [
+       "ley-18362"
+      ],
+      "diff": [
+       "replace: 'Los' -> 'Para los'",
+       "replace: 'b)' -> 'B)'",
+       "replace: 'pueden ser objeto' -> 'el Ministerio'",
+       "replace: 'actividad minera, en la siguiente forma: a) El Poder Ejecutivo, directamente por sus organismos especializados, o por contratación bajo su responsabilidad, podrá realizar las operaciones' -> 'Industria, Energía y Minería instituirá los títulos mineros'",
+       "delete: 'prospección y exploración; b) La' -> ''",
+       "replace: 'o explotación' -> 'y explotación, atribuyendo los derechos correspondientes al agente que seleccione, si considera que cumple con las condiciones necesarias desde el punto de vista técnico, económico y empresarial, para'",
+       "replace: 'cometidas por el Poder Ejecutivo, a entes estatales industriales' -> 'fijados en especie'",
+       "replace: 'comerciales existentes o realizadas por los que se crearen en el futuro con dicha competencia específica.' -> 'suma equivalente'"
+      ]
+     },
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "delete: 'del literal B)' -> ''",
+       "replace: 'I,' -> 'I referidos en'",
+       "replace: 'Ministerio' -> 'artículo 7º, cuando las áreas a prospectar, explorar o explotar, se encuentren afectadas por otros títulos mineros, el Poder Ejecutivo procurará la simultaneidad o concurrencia'",
+       "replace: 'Industria, Energía' -> 'las actividades mineras,'",
+       "replace: 'Minería instituirá' -> 'en caso de no ser posible decidirá cuál debe prevalecer, disponiendo la caducidad del título en caso que resuelva la prevalencia de la actividad relativa a'",
+       "replace: 'títulos mineros' -> 'yacimientos'",
+       "replace: 'prospección,' -> 'Clase I. Para la etapa de prospección así como de'",
+       "replace: 'y explotación, atribuyendo los derechos correspondientes al agente' -> 'se podrá suspender el título minero por el plazo'",
+       "replace: 'seleccione, si considera que cumple con las condiciones necesarias desde' -> 'estime'",
+       "replace: 'punto' -> 'Poder Ejecutivo para permitir el desarrollo'",
+       "delete: 'vista técnico, económico y empresarial, para ejecutar' -> ''",
+       "replace: 'estos yacimientos. Para' -> 'los yacimientos de'",
+       "replace: 'selección' -> 'Clase I. Si para realizar la actividad minera relativa a los yacimientos de la Clase I referidos en el artículo 7º, es necesario ingresar a alguno de los predios acreditados los extremos que exija la '",
+       "replace: 'contratista' -> 'área a los efectos previstos en el artículo 69. Dicha resolución'",
+       "replace: 'establecerán en cada caso los derechos, cánones, montos' -> 'comunicará a la Dirección Nacional de Minería'",
+       "replace: 'porcentajes que abonará quien resulte seleccionado, los que podrán ser fijados en especie o suma equivalente' -> 'Geología. En virtud de la comunicación precedente, el Poder Ejecutivo modificará el área asignada.'"
+      ]
+     }
+    ]
+   },
+   "art-069": {
+    "laws": [
+     "Ley Nº 18.362",
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/69)",
+    "intermediate": {
+     "Ley Nº 18.813": "the wording Ley Nº 18.362 art. 230 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2009-01-01",
+      "laws": [
+       "ley-18362"
+      ],
+      "diff": [
+       "insert: '' -> 'de los literales A) y B)'",
+       "replace: 'establecerá,' -> 'y el Ministerio de Industria, Energía y Minería, respectivamente, establecerán'",
+       "replace: 'requiera' -> 'requiere'",
+       "replace: 'dicha' -> 'la'",
+       "replace: 'Código.' -> 'Código'"
+      ]
+     },
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "delete: 'de los literales A) y B)' -> ''",
+       "replace: 'y el Ministerio de Industria, Energía y Minería, respectivamente, establecerán' -> 'establecerá,'",
+       "replace: 'minera,' -> 'minera'",
+       "replace: 'requiere' -> 'requiera'",
+       "insert: '' -> 'dicha actividad. La resolución será comunicada a'",
+       "replace: 'actividad.' -> 'Dirección Nacional de Minería y Geología quien, previo a dar trámite u otorgar títulos mineros sobre dicha área, comunicará a los peticionarios que el área será objeto de actividad minera relativa a y'",
+       "replace: 'Código' -> 'Código.'"
+      ]
+     }
+    ]
+   },
+   "art-070": {
+    "laws": [
+     "Ley Nº 18.362",
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/70)",
+    "intermediate": {
+     "Ley Nº 18.813": "the wording Ley Nº 18.362 art. 230 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2009-01-01",
+      "laws": [
+       "ley-18362"
+      ],
+      "diff": [
+       "insert: '' -> 'del literal A)'",
+       "replace: 'extraidas' -> 'extraídas'",
+       "replace: 'incorporan' -> 'incorporarán'",
+       "replace: 'minera.' -> 'minera'"
+      ]
+     },
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "delete: 'del literal A)' -> ''",
+       "replace: 'incorporarán' -> 'incorporan'",
+       "replace: 'minera' -> 'minera.'"
+      ]
+     }
+    ]
+   },
+   "art-071": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/71)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'Portland' -> 'Pórtland'",
+       "replace: 'al literal a) de' -> 'a'",
+       "replace: 'I, del' -> 'I referida en el'"
+      ]
+     }
+    ]
+   },
+   "art-072": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/72)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'ANCAP' -> 'La Administración Nacional de Combustibles, Alcohol y Pórtland (ANCAP)'",
+       "replace: 'operación petrolera' -> 'actividad minera,'",
+       "delete: 'la' -> ''",
+       "replace: 'Ente' -> 'ente'"
+      ]
+     }
+    ]
+   },
+   "art-073": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/73)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'contratista,' -> 'contratista'",
+       "replace: 'Ente' -> 'ente'",
+       "delete: 'de hidrocarburos' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-074": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/74)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'hidrocarburos' -> 'la Clase I'"
+      ]
+     }
+    ]
+   },
+   "art-075": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/75)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'literal a) del' -> 'referidas en el'",
+       "replace: 'dominio' -> 'domino'",
+       "replace: 'necesario' -> 'necesarios'",
+       "replace: 'ANCAP.' -> 'la Administración Nacional de Combustibles, Alcohol y Pórtland (ANCAP).'",
+       "replace: 'ANCAP.' -> 'la Administración Nacional de Combustibles, Alcohol y Pórtland (ANCAP).'"
+      ]
+     }
+    ]
+   },
+   "art-076": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/76)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'cualquiera' -> 'cualesquiera'",
+       "replace: 'literal a) del' -> 'referidas en el'",
+       "replace: '7º' -> '7º,'",
+       "replace: 'y' -> 'o'"
+      ]
+     }
+    ]
+   },
+   "art-086": {
+    "laws": [
+     "Ley Nº 17.930",
+     "Ley Nº 18.813",
+     "Ley Nº 18.996"
+    ],
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/86)",
+    "intermediate": {
+     "Ley Nº 18.813": "the earlier text with the items Numeral 4º) as Ley Nº 17.930 art. 184 words them",
+     "Ley Nº 18.996": "the wording Ley Nº 18.813 art. 13 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2006-01-01",
+      "laws": [
+       "ley-17930"
+      ],
+      "diff": [
+       "replace: 'Servidumbre' -> 'Solicitud de servidumbre'",
+       "replace: 'estime necesaria declarar;' -> 'corresponda conforme al área afectada'"
+      ]
+     },
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'la zona;' -> 'ubicación del área.'",
+       "replace: 'Programas' -> 'Programa'",
+       "replace: 'emplear;' -> 'emplear, los que deberán ajustarse a la reglamentación que se dicte acorde a las buenas prácticas en la materia, así como cronograma de la misma.'",
+       "replace: 'prospección;' -> 'prospección.'",
+       "insert: '' -> 'Capacidad técnica y financiera adecuada al programa de la actividad a desarrollar. 5)'",
+       "insert: '' -> 'la'",
+       "replace: 'que corresponda conforme al área afectada 5)' -> 'correspondiente. 6)'",
+       "replace: 'Inspección General' -> 'Dirección Nacional'",
+       "replace: 'Minas' -> 'Minería y Geología'",
+       "replace: 'calendarios cumplidos del' -> 'calendario a contar desde el'",
+       "replace: 'permiso,' -> 'permiso'",
+       "replace: 'hubieren reclamaciones pendientes; si las hubiese,' -> 'hubiere demanda judicial por daños y perjuicios notificada. En caso que se acredite dentro de dicho plazo ante'",
+       "replace: 'garantía' -> 'Dirección Nacional de Minería y Geología la existencia de proceso ordinario por daños y perjuicios, la caución o aval'",
+       "insert: '' -> '7) Designación de técnico responsable de la actividad.'",
+       "replace: 'Reglamentación' -> 'reglamentación'",
+       "insert: '' -> 'todos'",
+       "replace: 'precedentes.' -> 'precedentes, en mérito a los cuales la Dirección Nacional de Minería y Geología dispondrá los instructivos que correspondan. Para el otorgamiento del permiso de prospección se requerirá vista previa a'"
+      ]
+     },
+     {
+      "day": "2013-01-01",
+      "laws": [
+       "ley-18996"
+      ],
+      "diff": [
+       "replace: 'correspondiente.' -> 'correspondiente, conforme al programa de actividad.'",
+       "replace: 'superficiario' -> 'superficiario.'"
+      ]
+     }
+    ]
+   },
+   "art-087": {
+    "laws": [
+     "Ley Nº 17.930",
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/87)",
+    "intermediate": {
+     "Ley Nº 18.813": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-17930",
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'doce' -> 'tres'",
+       "replace: 'veinticuatro' -> 'treinta y seis'",
+       "replace: 'prorrogado' -> 'prorrogada'",
+       "insert: '' -> 'treinta y seis meses más en períodos de hasta'",
+       "replace: 'meses más, debiendo liberarse, para tener derecho' -> 'meses;'",
+       "insert: '' -> 'partir de'",
+       "replace: 'prórroga, el 50%' -> 'solicitud de la segunda prórroga deberá liberar un 25% (veinticinco por ciento)'",
+       "replace: 'originaria.' -> 'originaria y en la tercera solicitud de prórroga el 25% (veinticinco por ciento) del área remanente. A efectos de conceder las prórrogas el permisario deberá presentar informe específico detallado que'",
+       "replace: 'máximo' -> 'máxima'",
+       "delete: 'de' -> ''",
+       "insert: '' -> 'física o jurídica'",
+       "insert: '' -> 'El Poder Ejecutivo podrá autorizar que se exceda el área máxima, por razones fundadas, si el proyecto minero hiciese necesario disponer de un área superior al máximo por empresa.'",
+       "replace: 'Autoridad Minera' -> 'autoridad minera'",
+       "insert: '' -> 'capacidad financiera para la ejecución del mismo, la'",
+       "replace: 'utilizar.' -> 'utilizar, así como todos los detalles del proyecto minero que justifiquen la necesidad del área solicitada.'",
+       "replace: 'será' -> 'serán'",
+       "replace: 'cuenta' -> 'contará'",
+       "replace: 'Inspección General' -> 'Dirección Nacional'",
+       "replace: 'Minas, no extendiéndose esta interrupción en ningún caso por más de seis meses calendario.' -> 'Minería y Geología.'"
+      ]
+     }
+    ]
+   },
+   "art-091": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/91)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "insert: '' -> 'El permisario está obligado: 1) A presentar informes de avance de proyectos anuales y cuando la Dirección Nacional de Minería y Geología así lo requiera. Los informes pre aludidos deberán incluir las '",
+       "replace: 'permiso' -> 'permiso,'",
+       "replace: 'actividad' -> 'actividad,'",
+       "replace: 'Inspección General' -> 'Dirección Nacional'",
+       "replace: 'Minas,' -> 'Minería y Geología'",
+       "insert: '' -> 'final,'",
+       "insert: '' -> 'con conclusiones, incluyendo las inversiones producidas. Asimismo, al finalizar la actividad de prospección la Dirección Nacional de Minería y Geología corroborará la ausencia de daños y perjuicios de'",
+       "replace: 'labor realizada. Este' -> 'actividad. La presentación del'",
+       "replace: 'será' -> 'final y la verificación referida serán'",
+       "insert: '' -> 'A los efectos del cumplimiento del presente artículo la Dirección Nacional de Minería y Geología dispondrá los instructivos correspondientes.'"
+      ]
+     }
+    ]
+   },
+   "art-092": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/92)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "insert: '' -> 'Dicho título será otorgado previa vista al superficiario, con arreglo a las siguientes disposiciones.'"
+      ]
+     }
+    ]
+   },
+   "art-093": {
+    "laws": [
+     "Ley Nº 17.930",
+     "Ley Nº 18.813",
+     "Ley Nº 18.996"
+    ],
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/93)",
+    "intermediate": {
+     "Ley Nº 18.813": "unknown: change shown later",
+     "Ley Nº 18.996": "the wording Ley Nº 18.813 art. 17 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-17930",
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'forma;' -> 'forma.'",
+       "replace: 'Al' -> 'A'",
+       "replace: 'Inspección General' -> 'Dirección Nacional'",
+       "replace: 'Minas.' -> 'Minería y Geología.'",
+       "replace: '88;' -> '88.'",
+       "replace: 'o' -> 'y'",
+       "replace: 'extensión;' -> 'extensión.'",
+       "replace: 'realizados;' -> 'realizados.'",
+       "insert: '' -> 'con cronograma de las mismas,'",
+       "replace: 'emplear;' -> 'emplear.'",
+       "replace: 'Servidumbre' -> 'Solicitud de la servidumbre'",
+       "replace: 'estime necesaria para su actividad;' -> 'corresponda.'",
+       "replace: 'actividad;' -> 'actividad.'",
+       "replace: 'inversiones;' -> 'inversiones.'",
+       "insert: '' -> 'Plan de cierre o abandono de la actividad, incluyendo las acciones de acondicionamiento del sitio que se considere necesario. h)'",
+       "replace: 'Programa' -> 'programa'",
+       "replace: 'Trabajo; h)' -> 'trabajo. i)'",
+       "replace: 'datos' -> 'daños'",
+       "replace: 'deriven' -> 'puedan derivar'",
+       "insert: '' -> 'actividad. El monto será fijado por la Dirección Nacional de Minería y Geología y no podrá ser liberado hasta sesenta días calendario a contar desde el vencimiento del plazo del permiso si no hubiere '",
+       "delete: 'minera. El reglamento desarrollará los extremos precedentes con especificación' -> ''",
+       "replace: 'los detalles técnicos que correspondieren.' -> 'exploración, la Dirección Nacional de Medio Ambiente corroborará la recomposición del área e informará a la Dirección Nacional de Minería y Geología, si esta hubiera sido dañada por la actividad'"
+      ]
+     },
+     {
+      "day": "2013-01-01",
+      "laws": [
+       "ley-18996"
+      ],
+      "diff": [
+       "replace: 'que corresponda.' -> 'correspondiente, conforme al programa de operaciones y su cronograma.'",
+       "replace: 'actividad' -> 'actividad.'"
+      ]
+     }
+    ]
+   },
+   "art-094": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/94)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'lo más regular posible' -> 'regular,'",
+       "replace: 'Há' -> 'hectáreas'",
+       "replace: 'persona' -> 'persona, física o jurídica,'",
+       "replace: 'Há.' -> 'hectáreas. En este último caso, el Poder Ejecutivo por razones fundadas y con informe favorable de la Dirección Nacional de Minería y Geología, podrá autorizar mayor extensión.'",
+       "replace: 'otorga' -> 'otorgará'",
+       "insert: '' -> 'mínimo'",
+       "replace: 'dos' -> 'un año y un máximo de tres'",
+       "replace: 'prorrogable' -> 'prorrogables'",
+       "replace: 'dos' -> 'tres'",
+       "delete: 'optar a' -> ''",
+       "replace: 'primera prórroga, debe librarse' -> 'segunda prórroga del título, deberá liberarse'",
+       "replace: '50%' -> '25% (veinticinco por ciento)'",
+       "delete: 'de exploración' -> ''",
+       "replace: 'segunda' -> 'tercera'",
+       "replace: '50%' -> '25% (veinticinco por ciento)'",
+       "insert: '' -> 'Solo se podrá prorrogar el plazo original si se encuentra en ejecución el cronograma de operaciones aprobado y mediante un acto administrativo debidamente fundado.'",
+       "replace: 'cómputo' -> 'plazo'",
+       "replace: 'plazo' -> 'permiso de exploración'",
+       "replace: 'iniciará desde la fecha de notificación' -> 'computará a partir'",
+       "insert: '' -> 'día siguiente a aquel en que se notifique al titular minero el'",
+       "replace: 'permiso' -> 'título'",
+       "replace: 'admitirá interrupción' -> 'se suspenderá'",
+       "replace: 'causas justificadas, no pudiendo exceder dicha interrupción' -> 'razones justificadas a juicio'",
+       "replace: 'un plazo' -> 'la Dirección Nacional'",
+       "replace: 'seis meses calendario.' -> 'Minería y Geología.'"
+      ]
+     }
+    ]
+   },
+   "art-096": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/96)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'permisario está obligado:' -> 'titular minero estará obligado a:'",
+       "replace: 'A iniciar' -> 'Comenzar'",
+       "replace: 'interrupción' -> 'suspensión'",
+       "replace: 'autorizada;' -> 'autorizada.'",
+       "replace: 'A ejecutar' -> 'Ejecutar'",
+       "replace: 'proyectadas;' -> 'proyectadas, conforme al cronograma presentado. Los procedimientos y equipos a emplear deberán ajustarse a la reglamentación que se dicte acorde a las buenas prácticas en la materia.'",
+       "replace: 'A comunicar,' -> 'Comunicar,'",
+       "replace: 'ocurrido' -> 'ocurrido,'",
+       "replace: 'permiso;' -> 'permiso.'",
+       "replace: 'análisis;' -> 'análisis.'",
+       "replace: 'fuere' -> 'fuera'",
+       "replace: 'realizada.' -> 'realizada así como de las inversiones y de la ejecución del plan de cierre o abandono de la actividad, si correspondiere. 6) Al finalizar la actividad de exploración la Dirección Nacional de Medio Amb'"
+      ]
+     }
+    ]
+   },
+   "art-098": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/98)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "insert: '' -> 'la cual será'",
+       "insert: '' -> 'previa vista al superficiario,'"
+      ]
+     }
+    ]
+   },
+   "art-100": {
+    "laws": [
+     "Ley Nº 17.930",
+     "Ley Nº 18.813",
+     "Ley Nº 18.996"
+    ],
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/100)",
+    "intermediate": {
+     "Ley Nº 18.813": "unknown: change shown later",
+     "Ley Nº 18.996": "the wording Ley Nº 18.813 art. 21 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-17930",
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'forma;' -> 'forma.'",
+       "replace: 'por' -> 'para'",
+       "replace: '64);' -> '64).'",
+       "insert: '' -> 'forma,'",
+       "replace: 'los volúmenes' -> 'volumen'",
+       "replace: 'reserva comprobados y todos los demás datos y elementos demostrativos' -> 'reservas categorizadas, así como toda información que demuestre la viabilidad'",
+       "replace: 'la posibilidad de una' -> 'su'",
+       "replace: 'racional;' -> 'racional.'",
+       "replace: 'utilaje' -> 'utillaje'",
+       "replace: 'explotación;' -> 'explotación.'",
+       "delete: 'detallando' -> ''",
+       "insert: '' -> 'máquinas; plan de explotación detallado, con labores a realizar en la modalidad seleccionada, localización de escombreras'",
+       "replace: 'máquinas;' -> 'la estimación de su volumen, planta de beneficiación si la hubiere, y toda infraestructura vinculada al proyecto, lo que se reglamentará acorde a las buenas prácticas en la materia.'",
+       "replace: '- Inversiones mínimas' -> 'e) Características de la planta de beneficiación o transformación (recuperación, capacidad de procesamiento de mineral de la planta). f) Descripción de los procesos de beneficiación o transformación. '",
+       "replace: 'e) Acreditar capacidad' -> 'i) Capacidad'",
+       "replace: 'Plan' -> 'plan'",
+       "replace: 'Explotación' -> 'explotación'",
+       "replace: 'desarrollar; f) Determinar' -> 'desarrollar. j) Solicitud de'",
+       "replace: 'que estime necesaria para la explotación; g) Proponer el' -> 'correspondiente. k) El'",
+       "replace: 'explotación; h) Constituir' -> 'explotación. l) La constitución de'",
+       "replace: 'minera, fijando' -> 'minera. El monto será fijado por la Dirección Nacional de Minería y Geología y no podrá ser liberado hasta sesenta días calendario a contar desde el vencimiento del plazo del permiso si no hubiere dem'",
+       "replace: 'monto la Inspección General de Minas.' -> 'definición'"
+      ]
+     },
+     {
+      "day": "2013-01-01",
+      "laws": [
+       "ley-18996"
+      ],
+      "diff": [
+       "replace: 'correspondiente.' -> 'correspondiente, conforme al programa de operaciones y su cronograma.'",
+       "replace: 'definición' -> 'definición.'"
+      ]
+     }
+    ]
+   },
+   "art-103": {
+    "laws": [
+     "Ley Nº 20.075",
      "Ley Nº 20.212"
     ],
-    "earliest_text": "the later text without what this law added: Literal C), inciso 2º) (Ley Nº 20.212 art. 513)",
+    "earliest_text": "IMPO original text (/bases/decretos-leyes-originales/15242-1982/103)",
+    "intermediate": {
+     "Ley Nº 20.212": "the wording Ley Nº 20.075 art. 229 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": [
+       "replace: '500' -> 'quinientas'",
+       "replace: 'a)' -> 'A)'",
+       "replace: 'mina; b)' -> 'mina. B)'",
+       "replace: 'explotación; c)' -> 'explotación. C)'",
+       "insert: '' -> 'la'",
+       "replace: 'años.' -> 'años y se computará a partir del día inmediato siguiente a la fecha del acta de posesión de la mina.'",
+       "replace: 'primer semestre del último año' -> 'plazo'",
+       "replace: 'del plazo existente' -> 'de la concesión'",
+       "replace: 'operaciones (literal d),' -> 'operaciones, literal D) del'",
+       "replace: 'Canon' -> 'canon'",
+       "replace: 'Producción' -> 'producción'",
+       "replace: 'Superficie. La prórroga, gestionada en plazo, se reputará otorgada si' -> 'superficie. En este caso, mientras'",
+       "replace: 'existe' -> 'exista'",
+       "insert: '' -> 'expreso'",
+       "replace: 'minera al vencimiento' -> 'minera, el titular mantendrá sus derechos y seguirá sujeto a todas las cargas y obligaciones inherentes a la posesión de la mina. Las prórrogas solicitadas fuera'",
+       "replace: 'hasta entonces vigente.' -> 'de la concesión serán rechazadas de plano por la Dirección Nacional de Minería y Geología'"
+      ]
+     },
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "insert: '' -> 'la'",
+       "replace: 'operaciones, literal D)' -> 'operaciones (literal d) del numeral 3)'",
+       "insert: '' -> 'de este Código)'",
+       "replace: 'Geología' -> 'Geología.'"
+      ]
+     }
+    ]
+   },
+   "art-108": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/108)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'misma.' -> 'misma, sin perjuicio de lo establecido en el artículo 16.'",
+       "replace: 'la Clase' -> 'las Clases'",
+       "replace: 'la explotación' -> 'explotación,'",
+       "replace: 'áreas, y' -> 'áreas y,'",
+       "replace: 'autoridad,' -> 'autoridad'"
+      ]
+     }
+    ]
+   },
+   "art-108-bis": {
+    "laws": [
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-20075"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-115": {
+    "laws": [
+     "Ley Nº 18.172"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/115)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-01-01",
+      "laws": [
+       "ley-18172"
+      ],
+      "diff": [
+       "replace: 'pueden' -> 'podrán'",
+       "insert: '' -> 'exclusivamente'",
+       "replace: 'mineros correspondientes,' -> 'mineros, permiso de exploración y concesión para explotar,'",
+       "insert: '' -> 'se'",
+       "insert: '' -> 'en'"
+      ]
+     }
+    ]
+   },
+   "art-116": {
+    "laws": [
+     "Ley Nº 15.903",
+     "Ley Nº 18.996",
+     "Ley Nº 19.924",
+     "Ley Nº 20.075",
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/116)",
+    "intermediate": {
+     "Ley Nº 18.996": "the wording Ley Nº 15.903 art. 620 gives it (IMPO original)",
+     "Ley Nº 19.924": "the wording Ley Nº 18.996 art. 153 gives it (IMPO original)",
+     "Ley Nº 20.075": "the wording Ley Nº 19.924 art. 306 gives it (IMPO original)",
+     "Ley Nº 20.212": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "1988-01-01",
+      "laws": [
+       "ley-15903"
+      ],
+      "diff": [
+       "replace: 'minera,' -> 'minera'",
+       "replace: 'a)' -> 'A)'",
+       "replace: 'públicos: -El' -> 'públicos, o es accesoria a una obra a realizar en el mismo predio. El'",
+       "replace: 'vigencia' -> 'vigilancia'",
+       "replace: 'aseguran' -> 'aseguren'",
+       "replace: 'trabajos; b) Si' -> 'trabajos. La autorización será otorgada por la Dirección Nacional de Minería y Geología (DINAMIGE), previa verificación de los extremos expuestos por un plazo máximo de tres meses. B) En los demás cas'",
+       "replace: 'a desarrollar tiene fines lucrativos, solo' -> 'sólo'",
+       "replace: 'correspondiente.' -> 'correspondiente'"
+      ]
+     },
+     {
+      "day": "2013-01-01",
+      "laws": [
+       "ley-18996"
+      ],
+      "diff": [
+       "replace: 'minera' -> 'extractiva'",
+       "replace: 'minera' -> 'extractiva'",
+       "replace: 'lucrativos,' -> 'de lucro'",
+       "insert: '' -> 'si'",
+       "replace: 'realizar' -> 'realizarse'",
+       "replace: 'para realizarla' -> 'a realizar la extracción'",
+       "replace: 'Geología (DINAMIGE),' -> 'Geología,'",
+       "delete: 'máximo' -> ''",
+       "replace: 'tres' -> 'hasta doce'",
+       "insert: '' -> 'Dicho plazo podrá ser objeto de prórrogas o renovaciones semestrales por resolución de la citada Dirección en tanto la explotación del referido yacimiento sea justificable por persistir las razones pa'"
+      ]
+     },
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "replace: 'yacimiento,' -> 'yacimiento o un tercero, sea este persona física o jurídica, a quien el propietario autorice,'",
+       "delete: 'se desarrolla sin fines de lucro o' -> ''",
+       "replace: 'propietario' -> 'propietario, o en su caso quien sea autorizado por el propietario,'",
+       "replace: 'meses. Dicho' -> 'meses, excepto en el caso de que sea requerida por organismos públicos en la que el'",
+       "replace: 'podrá' -> 'máximo será de cinco años. Dichos plazos podrán'",
+       "insert: '' -> 'hasta un máximo de dos'",
+       "replace: 'semestrales' -> 'por la mitad del periodo inicial de cada uno'",
+       "replace: 'Dirección' -> 'Dirección,'",
+       "replace: 'proyecto' -> 'solicitante'",
+       "insert: '' -> 'La Dirección Nacional de Minería y Geología dispondrá los instructivos pertinentes a los efectos del otorgamiento de la autorización para la actividad extractiva y la autorización del propietario a te'",
+       "replace: 'correspondiente' -> 'correspondiente. C) Si la actividad extractiva tiene destino la realización de obra pública, por parte de los organismos correspondientes'"
+      ]
+     },
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20075",
+       "ley-20212"
+      ],
+      "diff": [
+       "insert: '' -> 'siempre que el fin no sea la enajenación del mineral extraído,'",
+       "replace: 'carácter' -> 'escala'",
+       "replace: 'o si' -> 'y'",
+       "delete: 'organismos públicos, o es accesoria a' -> ''",
+       "replace: 'a realizarse en el mismo predio.' -> 'accesoria al predio superficial.'",
+       "replace: 'propietario, o' -> 'propietario o,'",
+       "replace: 'caso' -> 'caso,'",
+       "replace: 'propietario,' -> 'propietario'",
+       "replace: 'doce meses, excepto en el caso de que sea requerida por organismos públicos en la que el' -> 'tres años. Dicho'",
+       "replace: 'máximo será de cinco años. Dichos plazos podrán' -> 'podrá'",
+       "replace: 'periodo' -> 'período'",
+       "replace: 'Dirección,' -> 'dirección,'",
+       "replace: 'autorización' -> 'autorización,'",
+       "replace: 'deberá además' -> 'deberá, además,'",
+       "replace: 'correspondiere' -> 'corresponda'",
+       "insert: '' -> 'No corresponde constituir una servidumbre minera de paso cuando exista una servidumbre predial de paso previamente constituida (artículos 581 y siguientes del Código Civil, y artículos 51 y siguientes'",
+       "replace: 'sólo' -> 'solo'",
+       "insert: '' -> 'como'",
+       "replace: 'correspondientes' -> 'correspondientes.'"
+      ]
+     }
+    ]
+   },
+   "art-118": {
+    "laws": [
+     "Ley Nº 18.172"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/118)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-01-01",
+      "laws": [
+       "ley-18172"
+      ],
+      "diff": [
+       "replace: 'minero (permiso de prospección,' -> 'minero, permiso'",
+       "replace: 'explotar)' -> 'explotar,'",
+       "insert: '' -> 'las'"
+      ]
+     }
+    ]
+   },
+   "art-120": {
+    "laws": [
+     "Ley Nº 18.172"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/120)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2008-01-01",
+      "laws": [
+       "ley-18172"
+      ],
+      "diff": [
+       "insert: '' -> 'd) No será de aplicación respecto de los yacimientos de la Clase IV lo dispuesto en el artículo 97, por lo que no podrá el titular de un permiso de exploración realizar experiencias preparatorias de e'"
+      ]
+     }
+    ]
+   },
+   "art-120-bis": {
+    "laws": [
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-18813"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-123": {
+    "laws": [
+     "Ley Nº 16.170",
+     "Ley Nº 18.362",
+     "Ley Nº 18.813"
+    ],
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/123)",
+    "intermediate": {
+     "Ley Nº 18.362": "unknown: change shown later",
+     "Ley Nº 18.813": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2011-11-14",
+      "laws": [
+       "ley-16170",
+       "ley-18362",
+       "ley-18813"
+      ],
+      "diff": [
+       "replace: 'I.' -> 'I.-'",
+       "replace: 'minera;' -> 'minera.'",
+       "replace: 'I;' -> 'I comprendidos en el artículo 7º.'",
+       "replace: 'del' -> 'comprendidos en el'",
+       "replace: 'correspondientes;' -> 'correspondientes.'",
+       "replace: 'mismas;' -> 'mismas.'",
+       "insert: '' -> 'Autorizar para los permisos de prospección y exploración, la superación del límite de 200.000 hectáreas y de 2.000 hectáreas, respectivamente, en los supuestos de otorgarse más de un permiso a la mism'",
+       "replace: 'mineras; 6)' -> 'mineras de ocupación, paso y ducto. 7)'",
+       "replace: 'mineras; 7)' -> 'mineras y su cese. 8)'",
+       "replace: 'minera; 8)' -> 'minera. 9)'",
+       "replace: 'mineros; 9)' -> 'mineros. 10)'",
+       "replace: 'del' -> 'referidos en el'",
+       "replace: '7º; 10)' -> '7º. 11)'",
+       "insert: '' -> '12) Crear el Consejo Consultivo de Minería integrado por representantes del Ministerio de Industria, Energía y Minería que lo presidirá, del Ministerio de Ganadería, Agricultura y Pesca y del Minister'",
+       "replace: 'Industria' -> 'Industria, Energía'",
+       "replace: 'Energía' -> 'Minería'",
+       "replace: 'Geología;' -> 'Geología.'",
+       "insert: '' -> 'y aprobaciones'",
+       "replace: 'Código;' -> 'Código.'",
+       "replace: 'Geología' -> 'Geología,'",
+       "replace: 'N$ 50.000.00 (nuevos pesos cincuenta mil).' -> '100.000 UI (cien mil unidades indexadas). 4) Elaborar el manual de buenas prácticas mineras.'",
+       "replace: 'Industria' -> 'Industria, Energía'",
+       "replace: 'Energía' -> 'Minería'",
+       "replace: 'mineras;' -> 'mineras.'",
+       "replace: 'prospección y' -> 'prospección, su correspondiente servidumbre minera de estudio, permisos'",
+       "replace: 'mismos;' -> 'mismos.'",
+       "replace: 'Leyes' -> 'leyes'",
+       "replace: 'Reglamentos;' -> 'reglamentos.'",
+       "replace: 'por el artículo 59,' -> 'en los'",
+       "replace: 'b).' -> 'b) del artículo 59.'",
+       "replace: 'impongan no excederán' -> 'imponga serán'",
+       "replace: 'N$ 50.000.00 (nuevos pesos cincuenta mil);' -> 'hasta 100.000 UI (cien mil unidades indexadas).'",
+       "replace: 'minería;' -> 'minería.'",
+       "insert: '' -> 'actividad minera, incluyendo el plan de cierre o abandono. 7) Disponer la liberación o devolución de la caución constituida cuando finalizada'",
+       "replace: 'minera; 7)' -> 'de prospección, exploración o explotación, no se hubieran derivado daños o incumplimientos a ser cubiertos por dicha garantía. 8)'",
+       "replace: 'establece' -> 'establecen'"
+      ]
+     }
+    ]
+   },
+   "art-126-bis": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "added by this law",
     "intermediate": {},
     "steps": [
      {
@@ -476,26 +1472,30 @@
       "laws": [
        "ley-20212"
       ],
-      "diff": [
-       "insert: '' -> 'En los casos en que se considere en riesgo el derecho a la vida o a la integridad física de una víctima de violencia doméstica o de género, el tribunal podrá disponer la colocación del dispositivo de '"
-      ]
+      "diff": "added"
      }
     ]
    },
-   "art-079": {
+   "art-132": {
     "laws": [
-     "Ley Nº 19.791"
+     "Ley Nº 15.903"
     ],
-    "earliest_text": "the later text without what this law added: Inciso 2º) (Ley Nº 19.791 art. 3)",
+    "earliest_text": "IMPO original text (/bases/textos-originales-decreto-ley/15242-1982/132)",
     "intermediate": {},
     "steps": [
      {
-      "day": "2019-10-04",
+      "day": "1988-01-01",
       "laws": [
-       "ley-19791"
+       "ley-15903"
       ],
       "diff": [
-       "insert: '' -> 'La suspensión e inhabilitación para el ejercicio de la patria potestad y funciones establecidas en este artículo será del doble de lo previsto en el mismo en caso de reincidencia.'"
+       "replace: 'en el mes' -> 'por la Dirección Nacional'",
+       "replace: 'enero de cada año por el Poder Ejecutivo' -> 'Minería y Geología'",
+       "replace: 'con' -> 'a'",
+       "delete: 'oficial' -> ''",
+       "insert: '' -> 'general de los precios'",
+       "replace: 'costo' -> 'consumo elaborados por la Dirección General'",
+       "replace: 'vida.' -> 'Estadística y Censos.'"
       ]
      }
     ]
@@ -504,10 +1504,7 @@
   "last_version_equals_impo": true,
   "post_pass": {
    "first_text_from_earlier_law": [],
-   "article_vigencia": [
-    "Artículo 58: 2019-01-01 -> 2018-10-15 (Ley Nº 19.670 art. 290: \"El presente artículo entrará en vigencia a partir de la promulgación\")",
-    "Artículo 58: 2024-01-01 -> 2023-11-06 (Ley Nº 20.212 art. 512: \"Lo dispuesto en este artículo entrará en vigencia a partir de la promulgación\")"
-   ],
+   "article_vigencia": [],
    "article_vigencia_not_applied": [],
    "absent_between": [],
    "added_part_removed": [],
@@ -527,1080 +1524,49 @@
    }
   },
   "unamended_sample": {
-   "leyes-originales/19580-2017/4": "same words",
-   "leyes-originales/19580-2017/10": "same words",
-   "leyes-originales/19580-2017/16": "same words",
-   "leyes-originales/19580-2017/24": {
+   "decretos-leyes-originales/15242-1982/4": "same words",
+   "decretos-leyes-originales/15242-1982/11": "same words",
+   "decretos-leyes-originales/15242-1982/20": "same words",
+   "decretos-leyes-originales/15242-1982/29": {
     "original": [
-     "(Directrices para las políticas de seguridad).- El",
-     "Ministerio del Interior y todo otro órgano y organismo vinculado a las políticas de seguridad, en el ámbito de sus competencias, deben:",
-     "A) Transversalizar la perspectiva de género en la política pública de seguridad, integrando el derecho a la vida libre de violencia como derecho humano de las mujeres de todas las edades.",
-     "B) Diseñar y difundir materiales informativos sobre medidas de prevención, seguridad y preservación de la prueba, ante situaciones de violencia basada en género hacia las mujeres, en todos los ámbitos en que se produzcan y en todas sus formas de expresión. Los materiales tendrán en cuenta las normas de accesibilidad para las personas en situación de discapacidad, así como a la distintas franjas etarias.",
-     "C) Aprobar las reglamentaciones, protocolos y guías necesarias para que la intervención policial en situaciones de violencia basada en género sea oportuna, de calidad y eficaz, evite la revictimización, asegure la protección de las mujeres y facilite la debida investigación. Se tendrá especialmente en cuenta la situación de las mujeres que se ven impedidas de acudir a la sede policial por situaciones de discapacidad o dependencia.",
-     "D) Desarrollar modelos de investigación adecuados a las características propias de los ilícitos sexuales o basados en otras formas de violencia de género, que se sustenten en pruebas técnicas y científicas y que eviten centrar la prueba en el testimonio de las víctimas.",
-     "E) Crear unidades policiales especializadas en violencia basada en género y fortalecer las existentes, asegurando que sean accesibles, incluso para las mujeres rurales y para las mujeres en situación de discapacidad, dotándolas de los recursos necesarios para una respuesta de calidad.",
-     "F) Registrar denuncias y actuaciones policiales en situaciones de violencia basada en género, en articulación con el Instituto Nacional de las Mujeres.",
-     "G) Sistematizar la información sobre las manifestaciones, características y contexto en que ocurren las conductas delictivas vinculadas a la violencia basada en género, teniendo en cuenta las realidades de los distintos departamentos del país, de forma que permitan el monitoreo de las políticas de seguridad y aporte transparencia a la gestión.",
-     "H) Capacitar en forma permanente a todo el personal en materia de violencia basada en género.",
-     "I) Incluir en la currícula de formación de todos los niveles educativos de la Dirección Nacional de Educación Policial, la capacitación, teórica y práctica, en derechos de las mujeres, derechos sexuales y reproductivos, diversidad sexual y en violencia basada en género, desde la perspectiva de derechos humanos y teniendo en cuenta la diversidad de edades y situaciones de discapacidad."
+     "Si el superficiario, estatal, municipal o privado, considera que la actividad minera a desarrollar o en ejecución, perjudica o afecta gravemente a una actividad o proceso industrial, o a instalaciones o estructuras o complejos arquitectónicos o de ingeniería, áreas turísticas o a la conservación de suelos, planteará esta situación ante las autoridades mineras.",
+     "El Poder Ejecutivo, con informe de la Dirección Nacional de Minería y Geología, resolverá lo que debe prevalecer en el caso, disponiendo las medidas consiguientes de seguridad o salvaguarda o denegando el otorgamiento del derecho minero o decretando la caducidad del otorgado."
     ],
     "impo_today": [
-     "(Directrices para las políticas de seguridad).- El Ministerio del",
-     "Interior y todo otro órgano y organismo vinculado a las políticas de seguridad, en el ámbito de sus competencias, deben:",
-     "A) Transversalizar la perspectiva de género en la política pública de seguridad, integrando el derecho a la vida libre de violencia como derecho humano de las mujeres de todas las edades.",
-     "B) Diseñar y difundir materiales informativos sobre medidas de prevención, seguridad y preservación de la prueba, ante situaciones de violencia basada en género hacia las mujeres, en todos los ámbitos en que se produzcan y en todas sus formas de expresión. Los materiales tendrán en cuenta las normas de accesibilidad para las personas en situación de discapacidad, así como a la distintas franjas etarias.",
-     "C) Aprobar las reglamentaciones, protocolos y guías necesarias para que la intervención policial en situaciones de violencia basada en género sea oportuna, de calidad y eficaz, evite la revictimización, asegure la protección de las mujeres y facilite la debida investigación. Se tendrá especialmente en cuenta la situación de las mujeres que se ven impedidas de acudir a la sede policial por situaciones de discapacidad o dependencia.",
-     "D) Desarrollar modelos de investigación adecuados a las características propias de los ilícitos sexuales o basados en otras formas de violencia de género, que se sustenten en pruebas técnicas y científicas y que eviten centrar la prueba en el testimonio de las víctimas.",
-     "E) Crear unidades policiales especializadas en violencia basada en género y fortalecer las existentes, asegurando que sean accesibles, incluso para las mujeres rurales y para las mujeres en situación de discapacidad, dotándolas de los recursos necesarios para una respuesta de calidad.",
-     "F) Registrar denuncias y actuaciones policiales en situaciones de violencia basada en género, en articulación con el Instituto Nacional de las Mujeres.",
-     "G) Sistematizar la información sobre las manifestaciones, características y contexto en que ocurren las conductas delictivas vinculadas a la violencia basada en género, teniendo en cuenta las realidades de los distintos departamentos del país, de forma que permitan el monitoreo de las políticas de seguridad y aporte transparencia a la gestión.",
-     "H) Capacitar en forma permanente a todo el personal en materia de violencia basada en género.",
-     "I) Incluir en la currícula de formación de todos los niveles educativos de la Dirección Nacional de Educación Policial, la capacitación, teórica y práctica, en derechos de las mujeres, derechos sexuales y reproductivos, diversidad sexual y en violencia basada en género, desde la perspectiva de derechos humanos y teniendo en cuenta la diversidad de edades y situaciones de discapacidad."
+     "Si el superficiario, estatal, municipal o privado, considera que la actividad minera a desarrollar o en ejecución, perjudica o afecta gravemente a una actividad o proceso industrial, o a instalaciones o estructuras o complejos arquitectónicos o de ingeniería, áreas turísticas o a la conservación de suelos, planteará esta situación ante las autoridades mineras.",
+     "El Poder Ejecutivo, con informe de la Dirección Nacional de Minería y Geología, resolverá lo que debe prevalecer en el caso, disponiendo las medidas consiguientes de seguridad o salvaguardia o denegando el otorgamiento del derecho minero o decretando la caducidad del otorgado."
     ]
    },
-   "leyes-originales/19580-2017/30": "same words",
-   "leyes-originales/19580-2017/36": "same words",
-   "leyes-originales/19580-2017/42": "same words",
-   "leyes-originales/19580-2017/49": "same words",
-   "leyes-originales/19580-2017/56": "same words",
-   "leyes-originales/19580-2017/63": "same words",
-   "leyes-originales/19580-2017/70": "same words",
-   "leyes-originales/19580-2017/78": "same words"
+   "decretos-leyes-originales/15242-1982/40": "same words",
+   "decretos-leyes-originales/15242-1982/49": "same words",
+   "decretos-leyes-originales/15242-1982/56": "same words",
+   "decretos-leyes-originales/15242-1982/78": "same words",
+   "decretos-leyes-originales/15242-1982/85": {
+    "original": [
+     "Los yacimientos minerales de la Clase III (artículo",
+     "7º) pueden ser objeto de actividad minera en virtud de los títulos correspondientes, según las disposiciones siguientes."
+    ],
+    "impo_today": [
+     "Los yacimientos minerales de la Clase III (artículo 7º) pueden ser objeto de actividad minera en virtud de los títulos correspondientes, según las disposiciones siguientes."
+    ]
+   },
+   "decretos-leyes-originales/15242-1982/101": "same words",
+   "decretos-leyes-originales/15242-1982/110": {
+    "original": [
+     "Los concesionarios lindantes tienen derecho a visita la mina vecina personalmente o por intermedio de un ingeniero nombrado a su requerimiento por la Inspección General de Minas, siempre que sospechase haberse producido internaciones o que estuviese próxima a efectuarse o temiesen inundación u otro perjuicio de esta especie, o cuando de la inspección geológica creyeren poder obtener observaciones útiles para sus explotaciones respectivas.",
+     "Cuando la visita se haya solicitado por motivo de internación que se sospecha, o por temor de inundación, podrán además ser mensuradas las labores inmediatas a la mina del solicitante."
+    ],
+    "impo_today": [
+     "Los concesionarios lindantes tienen derecho a visitar la mina vecina personalmente o por intermedio de un ingeniero nombrado a su requerimiento por la Inspección General de Minas, siempre que sospechase haberse producido internaciones o que estuviese próxima a efectuarse o temiesen inundación u otro perjuicio de esta especie; o cuando de la inspección geológica creyeren poder obtener observaciones útiles para sus explotaciones respectivas.",
+     "Cuando la visita se haya solicitado por motivo de internación que se sospecha, o por temor de inundación, podrán además ser mensuradas las labores inmediatas a la mina del solicitante."
+    ]
+   },
+   "decretos-leyes-originales/15242-1982/121": "same words"
   },
   "suspensions": []
  },
- "ley-19574": {
-  "in_force": {
-   "Ley Nº 19.670": {
-    "day": "2019-01-01",
-    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2019\" (artículo 2)"
-   },
-   "Ley Nº 19.749": {
-    "day": "2019-05-31",
-    "how": "published 2019-05-21; Código Civil art. 1: ten days after publication"
-   },
-   "Ley Nº 19.889": {
-    "day": "2020-07-24",
-    "how": "published 2020-07-14; Código Civil art. 1: ten days after publication"
-   },
-   "Ley Nº 20.075": {
-    "day": "2023-01-01",
-    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2023\" (artículo 5)"
-   },
-   "Ley Nº 20.130": {
-    "day": "2023-08-01",
-    "how": "its art. 6 numeral 1: \"el primer día del tercer mes siguiente al de su publicación en el Diario Oficial\" (published 10/05/2023) (artículo 6)"
-   },
-   "Ley Nº 20.212": {
-    "day": "2024-01-01",
-    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2024\" (artículo 2)"
-   },
-   "Ley Nº 20.327": {
-    "day": "2024-10-05",
-    "how": "published 2024-09-25; Código Civil art. 1: ten days after publication"
-   },
-   "Ley Nº 20.469": {
-    "day": "2026-04-20",
-    "how": "published 2026-04-10; Código Civil art. 1: ten days after publication"
-   }
-  },
-  "base_in_force": {
-   "day": "2018-01-20",
-   "how": "published 2018-01-10; Código Civil art. 1: ten days after publication"
-  },
-  "articles": {
-   "art-001": {
-    "laws": [
-     "Ley Nº 20.075",
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/1)",
-    "intermediate": {
-     "Ley Nº 20.469": "the wording Ley Nº 20.075 art. 46 gives it (IMPO original)"
-    },
-    "steps": [
-     {
-      "day": "2023-01-01",
-      "laws": [
-       "ley-20075"
-      ],
-      "diff": [
-       "replace: 'el Prosecretario' -> 'un representante'",
-       "replace: 'República que' -> 'República, quien'",
-       "insert: '' -> 'designado por el Presidente de la República,'",
-       "replace: 'efecto.' -> 'efecto'"
-      ]
-     },
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'un representante' -> 'el Prosecretario'",
-       "replace: 'República, quien' -> 'República que'",
-       "delete: 'designado por el Presidente de la República,' -> ''",
-       "replace: 'actividades,' -> 'reuniones,'",
-       "replace: 'Director' -> 'Presidente del Banco Central del Uruguay, el Gerente'",
-       "replace: 'Uruguay y' -> 'Uruguay,'",
-       "insert: '' -> 'el Fiscal de Corte y Procurador General de la Nación y el Director de la Secretaría de Inteligencia Estratégica de Estado,'",
-       "replace: 'hacerse representar' -> 'ser representados'",
-       "replace: 'efecto' -> 'efecto.'"
-      ]
-     }
-    ]
-   },
-   "art-004": {
-    "laws": [
-     "Ley Nº 20.075"
-    ],
-    "earliest_text": "the later text without what this law added: Literales I) y J) (Ley Nº 20.075 art. 44)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2023-01-01",
-      "laws": [
-       "ley-20075"
-      ],
-      "diff": [
-       "insert: '' -> 'I) Auxiliar en la investigación económico-financiera de los delitos de lavado de activos y financiamiento del terrorismo a la Fiscalía Especializada en Delitos de Lavado de Activos, con amplias facult'"
-      ]
-     }
-    ]
-   },
-   "art-006": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/6)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'Secretaria' -> 'Secretaría'",
-       "replace: 'públicos,' -> 'públicos así como a las personas de derecho público no estatal y las sociedades anónimas en las que participe el Estado,'",
-       "replace: 'reserva.' -> 'reserva de ningún tipo, con la única excepción de la obligación establecida a la Unidad de Información y Análisis Financiero en el inciso cuarto del artículo 22 de la presente ley, con respecto a la i'",
-       "insert: '' -> 'en la redacción dada por el artículo 1º de la Ley Nº 20.018, de 23 de diciembre de 2021,'",
-       "insert: '' -> 'Fiscalía o sus auxiliares, la'",
-       "replace: 'sus' -> 'los'",
-       "insert: '' -> 'intervinientes'",
-       "replace: 'especificas.' -> 'específicas.'"
-      ]
-     }
-    ]
-   },
-   "art-010": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/10)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'los Juzgados Letrados de Primera Instancia en lo Penal especializados en Crimen Organizado,' -> 'las fiscalías penales intervinientes'",
-       "insert: '' -> 'vinculadas a lavado'",
-       "replace: 'su competencia,' -> 'activos y delitos precedentes,'",
-       "replace: 'justicia.' -> 'fiscalía en la investigación.'"
-      ]
-     }
-    ]
-   },
-   "art-011": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/11)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "insert: '' -> 'y en el marco de sus respectivas competencias'",
-       "replace: 'los Juzgados Letrados de Primera Instancia' -> 'las fiscalías penales intervinientes'",
-       "delete: 'lo Penal especializados en Crimen Organizado por sí o a solicitud del Ministerio Público, a efectos de mejor instruir' -> ''",
-       "insert: '' -> 'vinculadas a lavado'",
-       "replace: 'su competencia.' -> 'activos y delitos precedentes.'"
-      ]
-     }
-    ]
-   },
-   "art-012": {
-    "laws": [
-     "Ley Nº 19.889"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/12)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2020-07-24",
-      "laws": [
-       "ley-19889"
-      ],
-      "diff": [
-       "insert: '' -> 'Las empresas aseguradoras y reaseguradoras estarán alcanzadas por la obligación de informar únicamente cuando participen en actividades relacionadas con la suscripción y colocación de seguros de vida '",
-       "delete: 'en la redacción dada por la Ley Nº 16.327, de 11 de noviembre de 1992' -> ''",
-       "replace: 'las modificaciones introducidas por las Leyes Nos. 17.523, de 4 de agosto de 2002 y 17.613, de 27 de diciembre de 2002.' -> 'sus modificativas.'"
-      ]
-     }
-    ]
-   },
-   "art-013": {
-    "laws": [
-     "Ley Nº 20.130",
-     "Ley Nº 20.212",
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/13)",
-    "intermediate": {
-     "Ley Nº 20.212": "the wording Ley Nº 20.130 art. 256 gives it (IMPO original)",
-     "Ley Nº 20.469": "the wording Ley Nº 20.212 art. 95 gives it (IMPO original)"
-    },
-    "steps": [
-     {
-      "day": "2023-08-01",
-      "laws": [
-       "ley-20130"
-      ],
-      "diff": [
-       "replace: 'y' -> 'y,'",
-       "insert: '' -> 'K) Las Administradoras de Fondos de Ahorro Previsional.'",
-       "replace: 'artículo.' -> 'artículo'"
-      ]
-     },
-     {
-      "day": "2024-01-01",
-      "laws": [
-       "ley-20212"
-      ],
-      "diff": [
-       "replace: 'arte,' -> 'arte'",
-       "replace: 'y' -> 'y,'",
-       "replace: 'y,' -> 'y'",
-       "replace: 'jurídicas,' -> 'jurídicas'",
-       "replace: 'compraventa' -> 'compraventas'",
-       "replace: 'contables,' -> 'contables'",
-       "replace: 'Administradoras' -> 'administradoras'",
-       "replace: 'Fondos' -> 'fondos'",
-       "replace: 'Ahorro Previsional.' -> 'ahorro previsional. L) Las sociedades anónimas deportivas.'",
-       "replace: 'aún' -> 'aun'",
-       "replace: 'clientes,' -> 'clientes'",
-       "replace: 'Unidad,' -> 'unidad,'",
-       "replace: 'Terrorismo' -> 'Terrorismo,'",
-       "replace: 'que' -> 'que,'",
-       "replace: 'integrantes' -> 'integrantes,'",
-       "replace: 'obligado' -> 'obligado,'",
-       "replace: 'temporaria, o' -> 'temporaria o,'",
-       "replace: 'artículo,' -> 'artículo'"
-      ]
-     },
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'abogados' -> 'abogados,'",
-       "replace: 'promesas' -> 'promesas, dación en pago, permutas'",
-       "replace: 'inmuebles.' -> 'inmuebles y todo tipo de transacciones inmobiliarias realizadas total o parcialmente con activos virtuales.'",
-       "replace: 'promesas' -> 'promesas, dación en pago, permutas'",
-       "replace: 'comerciales.' -> 'comerciales, incluidas las realizadas total o parcialmente con activos virtuales.'",
-       "replace: 'promesas' -> 'promesas, dación en pago, permutas'",
-       "replace: 'inmuebles.' -> 'inmuebles y todo tipo de transacciones inmobiliarias realizadas total o parcialmente con activos virtuales.'",
-       "replace: 'promesas' -> 'promesas, dación en pago, permutas'",
-       "replace: 'comerciales.' -> 'comerciales, incluidas las realizadas total o parcialmente con activos virtuales.'",
-       "replace: 'arte y' -> 'arte,'",
-       "replace: 'agrupaciones' -> 'agrupaciones, sindicatos, organizaciones empresariales'",
-       "replace: 'personería jurídica.' -> 'personería.'",
-       "replace: 'promesas o' -> 'promesas, dación en pago, permutas,'",
-       "replace: 'inmuebles.' -> 'inmuebles y todo tipo de transacciones inmobiliarias realizadas total o parcialmente con activos virtuales.'",
-       "replace: 'promesas' -> 'promesas, dación en pago, permutas'",
-       "replace: 'comerciales.' -> 'comerciales, incluidas las realizadas total o parcialmente con activos virtuales.'",
-       "insert: '' -> 'M) Fiduciarios no financieros (generales o profesionales no financieros), salvo cuando el fiduciario sea una persona física o jurídica sujeta al control del Banco Central del Uruguay por desarrollar a'",
-       "replace: 'clientes' -> 'clientes, accionistas, socios, inversores'",
-       "replace: 'fondos.' -> 'fondos a cualquier título.'",
-       "insert: '' -> 'También podrán aplicarse sanciones a los directivos y la alta gerencia de los sujetos obligados para el caso que se acredite fehacientemente que esos directivos o integrantes de la alta gerencia no ac'",
-       "replace: 'artículo' -> 'artículo.'"
-      ]
-     }
-    ]
-   },
-   "art-017": {
-    "laws": [
-     "Ley Nº 19.889",
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/17)",
-    "intermediate": {
-     "Ley Nº 20.469": "the earlier text with Incisos 2º), 3º) y 4º) as Ley Nº 19.889 art. 225 adds it"
-    },
-    "steps": [
-     {
-      "day": "2020-07-24",
-      "laws": [
-       "ley-19889"
-      ],
-      "diff": [
-       "insert: '' -> 'La circunstancia de que la operación o actividad se realice utilizando medios de pago electrónicos, tales como transferencias bancarias u otros instrumentos de pago emitidos por instituciones de inter'"
-      ]
-     },
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "delete: 'La circunstancia de que la operación o actividad se realice utilizando medios de pago electrónicos, tales como transferencias bancarias u otros instrumentos de pago emitidos por instituciones de inter' -> ''"
-      ]
-     }
-    ]
-   },
-   "art-020": {
-    "laws": [
-     "Ley Nº 19.670"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/20)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2019-01-01",
-      "laws": [
-       "ley-19670"
-      ],
-      "diff": [
-       "insert: '' -> 'representantes y senadores del Poder Legislativo,'",
-       "insert: '' -> 'También se entiende como personas políticamente expuestas a aquellas personas que desempeñan o han desempeñado en los últimos cinco años una función de jerarquía en un organismo internacional, como se'"
-      ]
-     }
-    ]
-   },
-   "art-024": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/24)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'setenta y dos horas,' -> 'cinco días hábiles,'",
-       "replace: 'al tribunal penal competente, el' -> 'a la fiscalía penal, la'",
-       "replace: 'correspondiere,' -> 'correspondiere solicitar al tribunal penal competente,'",
-       "replace: 'competente,' -> 'competente'",
-       "replace: 'disponer.' -> 'disponer, a solicitud de la Fiscalía o de terceros de buena fe que hubiesen sido afectados por la medida.'"
-      ]
-     }
-    ]
-   },
-   "art-025": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/25)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'nuestro país' -> 'el territorio nacional'",
-       "replace: 'relacionados directamente con' -> 'en apoyo a'",
-       "insert: '' -> 'la Secretaría Nacional para la Lucha contra'",
-       "replace: 'Banco Central' -> 'Lavado de Activos y el Financiamiento'",
-       "replace: 'Uruguay en' -> 'Terrorismo,'",
-       "replace: 'este reglamentará, estableciendo taxativamente los tipos de actividad financiera' -> 'esta reglamentará en cuanto servicios'",
-       "replace: 'por la precitada obligación.' -> 'y registro.'"
-      ]
-     }
-    ]
-   },
-   "art-027": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/27)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'que, ejerciendo' -> 'que ejerzan'",
-       "replace: 'homólogas, lo soliciten fundadamente.' -> 'homólogas.'",
-       "insert: '' -> 'o compartida espontáneamente'",
-       "insert: '' -> 'terrorismo'",
-       "replace: 'requirente' -> 'del exterior'",
-       "replace: 'requirente,' -> 'receptor,'",
-       "replace: 'requirente' -> 'receptora'"
-      ]
-     }
-    ]
-   },
-   "art-028": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/28)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'activos a' -> 'activos,'",
-       "insert: '' -> 'precedentes'",
-       "replace: 'al tribunal penal competente.' -> 'de la Fiscalía.'",
-       "replace: 'del tribunal penal competente.' -> 'de la Fiscalía.'"
-      ]
-     }
-    ]
-   },
-   "art-029": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/29)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'frontera' -> 'frontera, zona primaria aduanera o zona de vigilancia aduanera especial,'",
-       "replace: 'frontera' -> 'frontera, zona primaria aduanera o zona de vigilancia aduanera especial,'",
-       "replace: 'Ejecutivo, cuyo máximo podrá ascender hasta el monto' -> 'Ejecutivo. Dicha multa será del 30% del excedente'",
-       "insert: '' -> 'US$ 10.000 (diez mil dólares de los Estados Unidos de América) o su equivalente. En caso de reiteración,'",
-       "replace: 'cuantía no declarada, consideradas' -> 'multa ascenderá al 60% del total del dinero transportado, a tales efectos, la Dirección Nacional de Aduanas deberá llevar un registro de'",
-       "replace: 'circunstancias del caso.' -> 'personas que incurran en la omisión de declarar.'",
-       "replace: 'detención,' -> 'detención y comunicará inmediatamente a la Dirección Nacional de Aduanas, remitiéndole los bienes y valores transportados. La Dirección Nacional de Aduanas en conocimiento de la detención'",
-       "delete: 'correspondiente' -> ''",
-       "replace: 'administrativo y solicitará, dentro de las cuarenta y ocho horas hábiles siguientes, las medidas cautelares necesarias' -> 'administrativo, debiendo retener la suma equivalente a la multa determinada por la ley'",
-       "replace: 'asegurar' -> 'el caso, depositando dicho importe en la cuenta del Tesoro Nacional, como garantía que asegure'",
-       "replace: 'multa prevista' -> 'misma, hasta tanto el acto administrativo que la determine quede firme. El remanente deberá ponerse a disposición de la Fiscalía correspondiente. En caso de otros valores o monedas sin curso legal'",
-       "replace: 'inciso precedente. El juez fijará' -> 'país, se procederá a la incautación, depositándose los mismos en custodia en'",
-       "replace: 'término durante' -> 'Banco de la República Oriental del Uruguay, como garantía hasta tanto'",
-       "replace: 'cual se mantendrán las medidas decretadas,' -> 'acto administrativo que determine la multa quede firme, siendo'",
-       "insert: '' -> 'costo de cargo del sujeto omiso. La Dirección Nacional de Aduanas deberá realizar el avalúo de los bienes y determinará el monto de la multa correspondiente. En caso de'",
-       "replace: 'no podrá ser mayor' -> 'el infractor deposite el monto de la multa en la cuenta del Tesoro Nacional, la totalidad de los bienes incautados serán puestos'",
-       "replace: 'seis meses y' -> 'disposición de Fiscalía. La resolución'",
-       "replace: 'podrá ser prorrogado por razones fundadas.' -> 'determine la multa constituirá título ejecutivo.'",
-       "replace: 'el inciso anterior,' -> 'los incisos anteriores,'",
-       "replace: 'solicitará' -> 'pedirá'",
-       "insert: '' -> 'a'",
-       "insert: '' -> 'fiscalía penal correspondiente la solicitud de'",
-       "replace: 'medidas cautelares' -> 'garantías'",
-       "replace: 'dispusieren' -> 'hubieran dispuesto'",
-       "replace: 'artículo.' -> 'artículo las que permanecerán vigentes hasta tanto el acto administrativo quede firme.'",
-       "replace: 'presumarial.' -> 'de investigación preliminar. Transcurridos seis meses de la incautación, si no se hubiese ofrecido prueba de un origen diverso a los delitos tipificados en los artículos 30 a 33 o a las actividades de'"
-      ]
-     }
-    ]
-   },
-   "art-033": {
-    "laws": [
-     "Ley Nº 20.075",
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/33)",
-    "intermediate": {
-     "Ley Nº 20.469": "the wording Ley Nº 20.075 art. 121 gives it (IMPO original)"
-    },
-    "steps": [
-     {
-      "day": "2023-01-01",
-      "laws": [
-       "ley-20075"
-      ],
-      "diff": [
-       "insert: '' -> 'Cuando se trate de los delitos previstos en los numerales 1), 2), 3), 4), 6), 7), 8), 9), 11), 22), 27), 28), 30), 31), 32) y 33) del citado artículo 34, la pena será de dos a seis años de penitenciar'",
-       "replace: 'mediación.' -> 'mediación'"
-      ]
-     },
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'mediación' -> 'mediación.'"
-      ]
-     }
-    ]
-   },
-   "art-033-bis": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "added by this law",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": "added"
-     }
-    ]
-   },
-   "art-034": {
-    "laws": [
-     "Ley Nº 20.327",
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/34)",
-    "intermediate": {
-     "Ley Nº 20.469": "unknown: change shown later"
-    },
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20327",
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'Los' -> 'Delitos de narcotráfico y'",
-       "insert: '' -> 'conexos'",
-       "replace: 'Decreto-Ley' -> 'Decreto- Ley'",
-       "replace: '1974' -> '1974,'",
-       "replace: '1998 y' -> '1998,'",
-       "replace: '2013 (narcotráfico' -> '2013, Ley Nº 19.513, de 14 de julio de 2017, Ley Nº 19.889, de 9 de julio de 2020,'",
-       "replace: 'delitos conexos).' -> 'sus modificativas.'",
-       "replace: '2006.' -> '2006, y sus modificativas.'",
-       "replace: 'Terrorismo.' -> 'Terrorismo, previsto en la Ley Nº 17.835, de 23 de setiembre de 2004, en las redacciones dadas por las Leyes Nº 18.494, de 5 de junio de 2009, y Nº 19.749, de 15 de mayo de 2019, y sus modificativas.'",
-       "replace: 'terrorismo.' -> 'terrorismo, previsto en la Ley Nº 17.835, de 23 de setiembre de 2004, en las redacciones dadas por las Leyes Nº 18.494, de 5 de junio de 2009, y Nº 19.749, de 15 de mayo de 2019, y sus modificativas.'",
-       "replace: 'Contrabando' -> 'Contrabando, según lo previsto en el artículo 258 del Código Aduanero'",
-       "replace: '200.000' -> '100.000'",
-       "replace: '(doscientas' -> '(cien'",
-       "replace: 'producción.' -> 'producción previsto en la Ley Nº 19.247, de 15 de agosto de 2014, y sus modificativas.'",
-       "replace: 'personas.' -> 'personas, previsto en la Ley Nº 18.250, de 6 de enero de 2008, y sus modificativas.'",
-       "replace: 'Extorsión.' -> 'Extorsión, según lo previsto en el artículo 345 del Código Penal.'",
-       "replace: 'Secuestro.' -> 'Secuestro, según lo previsto en el artículo 346 del Código Penal.'",
-       "replace: 'Proxenetismo.' -> 'Proxenetismo previsto en la Ley Nº 8.080, de 27 de mayo de 1927, en la redacción dada por la Ley Nº 16.707, de 12 de julio de 1995, y sus modificativas.'",
-       "replace: 'Estafa' -> 'Estafa, según lo previsto en el artículo 347 del Código Penal,'",
-       "replace: '200.000' -> '100.000'",
-       "replace: '(doscientas' -> '(cien'",
-       "replace: 'indebida' -> 'indebida, según lo previsto en el artículo 351 del Código Penal,'",
-       "replace: '200.000' -> '100.000'",
-       "replace: '(doscientas' -> '(cien'",
-       "delete: 'y los establecidos' -> ''",
-       "replace: 'Ley' -> 'redacción dada por las leyes'",
-       "replace: '1998' -> '1998, y Nº 20.347, de 19 de setiembre de 2024, y sus modificativas'",
-       "replace: 'fraudulenta.' -> 'fraudulenta, prevista en el artículo 253 del Código Penal.'",
-       "replace: 'fraudulenta.' -> 'fraudulenta, prevista en el artículo 255 del Código Penal.'",
-       "replace: 'El delito' -> 'Insolvencia societaria fraudulenta,'",
-       "replace: '1972 (insolvencia societaria fraudulenta).' -> '1972, y sus modificativas.'",
-       "replace: 'Los delitos' -> 'Delitos marcarios,'",
-       "replace: '1998' -> '1998,'",
-       "replace: 'modificativas (delitos marcarios).' -> 'modificativas.'",
-       "replace: 'Los delitos' -> 'Delitos contra la propiedad intelectual,'",
-       "replace: '2003' -> '2003,'",
-       "replace: 'modificativas (delitos contra la propiedad intelectual).' -> 'modificativas.'",
-       "insert: '' -> 'la redacción dada por la Ley Nº 19.643, de 20 dejulio de 2018, en'",
-       "replace: '2008' -> '2008,'",
-       "replace: 'personas.' -> 'personas y sus modificativas.'",
-       "replace: '2008.' -> '2008, y sus modificativas.'",
-       "replace: 'de el' -> 'del'",
-       "replace: 'a: A) 2.500.000' -> 'a 400.000'",
-       "replace: '(dos millones quinientos' -> '(cuatrocientas'",
-       "replace: 'indexadas) para los ejercicios iniciados a partir del 1º de enero de 2018. B) 1.000.000 UI (un millón de unidades indexadas) para los ejercicios iniciados a partir del 1º de enero de 2019.' -> 'indexadas).'",
-       "replace: '200.000' -> '400.000'",
-       "replace: '(doscientas' -> '(cuatrocientas'",
-       "insert: '' -> 'a'",
-       "replace: 'Ul' -> 'UI'",
-       "replace: 'Ul' -> 'UI'",
-       "replace: 'Se' -> '33) Asociación para delinquir, según lo previsto en el artículo 150 del Código Penal. 34) Ciberdelitos cuyo monto real o estimado sea superior a 100.000 UI (cien mil unidades indexadas). 35) Delito am'",
-       "delete: '33) Asociación para delinquir, según lo previsto en el artículo 150 del Código Penal.' -> ''"
-      ]
-     }
-    ]
-   },
-   "art-036": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/36)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'un auto de procesamiento previo de' -> 'previa formalización por'"
-      ]
-     }
-    ]
-   },
-   "art-041": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/41)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'el tribunal' -> 'la fiscalía'",
-       "replace: 'competente,' -> 'interviniente,'"
-      ]
-     }
-    ]
-   },
-   "art-043": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/43)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "delete: 'de oficio o' -> ''",
-       "replace: 'parte,' -> 'la fiscalía,'",
-       "replace: 'el presumario,' -> 'la investigación preliminar,'",
-       "replace: 'presumarial,' -> 'de investigación preliminar,'",
-       "replace: 'el Ministerio Público' -> 'la fiscalía'",
-       "insert: '' -> 'la formalización de la investigación. Si las medidas se adoptan a partir de la existencia de una investigación formalizada, estas caducarán de pleno derecho si en'",
-       "replace: 'enjuiciamiento.' -> 'plazo de dos años contados desde que las mismas se hicieran efectivas, la fiscalía no presenta la acusación. La regulación de las medidas cautelares que se prevé en la presente ley no obsta la solicit'"
-      ]
-     }
-    ]
-   },
-   "art-044": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/44)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'Ministerio Público que solicite' -> 'tribunal penal competente, previa noticia a la fiscalía,'",
-       "insert: '' -> 'En los casos en que la medida cautelar no hubiere sido adoptada a solicitud de la Junta Nacional de Drogas, esta deberá ser notificada a sus efectos.'"
-      ]
-     }
-    ]
-   },
-   "art-048": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/48)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: '(Medidas provisionales).- El' -> '(Enajenación Anticipada).- A solicitud de la fiscalía o, en su caso, de la Junta Nacional de Drogas, el'",
-       "replace: 'adoptará, como medida provisional o anticipada,' -> 'podrá disponer'",
-       "insert: '' -> 'anticipada'",
-       "replace: 'embargado' -> 'embargado, incautado'",
-       "replace: 'trabado el embargo,' -> 'efectivizada la medida cautelar,'",
-       "replace: 'competente' -> 'competente, previa intervención de la Junta Nacional de Drogas,'",
-       "replace: 'embargados' -> 'cautelados'",
-       "insert: '' -> 'Sin perjuicio de lo dispuesto anteriormente, en forma excepcional y provisoria, el tribunal penal competente podrá autorizar el uso de los bienes que hayan sido cautelados y estén sujetos a eventual d'"
-      ]
-     }
-    ]
-   },
-   "art-051": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/51)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "insert: '' -> 'a solicitud de la fiscalía'"
-      ]
-     }
-    ]
-   },
-   "art-052": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/52)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'competente,' -> 'competente a solicitud de la fiscalía,'",
-       "delete: 'indagado o' -> ''"
-      ]
-     }
-    ]
-   },
-   "art-052-bis": {
-    "laws": [
-     "Ley Nº 20.212",
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "added by this law",
-    "intermediate": {
-     "Ley Nº 20.469": "the wording Ley Nº 20.212 art. 164 gives it (IMPO original)"
-    },
-    "steps": [
-     {
-      "day": "2024-01-01",
-      "laws": [
-       "ley-20212"
-      ],
-      "diff": "added"
-     },
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "insert: '' -> '33 y'",
-       "replace: 'del Ministerio Público,' -> 'de la fiscalía penal interviniente,'",
-       "replace: 'condena' -> 'condena.'"
-      ]
-     }
-    ]
-   },
-   "art-054": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/54)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'procesado).-' -> 'imputado).-'",
-       "replace: 'procesado' -> 'imputado'"
-      ]
-     }
-    ]
-   },
-   "art-059": {
-    "laws": [
-     "Ley Nº 19.749"
-    ],
-    "earliest_text": "the later text without what this law added: Inciso 3º), literal D) (Ley Nº 19.749 art. 11)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2019-05-31",
-      "laws": [
-       "ley-19749"
-      ],
-      "diff": [
-       "insert: '' -> 'D) Prioritariamente destinar los bienes a personas físicas y jurídicas afectadas directa o indirectamente por las actividades delictivas reguladas por la presente ley, que justifiquen en la forma en q'"
-      ]
-     }
-    ]
-   },
-   "art-062": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/62)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "delete: 'del Ministerio Público. El desarrollo y la colección' -> ''",
-       "replace: 'prueba deberán verificarse bajo la supervisión del tribunal penal competente.' -> 'fiscalía.'",
-       "replace: 'tribunal penal competente será' -> 'registro de las vigilancias se regirá por lo dispuesto en'",
-       "replace: 'encargado' -> 'artículo 209'",
-       "replace: 'selección del material destinado a ser utilizado en la causa' -> 'Ley Nº 19.293, de 19 de diciembre de 2014,'",
-       "replace: 'la del que descartará por no referirse al objeto probatorio. El resultado de las pruebas deberá transcribirse en actas certificadas a fin de que puedan ser incorporadas al proceso y el tribunal está o' -> 'modificativas.'",
-       "replace: 'indagado' -> 'imputado'"
-      ]
-     }
-    ]
-   },
-   "art-063": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/63)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'El Ministerio Público,' -> 'La fiscalía penal interviniente,'",
-       "delete: 'que sean competencia' -> ''",
-       "replace: 'los Juzgados Letrados' -> 'lavado'",
-       "replace: 'Primera Instancia Especializados en Crimen Organizado' -> 'activos y delitos precedentes'",
-       "replace: 'formular requisitoria' -> 'deducir acusación'",
-       "replace: 'coautores;' -> 'coautores,'",
-       "replace: 'el procesamiento' -> 'la formalización'",
-       "insert: '' -> 'en forma anticipada'",
-       "replace: 'en' -> 'desde'",
-       "replace: 'manifestó su voluntad de acogerse al beneficio.' -> 'se celebró el acuerdo.'"
-      ]
-     }
-    ]
-   },
-   "art-064": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/64)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'del Ministerio Público' -> 'de la fiscalía'",
-       "delete: 'que ingresan en la órbita' -> ''",
-       "replace: 'su competencia, los Juzgados Letrados' -> 'lavado'",
-       "replace: 'Primera Instancia Especializados en Crimen Organizado podrán,' -> 'activos y delitos precedentes, el tribunal competente, podrá,'",
-       "delete: 'quien autorizó' -> ''",
-       "replace: 'investigación.' -> 'fiscalía actuante.'",
-       "insert: '' -> 'fiscal penal competente y este a su vez solicitará al'",
-       "replace: 'criminal' -> 'de cualquier naturaleza'",
-       "delete: 'Para poder proceder penalmente contra el mismo por las actuaciones realizadas a los fines de la investigación, el tribunal competente para conocer en la causa, tan pronto como tenga conocimiento de la' -> ''"
-      ]
-     }
-    ]
-   },
-   "art-068": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/68)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "delete: 'de la presente ley' -> ''",
-       "replace: 'Dirección' -> 'Autoridad Central en caso'",
-       "replace: 'Cooperación Jurídica Internacional y' -> 'existencia'",
-       "replace: 'Justicia del Ministerio de Educación y Cultura. Dicha Dirección,' -> 'tratados o convenios vigentes que prevean su actuación, o por vía diplomática. La Autoridad Central,'",
-       "replace: 'nacionales competentes,' -> 'nacional competente,'",
-       "insert: '' -> 'En el caso de solicitudes de cooperación penal recibidas por el Ministerio de Relaciones Exteriores, este remitirá la solicitud de asistencia a la Autoridad Central, que la hará llegar directamente, a'"
-      ]
-     }
-    ]
-   },
-   "art-070": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/70)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'para' -> 'o'",
-       "replace: 'prestación' -> 'Fiscalía General'",
-       "insert: '' -> 'la Nación cuando corresponda su intervención, prestarán'",
-       "insert: '' -> 'y'",
-       "delete: 'de oficio con intervención del Ministerio Público' -> ''"
-      ]
-     }
-    ]
-   },
-   "art-071": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/71)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'nacionales,' -> 'nacionales o la Fiscalía General de la Nación cuando corresponda su intervención,'",
-       "insert: '' -> 'Tratándose de cooperación de mero trámite, respecto de notificaciones, citaciones, emplazamientos e intimaciones, así como en referencia a la recepción de declaraciones de testigos, víctimas y peritos'"
-      ]
-     }
-    ]
-   },
-   "art-075": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/75)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "insert: '' -> 'o la fiscalía penal interviniente, cuando corresponda su intervención,'",
-       "replace: 'Dirección de Cooperación Jurídica Internacional y de Justicia,' -> 'Autoridad Central,'",
-       "replace: 'motivaran' -> 'motivarán'",
-       "insert: '' -> 'o fiscalía'",
-       "replace: 'precitada Dirección del Ministerio de Educación y Cultura.' -> 'Autoridad Central.'"
-      ]
-     }
-    ]
-   },
-   "art-076": {
-    "laws": [
-     "Ley Nº 20.469"
-    ],
-    "earliest_text": "IMPO original text (/bases/leyes-originales/19574-2017/76)",
-    "intermediate": {},
-    "steps": [
-     {
-      "day": "2026-04-20",
-      "laws": [
-       "ley-20469"
-      ],
-      "diff": [
-       "replace: 'Sin perjuicio de lo establecido por el literal A) del artículo 32 del Código del Proceso Penal, procederá' -> 'Procederá'",
-       "delete: 'de la presente ley' -> ''",
-       "replace: 'señalados' -> 'señaladas'"
-      ]
-     }
-    ]
-   }
-  },
-  "last_version_equals_impo": true,
-  "post_pass": {
-   "first_text_from_earlier_law": [],
-   "article_vigencia": [],
-   "article_vigencia_not_applied": [],
-   "absent_between": [],
-   "added_part_removed": [],
-   "placeholder": [],
-   "absent_before": [],
-   "whole_rewrites": [],
-   "inciso_runs": [
-    "Artículo 17: Incisos 2º), 3º) y 4º) as Ley Nº 19.889 art. 225 adds them (quoted together), from 2020-07-24"
-   ]
-  },
-  "impo_check": {
-   "today": {
-    "equal": true,
-    "differ": []
-   },
-   "last_version": {
-    "equal": true,
-    "differ": []
-   }
-  },
-  "unamended_sample": {
-   "leyes-originales/19574-2017/3": "same words",
-   "leyes-originales/19574-2017/8": "same words",
-   "leyes-originales/19574-2017/15": "same words",
-   "leyes-originales/19574-2017/19": "same words",
-   "leyes-originales/19574-2017/23": "same words",
-   "leyes-originales/19574-2017/31": "same words",
-   "leyes-originales/19574-2017/37": "same words",
-   "leyes-originales/19574-2017/40": "same words",
-   "leyes-originales/19574-2017/46": "same words",
-   "leyes-originales/19574-2017/50": "same words",
-   "leyes-originales/19574-2017/56": {
-    "original": [
-     "(Alegación de un interés legítimo).- Todos los que alegaren tener un interés legítimo sobre los bienes, productos o instrumentos podrán comparecer ante el tribunal de la causa, el que los escuchara en audiencia de conformidad con los principios del debido proceso legal, con noticia de la defensa en su caso y del Ministerio Público, los que podrán comparecer en ese acto."
-    ],
-    "impo_today": [
-     "(Alegación de un interés legítimo).- Todos los que alegaren tener un interés legítimo sobre los bienes, productos o instrumentos podrán comparecer ante el tribunal de la causa, el que los escuchará en audiencia de conformidad con los principios del debido proceso legal, con noticia de la defensa en su caso y del Ministerio Público, los que podrán comparecer en ese acto."
-    ]
-   },
-   "leyes-originales/19574-2017/60": "same words"
-  },
-  "suspensions": []
- },
- "_shared_law_entries_differing": {
-  "ley-19580": {
-   "title": [
-    "LEY DE VIOLENCIA HACIA LAS MUJERES BASADA EN GENERO. MODIFICACION A DISPOSICIONES DEL CODIGO CIVIL Y CODIGO PENAL. DEROGACION DE LOS ARTS. 24 A 29 DE LA LEY 17.514",
-    "Ley de Violencia hacia las Mujeres Basada en Género (Ley Nº 19.580)"
-   ]
-  }
- },
+ "_shared_law_entries_differing": {},
  "_headings_dropped": [
-  "DE LOS DELITOS DE LAVADO DE ACTIVOS",
-  "DEL DECOMISO",
-  "DEL PROCEDIMIENTO ADMINISTRATIVO PARA ACCEDER A LA INFORMACION PUBLICA",
-  "DIRECTRICES PARA LAS POLÍTICAS PÚBLICAS",
-  "JURISDICCION Y COMPETENCIA",
-  "LEGITIMACION DEL DENUNCIANTE Y LLAMADO A TERCEROS A JUICIO",
-  "MEDIDAS DE PROTECCION",
-  "ORGANO DE CONTROL",
-  "PROCESOS DE FAMILIA",
-  "PROCESOS DE PROTECCIÓN EN EL ÁMBITO JUDICIAL",
-  "RED DE SERVICIOS DE ATENCIÓN A MUJERES EN SITUACIÓN DE VIOLENCIA BASADA EN GÉNERO",
-  "SISTEMA PREVENTIVO",
-  "TRANSPORTE DE EFECTIVO, INSTRUMENTOS MONETARIOS Y METALES PRECIOSOS",
-  "TÉCNICAS ESPECIALES DE INVESTIGACIÓN"
+  "El inicio de los períodos semestrales será fijado por la reglamentación"
  ]
 }
