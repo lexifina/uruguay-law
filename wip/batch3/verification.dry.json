@@ -1,0 +1,696 @@
+{
+ "ley-17250": {
+  "in_force": {
+   "Ley Nº 18.046": {
+    "day": "2007-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1º de enero de 2007\" (artículo 2)"
+   },
+   "Ley Nº 18.362": {
+    "day": "2009-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2009\" (artículo 2)"
+   },
+   "Ley Nº 19.149": {
+    "day": "2014-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2014\" (artículo 2)"
+   },
+   "Ley Nº 19.355": {
+    "day": "2016-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2016\" (artículo 3)"
+   },
+   "Ley Nº 19.924": {
+    "day": "2021-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2021\" (artículo 3)"
+   },
+   "Ley Nº 20.212": {
+    "day": "2024-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2024\" (artículo 2)"
+   }
+  },
+  "base_in_force": {
+   "day": "2000-08-27",
+   "how": "published 2000-08-17; Código Civil art. 1: ten days after publication"
+  },
+  "articles": {
+   "art-016": {
+    "laws": [
+     "Ley Nº 19.355"
+    ],
+    "earliest_text": "the later text without what this law added: Incisos 6º) y 7º) (Ley Nº 19.355 art. 248)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2016-01-01",
+      "laws": [
+       "ley-19355"
+      ],
+      "diff": [
+       "insert: '' -> 'El proveedor deberá informar por escrito al consumidor en el documento contractual, de manera clara, comprensible y precisa, el derecho de rescindir o resolver el contrato consagrado en el presente ar'"
+      ]
+     }
+    ]
+   },
+   "art-016-bis": {
+    "laws": [
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "added by this law",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": "added"
+     }
+    ]
+   },
+   "art-018": {
+    "laws": [
+     "Ley Nº 19.149"
+    ],
+    "earliest_text": "the later text without what this law added: Incisos 2º) y 3º) (Ley Nº 19.149 art. 143)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-01-01",
+      "laws": [
+       "ley-19149"
+      ],
+      "diff": [
+       "insert: '' -> 'Cesada la fabricación o importación del producto, la oferta de componentes y repuestos deberá ser mantenida por el período que disponga expresamente la reglamentación. El proveedor obligado por la gar'"
+      ]
+     }
+    ]
+   },
+   "art-022": {
+    "laws": [
+     "Ley Nº 19.149"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/17250-2000/22)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-01-01",
+      "laws": [
+       "ley-19149"
+      ],
+      "diff": [
+       "insert: '' -> 'F) Condicionar el suministro de productos o servicios al suministro de otro producto o servicio, así como a límites cuantitativos, sin justa causa.'"
+      ]
+     }
+    ]
+   },
+   "art-023": {
+    "laws": [
+     "Ley Nº 19.355"
+    ],
+    "earliest_text": "the later text without what this law added: Incisos 5º y 6º) (Ley Nº 19.355 art. 249)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2016-01-01",
+      "laws": [
+       "ley-19355"
+      ],
+      "diff": [
+       "insert: '' -> 'Constancia de reparación. Cuando el producto hubiese sido reparado bajo los términos de una garantía contractual, el garante estará obligado a entregar al consumidor una constancia de reparación en do'"
+      ]
+     }
+    ]
+   },
+   "art-031": {
+    "laws": [
+     "Ley Nº 19.149",
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/17250-2000/31)",
+    "intermediate": {
+     "Ley Nº 20.212": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-19149",
+       "ley-20212"
+      ],
+      "diff": [
+       "insert: '' -> 'I) Las cláusulas que establezcan plazos límite previos a la renovación automática del contrato para que el consumidor manifieste su voluntad de no renovar. El consumidor podrá, dentro de los sesenta d'"
+      ]
+     }
+    ]
+   },
+   "art-042": {
+    "laws": [
+     "Ley Nº 18.046",
+     "Ley Nº 18.362",
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/17250-2000/42)",
+    "intermediate": {
+     "Ley Nº 18.362": "the earlier text with the items Literal F) as Ley Nº 18.046 art. 137 words them",
+     "Ley Nº 20.212": "the later text without the items this law added: Literal I)"
+    },
+    "steps": [
+     {
+      "day": "2007-01-01",
+      "laws": [
+       "ley-18046"
+      ],
+      "diff": [
+       "delete: 'La incomparecencia del citado a esta audiencia se tendrá como presunción simple en su contra.' -> ''",
+       "insert: '' -> 'La incomparecencia del citado a una audiencia administrativa se tendrá como presunción simple en su contra. Asimismo, la falta de comparecencia en tiempo y forma, que no sea debidamente justificada, s'"
+      ]
+     },
+     {
+      "day": "2009-01-01",
+      "laws": [
+       "ley-18362"
+      ],
+      "diff": [
+       "replace: 'ley' -> 'ley. Del mismo modo se podrá publicar el resultado de las audiencias administrativas que se celebren en el Area Defensa del Consumidor.'"
+      ]
+     },
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "insert: '' -> 'I) Dictar instrucciones particulares a los proveedores, tendientes a promover la protección al consumidor y evitar futuros conflictos de consumo. El caso de incumplimiento será sancionado conforme a l'"
+      ]
+     }
+    ]
+   },
+   "art-047": {
+    "laws": [
+     "Ley Nº 19.149"
+    ],
+    "earliest_text": "the later text without what this law added: Incisos 3º), 4º) y 5º) (Ley Nº 19.149 art. 146)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2014-01-01",
+      "laws": [
+       "ley-19149"
+      ],
+      "diff": [
+       "insert: '' -> 'A los efectos del presente artículo, se considerarán únicamente los antecedentes registrados en los cinco años previos a la fecha de la resolución que impone la sanción. Toda multa por infracciones a '"
+      ]
+     }
+    ]
+   },
+   "art-050": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/17250-2000/50)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: 'inspectivo respectivo,' -> 'inspectivo,'",
+       "replace: 'circunstanciada,' -> 'circunstanciada'",
+       "replace: 'detallada,' -> 'detallada. En caso de'",
+       "insert: '' -> 'la comprobación sea en la tienda física, el acta'",
+       "replace: 'El' -> 'Tanto para las comprobaciones en tiendas físicas como en plataformas electrónicas, el'"
+      ]
+     }
+    ]
+   }
+  },
+  "last_version_equals_impo": true,
+  "post_pass": {
+   "first_text_from_earlier_law": [],
+   "article_vigencia": [],
+   "article_vigencia_not_applied": [],
+   "absent_between": [],
+   "added_part_removed": [],
+   "placeholder": [],
+   "absent_before": [],
+   "whole_rewrites": []
+  },
+  "impo_check": {
+   "today": {
+    "equal": true,
+    "differ": []
+   },
+   "last_version": {
+    "equal": true,
+    "differ": []
+   }
+  },
+  "unamended_sample": {
+   "leyes-originales/17250-2000/2": "same words",
+   "leyes-originales/17250-2000/5": "same words",
+   "leyes-originales/17250-2000/8": "same words",
+   "leyes-originales/17250-2000/11": "same words",
+   "leyes-originales/17250-2000/14": "same words",
+   "leyes-originales/17250-2000/19": "same words",
+   "leyes-originales/17250-2000/24": "same words",
+   "leyes-originales/17250-2000/27": "same words",
+   "leyes-originales/17250-2000/30": "same words",
+   "leyes-originales/17250-2000/34": "same words",
+   "leyes-originales/17250-2000/37": "same words",
+   "leyes-originales/17250-2000/40": "same words"
+  },
+  "suspensions": []
+ },
+ "codigo-aduanero": {
+  "in_force": {
+   "Ley Nº 19.355": {
+    "day": "2016-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2016\" (artículo 3)"
+   },
+   "Ley Nº 19.651": {
+    "day": "2018-09-06",
+    "how": "published 2018-08-27; Código Civil art. 1: ten days after publication"
+   },
+   "Ley Nº 19.924": {
+    "day": "2021-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2021\" (artículo 3)"
+   },
+   "Ley Nº 20.075": {
+    "day": "2023-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2023\" (artículo 5)"
+   },
+   "Ley Nº 20.212": {
+    "day": "2024-01-01",
+    "how": "its vigencia article: \"regirá a partir del 1° de enero de 2024\" (artículo 2)"
+   },
+   "Ley Nº 20.419": {
+    "day": "2025-09-13",
+    "how": "published 2025-09-03; Código Civil art. 1: ten days after publication"
+   }
+  },
+  "base_in_force": {
+   "day": "2015-03-18",
+   "how": "codigo-aduanero/19276-2014/276: \"(Vigencia).- Este Código entrará en vigencia a los ciento ochenta días de su promulgación.\""
+  },
+  "articles": {
+   "art-015": {
+    "laws": [
+     "Ley Nº 19.924",
+     "Ley Nº 20.419"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/15)",
+    "intermediate": {
+     "Ley Nº 20.419": "the later text without the items this law added: Literal G)"
+    },
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "insert: '' -> 'F) El régimen de muestras aplicable a mercadería cuya importación, hasta un monto equivalente a US$ 500 (quinientos dólares de los Estados Unidos de América) o exportación, hasta un monto equivalente '"
+      ]
+     },
+     {
+      "day": "2025-09-13",
+      "laws": [
+       "ley-20419"
+      ],
+      "diff": [
+       "insert: '' -> 'G) Régimen especial de comercio de frontera.'"
+      ]
+     }
+    ]
+   },
+   "art-016": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/16)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: 'aduana,' -> 'aduana'",
+       "replace: 'Registro' -> 'registro'",
+       "replace: 'Código,' -> 'Código'",
+       "insert: '' -> 'el'",
+       "replace: 'Tribunal' -> 'tribunal'",
+       "replace: 'Ministerio,' -> 'ministerio,'",
+       "replace: 'Fe Pública,' -> 'fe pública,'",
+       "replace: 'Economía' -> 'economía'",
+       "replace: 'Hacienda Pública.' -> 'hacienda pública.'",
+       "replace: 'respectivo,' -> 'respectivo'",
+       "replace: 'exterior,' -> 'exterior'",
+       "delete: '3. A partir de la entrada en vigencia del presente Código, la habilitación para actuar como despachante de aduana que otorgue el Ministerio de Economía y Finanzas será por un período inicial de doce a' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-017": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/17)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: 'aduana persona jurídica).-' -> 'Aduana Persona Jurídica).-'",
+       "replace: 'asociarse' -> 'constituir sociedades'",
+       "delete: 'constituidas' -> ''",
+       "insert: '' -> 'actividad. 2. Estas sociedades, para poder ejercer su'",
+       "replace: 'como' -> 'deberán estar integradas, al menos, por un'",
+       "replace: 'aduana. 2. Las sociedades referidas en el numeral anterior' -> 'Aduana, persona física habilitada para ejercer como tal, quien la representará a todos los efectos ante la Dirección Nacional de Aduanas. 3. Todos los socios'",
+       "replace: 'tener como objeto social exclusivo, el desarrollo de las actividades correspondientes a' -> 'acreditar haber cumplido con'",
+       "replace: 'despachantes de aduana, previstas en el' -> 'literales E) y F) del'",
+       "replace: '14' -> '16'",
+       "delete: '3. Estas sociedades deberán estar integradas únicamente por personas físicas habilitadas como despachantes de aduana.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-019": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/19)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: 'definitiva de un' -> 'del'",
+       "replace: 'fallecimiento' -> 'que la sociedad tenga un único socio habilitado como persona física despachante'",
+       "replace: 'un socio o, cuando cualquiera de los socios no obtenga la habilitación definitiva referida en el numeral 3 del artículo 16 de este Código, por no haber aprobado en el plazo dispuesto el examen de comp' -> 'aduana y se produjera su fallecimiento,'",
+       "replace: 'dos años' -> 'un año'",
+       "replace: '3' -> '2.'",
+       "insert: '' -> 'Durante ese período la firma podrá realizar la tramitación de las operaciones aduaneras a través de un apoderado debidamente registrado ante la Dirección Nacional de Aduanas.'"
+      ]
+     }
+    ]
+   },
+   "art-021": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/21)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "delete: '1.' -> ''",
+       "delete: 'constituir ni adquirir participación en sociedades, ni' -> ''",
+       "delete: 'envíos de' -> ''",
+       "replace: 'financieras,' -> 'financieras'",
+       "replace: 'semejantes,' -> 'semejantes'",
+       "replace: 'dicha sociedad o' -> 'el referido'",
+       "delete: '2.' -> ''",
+       "replace: 'y/o' -> 'o'",
+       "delete: '3.' -> ''",
+       "delete: '4.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-036": {
+    "laws": [
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/36)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "replace: 'consolidación o desconsolidación de los documentos de carga, así como la emisión de conocimientos' -> 'gestión operativa y documental'",
+       "insert: '' -> 'de servicios ante los operadores intervinientes, respecto de las cargas que arriban o egresan'",
+       "replace: 'transporte, los seguros y otros servicios relacionados,' -> 'territorio aduanero, realiza u ordena la desconsolidación o consolidación de las cargas puestas a su disposición, documentando dicha operación'",
+       "replace: 'nombre del importador o exportador.' -> 'la forma que corresponda.'"
+      ]
+     }
+    ]
+   },
+   "art-049": {
+    "laws": [
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/49)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "insert: '' -> '9.A los efectos del debido control aduanero, la Dirección Nacional de Aduanas podrá requerir información de la carga con carácter previo a su ingreso al territorio aduanero.'"
+      ]
+     }
+    ]
+   },
+   "art-099": {
+    "laws": [
+     "Ley Nº 19.651"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/99)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2018-09-06",
+      "laws": [
+       "ley-19651"
+      ],
+      "diff": [
+       "insert: '' -> 'retiro del depósito correspondiente y el'",
+       "replace: 'correspondiente.' -> 'correspondiente, todo dentro de un plazo de ciento veinte días a contar desde la declaración de abandono no infraccional. Si en el plazo establecido en el inciso anterior no se hubiera retirado la mer'",
+       "insert: '' -> 'hasta un 30% (treinta por ciento) al pago de los gastos y honorarios del depositario y el saldo'"
+      ]
+     }
+    ]
+   },
+   "art-224": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/224)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: 'si correspondiere, se elevarán' -> 'la Dirección Nacional de Aduanas podrá recabar los informes internos pertinentes (tanto sea en valor, origen o clasificación arancelaria) y, a posteriori, elevará'",
+       "replace: 'fundada' -> 'fundada,'",
+       "insert: '' -> 'un'",
+       "replace: 'a tres' -> 'de quince'"
+      ]
+     }
+    ]
+   },
+   "art-226": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/226)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "insert: '' -> 'por sí o por medio de sus oficinas dependientes expresamente delegadas,'",
+       "replace: 'de' -> 'que imponga'",
+       "replace: 'Dirección Nacional de Aduanas' -> 'infracción'",
+       "replace: 'misma.' -> 'misma norma.'"
+      ]
+     }
+    ]
+   },
+   "art-240": {
+    "laws": [
+     "Ley Nº 19.355",
+     "Ley Nº 20.075"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/240)",
+    "intermediate": {
+     "Ley Nº 20.075": "unknown: change shown later"
+    },
+    "steps": [
+     {
+      "day": "2023-01-01",
+      "laws": [
+       "ley-19355",
+       "ley-20075"
+      ],
+      "diff": [
+       "replace: 'Trabajo y Seguridad' -> 'Desarrollo'",
+       "delete: 'vivos o' -> ''",
+       "insert: '' -> 'Cuando se trate de animales vivos, descartado su riesgo sanitario, se podrá disponer su entrega a los organismos del Estado u organizaciones de la sociedad civil vinculadas al bienestar y protección a'",
+       "delete: 'En caso de dictarse resolución condenatoria y de no abonarse los tributos correspondientes, su cobro se verificará sobre los fondos depositados.' -> ''"
+      ]
+     }
+    ]
+   },
+   "art-252": {
+    "laws": [
+     "Ley Nº 20.212"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/252)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2024-01-01",
+      "laws": [
+       "ley-20212"
+      ],
+      "diff": [
+       "replace: '3. Vencido' -> '3.Vencido'",
+       "replace: 'podrá solicitar' -> 'deberá solicitar, en un plazo de quince días hábiles,'",
+       "replace: 'liquidados.' -> 'liquidados, entre las que se incluye el remate establecido en el artículo siguiente.'",
+       "replace: 'y/o' -> 'o'",
+       "replace: 'estime corresponder.' -> 'correspondan.'"
+      ]
+     }
+    ]
+   },
+   "art-253": {
+    "laws": [
+     "Ley Nº 19.355",
+     "Ley Nº 19.924"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/253)",
+    "intermediate": {
+     "Ley Nº 19.924": "the wording Ley Nº 19.355 art. 238 gives it (IMPO original)"
+    },
+    "steps": [
+     {
+      "day": "2016-01-01",
+      "laws": [
+       "ley-19355"
+      ],
+      "diff": [
+       "replace: '1.' -> '1)'",
+       "replace: 'comiso,' -> 'comiso aduanero o en abandono infraccional,'",
+       "replace: 'serán' -> 'deberán rematarse. En caso de que los bienes'",
+       "insert: '' -> 'del comiso aduanero o en abandono infraccional hubieren sido rematados'",
+       "replace: 'remate. 2.' -> 'conformidad con el artículo 240 del presente Código, con anterioridad al dictado de la sentencia de condena, una vez dictada esta, su producido se distribuirá en la forma prevista en el artículo 254 d'",
+       "replace: 'valor' -> 'Valor'",
+       "replace: 'aduana' -> 'Aduana'",
+       "replace: 'valor' -> 'Valor'",
+       "replace: 'aduana' -> 'Aduana'",
+       "replace: '3. Serán de cargo del' -> 'Si en el remate no hubiese postores, se podrá sacar nuevamente el bien a la venta sin base y será rematado al'",
+       "delete: 'los tributos correspondientes a la mercadería rematada, los que se calcularán sobre la base del precio obtenido en el remate. En tal caso, el rematador actuante quedará investido de la calidad de agen' -> ''"
+      ]
+     },
+     {
+      "day": "2021-01-01",
+      "laws": [
+       "ley-19924"
+      ],
+      "diff": [
+       "delete: 'del comiso' -> ''",
+       "replace: 'sobre la' -> 'sin'",
+       "replace: 'de las dos terceras partes del Valor en Aduana determinado por la Dirección Nacional de Aduanas,' -> 'y al mejor postor, conforme'",
+       "replace: 'que no admitirá impugnación alguna. En caso de que la Dirección Nacional de Aduanas no pueda establecer el Valor en Aduana por la naturaleza del bien o por tratarse de bienes inmuebles, se seguirán la' -> 'establecido'",
+       "insert: '' -> 'artículo 386 del'",
+       "replace: 'Si' -> '3) En los asuntos cuya cuantía no exceda de 80.000 UI (ochenta mil unidades indexadas), se podrá proceder al remate conjunto de la mercadería incautada en distintos procedimientos, autorizándose la pu'",
+       "replace: 'remate no hubiese postores,' -> 'Diario Oficial, sin perjuicio de que, oportunamente,'",
+       "replace: 'podrá sacar nuevamente el bien a la venta sin base y será rematado al mejor postor' -> 'deberá presentar por los rematadores rendición de cuentas en cada uno de los expedientes.'"
+      ]
+     }
+    ]
+   },
+   "art-254": {
+    "laws": [
+     "Ley Nº 19.355"
+    ],
+    "earliest_text": "IMPO original text (/bases/leyes-originales/19276-2014/254)",
+    "intermediate": {},
+    "steps": [
+     {
+      "day": "2016-01-01",
+      "laws": [
+       "ley-19355"
+      ],
+      "diff": [
+       "replace: 'remate,' -> 'remate de los bienes a que refiere este artículo,'",
+       "replace: 'gastos' -> 'gastos, se distribuirá'",
+       "replace: 'almoneda, así' -> 'siguiente manera: A) 20% (veinte por ciento) para el fondo creado por el artículo 254 de la Ley Nº 15.809, de 8 de abril de 1986. B) 50% (cincuenta por ciento) que tendrá'",
+       "replace: 'las multas' -> 'destino el Fondo por Mejor Desempeño. C) 30% (treinta por ciento) restante se verterá a Rentas Generales en sustitución de la tributación aplicable, en caso de que la mercadería incautada en presunta '",
+       "replace: 'impongan, se distribuirán' -> 'establezca'",
+       "replace: 'forma establecida' -> 'respectiva resolución. En caso de que se haya frustrado la venta de la mercadería'",
+       "insert: '' -> 'remate por falta de oferentes,'",
+       "replace: 'legislación vigente' -> 'Dirección Nacional de Aduanas podrá solicitar'",
+       "replace: 'fecha del dictado de' -> 'autoridad competente que'",
+       "replace: 'sentencia de condena.' -> 'mercadería sea donada o destruida.'"
+      ]
+     }
+    ]
+   }
+  },
+  "last_version_equals_impo": true,
+  "post_pass": {
+   "first_text_from_earlier_law": [],
+   "article_vigencia": [],
+   "article_vigencia_not_applied": [],
+   "absent_between": [],
+   "added_part_removed": [],
+   "placeholder": [],
+   "absent_before": [],
+   "whole_rewrites": []
+  },
+  "impo_check": {
+   "today": {
+    "equal": true,
+    "differ": []
+   },
+   "last_version": {
+    "equal": true,
+    "differ": []
+   }
+  },
+  "unamended_sample": {
+   "leyes-originales/19276-2014/10": "same words",
+   "leyes-originales/19276-2014/34": "same words",
+   "leyes-originales/19276-2014/55": "same words",
+   "leyes-originales/19276-2014/74": "same words",
+   "leyes-originales/19276-2014/93": "same words",
+   "leyes-originales/19276-2014/113": "same words",
+   "leyes-originales/19276-2014/132": "same words",
+   "leyes-originales/19276-2014/151": "same words",
+   "leyes-originales/19276-2014/170": "same words",
+   "leyes-originales/19276-2014/189": "same words",
+   "leyes-originales/19276-2014/208": "same words",
+   "leyes-originales/19276-2014/261": "same words"
+  },
+  "suspensions": [
+   "Ley Nº 19.322 art. 1 (\"Suspéndese la vigencia de los artículos 224, 225, 227 a 257 y 269 ...\"), in force 2015-06-18 (published 2015-06-08; Código Civil art. 1: ten days after publication): wording unchanged, credited to 35 articles IMPO notes name it on: art-224, art-225, art-227, art-228, art-229, art-230, art-231, art-232, art-233, art-234, art-235, art-236, art-237, art-238, art-239, art-240, art-241, art-242, art-243, art-244, art-245, art-246, art-247, art-248, art-249, art-250, art-251, art-252, art-253, art-254, art-255, art-256, art-257, art-269, art-275",
+   "Ley Nº 19.394 art. 1 (\"Suspéndese la vigencia de los artículos 224, 225, 227 a 257 y 269 ...\"), in force 2016-06-17 (published 2016-06-07; Código Civil art. 1: ten days after publication): wording unchanged, credited to 35 articles IMPO notes name it on: art-224, art-225, art-227, art-228, art-229, art-230, art-231, art-232, art-233, art-234, art-235, art-236, art-237, art-238, art-239, art-240, art-241, art-242, art-243, art-244, art-245, art-246, art-247, art-248, art-249, art-250, art-251, art-252, art-253, art-254, art-255, art-256, art-257, art-269, art-275"
+  ]
+ },
+ "_shared_law_entries_differing": {}
+}
