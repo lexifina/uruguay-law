@@ -20268,6 +20268,20 @@
      "sha256": "ee2d228ec119d82c5e280faca1982df4eee3b0fef8b52011979c964dfaf7e978"
     }
    ]
+  },
+  {
+   "slug": "ley-17819",
+   "short": "Ley 17.819",
+   "title": "SEGURIDAD SOCIAL. SERVICIOS LEGALMENTE COMPUTABLES (Ley Nº 17.819)",
+   "url": "https://www.impo.com.uy/bases/leyes/17819-2004",
+   "versions": [
+    {
+     "from": "2023-12-01",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17819-2004",
+     "sha256": "c33dae56f1cad335a81fdc8d0ff03a69a053697d33c7f98fe69bf49eff333393"
+    }
+   ]
   }
  ]
 }

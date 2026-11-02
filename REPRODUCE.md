@@ -93,6 +93,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
+| IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1129,20 +1130,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-20383` | REGULACION DE LA ACTIVIDAD DE LOS SERVICIOS DE DIFUSION DE CONTENIDO AUDIOVISUAL POR RADIOFUSION O SUSCRIPCION (Ley Nº 20.383) | 1 | 2026-01-18 to 2026-01-18 |
 | `ley-20416` | APROBACION DE LA RENDICION DE CUENTAS Y BALANCE DE EJECUCIÓN PRESUPUESTAL. EJERCICIO 2024 (Ley Nº 20.416) | 1 | 2025-08-21 to 2025-08-21 |
 | `ley-20528` | FIJACION DEL ACCESO AL FONDO DE GARANTIA PARA LA REESTRUCTURACION DE PASIVOS DE LAS INSTITUCIONES DE ASISTENCIA MEDICA COLECTIVA, AL CASMU - IAMPP (Ley Nº 20.528) | 1 | 2026-10-11 to 2026-10-11 |
+| `ley-17819` | SEGURIDAD SOCIAL. SERVICIOS LEGALMENTE COMPUTABLES (Ley Nº 17.819) | 1 | 2023-12-01 to 2023-12-01 |
 
-The build made 1445 commits:
+The build made 1446 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1029 | first version of an act |
+| 1030 | first version of an act |
 | 416 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
 - 365 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1277 laws in the record.
-- 2767 tags.
+- 1278 laws in the record.
+- 2768 tags.
 
 ## Dates
 
@@ -1154,15 +1156,15 @@ When a law gives no date of its own, the default rule applies: Código Civil art
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fcf76e7c57d3c323ffde501bfcc9bad786664db6a4028b2b15efaa59d9a7b5b1` (39218370 bytes).
+- Corpus: sha256 `55e32fe39effd19c0846f7013b12b87d597863ca5a668f52a8204e5a765a5fad` (39231178 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-2006 versions of 1029 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 1432 history commits and 2602 tags (history tip `dda6c1fb7d6e0565db3f99d3e730763a73304848`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -2877,6 +2879,8 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - Ley Nº 20.383: current text only, in force from 2026-01-18, the in-force day of the last law IMPO names as changing it (Ley Nº 20.446: in force 2026-01-18 (published 2026-01-08; Código Civil art. 1: ten days after publication (not backdated: its vigencia article: "regirá a partir del 1° de enero de 2026" gives 2026-01-01, before its publication on 2026-01-08))).
 - Ley Nº 20.416: current text only, in force from 2025-08-21, its own in-force day (published 2025-08-11; Código Civil art. 1: ten days after publication).
 - Ley Nº 20.528: current text only, in force from 2026-10-11, its own in-force day (published 2026-10-01; Código Civil art. 1: ten days after publication). Not included: 1 bare "(*)" article(s) of amendments (their words stand in the laws they amended).
+- Current-text acts (breadth first): each of these laws has one version, IMPO's consolidated text as published today, credited to IMPO as the oldest version available (first_law null). Its day is its in-force day: that of the last law IMPO's notes name as changing the text, or the law's own when later or when the notes name none; each law's in-force day is found as in the full-history parts (its day in the other parts, else its vigencia article, else ten days after publication, Código Civil art. 1), and its promulgation only where no publication date can be found (said in its decision line). Articles IMPO marks repealed whole, bare "(*)" articles of amendments and articles IMPO prints without text are not included. A law IMPO marks repealed whole ends with a version without provisions, credited to the repealing law on its in-force day. Titles are IMPO's own names of the laws, as IMPO prints them.
+- Ley Nº 17.819: current text only, in force from 2023-12-01, the in-force day of the last law IMPO names as changing it (Ley Nº 20.130: in force 2023-12-01 (Ley Nº 20.130 art. 6 numeral 4: "el Sistema Previsional Común entrará en vigor el primer día del mes siguiente al del cumplimiento de los ciento ochenta días de la publicación de la presente ley en el Diario Oficial" (published 10/05/2023; art. 79, Título III))). Not included: art-003-bis, an added whole article whose own text takes effect on 2033-01-01.
 
 ## What AI did and did not do
 
@@ -2970,6 +2974,7 @@ Model use at data-build time:
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
+- A model (Claude) wrote Lexifina's code. It wrote no legal text: every unit is parsed from IMPO bytes.
 - A model (Claude) wrote Lexifina's code. It wrote no legal text: every unit is parsed from IMPO bytes.
 - A model (Claude) wrote Lexifina's code. It wrote no legal text: every unit is parsed from IMPO bytes.
 - A model (Claude) wrote Lexifina's code. It wrote no legal text: every unit is parsed from IMPO bytes.
