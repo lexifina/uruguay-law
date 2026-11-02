@@ -9622,6 +9622,4254 @@
      "sha256": "d8aa5c3a468eae0823b12a751c3d97e7a4b3d0dc818ff47ef595452650da515e"
     }
    ]
+  },
+  {
+   "slug": "ley-10062",
+   "short": "Ley 10.062",
+   "title": "LEY ORGANICA DE LA CAJA NOTARIAL DE JUBILACIONES Y PENSIONES (Ley Nº 10.062)",
+   "url": "https://www.impo.com.uy/bases/leyes/10062-1941",
+   "versions": [
+    {
+     "from": "2001-02-21",
+     "units": 69,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10062-1941",
+     "sha256": "9216b341f9586ff2a69e2b8c1d97d943856391bdaa5e685930b3965a9b84c6bc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10446",
+   "short": "Ley 10.446",
+   "title": "LEY DE REGISTRO CIVICO NACIONAL. MODIFICACION (Ley Nº 10.446)",
+   "url": "https://www.impo.com.uy/bases/leyes/10446-1943",
+   "versions": [
+    {
+     "from": "1943-10-20",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10446-1943",
+     "sha256": "58965d29da14a59f7f79ed9870ada5e87b950b47b4b7c08d1d2a306165d57278"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10489",
+   "short": "Ley 10.489",
+   "title": "COMERCIO. REGIMEN HORARIO. FIJACION (Ley Nº 10.489)",
+   "url": "https://www.impo.com.uy/bases/leyes/10489-1944",
+   "versions": [
+    {
+     "from": "1974-12-17",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10489-1944",
+     "sha256": "b53720ba279a0be5b78af73d198a3744b18a61514047a9af6aa12e05f192fdbb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10597",
+   "short": "Ley 10.597",
+   "title": "FIJACION DE IMPUESTO. GANANCIAS ELEVADAS (Ley Nº 10.597)",
+   "url": "https://www.impo.com.uy/bases/leyes/10597-1944",
+   "versions": [
+    {
+     "from": "1960-11-30",
+     "units": 56,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10597-1944",
+     "sha256": "0f6fb3bea4d0f228627b79f7990f9d470c463e47571be285054a3a6a5919149d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10709",
+   "short": "Ley 10.709",
+   "title": "COMISION HONORARIA PARA LA LUCHA ANTITUBERCULOSA. FONDO NACIONAL PERMANENTE PARA LA LUCHA ANTITUBERCULOSA. CREACION (Ley Nº 10.709)",
+   "url": "https://www.impo.com.uy/bases/leyes/10709-1946",
+   "versions": [
+    {
+     "from": "2013-10-24",
+     "units": 20,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10709-1946",
+     "sha256": "c08fe1f8b6b1e2c586ae5818309a8ec8a85538bf3a9c140a491ae1fa6b85d182"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10757",
+   "short": "Ley 10.757",
+   "title": "LEY ORGANICA MILITAR. MODIFICACION (Ley Nº 10.757)",
+   "url": "https://www.impo.com.uy/bases/leyes/10757-1946",
+   "versions": [
+    {
+     "from": "1981-05-14",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10757-1946",
+     "sha256": "4f21fbf3f905dfc997def7bec22e2f3f3be1d0bdec76095a8356218e1503ed3f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10789",
+   "short": "Ley 10.789",
+   "title": "ELECCIONES NACIONALES. REGULACION (Ley Nº 10.789)",
+   "url": "https://www.impo.com.uy/bases/leyes/10789-1946",
+   "versions": [
+    {
+     "from": "1946-09-23",
+     "units": 19,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10789-1946",
+     "sha256": "8afee8771ac1e21b2c20656fdeae130a11e8254fff6ab3d1520e745e8d9e1c9d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10793",
+   "short": "Ley 10.793",
+   "title": "LEY DE REGISTROS PUBLICOS (Ley Nº 10.793)",
+   "url": "https://www.impo.com.uy/bases/leyes/10793-1946",
+   "versions": [
+    {
+     "from": "1994-01-11",
+     "units": 83,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10793-1946",
+     "sha256": "4f19ae8948abd914901bdbd7603546e8a52e4e16b3879e020d1c733012b808d1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10808",
+   "short": "Ley 10.808",
+   "title": "LEY ORGANICA DE LA MARINA (Ley Nº 10.808)",
+   "url": "https://www.impo.com.uy/bases/leyes/10808-1946",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 160,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10808-1946",
+     "sha256": "ee700d0b649de7be1ac93591711e1f383a3bc8f25baca196d09b28566015a04c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10853",
+   "short": "Ley 10.853",
+   "title": "JUBILACIONES Y PENSIONES. BENEFICIOS JUBILATORIOS (Ley Nº 10.853)",
+   "url": "https://www.impo.com.uy/bases/leyes/10853-1946",
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10853-1946",
+     "sha256": "1cdbb84f4729712dbfe7590413068c4d098dfbad225d1573e8e49d3bc362b600"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10866",
+   "short": "Ley 10.866",
+   "title": "LEY DE CENTROS POBLADOS. MODIFICACION (Ley Nº 10.866)",
+   "url": "https://www.impo.com.uy/bases/leyes/10866-1946",
+   "versions": [
+    {
+     "from": "1946-10-25",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10866-1946",
+     "sha256": "5e47055795d0622227e8111f027007bd7faefae62f67412ca1dccd97b3557804"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10940",
+   "short": "Ley 10.940",
+   "title": "CONSEJO NACIONAL DE SUBSISTENCIAS Y CONTRALOR DE PRECIOS. CREACION (Ley Nº 10.940)",
+   "url": "https://www.impo.com.uy/bases/leyes/10940-1947",
+   "versions": [
+    {
+     "from": "1973-03-14",
+     "units": 61,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10940-1947",
+     "sha256": "1197481f2105892b507113077ef7529920f73c7e3dfb504e5d762292e9e7abd3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-10976",
+   "short": "Ley 10.976",
+   "title": "BANCO HIPOTECARIO DEL URUGUAY (BHU). PRESTAMOS. VIVIENDA (Ley Nº 10.976)",
+   "url": "https://www.impo.com.uy/bases/leyes/10976-1947",
+   "versions": [
+    {
+     "from": "1975-11-27",
+     "units": 19,
+     "source_url": "https://www.impo.com.uy/bases/leyes/10976-1947",
+     "sha256": "2e81513c6a928ed38603174e19c2126f3098fc0ae836f9861ee32f914d1da1eb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11182",
+   "short": "Ley 11.182",
+   "title": "CAJA DE JUBILACIONES Y PENSIONES ESCOLARES. MODIFICACION (Ley Nº 11.182)",
+   "url": "https://www.impo.com.uy/bases/leyes/11182-1948",
+   "versions": [
+    {
+     "from": "1964-12-28",
+     "units": 16,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11182-1948",
+     "sha256": "282f4c9c571ca195cf0f406e9f7e79d222368c980a30c4cc6c4b93bfceeddaab"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11285",
+   "short": "Ley 11.285",
+   "title": "ENSEÑANZA. PRESUPUESTO. MODIFICACION (Ley Nº 11.285)",
+   "url": "https://www.impo.com.uy/bases/leyes/11285-1949",
+   "versions": [
+    {
+     "from": "1968-04-16",
+     "units": 67,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11285-1949",
+     "sha256": "337ae9e44b813e9e949ac522338888459546795e29ba67d9cb57b905559e6fa6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11326",
+   "short": "Ley 11.326",
+   "title": "EJERCITO. MARINA. FUNCIONARIOS MILITARES. REMUNERACIONES. FIJACION DE IMPUESTO (Ley Nº 11.326)",
+   "url": "https://www.impo.com.uy/bases/leyes/11326-1949",
+   "versions": [
+    {
+     "from": "1949-09-07",
+     "units": 25,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11326-1949",
+     "sha256": "c0fca638cd14d94da9c4ddbe495883596d03f7e961308d9b3d9fa92b8457cb32"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11460",
+   "short": "Ley 11.460",
+   "title": "JUZGADOS. CREACION. DENOMINACION (Ley Nº 11.460)",
+   "url": "https://www.impo.com.uy/bases/leyes/11460-1950",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 22,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11460-1950",
+     "sha256": "8988e6b375f228b3c8f53560285b6900566ac3e3192c7d25247381824e66a1a2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11474",
+   "short": "Ley 11.474",
+   "title": "DIRECCION GENERAL DE CORREOS. PRESUPUESTO (Ley Nº 11.474)",
+   "url": "https://www.impo.com.uy/bases/leyes/11474-1950",
+   "versions": [
+    {
+     "from": "2001-02-21",
+     "units": 19,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11474-1950",
+     "sha256": "b2bce36aaa03515fbe3b0dddd739cc5201e44f70834317f6c66feab750bd7de9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11490",
+   "short": "Ley 11.490",
+   "title": "BANCO HIPOTECARIO DEL URUGUAY (BHU). AUTORIZACION. PRESTAMOS. FUNCIONARIOS. REMUNERACIONES (Ley Nº 11.490)",
+   "url": "https://www.impo.com.uy/bases/leyes/11490-1950",
+   "versions": [
+    {
+     "from": "1977-04-20",
+     "units": 62,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11490-1950",
+     "sha256": "c3c75522b5cd4ec8532b70f78b7c7a6e3e6caa4336789e5f8a9742fd1ac1f24a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11549",
+   "short": "Ley 11.549",
+   "title": "SERVICIO OFICIAL DE DIFUSION RADIO ELECTRICA (SODRE). PRESUPUESTO (Ley Nº 11.549)",
+   "url": "https://www.impo.com.uy/bases/leyes/11549-1950",
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11549-1950",
+     "sha256": "971f94a2e8649b9e5b6f506004b8f7ba9d3da17055337103be610facfc85f0e8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11577",
+   "short": "Ley 11.577",
+   "title": "INDUSTRIAS INSALUBRES. CREACION DE LA COMISION HONORARIA DE TRABAJOS INSALUBRES (Ley Nº 11.577)",
+   "url": "https://www.impo.com.uy/bases/leyes/11577-1950",
+   "versions": [
+    {
+     "from": "1950-10-14",
+     "units": 20,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11577-1950",
+     "sha256": "4b1b9e9c2701bc97dcbe44f60530a9469bbc45976012efc515202cb2ee4861dd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11618",
+   "short": "Ley 11.618",
+   "title": "NEGOCIACION COLECTIVA. CONSEJOS DE SALARIOS. MODIFICACION (Ley Nº 11.618)",
+   "url": "https://www.impo.com.uy/bases/leyes/11618-1950",
+   "versions": [
+    {
+     "from": "1958-11-07",
+     "units": 40,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11618-1950",
+     "sha256": "a464a514d0b77ad18e6ead45ec35fabdc1b762d784e93979e24522435b4a223a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11637",
+   "short": "Ley 11.637",
+   "title": "JUBILACIONES Y PENSIONES. BENEFICIOS JUBILATORIOS. BENEFICIO ESPECIAL DE RETIRO (Ley Nº 11.637)",
+   "url": "https://www.impo.com.uy/bases/leyes/11637-1951",
+   "versions": [
+    {
+     "from": "1967-02-13",
+     "units": 15,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11637-1951",
+     "sha256": "5fbfd9c5f5d12865fb4515aaf5b464c7e8051b9bbbc110b107d803079e5f4716"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11638",
+   "short": "Ley 11.638",
+   "title": "DIRECCION GENERAL DE INMIGRACION. PRESUPUESTO (Ley Nº 11.638)",
+   "url": "https://www.impo.com.uy/bases/leyes/11638-1951",
+   "versions": [
+    {
+     "from": "1972-12-29",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11638-1951",
+     "sha256": "0c0cc842188372cefc12becf17c9e1e41f75e96da13bf8f67f14a8fd578b7601"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11727",
+   "short": "Ley 11.727",
+   "title": "ELECCIONES NACIONALES. PLEBISCITO. REGLAMENTACION (Ley Nº 11.727)",
+   "url": "https://www.impo.com.uy/bases/leyes/11727-1951",
+   "versions": [
+    {
+     "from": "1962-04-05",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11727-1951",
+     "sha256": "9343df8d78f784a306f8e5eff62ddb8edc64bb63661c04f764343be1cb0003b5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11759",
+   "short": "Ley 11.759",
+   "title": "JUZGADOS. REGISTROS PUBLICOS. MODIFICACION (Ley Nº 11.759)",
+   "url": "https://www.impo.com.uy/bases/leyes/11759-1951",
+   "versions": [
+    {
+     "from": "1951-11-19",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11759-1951",
+     "sha256": "86bdbd9dbbaa77df073a25693eb68a31e20bdc684cd87b28dfa5899fe8746ff5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11908",
+   "short": "Ley 11.908",
+   "title": "NEGOCIACION COLECTIVA. CONSEJOS DE SALARIOS. TRABAJADORES. REMUNERACIONES. FISCALIZACION (Ley Nº 11.908)",
+   "url": "https://www.impo.com.uy/bases/leyes/11908-1952",
+   "versions": [
+    {
+     "from": "1952-12-19",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11908-1952",
+     "sha256": "ba396952b258c3b3d19f100568d942de6e6f0209b540f3abee72c7aa2aef3c49"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11923",
+   "short": "Ley 11.923",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1953 (Ley Nº 11.923)",
+   "url": "https://www.impo.com.uy/bases/leyes/11923-1953",
+   "versions": [
+    {
+     "from": "1981-10-08",
+     "units": 220,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11923-1953",
+     "sha256": "6da2efd1f6385ca769ef37e832ecec6bb8571505024a2e9f3c289037a3b7173c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11924",
+   "short": "Ley 11.924",
+   "title": "PRESUPUESTO (Ley Nº 11.924)",
+   "url": "https://www.impo.com.uy/bases/leyes/11924-1953",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 75,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11924-1953",
+     "sha256": "12e4e38a3631ca7fe8261cf1ce4ada8c143260073ecd6c91070e8399e23a2952"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11925",
+   "short": "Ley 11.925",
+   "title": "CONTADURIA GENERAL DE LA NACION. NORMAS DE ORDENAMIENTO FINANCIERO. AMPLIACION (Ley Nº 11.925)",
+   "url": "https://www.impo.com.uy/bases/leyes/11925-1953",
+   "versions": [
+    {
+     "from": "1987-11-10",
+     "units": 43,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11925-1953",
+     "sha256": "e6b4fb8b8a2d6baaa402882ace6a7714676732b908ec12ed3c7953918f9d0c51"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11937",
+   "short": "Ley 11.937",
+   "title": "PODER EJECUTIVO. AUTORIZACION. DEUDA PUBLICA. EMISION (Ley Nº 11.937)",
+   "url": "https://www.impo.com.uy/bases/leyes/11937-1953",
+   "versions": [
+    {
+     "from": "1953-05-15",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11937-1953",
+     "sha256": "b343d2ea7fdccef6a97d45fe6bd1ba2c5a2dd683b1cfdd62ca25988f94af9cc9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12070",
+   "short": "Ley 12.070",
+   "title": "FUERZA AEREA MILITAR. CREACION (Ley Nº 12.070)",
+   "url": "https://www.impo.com.uy/bases/leyes/12070-1953",
+   "versions": [
+    {
+     "from": "1976-12-20",
+     "units": 25,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12070-1953",
+     "sha256": "ddf3e263a9603565bce358f9ab5459d14ba58505e11de04e9de798b22c544b6f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12079",
+   "short": "Ley 12.079",
+   "title": "PRESUPUESTO. MODIFICACION (Ley Nº 12.079)",
+   "url": "https://www.impo.com.uy/bases/leyes/12079-1953",
+   "versions": [
+    {
+     "from": "1960-11-30",
+     "units": 46,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12079-1953",
+     "sha256": "5675db5e3e71683d4fb1e4e0ed1d21350473aeac1a3eed307d4d50acccc42c1d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12185",
+   "short": "Ley 12.185",
+   "title": "MODIFICACION DE LA LEY 10.757 RELATIVO AL REGIMEN DE ASCENSOS DE FUNCIONARIOS MILITARES (Ley Nº 12.185)",
+   "url": "https://www.impo.com.uy/bases/leyes/12185-1955",
+   "versions": [
+    {
+     "from": "1955-02-15",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12185-1955",
+     "sha256": "1911c0b18b1c880e35437fd030c231282c15e27a9523ce7991aeb0b38bd31c90"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12276",
+   "short": "Ley 12.276",
+   "title": "AUTORIZACION PARA LA EMISION DE DEUDA PUBLICA (Ley Nº 12.276)",
+   "url": "https://www.impo.com.uy/bases/leyes/12276-1956",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 44,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12276-1956",
+     "sha256": "ada280cd3da59aa83c2b8a9595a97cb1a1e00cf04c7c03409436aa3551886313"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12358",
+   "short": "Ley 12.358",
+   "title": "OTORGAMIENTO DE EXONERACIONES TRIBUTARIAS Y AMPLIACION DE LOS PRESTAMOS PARA VIVIENDA DEL BHU (Ley Nº 12.358)",
+   "url": "https://www.impo.com.uy/bases/leyes/12358-1957",
+   "versions": [
+    {
+     "from": "1957-01-26",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12358-1957",
+     "sha256": "ddeccb43c20acc0c8863835431c2dc6ff2a2df6ee19a8b326eb3eb9880aab449"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12376",
+   "short": "Ley 12.376",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1957 (Ley Nº 12.376)",
+   "url": "https://www.impo.com.uy/bases/leyes/12376-1957",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 164,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12376-1957",
+     "sha256": "b5806f6cf0d326656cdb502df46aa8da9b7b37b3f01508e492ebeb8561fa0ef8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12464",
+   "short": "Ley 12.464",
+   "title": "INCREMENTO DE LAS JUBILACIONES Y PENSIONES. ENERO 1958 (Ley Nº 12.464)",
+   "url": "https://www.impo.com.uy/bases/leyes/12464-1957",
+   "versions": [
+    {
+     "from": "1968-11-22",
+     "units": 60,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12464-1957",
+     "sha256": "29ca99edafae724f11986fdec4dd07773483509dccab790d92f8699f2f36e27e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12482",
+   "short": "Ley 12.482",
+   "title": "ASIGNACION DE RECURSOS PRESUPUESTALES (Ley Nº 12.482)",
+   "url": "https://www.impo.com.uy/bases/leyes/12482-1957",
+   "versions": [
+    {
+     "from": "1960-11-30",
+     "units": 54,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12482-1957",
+     "sha256": "9d12a8dfb84262904d9442bd27d5ddd0aaf6947a93710b23b82acf3e43426ecf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12485",
+   "short": "Ley 12.485",
+   "title": "SE INSTITUYEN LAS CAJAS DE COMPENSACIONES Y ASIGNACIONES FAMILIARES (Ley Nº 12.485)",
+   "url": "https://www.impo.com.uy/bases/leyes/12485-1957",
+   "versions": [
+    {
+     "from": "1957-12-26",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12485-1957",
+     "sha256": "3f35e117587f2c957faa50369f18ec72fffe30260ca48683c61768813933c052"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12543",
+   "short": "Ley 12.543",
+   "title": "SEGURIDAD SOCIAL. ASIGNACIONES FAMILIARES. APORTES PATRONALES (Ley Nº 12.543)",
+   "url": "https://www.impo.com.uy/bases/leyes/12543-1958",
+   "versions": [
+    {
+     "from": "1958-10-16",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12543-1958",
+     "sha256": "dc9898137b7373fec87322d06c51a6f611a89b088d0e58aea4cd782c2c42fc46"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12613",
+   "short": "Ley 12.613",
+   "title": "MODIFICACIONES A LA REGLAMENTACION DE LA NAVEGACION Y COMERCIO DE CABOTAJE (Ley Nº 12.613)",
+   "url": "https://www.impo.com.uy/bases/leyes/12613-1959",
+   "versions": [
+    {
+     "from": "1959-07-07",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12613-1959",
+     "sha256": "03eb144352ded7dc2a61c0dbf37aac254832c499480ea9caa7a59ca0a8ecfbcf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12691",
+   "short": "Ley 12.691",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1959 (Ley Nº 12.691)",
+   "url": "https://www.impo.com.uy/bases/leyes/12691-1959",
+   "versions": [
+    {
+     "from": "1960-03-31",
+     "units": 41,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12691-1959",
+     "sha256": "86b70e5a4b84733c40dac43a2f44180c1d4dff6cc7b01a1d812b6b0605334a9a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12700",
+   "short": "Ley 12.700",
+   "title": "CREACION DEL IMPUESTO A LOS REMATES DE BIENES MUEBLES, INMUEBLES Y SEMOVIENTES (Ley Nº 12.700)",
+   "url": "https://www.impo.com.uy/bases/leyes/12700-1960",
+   "versions": [
+    {
+     "from": "1970-10-19",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12700-1960",
+     "sha256": "0a6ac55ff41579072600e08b514277fd5df110795ac898023e29d450a5af040b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12745",
+   "short": "Ley 12.745",
+   "title": "FUNCIONARIOS CONTRATADOS. SERVICIO DE COBRANZAS DOMICILIARIAS DE LA CAJA DE JUBILACIONES Y PENSIONES DE LA INDUSTRIA Y COMERCIO (Ley Nº 12.745)",
+   "url": "https://www.impo.com.uy/bases/leyes/12745-1960",
+   "versions": [
+    {
+     "from": "1966-08-16",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12745-1960",
+     "sha256": "88fb5ed82c38340e21dd52299a9efa976320140350f3f8d11ee95cb332ac48fb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12761",
+   "short": "Ley 12.761",
+   "title": "SEGURIDAD SOCIAL. JUBILACIONES Y PENSIONES (Ley Nº 12.761)",
+   "url": "https://www.impo.com.uy/bases/leyes/12761-1960",
+   "versions": [
+    {
+     "from": "1977-06-10",
+     "units": 135,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12761-1960",
+     "sha256": "793c272a907de58a520ce23668d0f777b16fefd8b58526925462a574703e4c01"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12801",
+   "short": "Ley 12.801",
+   "title": "REESTRUCTURACION DEL PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 12.801)",
+   "url": "https://www.impo.com.uy/bases/leyes/12801-1960",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 41,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12801-1960",
+     "sha256": "71b29c23ea8a4c1092a70a45aa4fe4209d72a5958164a9e0c7fdc1098811e613"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12802",
+   "short": "Ley 12.802",
+   "title": "APROBACION DE NORMAS DE ORDENAMIENTO FINANCIERO (Ley Nº 12.802)",
+   "url": "https://www.impo.com.uy/bases/leyes/12802-1960",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 113,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12802-1960",
+     "sha256": "a98aa3335fe7e877a84ec709d16c47f44c9fa13ea7dceb6464fff0953140636e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12803",
+   "short": "Ley 12.803",
+   "title": "PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 12.803)",
+   "url": "https://www.impo.com.uy/bases/leyes/12803-1960",
+   "versions": [
+    {
+     "from": "1987-11-10",
+     "units": 168,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12803-1960",
+     "sha256": "bfa8524f74339abf11027cb0f27315ac17d7f140ab8d5e936c2102cc7716d0d0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12938",
+   "short": "Ley 12.938",
+   "title": "LEY DE CONTROL Y ERRADICACION DE LA FIEBRE AFTOSA (Ley Nº 12.938)",
+   "url": "https://www.impo.com.uy/bases/leyes/12938-1961",
+   "versions": [
+    {
+     "from": "2002-10-29",
+     "units": 22,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12938-1961",
+     "sha256": "a9247978510eb7d3269b66c0f78883f37b3af75409f2fac4cafde99a1060301d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12950",
+   "short": "Ley 12.950",
+   "title": "TESORO DE OBRAS PUBLICAS. TRIBUTOS A LOS COMBUSTIBLES GRASAS Y LUBRICANTES. IMPUESTO ADICIONAL A LA CONTRIBUCION INMOBILIARIA. IMPUESTO A LA VENTA DE LAS CAMARAS Y CUBIERTAS DE VEHICULOS AUTOMOTORES. IMPUESTO A LOS EJES. IMPUESTO A LOS INGRESOS BRUTOS DE LAS EMPRESAS DE TRANSPORTE DE PASAJEROS (Ley Nº 12.950)",
+   "url": "https://www.impo.com.uy/bases/leyes/12950-1961",
+   "versions": [
+    {
+     "from": "2003-06-04",
+     "units": 41,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12950-1961",
+     "sha256": "153115585390e794530184118fb0d9e908ecd21450dea6b73f41a2a8a583ef82"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12990",
+   "short": "Ley 12.990",
+   "title": "MODIFICACIONES A LA LEY ORGANICA DE LA MARINA (Ley Nº 12.990)",
+   "url": "https://www.impo.com.uy/bases/leyes/12990-1961",
+   "versions": [
+    {
+     "from": "1961-11-26",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12990-1961",
+     "sha256": "dfdf8eb4ebd40cb89f1a15e224748bf50cc9e2f88900302e36843676fe72d3ea"
+    }
+   ]
+  },
+  {
+   "slug": "ley-12996",
+   "short": "Ley 12.996",
+   "title": "SEGURIDAD SOCIAL. JUBILACIONES Y PENSIONES CIVILES Y ESCOLARES, RURALES Y DOMESTICOS, INDUSTRIA Y COMERCIO (Ley Nº 12.996)",
+   "url": "https://www.impo.com.uy/bases/leyes/12996-1961",
+   "versions": [
+    {
+     "from": "1986-12-24",
+     "units": 78,
+     "source_url": "https://www.impo.com.uy/bases/leyes/12996-1961",
+     "sha256": "bd8e571eca2eed106dce42b6547177b83fda9800638ca39661b8f04958720249"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13032",
+   "short": "Ley 13.032",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1960 (Ley Nº 13.032)",
+   "url": "https://www.impo.com.uy/bases/leyes/13032-1961",
+   "versions": [
+    {
+     "from": "1987-11-10",
+     "units": 334,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13032-1961",
+     "sha256": "080332c60a2cba29db4712538dc3e71cece32b3b94c683ea6ce58af7c738a9fe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13041",
+   "short": "Ley 13.041",
+   "title": "DECLARACION DE VALIDEZ DE LAS INSCRIPCIONES Y REINSCRIPCIONES INCORPORADAS AL REGISTRO CIVICO NACIONAL (Ley Nº 13.041)",
+   "url": "https://www.impo.com.uy/bases/leyes/13041-1962",
+   "versions": [
+    {
+     "from": "1962-04-05",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13041-1962",
+     "sha256": "0a52dad85919b5de66074f02eceb9110a2fcd235d28fdcdba604cfb29cc5e746"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13102",
+   "short": "Ley 13.102",
+   "title": "REGIMEN DE IMPORTACION DE VEHICULOS AUTOMOTORES PARA PERSONAS CON DISCAPACIDAD (Ley Nº 13.102)",
+   "url": "https://www.impo.com.uy/bases/leyes/13102-1962",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 17,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13102-1962",
+     "sha256": "f8486f64f3c6d0c2ce1f44f8974637c7bb84e57605774eb56ad04e457d85f61d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13145",
+   "short": "Ley 13.145",
+   "title": "MODIFICACIONES A LAS LEYES ORGANICAS DE LAS FUERZAS ARMADAS Y DE LA ARMADA NACIONAL. FUNCIONARIOS MILITARES (Ley Nº 13.145)",
+   "url": "https://www.impo.com.uy/bases/leyes/13145-1963",
+   "versions": [
+    {
+     "from": "1963-07-09",
+     "units": 14,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13145-1963",
+     "sha256": "bd82aace075df7cc451353cfca7c7eef35b6aacd53c52af3f75faf9d577aa404"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13241",
+   "short": "Ley 13.241",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1962 (Ley Nº 13.241)",
+   "url": "https://www.impo.com.uy/bases/leyes/13241-1964",
+   "versions": [
+    {
+     "from": "1978-01-05",
+     "units": 78,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13241-1964",
+     "sha256": "03606cfd2d7216211d78dda383dc7517b70fb04fc60d8c903221b76dc0d5a375"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13292",
+   "short": "Ley 13.292",
+   "title": "ARRENDAMIENTOS URBANOS. SUSPENSION DE DESALOJOS Y LANZAMIENTOS (Ley Nº 13.292)",
+   "url": "https://www.impo.com.uy/bases/leyes/13292-1964",
+   "versions": [
+    {
+     "from": "1965-12-02",
+     "units": 83,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13292-1964",
+     "sha256": "0fbf2914a334d48733078e7e762d7bad3a091f5d4aae7107a2aebd7b6955ae55"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13296",
+   "short": "Ley 13.296",
+   "title": "REGIMEN DE REAJUSTE DE JUBILACIONES Y PENSIONES. OCTUBRE 1964 (Ley Nº 13.296)",
+   "url": "https://www.impo.com.uy/bases/leyes/13296-1964",
+   "versions": [
+    {
+     "from": "1967-02-13",
+     "units": 26,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13296-1964",
+     "sha256": "4e0ff43515b62f0771fcae941aba7ad5509c6e2136537a3e0c7dd6aeee92d2a0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13315",
+   "short": "Ley 13.315",
+   "title": "SEGURIDAD SOCIAL. AJUSTE DE TOPES JUBILATORIOS Y FIJACION DE SUELDOS FICTOS DE DIRECTORES DE S.A. (Ley Nº 13.315)",
+   "url": "https://www.impo.com.uy/bases/leyes/13315-1964",
+   "versions": [
+    {
+     "from": "1965-12-02",
+     "units": 11,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13315-1964",
+     "sha256": "3da11f6c68f566a929525440af46dad0ae4db7e408621fed70e9e346d74f2bec"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13317",
+   "short": "Ley 13.317",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES - MODIFICACIONES A LA LEY 12801 (Ley Nº 13.317)",
+   "url": "https://www.impo.com.uy/bases/leyes/13317-1964",
+   "versions": [
+    {
+     "from": "1986-04-08",
+     "units": 22,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13317-1964",
+     "sha256": "9e222e5ff7e236be6e5cde9a582825f26dce9a23d213386137aae208489a3fae"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13318",
+   "short": "Ley 13.318",
+   "title": "APROBACION DE NORMAS DE ORDENAMIENTO FINANCIERO. INFRACCIONES Y PROCEDIMIENTOS ADUANEROS. INGRESO A LA ADMINISTRACION PUBLICA (Ley Nº 13.318)",
+   "url": "https://www.impo.com.uy/bases/leyes/13318-1964",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 236,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13318-1964",
+     "sha256": "8457923fced2f18e00f3116575d846f6aa76cc465d1a718503565013f55537f7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13319",
+   "short": "Ley 13.319",
+   "title": "RECURSOS PARA EL PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 13.319)",
+   "url": "https://www.impo.com.uy/bases/leyes/13319-1964",
+   "versions": [
+    {
+     "from": "1996-01-05",
+     "units": 44,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13319-1964",
+     "sha256": "b2f0f11010274ed21d082454a21b95d573a317d2deec542c7b102c7b6c7759ee"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13320",
+   "short": "Ley 13.320",
+   "title": "PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 13.320)",
+   "url": "https://www.impo.com.uy/bases/leyes/13320-1964",
+   "versions": [
+    {
+     "from": "1980-05-09",
+     "units": 239,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13320-1964",
+     "sha256": "9122761364f36f166cb86da782db8d83d2e84f014428ad06de589befbc67c305"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13349",
+   "short": "Ley 13.349",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1963 (Ley Nº 13.349)",
+   "url": "https://www.impo.com.uy/bases/leyes/13349-1965",
+   "versions": [
+    {
+     "from": "1975-08-28",
+     "units": 67,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13349-1965",
+     "sha256": "f01dd468079aedb0d4722cbd3dbaea06992130659c733c0aac952c7d83eb405e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13355",
+   "short": "Ley 13.355",
+   "title": "LEY DE ABREVIACION DE JUICIOS. MODIFICACIONES AL CODIGO DE PROCEDIMIENTO CIVIL (Ley Nº 13.355)",
+   "url": "https://www.impo.com.uy/bases/leyes/13355-1965",
+   "versions": [
+    {
+     "from": "1983-09-19",
+     "units": 74,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13355-1965",
+     "sha256": "b9bac63a11e6cf9e01b693a212bdbec23339247ddad7682881bc75aea7aa8199"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13420",
+   "short": "Ley 13.420",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1964 (Ley Nº 13.420)",
+   "url": "https://www.impo.com.uy/bases/leyes/13420-1965",
+   "versions": [
+    {
+     "from": "1997-09-28",
+     "units": 141,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13420-1965",
+     "sha256": "dc11b41612d7466888ffff08a22f36c2297ecd6e43138607293ceb29f9b95fb1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13426",
+   "short": "Ley 13.426",
+   "title": "FIJACION DE AUMENTO EN PASIVIDADES (Ley Nº 13.426)",
+   "url": "https://www.impo.com.uy/bases/leyes/13426-1965",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 83,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13426-1965",
+     "sha256": "03e5c229408101333597ad3f6bfbed643f3254a552bc40aca3341c4b29883959"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13453",
+   "short": "Ley 13.453",
+   "title": "EXTENSION DE LA EXPLOTACION OTORGADA AL PODER EJECUTIVO DE CASINOS. PUNTA DEL ESTE. SAN RAFAEL. ATLANTIDA. PIRIAPOLIS. RIVERA. CARMELO (Ley Nº 13.453)",
+   "url": "https://www.impo.com.uy/bases/leyes/13453-1965",
+   "versions": [
+    {
+     "from": "1996-01-05",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13453-1965",
+     "sha256": "b34a1c3958e26ae00d7fd1c38f1ab65f58d10e28b354bed2f7472dd05c319454"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13556",
+   "short": "Ley 13.556",
+   "title": "LICENCIAS ANUALES DE LOS EMPLEADOS PRIVADOS. CONVENIOS COLECTIVOS DE TRABAJO (Ley Nº 13.556)",
+   "url": "https://www.impo.com.uy/bases/leyes/13556-1966",
+   "versions": [
+    {
+     "from": "1974-12-19",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13556-1966",
+     "sha256": "cfbed06194288a7439dded98865ee3799150ec01054f8b656952307ee1095ba9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13581",
+   "short": "Ley 13.581",
+   "title": "PRESTAMOS PARA LA ADQUISICION DE VIVIENDAS PARA FUNCIONARIOS (Ley Nº 13.581)",
+   "url": "https://www.impo.com.uy/bases/leyes/13581-1966",
+   "versions": [
+    {
+     "from": "1978-12-15",
+     "units": 97,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13581-1966",
+     "sha256": "f3fdffbaf19e5035df186bd815c06509c37eb5dc5320391e338ab7aabad58368"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13586",
+   "short": "Ley 13.586",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1965 (Ley Nº 13.586)",
+   "url": "https://www.impo.com.uy/bases/leyes/13586-1967",
+   "versions": [
+    {
+     "from": "1987-11-27",
+     "units": 66,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13586-1967",
+     "sha256": "738a1db7e9e38942449a98a37fa22d4e34bc9089a6f9c35b34ea64788d9de215"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13596",
+   "short": "Ley 13.596",
+   "title": "TRIBUTOS. REGIMEN DE FACILIDADES DE PAGO (Ley Nº 13.596)",
+   "url": "https://www.impo.com.uy/bases/leyes/13596-1967",
+   "versions": [
+    {
+     "from": "1979-12-28",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13596-1967",
+     "sha256": "edbd59ea0c4a0d88b41c3447c708349fd9f07e33da894c78906dff46c1f3994a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13608",
+   "short": "Ley 13.608",
+   "title": "LEY DE EMERGENCIA. SE ESTABLECEN NORMAS SOBRE POLITICA TRIBUTARIA, BANCARIA, COMERCIO EXTERIOR Y FOMENTO INDUSTRIAL, PRECIOS, INGRESOS, SEGURIDAD SOCIAL Y OBRAS PUBLICAS (Ley Nº 13.608)",
+   "url": "https://www.impo.com.uy/bases/leyes/13608-1967",
+   "versions": [
+    {
+     "from": "1999-06-25",
+     "units": 65,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13608-1967",
+     "sha256": "455bc5f90a01617e5da4bb99c254a5aa11dd7c5e21ae10bf31f44357176c6f3c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13637",
+   "short": "Ley 13.637",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES (Ley Nº 13.637)",
+   "url": "https://www.impo.com.uy/bases/leyes/13637-1967",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 183,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13637-1967",
+     "sha256": "5ed889dc0ddf8744e81fc6108c37e9851d6b4a7c8f0326e6ad9ed55a97db8d47"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13640",
+   "short": "Ley 13.640",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1968 1972 (Ley Nº 13.640)",
+   "url": "https://www.impo.com.uy/bases/leyes/13640-1967",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 474,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13640-1967",
+     "sha256": "2dcd69ac111364556a1a814eedf29229eda41a7e0fb8f6707bc4d3dee1a1e7cb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13659",
+   "short": "Ley 13.659",
+   "title": "ARRENDAMIENTOS. REGIMEN DE ALQUILERES, DESALOJOS Y LANZAMIENTOS (Ley Nº 13.659)",
+   "url": "https://www.impo.com.uy/bases/leyes/13659-1968",
+   "versions": [
+    {
+     "from": "1973-03-14",
+     "units": 107,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13659-1968",
+     "sha256": "a4b73628ca6f65d78b159ef64eb812a7c42a6a3ac24cf80ec0627c17de4d2a24"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13665",
+   "short": "Ley 13.665",
+   "title": "REGISTROS DE LA OFICINA DE IMPUESTOS INTERNOS Y DE LA DIRECCION DE CONTRALOR LEGAL. DIRECCION GENERAL IMPOSITIVA Y MINISTERIO DE GANADERIA Y AGRICULTURA (Ley Nº 13.665)",
+   "url": "https://www.impo.com.uy/bases/leyes/13665-1968",
+   "versions": [
+    {
+     "from": "1968-06-17",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13665-1968",
+     "sha256": "6afcb3b6cdbefdca24a0a977becaa1511c61b22b40115ad0744af33294b2c03e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13695",
+   "short": "Ley 13.695",
+   "title": "APROBACION DEL TEXTO ORDENADO 1968 (Ley Nº 13.695)",
+   "url": "https://www.impo.com.uy/bases/leyes/13695-1968",
+   "versions": [
+    {
+     "from": "1993-12-23",
+     "units": 118,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13695-1968",
+     "sha256": "b246a09496f2d7a27cfaceaa7e047d7ce50abef6d0ddc956425211d4bf0aa22c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13728",
+   "short": "Ley 13.728",
+   "title": "PLAN NACIONAL DE VIVIENDAS (Ley Nº 13.728)",
+   "url": "https://www.impo.com.uy/bases/leyes/13728-1968",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 152,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13728-1968",
+     "sha256": "5f047150a43472f4aabaca230d5c0acb79a5ab7e41411b03c7906f0543467702"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13737",
+   "short": "Ley 13.737",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIOS 1966 Y 1967 (Ley Nº 13.737)",
+   "url": "https://www.impo.com.uy/bases/leyes/13737-1969",
+   "versions": [
+    {
+     "from": "2012-09-14",
+     "units": 289,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13737-1969",
+     "sha256": "88e147a00f0828b80e8101f32b12cc65301cc70e2d5941ad8b7243915c308e32"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13782",
+   "short": "Ley 13.782",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. RENTA NETA (Ley Nº 13.782)",
+   "url": "https://www.impo.com.uy/bases/leyes/13782-1969",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 78,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13782-1969",
+     "sha256": "d0706b14b4c0ee057c37c18ede75f4fb145e6896388745b3c30e07d62149b443"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13797",
+   "short": "Ley 13.797",
+   "title": "PRORROGA DE AUTORIZACION PARA EXPLOTACION DE CASINOS. PUNTA DEL ESTE. SAN RAFAEL. ATLANTIDA. PIRIAPOLIS. RIVERA. CARMELO (Ley Nº 13.797)",
+   "url": "https://www.impo.com.uy/bases/leyes/13797-1969",
+   "versions": [
+    {
+     "from": "1970-11-30",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13797-1969",
+     "sha256": "cc0d81f40e7e49266d70da1fb15877d9893e3229d57fad253e3a5a72e243d29f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13835",
+   "short": "Ley 13.835",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1968 (Ley Nº 13.835)",
+   "url": "https://www.impo.com.uy/bases/leyes/13835-1970",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 288,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13835-1970",
+     "sha256": "e0423a1dd190d26c3ecbed982b43787402519cde783b537b54122053d797de3f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13870",
+   "short": "Ley 13.870",
+   "title": "ARRENDAMIENTOS RURALES. SUSPENSION DE LANZAMIENTOS CONTRA ARRENDATARIOS Y SUBARRENDATARIOS BUENOS PAGADORES Y SUS EXCEPCIONES (Ley Nº 13.870)",
+   "url": "https://www.impo.com.uy/bases/leyes/13870-1970",
+   "versions": [
+    {
+     "from": "1974-09-03",
+     "units": 31,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13870-1970",
+     "sha256": "529f6beb6147ef9e5e69f38a5a59afbcd0ad68aebf7a1c4a12f7767d961f5726"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13892",
+   "short": "Ley 13.892",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1969 (Ley Nº 13.892)",
+   "url": "https://www.impo.com.uy/bases/leyes/13892-1970",
+   "versions": [
+    {
+     "from": "2007-08-31",
+     "units": 439,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13892-1970",
+     "sha256": "7a2bb30f790148e82ee028d9e234cadcc6c7b18d2603ab47e2a3768337b6ca94"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13899",
+   "short": "Ley 13.899",
+   "title": "EXPROPIACIONES PARA OBRAS EN RUTAS NACIONALES (Ley Nº 13.899)",
+   "url": "https://www.impo.com.uy/bases/leyes/13899-1970",
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13899-1970",
+     "sha256": "e751e3778f46c5acd469bdb6e9339661a6c245b330b2641b6d27adada87421e1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-13958",
+   "short": "Ley 13.958",
+   "title": "ESTABLECIMIENTO DE SERVIDUMBRE PARA OBRAS DE APROVECHAMIENTO HIDROELECTRICO DEL RIO URUGUAY - CREACION DEL FONDO ENERGETICO NACIONAL - EMISION DE BONOS ENERGETICOS REAJUSTABLES (Ley Nº 13.958)",
+   "url": "https://www.impo.com.uy/bases/leyes/13958-1971",
+   "versions": [
+    {
+     "from": "1974-04-30",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/13958-1971",
+     "sha256": "0938b0050a51658b04b0855cc45a2ce84d988ec1850332ea1c62a32f8bddeb10"
+    }
+   ]
+  },
+  {
+   "slug": "ley-14057",
+   "short": "Ley 14.057",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1970 (Ley Nº 14.057)",
+   "url": "https://www.impo.com.uy/bases/leyes/14057-1972",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 78,
+     "source_url": "https://www.impo.com.uy/bases/leyes/14057-1972",
+     "sha256": "22bedce34800eb7db283949c09ae0d8ebe6f1c161bf82f75e2fb337f7307be95"
+    }
+   ]
+  },
+  {
+   "slug": "ley-14095",
+   "short": "Ley 14.095",
+   "title": "TIPIFICACION DE DELITOS ECONOMICOS DEL BANCO CENTRAL DEL URUGUAY Y CREACION DE UN CUERPO ESPECIAL DE PREVENCION Y REPRESION DE DELITOS ECONOMICOS (Ley Nº 14.095)",
+   "url": "https://www.impo.com.uy/bases/leyes/14095-1972",
+   "versions": [
+    {
+     "from": "2007-12-05",
+     "units": 15,
+     "source_url": "https://www.impo.com.uy/bases/leyes/14095-1972",
+     "sha256": "6b06d16cb4394eea55c0d0e8b33851cb6e67183d4b870c426dae9b824f9b1fd8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-14100",
+   "short": "Ley 14.100",
+   "title": "LEY DE PRESUPUESTO NACIONAL DE RECURSOS. IRPF. IRIC (Ley Nº 14.100)",
+   "url": "https://www.impo.com.uy/bases/leyes/14100-1972",
+   "versions": [
+    {
+     "from": "1991-10-29",
+     "units": 149,
+     "source_url": "https://www.impo.com.uy/bases/leyes/14100-1972",
+     "sha256": "5f1029c5ccbb5e9f504c6dee149e1e011f97fa4b929eb0ab178f73b2f039929a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-14106",
+   "short": "Ley 14.106",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1973 1976 (Ley Nº 14.106)",
+   "url": "https://www.impo.com.uy/bases/leyes/14106-1973",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 616,
+     "source_url": "https://www.impo.com.uy/bases/leyes/14106-1973",
+     "sha256": "8492b9c4bfcc0d4ec63fab0363dcb98f3c1f70a689a0c9aa30c6b2f9879f18ca"
+    }
+   ]
+  },
+  {
+   "slug": "ley-14127",
+   "short": "Ley 14.127",
+   "title": "ASIGNACION DE RECURSOS. CORTE ELECTORAL. INSCRIPCION EN EL REGISTRO CIVICO NACIONAL (Ley Nº 14.127)",
+   "url": "https://www.impo.com.uy/bases/leyes/14127-1973",
+   "versions": [
+    {
+     "from": "1973-05-17",
+     "units": 6,
+     "source_url": "https://www.impo.com.uy/bases/leyes/14127-1973",
+     "sha256": "f6393908d50bb8b9796b69090284ac17ea42c9852da5a64f02556c1ab2f32f6e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15757",
+   "short": "Ley 15.757",
+   "title": "LEY DE CREACION DE LA OFICINA NACIONAL DEL SERVICIO CIVIL (Ley Nº 15.757)",
+   "url": "https://www.impo.com.uy/bases/leyes/15757-1985",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15757-1985",
+     "sha256": "1becdd880725ad7a733e925d80d3b0978e1ba5c1e582caac9beccd9eaefeabc6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15767",
+   "short": "Ley 15.767",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL - EJERCICIO 1984 (Ley Nº 15.767)",
+   "url": "https://www.impo.com.uy/bases/leyes/15767-1985",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 61,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15767-1985",
+     "sha256": "d6182d84f581f2297bb2bb4fba5bc7496e08b6ef8f7f8ac21f90334426729df2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15768",
+   "short": "Ley 15.768",
+   "title": "MODIFICACION DEL TEXTO ORDENADO DGI, RELATIVO AL IMPUESTO AL PATRIMONIO E IMPUESTO A LAS RENTAS AGROPECUARIAS (Ley Nº 15.768)",
+   "url": "https://www.impo.com.uy/bases/leyes/15768-1985",
+   "versions": [
+    {
+     "from": "1985-09-13",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15768-1985",
+     "sha256": "6ed5ea1886ce2c6cf390d044c7f206822634cfb732a0aa9bf0512d9c839c3797"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15770",
+   "short": "Ley 15.770",
+   "title": "COMPETENCIAS DE JUZGADOS LETRADOS DE PRIMERA INSTANCIA EN LO CIVIL - LOT (Ley Nº 15.770)",
+   "url": "https://www.impo.com.uy/bases/leyes/15770-1985",
+   "versions": [
+    {
+     "from": "1985-09-16",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15770-1985",
+     "sha256": "4c968c4581a5db0473a6dd9e21103860ed4cacd474978b2b5349e78d9e0b465f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15783",
+   "short": "Ley 15.783",
+   "title": "LEY DE FUNCIONARIOS DESTITUIDOS (Ley Nº 15.783)",
+   "url": "https://www.impo.com.uy/bases/leyes/15783-1985",
+   "versions": [
+    {
+     "from": "1991-07-12",
+     "units": 50,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15783-1985",
+     "sha256": "cb96243a26248cec68ac45c6f9e6e52015ba2fdd4077cbc8a018cb7f02eb1f19"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15799",
+   "short": "Ley 15.799",
+   "title": "LEY DE ARRENDAMIENTOS URBANOS Y SUBURBANOS - LEY DE EMERGENCIA (Ley Nº 15.799)",
+   "url": "https://www.impo.com.uy/bases/leyes/15799-1985",
+   "versions": [
+    {
+     "from": "2005-12-19",
+     "units": 22,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15799-1985",
+     "sha256": "de178a8eecaa711e351593028af3995874713b8641df68f9d2083f7a96dce33e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15808",
+   "short": "Ley 15.808",
+   "title": "FUNCIONARIOS MILITARES (Ley Nº 15.808)",
+   "url": "https://www.impo.com.uy/bases/leyes/15808-1986",
+   "versions": [
+    {
+     "from": "1986-04-07",
+     "units": 6,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15808-1986",
+     "sha256": "cd1bdca4696e1586ce690daa6240432a7d772981642c893949fb6f45bef5fd2e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15809",
+   "short": "Ley 15.809",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1985 1990 (Ley Nº 15.809)",
+   "url": "https://www.impo.com.uy/bases/leyes/15809-1986",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 582,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15809-1986",
+     "sha256": "7eaed77bc2efffbe4dac9548e12c9c529ea39b002ab7e942283903f5f69f6620"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15851",
+   "short": "Ley 15.851",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1985 (Ley Nº 15.851)",
+   "url": "https://www.impo.com.uy/bases/leyes/15851-1986",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 169,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15851-1986",
+     "sha256": "51a977677f54fedcff0b61926ca9e51522e97277999e65de1406106fa937fa4c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15863",
+   "short": "Ley 15.863",
+   "title": "PASIVIDADES - INCOMPATIBILIDADES (Ley Nº 15.863)",
+   "url": "https://www.impo.com.uy/bases/leyes/15863-1987",
+   "versions": [
+    {
+     "from": "1987-05-22",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15863-1987",
+     "sha256": "4f5f08425bd105949fc07f6dffe7c3cd2565dfe4e5518096e51310537cdaf289"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15881",
+   "short": "Ley 15.881",
+   "title": "PROCESOS JUDICIALES - ORGANIZACION DE LOS TRIBUNALES (Ley Nº 15.881)",
+   "url": "https://www.impo.com.uy/bases/leyes/15881-1987",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 6,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15881-1987",
+     "sha256": "a0a7d01f54b44053e3fd69c6292220a513e05da548719bb5c160ac11cdafdaef"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15896",
+   "short": "Ley 15.896",
+   "title": "REGULACION DE LAS HABILITACIONES QUE OTORGA LA DIRECCION NACIONAL DE BOMBEROS (Ley Nº 15.896)",
+   "url": "https://www.impo.com.uy/bases/leyes/15896-1987",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 23,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15896-1987",
+     "sha256": "429115546f2ef6f63d18238130d834974fa2972718854fbb8a2cc59ece855b29"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15903",
+   "short": "Ley 15.903",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1986 (Ley Nº 15.903)",
+   "url": "https://www.impo.com.uy/bases/leyes/15903-1987",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 542,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15903-1987",
+     "sha256": "b9733e1de3db6abdd637f88e04cc16b95b1e0b9a464c2126af511f8c88d20b89"
+    }
+   ]
+  },
+  {
+   "slug": "ley-15913",
+   "short": "Ley 15.913",
+   "title": "LEY DEL LIBRO. DECLARACION DE INTERES NACIONAL (Ley Nº 15.913)",
+   "url": "https://www.impo.com.uy/bases/leyes/15913-1987",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 23,
+     "source_url": "https://www.impo.com.uy/bases/leyes/15913-1987",
+     "sha256": "426f2cfd2729ac793302a58ee79a115c309d102a17e7a321491c75b1e26698cf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16002",
+   "short": "Ley 16.002",
+   "title": "MODIFICACION DEL PLAN DE INVERSIONES. EJERCICIO 1988 - 1989 (Ley Nº 16.002)",
+   "url": "https://www.impo.com.uy/bases/leyes/16002-1988",
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "units": 139,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16002-1988",
+     "sha256": "c8640d721ff330675bb87bbb8a1e111e97bcf411a5ad3acada08278e94d68e25"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16011",
+   "short": "Ley 16.011",
+   "title": "REGULACION DE DISPOSICIONES RELATIVA A LA ACCION DE AMPARO (Ley Nº 16.011)",
+   "url": "https://www.impo.com.uy/bases/leyes/16011-1988",
+   "versions": [
+    {
+     "from": "1988-12-19",
+     "units": 14,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16011-1988",
+     "sha256": "16d701ecaa1b7485b70b280dd2ab2f8db6c6487a34f3747ad8ae2955b8ed3aa7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16017",
+   "short": "Ley 16.017",
+   "title": "MODIFICACION DE LA LEY DE ELECCIONES (Ley Nº 16.017)",
+   "url": "https://www.impo.com.uy/bases/leyes/16017-1989",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 51,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16017-1989",
+     "sha256": "31d605028455e99991d5d21392b6964e096ef37f47fd27286ca9ebb191f131d8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16053",
+   "short": "Ley 16.053",
+   "title": "MODIFICACION AL CODIGO GENERAL DEL PROCESO - VIGENCIA (Ley Nº 16.053)",
+   "url": "https://www.impo.com.uy/bases/leyes/16053-1989",
+   "versions": [
+    {
+     "from": "1989-07-20",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16053-1989",
+     "sha256": "67a8a357bf9f2c589c9a706dc835a2eee3f87c29b1d6e13cfc469025bd854c85"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16082",
+   "short": "Ley 16.082",
+   "title": "DECLARACION DE INTERES NACIONAL - FIEBRE AFTOSA (Ley Nº 16.082)",
+   "url": "https://www.impo.com.uy/bases/leyes/16082-1989",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 19,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16082-1989",
+     "sha256": "36023b0f10405ae1e5fdb84064b72f8e7857a51dbed66893cb2665b2c3327e0a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16097",
+   "short": "Ley 16.097",
+   "title": "COMISION HONORARIA DE LUCHA CONTRA EL CANCER. CREACION. COMETIDOS (Ley Nº 16.097)",
+   "url": "https://www.impo.com.uy/bases/leyes/16097-1989",
+   "versions": [
+    {
+     "from": "1991-10-29",
+     "units": 16,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16097-1989",
+     "sha256": "c5419eccfc935401757b70e84d41fa2bbbd99fd31d001f7dd66e8ef3d277e3bc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16101",
+   "short": "Ley 16.101",
+   "title": "TURISMO - REGISTRO DE EMPRESAS DE TURISMO SOCIAL - SALARIO VACACIONAL (Ley Nº 16.101)",
+   "url": "https://www.impo.com.uy/bases/leyes/16101-1989",
+   "versions": [
+    {
+     "from": "1989-11-10",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16101-1989",
+     "sha256": "af963ab7786f7cfb7dcfc7da94edd597d7231d0ae8c2490659503663d0120fd9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16105",
+   "short": "Ley 16.105",
+   "title": "APROBACION DE LA RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1988 (Ley Nº 16.105)",
+   "url": "https://www.impo.com.uy/bases/leyes/16105-1990",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16105-1990",
+     "sha256": "186b60307b8a1fffaba9a0d547bf5cd31e2c881edd8d7e768bd005193214200e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16107",
+   "short": "Ley 16.107",
+   "title": "FIJACION DE AJUSTE FISCAL TRIBUTARIO Y APORTACION AL BPS (Ley Nº 16.107)",
+   "url": "https://www.impo.com.uy/bases/leyes/16107-1990",
+   "versions": [
+    {
+     "from": "2001-02-21",
+     "units": 27,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16107-1990",
+     "sha256": "7c2153ee143c9a2d63d97ab1af03d7e6418cbf80dbe48f66a23943f1ad2a0d6b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16127",
+   "short": "Ley 16.127",
+   "title": "DESIGNACION, ASCENSOS E INCENTIVOS PARA FUNCIONARIOS PUBLICOS (Ley Nº 16.127)",
+   "url": "https://www.impo.com.uy/bases/leyes/16127-1990",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 21,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16127-1990",
+     "sha256": "7d299d0a7162643c7577847490a8aeb098db81003420dcd6dd3c92e4b60f5f87"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16134",
+   "short": "Ley 16.134",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1989 (Ley Nº 16.134)",
+   "url": "https://www.impo.com.uy/bases/leyes/16134-1990",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 99,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16134-1990",
+     "sha256": "790f6319f984576b5afaa559f7a9371e7143388bc48d3875f9eb11ebc4d52a49"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16170",
+   "short": "Ley 16.170",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1990 - 1994 (Ley Nº 16.170)",
+   "url": "https://www.impo.com.uy/bases/leyes/16170-1990",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 586,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16170-1990",
+     "sha256": "1f93c4a9715a112c55a4121fe8688626d6a53b7900adff116e785ca87ddf8a5a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16211",
+   "short": "Ley 16.211",
+   "title": "LEY DE EMPRESAS PUBLICAS (Ley Nº 16.211)",
+   "url": "https://www.impo.com.uy/bases/leyes/16211-1991",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 19,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16211-1991",
+     "sha256": "22eecc1d25ab70b057810608596f7959428e492b780b83f65695c6e4a3a7df95"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16226",
+   "short": "Ley 16.226",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1990 (Ley Nº 16.226)",
+   "url": "https://www.impo.com.uy/bases/leyes/16226-1991",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 385,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16226-1991",
+     "sha256": "834eed8bb56722012fe3b7b7326d89685c6e26efd192186eb748ae6f6f770401"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16244",
+   "short": "Ley 16.244",
+   "title": "REGIMEN DE REFINANCIACION DE DEUDAS POR OBLIGACIONES TRIBUTARIAS CON EL BANCO DE PREVISION SOCIAL (Ley Nº 16.244)",
+   "url": "https://www.impo.com.uy/bases/leyes/16244-1992",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16244-1992",
+     "sha256": "403a6a61ce7335329d9598788ef76a8007a02889a29f61fd502dd647cce9875e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16298",
+   "short": "Ley 16.298",
+   "title": "REGULACION DE LOS CERTIFICADOS EXPEDIDOS POR EL BPS POR ENAJENACIONES QUE SE LLEVAN A CABO POR EXPROPIACION (Ley Nº 16.298)",
+   "url": "https://www.impo.com.uy/bases/leyes/16298-1992",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16298-1992",
+     "sha256": "529dcc5381f5659d66341d1e85815aa4da8390676d93670e7baddfd704998cd9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16320",
+   "short": "Ley 16.320",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1991 (Ley Nº 16.320)",
+   "url": "https://www.impo.com.uy/bases/leyes/16320-1992",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 376,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16320-1992",
+     "sha256": "cb4df566a16955f61e1707db8df4321e24ae7ee66daf593e594faa478981146a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16333",
+   "short": "Ley 16.333",
+   "title": "MODIFICACION DEL DECRETO LEY 14.157, REFERENTE AL PERSONAL MILITAR Y POLICIAL EN ACTIVIDAD Y EN RETIRO (Ley Nº 16.333)",
+   "url": "https://www.impo.com.uy/bases/leyes/16333-1992",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 22,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16333-1992",
+     "sha256": "2d41ffae9cb841e089143826c9e0964723927c4b306638b932fe4b23ef02c711"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16343",
+   "short": "Ley 16.343",
+   "title": "INSTALACION Y FUNCIONAMIENTO DE LOS INSTITUTOS DE MEDICINA ALTAMENTE ESPECIALIZADA (Ley Nº 16.343)",
+   "url": "https://www.impo.com.uy/bases/leyes/16343-1992",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16343-1992",
+     "sha256": "4c8988b65a37ac97a3a54f674f7598063e94c14b5009985cf580adb80b20ad67"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16387",
+   "short": "Ley 16.387",
+   "title": "MARINA MERCANTE (Ley Nº 16.387)",
+   "url": "https://www.impo.com.uy/bases/leyes/16387-1993",
+   "versions": [
+    {
+     "from": "2008-10-06",
+     "units": 29,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16387-1993",
+     "sha256": "bf7425840d3c73fdac1e726c1cd4d9708b7c20a7cb3d8ebeda39d7ace7b8767f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16389",
+   "short": "Ley 16.389",
+   "title": "MODIFICACION AL CODIGO RURAL (Ley Nº 16.389)",
+   "url": "https://www.impo.com.uy/bases/leyes/16389-1993",
+   "versions": [
+    {
+     "from": "1993-07-06",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16389-1993",
+     "sha256": "6903512b13ce13b1edc12beb8fcf4f5c3c8ca8517dc37f896f576289f1872dbc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16426",
+   "short": "Ley 16.426",
+   "title": "SEGUROS (Ley Nº 16.426)",
+   "url": "https://www.impo.com.uy/bases/leyes/16426-1993",
+   "versions": [
+    {
+     "from": "2018-10-26",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16426-1993",
+     "sha256": "cf037598df5281261dc9ffc6c3fcd1a2af579e2217333b2385062b2381847d7d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16462",
+   "short": "Ley 16.462",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1992 (Ley Nº 16.462)",
+   "url": "https://www.impo.com.uy/bases/leyes/16462-1994",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 232,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16462-1994",
+     "sha256": "0cb986b4ad90ca67ebc455c9053a5d169742f5ef4fa2d87795e7d83dd3d1340d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16568",
+   "short": "Ley 16.568",
+   "title": "CASINOS DEL ESTADO - FUNCIONARIOS (Ley Nº 16.568)",
+   "url": "https://www.impo.com.uy/bases/leyes/16568-1994",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16568-1994",
+     "sha256": "9bcccaa9de41e0dff30f99579414dec1a2a3e95d5100e2ee178de68e0c9a572d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16685",
+   "short": "Ley 16.685",
+   "title": "ADMINISTRACION DE JUSTICIA - MENORES ABANDONADOS (Ley Nº 16.685)",
+   "url": "https://www.impo.com.uy/bases/leyes/16685-1994",
+   "versions": [
+    {
+     "from": "1994-12-21",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16685-1994",
+     "sha256": "5287007ba472f0f36d75f6ccf51664cb7351dc9e9a19c027565c015f82e446bc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16694",
+   "short": "Ley 16.694",
+   "title": "IMPUESTO A LOS REMATES DE BIENES MUEBLES INMUEBLES Y SEMOVIENTES (Ley Nº 16.694)",
+   "url": "https://www.impo.com.uy/bases/leyes/16694-1995",
+   "versions": [
+    {
+     "from": "1996-03-27",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16694-1995",
+     "sha256": "be45de1145c4e9aea1c565962914bbb56a7721288efc08c8766439faf0a5c778"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16696",
+   "short": "Ley 16.696",
+   "title": "CARTA ORGANICA DEL BANCO CENTRAL DEL URUGUAY (Ley Nº 16.696)",
+   "url": "https://www.impo.com.uy/bases/leyes/16696-1995",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 56,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16696-1995",
+     "sha256": "cb3b853ab7ee4332f79cb974466c3074b375cc83ee2fdd7adb08bdf8f4e6417f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16697",
+   "short": "Ley 16.697",
+   "title": "LEY DE AJUSTE FISCAL. NUEVO REGIMEN FISCAL Y DE MEJORA DE LA COMPETITIVIDAD DEL SECTOR PRODUCTIVO (Ley Nº 16.697)",
+   "url": "https://www.impo.com.uy/bases/leyes/16697-1995",
+   "versions": [
+    {
+     "from": "2005-12-19",
+     "units": 28,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16697-1995",
+     "sha256": "339aeb90db32852abc9ec525970fff81594c88fe4e4847622a0279d824a4a8b1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16720",
+   "short": "Ley 16.720",
+   "title": "SANIDAD MILITAR. DIRECCION NACIONAL DE SANIDAD DE LAS FUERZAS ARMADAS (Ley Nº 16.720)",
+   "url": "https://www.impo.com.uy/bases/leyes/16720-1995",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16720-1995",
+     "sha256": "5a90b6a0df6bc119d33c6c9617fe80970b5150627b1eeb5e7fbdef648deeb658"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16736",
+   "short": "Ley 16.736",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1995 1999 (Ley Nº 16.736)",
+   "url": "https://www.impo.com.uy/bases/leyes/16736-1996",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 657,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16736-1996",
+     "sha256": "841887d1a0d643c6e2c635c578830ac549765d0bec35d6362b29d22ddddabac3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16737",
+   "short": "Ley 16.737",
+   "title": "APROBACION DE LAS ENMIENDAS A LOS ARTS. 24 Y 25 DE LA CONSTITUCION DE LA ORGANIZACION MUNDIAL DE LA SALUD (OMS) (Ley Nº 16.737)",
+   "url": "https://www.impo.com.uy/bases/leyes/16737-1996",
+   "versions": [
+    {
+     "from": "1996-01-09",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16737-1996",
+     "sha256": "9b7176dea484a060b687d340e0cd437953a7eddeafe16360918a83a08373041f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16747",
+   "short": "Ley 16.747",
+   "title": "DECLARACION DE PLAGA NACIONAL. PIOJERA OVINA (Ley Nº 16.747)",
+   "url": "https://www.impo.com.uy/bases/leyes/16747-1996",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 19,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16747-1996",
+     "sha256": "4a6532e0d35d24ff2dfdf8da87090733778e34d6e081e96cf4dfd895fee6e62e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16812",
+   "short": "Ley 16.812",
+   "title": "EMISION BONOS DEL TESORO Y LETRAS DE TESORERIA (Ley Nº 16.812)",
+   "url": "https://www.impo.com.uy/bases/leyes/16812-1997",
+   "versions": [
+    {
+     "from": "1997-03-14",
+     "units": 6,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16812-1997",
+     "sha256": "1c3bb4860346856298fa560cf2191b52cc7ed8ef521983fffebc44efc4fb2cfa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16838",
+   "short": "Ley 16.838",
+   "title": "SOCIEDADES COMERCIALES (Ley Nº 16.838)",
+   "url": "https://www.impo.com.uy/bases/leyes/16838-1997",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16838-1997",
+     "sha256": "7ae3b898f18816d616b11365edfa6bba73cf29525e6a0e92be64bcb394d3b707"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16851",
+   "short": "Ley 16.851",
+   "title": "SEGUROS (Ley Nº 16.851)",
+   "url": "https://www.impo.com.uy/bases/leyes/16851-1997",
+   "versions": [
+    {
+     "from": "1997-07-15",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16851-1997",
+     "sha256": "4900c694a34214a44c3b4b4501bf9f0039b22063cf6ea5e3f43ec2fd30beae5e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16883",
+   "short": "Ley 16.883",
+   "title": "TRABAJADORES RURALES. SEGURIDAD SOCIAL. APORTES (Ley Nº 16.883)",
+   "url": "https://www.impo.com.uy/bases/leyes/16883-1997",
+   "versions": [
+    {
+     "from": "1997-11-10",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16883-1997",
+     "sha256": "9bec58b8ae2ded27e43f20f789c0c7a4e2e43812116b1b8064fae85553293037"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16901",
+   "short": "Ley 16.901",
+   "title": "LEY DE REGISTROS PUBLICOS - VIGENCIA (Ley Nº 16.901)",
+   "url": "https://www.impo.com.uy/bases/leyes/16901-1997",
+   "versions": [
+    {
+     "from": "1997-12-26",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16901-1997",
+     "sha256": "0b8de30986192af1575387c0b43cd850d717b08d00019d8f87f72a82c074b173"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16911",
+   "short": "Ley 16.911",
+   "title": "FUNCIONARIOS POLICIALES (Ley Nº 16.911)",
+   "url": "https://www.impo.com.uy/bases/leyes/16911-1998",
+   "versions": [
+    {
+     "from": "1998-02-13",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16911-1998",
+     "sha256": "7f74160e449a2aa8ace6c22d8ee193fc052433c38c7b363f942509865f16149c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-16995",
+   "short": "Ley 16.995",
+   "title": "CODIGO GENERAL DEL PROCESO - LEY PROCESAL CIVIL (Ley Nº 16.995)",
+   "url": "https://www.impo.com.uy/bases/leyes/16995-1998",
+   "versions": [
+    {
+     "from": "1998-08-26",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/16995-1998",
+     "sha256": "231f1f549e99cc103867e7c7d2788bc510cf2ed1c85c5b18a347b95cc3ad20d1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17036",
+   "short": "Ley 17.036",
+   "title": "SEGURIDAD SOCIAL - FUNCIONARIOS MILITARES (Ley Nº 17.036)",
+   "url": "https://www.impo.com.uy/bases/leyes/17036-1998",
+   "versions": [
+    {
+     "from": "1998-11-20",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17036-1998",
+     "sha256": "30c2736cf4baaeefa17e3d60d5625dba9c91904144c7a639144687db0c5601df"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17243",
+   "short": "Ley 17.243",
+   "title": "LEY DE URGENCIA. SERVICIOS PUBLICOS Y PRIVADOS. FOMENTO DEL EMPLEO Y LA INVERSION (Ley Nº 17.243)",
+   "url": "https://www.impo.com.uy/bases/leyes/17243-2000",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 53,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17243-2000",
+     "sha256": "4187f64b3f91d2a7949dfda28873664da686a242eb5c41176ba1d27e17ef48c8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17292",
+   "short": "Ley 17.292",
+   "title": "LEY DE URGENCIA. ADMINISTRACION PUBLICA. FOMENTO Y MEJORAS DEL EMPLEO (Ley Nº 17.292)",
+   "url": "https://www.impo.com.uy/bases/leyes/17292-2001",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 68,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17292-2001",
+     "sha256": "a673c23830ae776942f94f23e5222fb239e907d066bc59d462ecf663291aad0f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17296",
+   "short": "Ley 17.296",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2000 2004 (Ley Nº 17.296)",
+   "url": "https://www.impo.com.uy/bases/leyes/17296-2001",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 476,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17296-2001",
+     "sha256": "85637a4180edf9985f1803a634e7a9620b517f0b74d7cb8ea240027df1170250"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17309",
+   "short": "Ley 17.309",
+   "title": "CREACION DEL IMPUESTO ESPECIFICO A LOS SERVICIOS DE SALUD (Ley Nº 17.309)",
+   "url": "https://www.impo.com.uy/bases/leyes/17309-2001",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17309-2001",
+     "sha256": "479bc597293d54ab2af2bbb23e9136f1f0bb3cb50617618747415510c6fd398a"
+    },
+    {
+     "from": "2007-07-01",
+     "units": 0,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17309-2001",
+     "sha256": "479bc597293d54ab2af2bbb23e9136f1f0bb3cb50617618747415510c6fd398a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17437",
+   "short": "Ley 17.437",
+   "title": "SEGURIDAD SOCIAL. PROFESIONALES UNIVERSITARIOS (Ley Nº 17.437)",
+   "url": "https://www.impo.com.uy/bases/leyes/17437-2001",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 79,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17437-2001",
+     "sha256": "f6704904371b302fde824f5613decaf0ceab476017958b2b62b2c86724da3e1a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17451",
+   "short": "Ley 17.451",
+   "title": "PERSONAS PUBLICAS NO ESTATALES. FONDO DE SOLIDARIDAD (Ley Nº 17.451)",
+   "url": "https://www.impo.com.uy/bases/leyes/17451-2002",
+   "versions": [
+    {
+     "from": "2002-01-10",
+     "units": 8,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17451-2002",
+     "sha256": "17de448e8aa456dab231f1eda4949a611ecf64504d7b5ffcb77dc27e82b56930"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17453",
+   "short": "Ley 17.453",
+   "title": "LEY DE AJUSTE FISCAL (Ley Nº 17.453)",
+   "url": "https://www.impo.com.uy/bases/leyes/17453-2002",
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "units": 34,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17453-2002",
+     "sha256": "2dccf1634cd22165d87960c341bf505ad81ae7f89955da1ceaf31b3b7f258cc6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17502",
+   "short": "Ley 17.502",
+   "title": "LEY DE ESTABILIDAD FINANCIERA (Ley Nº 17.502)",
+   "url": "https://www.impo.com.uy/bases/leyes/17502-2002",
+   "versions": [
+    {
+     "from": "2002-12-10",
+     "units": 11,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17502-2002",
+     "sha256": "f66dd041aba5e55f149c783c7bb6de7745796177417c12c5de912d7c5954fc22"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17503",
+   "short": "Ley 17.503",
+   "title": "CREACION DEL FONDO DE RECONSTRUCCION Y FOMENTO DE LA GRANJA (FRFG) (Ley Nº 17.503)",
+   "url": "https://www.impo.com.uy/bases/leyes/17503-2002",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17503-2002",
+     "sha256": "2cec9d979d11abbac16af28796b4d1cf02bd6a675331c9dec53057cfd53bf668"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17523",
+   "short": "Ley 17.523",
+   "title": "LEY DE FORTALECIMIENTO DEL SISTEMA BANCARIO (Ley Nº 17.523)",
+   "url": "https://www.impo.com.uy/bases/leyes/17523-2002",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 14,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17523-2002",
+     "sha256": "852bcce146d5ca21dbee7787811674c578d6f251c97239f2e2ac0a135d1a04a0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17524",
+   "short": "Ley 17.524",
+   "title": "TELECOMUNICACIONES - TELEFONIA CELULAR - TELEFONIA BASICA (Ley Nº 17.524)",
+   "url": "https://www.impo.com.uy/bases/leyes/17524-2002",
+   "versions": [
+    {
+     "from": "2002-08-05",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17524-2002",
+     "sha256": "03fd046515c471e8ed59bd85de0bd0beb87ba5f756a0a380a6fe9c65b09c990b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17542",
+   "short": "Ley 17.542",
+   "title": "MODIFICACION A LA LEY DE CHEQUES (Ley Nº 17.542)",
+   "url": "https://www.impo.com.uy/bases/leyes/17542-2002",
+   "versions": [
+    {
+     "from": "2002-08-21",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17542-2002",
+     "sha256": "4047669d6b92a552f459b828f3c817ce4d038805789a598022e5f6f53baef801"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17555",
+   "short": "Ley 17.555",
+   "title": "APROBACION DE LA LEY DE REACTIVACION ECONOMICA. INDUSTRIA DE LA CONSTRUCCION (Ley Nº 17.555)",
+   "url": "https://www.impo.com.uy/bases/leyes/17555-2002",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 71,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17555-2002",
+     "sha256": "45148ce47af878cda8fd7bd9943041e9b09087b62f559e2d0cfc01291d40d93e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17556",
+   "short": "Ley 17.556",
+   "title": "RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2001 (Ley Nº 17.556)",
+   "url": "https://www.impo.com.uy/bases/leyes/17556-2002",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 122,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17556-2002",
+     "sha256": "efbe70fc74e9a984afccef353cb7577e9625d26225db5aafa6bf34388f749383"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17579",
+   "short": "Ley 17.579",
+   "title": "FUNCIONARIOS MILITARES - RETIRO MILITAR - RETIRO OBLIGATORIO (Ley Nº 17.579)",
+   "url": "https://www.impo.com.uy/bases/leyes/17579-2002",
+   "versions": [
+    {
+     "from": "2002-10-29",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17579-2002",
+     "sha256": "e5a27b1b922a9f139914caedd0afd0018f15a0f60bca4d1d3000a3a90b3da319"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17596",
+   "short": "Ley 17.596",
+   "title": "ENTES AUTONOMOS - MODIFICACION A LA CARTA ORGANICA DEL BANCO HIPOTECARIO DEL URUGUAY (Ley Nº 17.596)",
+   "url": "https://www.impo.com.uy/bases/leyes/17596-2002",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17596-2002",
+     "sha256": "977ec5db34cf01b1f59c03546ff09d0407cf3147e16e07c194fa2dc8338a8557"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17663",
+   "short": "Ley 17.663",
+   "title": "CREACION DEL FONDO DE FINANCIAMIENTO Y RECOMPOSICION DE LA ACTIVIDAD ARROCERA (Ley Nº 17.663)",
+   "url": "https://www.impo.com.uy/bases/leyes/17663-2003",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17663-2003",
+     "sha256": "46f71c3e78d1a582f60a5300f1327cbbb3527991801a46bbf5ea43c5822bf57c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17678",
+   "short": "Ley 17.678",
+   "title": "PROHIBICION DE INGRESO DE FUNCIONARIOS A LA ADMINISTRACION PUBLICA. EXCEPCION PERSONAS CON DISCAPACIDADES (Ley Nº 17.678)",
+   "url": "https://www.impo.com.uy/bases/leyes/17678-2003",
+   "versions": [
+    {
+     "from": "2006-12-27",
+     "units": 6,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17678-2003",
+     "sha256": "97312b39bc0643db0444cf8d4172760443ea9ef5ec196a6d9c1087efc04b4a2d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17707",
+   "short": "Ley 17.707",
+   "title": "MODIFICACION DEL CGP Y DE LA LEY ORGANICA DE LA JUDICATURA Y DE ORGANIZACION DE LOS TRIBUNALES (Ley Nº 17.707)",
+   "url": "https://www.impo.com.uy/bases/leyes/17707-2003",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 18,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17707-2003",
+     "sha256": "dc1fd2503be0ca2c272af0deeb540bdc75abbc230d72edff4c1b17bca68f6118"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17726",
+   "short": "Ley 17.726",
+   "title": "MODIFICACIONES AL CODIGO DEL PROCESO PENAL. PRISION PREVENTIVA DEL PROCESADO PRIMARIO. FALTAS O DELITOS PENADOS CON MULTA, SUSPENSION O INHABILITACION (Ley Nº 17.726)",
+   "url": "https://www.impo.com.uy/bases/leyes/17726-2003",
+   "versions": [
+    {
+     "from": "2003-12-26",
+     "units": 16,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17726-2003",
+     "sha256": "8afe279cc4ede081e17eeb7da87013ad92d68f560d9115ba56598a2541786b63"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17735",
+   "short": "Ley 17.735",
+   "title": "AUTORIZACION AL MGAP LA TRANSFERENCIA DE LA TITULARIDAD DE LOS SILOS, PLANTAS, GRANEROS, ETC. A SUS ACTUALES TENEDORES. MODIFICACION (Ley Nº 17.735)",
+   "url": "https://www.impo.com.uy/bases/leyes/17735-2004",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17735-2004",
+     "sha256": "4660525bbce8d3d643c839091a4fbee61d12f8d56b2fa6c0967d095eb1fcec4e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17792",
+   "short": "Ley 17.792",
+   "title": "CONSTITUCION DE UNA FUNDACION CON EL \"INSTITUT PASTEUR\"(FRANCIA) CON FINES DE INVESTIGACION (Ley Nº 17.792)",
+   "url": "https://www.impo.com.uy/bases/leyes/17792-2004",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17792-2004",
+     "sha256": "79dfe607efa88cb2378a2179c89f618203ed569b41de593ad6661353f4c80cc2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17829",
+   "short": "Ley 17.829",
+   "title": "REGIMEN DE RETENCIONES A LOS SALARIOS Y PASIVIDADES (Ley Nº 17.829)",
+   "url": "https://www.impo.com.uy/bases/leyes/17829-2004",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17829-2004",
+     "sha256": "68b768cdcd25b3a844b146c21173eb3f5fe9dcc657553326bab602d115247e19"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17841",
+   "short": "Ley 17.841",
+   "title": "LEY DE REESTRUCTURA Y FORTALECIMIENTO DEL SISTEMA FINANCIERO. CREACION DEL IMPUESTO A LOS SUELDOS Y PASIVIDADES BANCARIAS (Ley Nº 17.841)",
+   "url": "https://www.impo.com.uy/bases/leyes/17841-2004",
+   "versions": [
+    {
+     "from": "2004-10-15",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17841-2004",
+     "sha256": "9fedd96a79826f61ec88489d1a18c20b1bc1718047a3614ae1ec7e1a07b12026"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17843",
+   "short": "Ley 17.843",
+   "title": "EXONERACIONES A LA ACTIVIDAD FORESTAL (Ley Nº 17.843)",
+   "url": "https://www.impo.com.uy/bases/leyes/17843-2004",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17843-2004",
+     "sha256": "c18b57fae91bbfe527ad458e1afb94be924cd4c489c63fdb4ab64cd860a7d3d2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17904",
+   "short": "Ley 17.904",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2004 (Ley Nº 17.904)",
+   "url": "https://www.impo.com.uy/bases/leyes/17904-2005",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 20,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17904-2005",
+     "sha256": "ca17541d4a187f7fec09024d22db04dfc4d81b94327551fabef4b72eea286c21"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17921",
+   "short": "Ley 17.921",
+   "title": "DEROGACIONES A LA LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 17.921)",
+   "url": "https://www.impo.com.uy/bases/leyes/17921-2005",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17921-2005",
+     "sha256": "210d6dcc70001b57c055f2e7bf19df819b4b00b5916bc32809f1f4f73a11f1c9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17930",
+   "short": "Ley 17.930",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2005 - 2009 (Ley Nº 17.930)",
+   "url": "https://www.impo.com.uy/bases/leyes/17930-2005",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 367,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17930-2005",
+     "sha256": "a2b727a39a775a8a24a11d21485a276c5473715072755fd07138e1ebc5740ffa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17945",
+   "short": "Ley 17.945",
+   "title": "LEY INTERPRETATIVA. COMPATIBILIDAD DE JUBILACION SERVIDA POR CAJA DE PROFESIONALES UNIVERSITARIOS (Ley Nº 17.945)",
+   "url": "https://www.impo.com.uy/bases/leyes/17945-2006",
+   "versions": [
+    {
+     "from": "2006-01-05",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17945-2006",
+     "sha256": "e141f549d94ff5722713304c137f7486167ea624e20710caa00fde861f7dd6f4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17950",
+   "short": "Ley 17.950",
+   "title": "CREACION DEL SISTEMA NACIONAL DE ACREDITACION DE VETERINARIOS DE LIBRE EJERCICIO (Ley Nº 17.950)",
+   "url": "https://www.impo.com.uy/bases/leyes/17950-2006",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17950-2006",
+     "sha256": "9a7ba8f8250f2925ba1c3f0d439a97718a212a9a0955309958f563a1b34a5057"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18046",
+   "short": "Ley 18.046",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2005 (Ley Nº 18.046)",
+   "url": "https://www.impo.com.uy/bases/leyes/18046-2006",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 131,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18046-2006",
+     "sha256": "8cef2116701fde2ab5c6e2865c0ddd88b0663b088af92dbdb25a747405845d23"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18083",
+   "short": "Ley 18.083",
+   "title": "LEY DE REFORMA TRIBUTARIA (Ley Nº 18.083)",
+   "url": "https://www.impo.com.uy/bases/leyes/18083-2006",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 75,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18083-2006",
+     "sha256": "9d60283df676b4a0006a99d246ad027f1e971a2616eccc98a8b3f17b98a99d75"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18089",
+   "short": "Ley 18.089",
+   "title": "DEROGACION DE LA TASA \"TIMBRE PALACIO DE JUSTICIA\" Y DEL \"TIMBRE INFRAESTRUCTURA JUDICIAL\" (Ley Nº 18.089)",
+   "url": "https://www.impo.com.uy/bases/leyes/18089-2007",
+   "versions": [
+    {
+     "from": "2007-01-07",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18089-2007",
+     "sha256": "b7d63aeb3ad4974fecdbc84e485053588e03759ef4b0d89bfe3aae0bee461e9f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18098",
+   "short": "Ley 18.098",
+   "title": "EMPRESAS PUBLICAS - CONTRATACION DE SERVICIOS CON TERCEROS (Ley Nº 18.098)",
+   "url": "https://www.impo.com.uy/bases/leyes/18098-2007",
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18098-2007",
+     "sha256": "296cbe5cfe2850aa6e3e5ed8bfb48062a4d50097dd9e9bc3fd183adf65371b83"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18100",
+   "short": "Ley 18.100",
+   "title": "CREACION DEL FONDO DE FINANCIAMIENTO Y DESARROLLO SUSTENTABLE DE LA ACTIVIDAD LECHERA (FFDSAL) (Ley Nº 18.100)",
+   "url": "https://www.impo.com.uy/bases/leyes/18100-2007",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 20,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18100-2007",
+     "sha256": "f4964dc319473ac83adb886483f2a508690b83201e35d8353b02ebc7679e5472"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18127",
+   "short": "Ley 18.127",
+   "title": "FIDEICOMISOS FINANCIEROS. REGIMEN TRIBUTARIO ESPECIAL (Ley Nº 18.127)",
+   "url": "https://www.impo.com.uy/bases/leyes/18127-2007",
+   "versions": [
+    {
+     "from": "2007-05-12",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18127-2007",
+     "sha256": "997f9e7ce6c7c2a27cdb5e6bedc32e2370ade052fe1c9f1efbea29b8517f57e2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18172",
+   "short": "Ley 18.172",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2006 (Ley Nº 18.172)",
+   "url": "https://www.impo.com.uy/bases/leyes/18172-2007",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 296,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18172-2007",
+     "sha256": "b57891e8de2b6fa267b2ea901a27b61d5ec8c7ae8d910731b6e9cc20177b95c9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18220",
+   "short": "Ley 18.220",
+   "title": "SISTEMA NACIONAL DE ARCHIVOS. REGULACION DE LA FUNCION ARCHIVISTICA. CONSERVACION Y ORGANIZACION DEL PATRIMONIO DOCUMENTAL DE LA NACION (Ley Nº 18.220)",
+   "url": "https://www.impo.com.uy/bases/leyes/18220-2007",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 8,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18220-2007",
+     "sha256": "814267e832c14f4d27fc340530ecb7fb4e8fe6ed58ecae3bc164b4b4fc47231d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18222",
+   "short": "Ley 18.222",
+   "title": "OBLIGACION DEL BPS A REALIZAR RETENCIONES DE PASIVIDADES (Ley Nº 18.222)",
+   "url": "https://www.impo.com.uy/bases/leyes/18222-2007",
+   "versions": [
+    {
+     "from": "2007-12-20",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18222-2007",
+     "sha256": "663c27b905afc45e4704d543b5812767e46b6c0ff2e9a344a81d9b8697b816e9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18268",
+   "short": "Ley 18.268",
+   "title": "DECLARACION DE INTERES NACIONAL. LUCHA CONTRA LA GARRAPATA COMUN DE BOVINO (Ley Nº 18.268)",
+   "url": "https://www.impo.com.uy/bases/leyes/18268-2008",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 22,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18268-2008",
+     "sha256": "d89ddd5ec79031bb8cd47a8b3ecb468649403bd1c36a3c25c034434ddb8c8257"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18283",
+   "short": "Ley 18.283",
+   "title": "CREACION DEL REGISTRO DE PENSIONES. MINISTERIO DE VIVIENDA ORDENAMIENTO TERRITORIAL Y MEDIO AMBIENTE (Ley Nº 18.283)",
+   "url": "https://www.impo.com.uy/bases/leyes/18283-2008",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 16,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18283-2008",
+     "sha256": "fb0495beb91de38a6cbbb005ea3e73189b42ca38875c5800c91fa685b2ce67b5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18314",
+   "short": "Ley 18.314",
+   "title": "SEGURIDAD SOCIAL. JUBILACIONES Y PENSIONES (Ley Nº 18.314)",
+   "url": "https://www.impo.com.uy/bases/leyes/18314-2008",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 17,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18314-2008",
+     "sha256": "7f376cd336b35513e7426877d3a8c5ffdc0a365c5e3051fe34da848a57c88d6e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18358",
+   "short": "Ley 18.358",
+   "title": "RETENCIONES SOBRE SUELDOS Y PASIVIDADES (Ley Nº 18.358)",
+   "url": "https://www.impo.com.uy/bases/leyes/18358-2008",
+   "versions": [
+    {
+     "from": "2008-09-26",
+     "units": 11,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18358-2008",
+     "sha256": "8bbdbbcf03c38c052e13663e84ad8bb03d09c3c9a2b1a931b399f9ffb2d1413b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18362",
+   "short": "Ley 18.362",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2007 (Ley Nº 18.362)",
+   "url": "https://www.impo.com.uy/bases/leyes/18362-2008",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 443,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18362-2008",
+     "sha256": "f63be0c24e6f35feade2801ccf880971e8ff3e8a78fc0a3838e8b6a7e5c16764"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18385",
+   "short": "Ley 18.385",
+   "title": "INSCRIPCION PREDIOS PERTENECIENTES A COLONIAS DEL INSTITUTO NACIONAL DE COLONIZACION. PRORROGA DE PLAZO (Ley Nº 18.385)",
+   "url": "https://www.impo.com.uy/bases/leyes/18385-2008",
+   "versions": [
+    {
+     "from": "2008-10-17",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18385-2008",
+     "sha256": "6a9b2940e3359a591c58452c3a925c127d5b713cb2b70ea2209e0c9817342550"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18395",
+   "short": "Ley 18.395",
+   "title": "MODIFICACIONES A LA LEY 16.713 DE SEGURIDAD SOCIAL. FLEXIBILIZACION DEL REGIMEN DE ACCESO A BENEFICIOS JUBILATORIOS (Ley Nº 18.395)",
+   "url": "https://www.impo.com.uy/bases/leyes/18395-2008",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18395-2008",
+     "sha256": "1f8101058be3e615241c9149a72468810642849eb9d674643e85ca95506d7773"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18401",
+   "short": "Ley 18.401",
+   "title": "CARTA ORGANICA DEL BANCO CENTRAL DEL URUGUAY. MODIFICACION (Ley Nº 18.401)",
+   "url": "https://www.impo.com.uy/bases/leyes/18401-2008",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 52,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18401-2008",
+     "sha256": "d0e3ca7d7b921475f9614f2713fb706a3ea1fce95cb211ddf805b3da894dade2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18410",
+   "short": "Ley 18.410",
+   "title": "DENOMINACION DE ESCUELA Nº 139. MONTEVIDEO (Ley Nº 18.410)",
+   "url": "https://www.impo.com.uy/bases/leyes/18410-2008",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18410-2008",
+     "sha256": "9df4bca0478fa320db4feff622dafce3048da21ebeeb2852adc3e58c1e0857e2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18440",
+   "short": "Ley 18.440",
+   "title": "ADECUACION DE LAS COOPERATIVAS DE PROFESIONALES DE LA SALUD A LA NORMATIVA VIGENTE PARA LAS COOPERATIVAS DE TRABAJO. (Ley Nº 18.440)",
+   "url": "https://www.impo.com.uy/bases/leyes/18440-2008",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18440-2008",
+     "sha256": "cf90906b14972522d8970ff524a068d9b6acf50498771fe9b5ca64c400142c9b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18465",
+   "short": "Ley 18.465",
+   "title": "FIJACION DE MEDIDAS PARA REDUCIR LOS INDICES DE INFLACION (Ley Nº 18.465)",
+   "url": "https://www.impo.com.uy/bases/leyes/18465-2009",
+   "versions": [
+    {
+     "from": "2009-02-11",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18465-2009",
+     "sha256": "a264b16dfe7b58642bb635ee335eee3810a91c1a9124573e2a971a95abd982b7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18486",
+   "short": "Ley 18.486",
+   "title": "COLONIZACION DE TIERRAS. REGULACION. PRORROGA (Ley Nº 18.486)",
+   "url": "https://www.impo.com.uy/bases/leyes/18486-2009",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18486-2009",
+     "sha256": "0b15e3b0cf29baae7f67b3273e06ddc46acf803b0a726793180b6b8e176c0b8d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18487",
+   "short": "Ley 18.487",
+   "title": "PARTICIPACION EQUITATIVA DE PERSONAS DE AMBOS SEXOS EN LA INTEGRACION DE LOS ORGANOS ELECTIVOS Y DIRECCION DE PARTIDOS POLITICOS. SISTEMA DE SUPLENTES (Ley Nº 18.487)",
+   "url": "https://www.impo.com.uy/bases/leyes/18487-2009",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18487-2009",
+     "sha256": "bf7a2b3a1bb8974036ff6da421897e8e21042e646dd8eb943af679995422f9ab"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18491",
+   "short": "Ley 18.491",
+   "title": "SEGURO OBLIGATORIO DE AUTOMOTORES POR ACCIDENTES QUE CAUSEN DAÑOS A TERCEROS. PRORROGA (Ley Nº 18.491)",
+   "url": "https://www.impo.com.uy/bases/leyes/18491-2009",
+   "versions": [
+    {
+     "from": "2009-05-22",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18491-2009",
+     "sha256": "00d93e8d8fb901ad27e53b56dcd83bd248e7e208d7f0d77f5a7c9d88d5ab7125"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18498",
+   "short": "Ley 18.498",
+   "title": "LEY DE PESCA. MODIFICACION. INTEGRACION DE TRIPULACION EN BUQUES DE MATRICULA NACIONAL (Ley Nº 18.498)",
+   "url": "https://www.impo.com.uy/bases/leyes/18498-2009",
+   "versions": [
+    {
+     "from": "2009-06-12",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18498-2009",
+     "sha256": "d570162d4916f36e6736d887f066347c0fa2dc71dc0f1b3efe1c183eb4d44626"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18564",
+   "short": "Ley 18.564",
+   "title": "REGULACION DEL USO Y MANEJO DE LAS AGUAS Y EL SUELO. SANCIONES POR INCUMPLIMIENTO (Ley Nº 18.564)",
+   "url": "https://www.impo.com.uy/bases/leyes/18564-2009",
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18564-2009",
+     "sha256": "0fa8509f8154f6b47ad6945e7ca584c52e41da0e454b8914193a8128447f5a09"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18573",
+   "short": "Ley 18.573",
+   "title": "SISTEMAS DE COMPENSACION Y LIQUIDACION DE PAGOS Y VALORES. REGULACION Y SUPERVISION (Ley Nº 18.573)",
+   "url": "https://www.impo.com.uy/bases/leyes/18573-2009",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 25,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18573-2009",
+     "sha256": "d4f93225bd72648c74ab8f1389be9ea8a99a0d31de9b3125de80f820c84af837"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18574",
+   "short": "Ley 18.574",
+   "title": "OTORGAMIENTO DE PRESTAMOS HIPOTECARIOS PARA VIVIENDA. NOTAS DE CREDITO HIPOTECARIAS (Ley Nº 18.574)",
+   "url": "https://www.impo.com.uy/bases/leyes/18574-2009",
+   "versions": [
+    {
+     "from": "2009-09-14",
+     "units": 17,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18574-2009",
+     "sha256": "4ce45cb941a500718cb70e8b2da02fd2aa9d14d7c509df4d64a386918e6d5946"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18588",
+   "short": "Ley 18.588",
+   "title": "ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS (Ley Nº 18.588)",
+   "url": "https://www.impo.com.uy/bases/leyes/18588-2009",
+   "versions": [
+    {
+     "from": "2009-09-18",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18588-2009",
+     "sha256": "b9c4df70f5626370788d752f4abe8ff34f151a6373a4d68d6c01195a997dd291"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18663",
+   "short": "Ley 18.663",
+   "title": "COLONIZACION DE TIERRAS. REGULACION. PRORROGA (Ley Nº 18.663)",
+   "url": "https://www.impo.com.uy/bases/leyes/18663-2010",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18663-2010",
+     "sha256": "0b3efddbc91336a07373e51840a3233887774242667913dbab53141a03d349f4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18705",
+   "short": "Ley 18.705",
+   "title": "LEY DE COOPERATIVAS. PRORROGA PARA ADAPTACION DE ESTATUTOS (Ley Nº 18.705)",
+   "url": "https://www.impo.com.uy/bases/leyes/18705-2010",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18705-2010",
+     "sha256": "354cdeafac71da27b2fbeed8f5c8d79f6d1c327f5b12ebf7a1b515e9fbc5423d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18719",
+   "short": "Ley 18.719",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2010 - 2014 (Ley Nº 18.719)",
+   "url": "https://www.impo.com.uy/bases/leyes/18719-2010",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 685,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18719-2010",
+     "sha256": "5dfc86ab4ecae47b7ae2ae79e03fdd3341795b5c81ce63c136b8b3a3f655ed24"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18728",
+   "short": "Ley 18.728",
+   "title": "SISTEMA NACIONAL DE SALUD. FONASA. INCORPORACION DE NUEVOS AFILIADOS. EX FUNCIONARIOS JUBILADOS DE OSE Y DE CHASSFOSE (Ley Nº 18.728)",
+   "url": "https://www.impo.com.uy/bases/leyes/18728-2011",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18728-2011",
+     "sha256": "7dd30ab89cc3da35f074cae9a899f712d22ab7465a34eeeef362aba8be97c804"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18731",
+   "short": "Ley 18.731",
+   "title": "INCORPORACION DE NUEVOS AFILIADOS AL SEGURO NACIONAL DE SALUD (Ley Nº 18.731)",
+   "url": "https://www.impo.com.uy/bases/leyes/18731-2011",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 22,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18731-2011",
+     "sha256": "291c0369ff729de6fc7b41b67f0958ec23abbf19bc3be8586b6aeca9d4af2514"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18756",
+   "short": "Ley 18.756",
+   "title": "DEROGACIONES Y MODIFICACIONES A LA LEY 11.029 RELATIVO AL INSTITUTO NACIONAL DE COLONIZACION (Ley Nº 18.756)",
+   "url": "https://www.impo.com.uy/bases/leyes/18756-2011",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18756-2011",
+     "sha256": "e966b08398169d6046d9b621bc601f1d3bffc4d5903e3b2b3a800fe0433ece2f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18783",
+   "short": "Ley 18.783",
+   "title": "DEROGACION DEL ART. 178 DE LA LEY 16.713 RELATIVO A LAS CONTRIBUCIONES ESPECIALES DE EMPRESAS UNIPERSONALES (Ley Nº 18.783)",
+   "url": "https://www.impo.com.uy/bases/leyes/18783-2011",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18783-2011",
+     "sha256": "fcf8004a807b3bc099eff80655e95178ced31dec31fef9ef8f4d6ee971fb02ec"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18788",
+   "short": "Ley 18.788",
+   "title": "REGIMEN DE FACILIDADES DE OBLIGACIONES TRIBUTARIAS. ACTUALIZACION DE SANCIONES. JUICIO EJECUTIVO TRIBUTARIO (Ley Nº 18.788)",
+   "url": "https://www.impo.com.uy/bases/leyes/18788-2011",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 8,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18788-2011",
+     "sha256": "3f6f35c61e693fc8b2769fa31cb239e6e45876f6e99c0cf26c0cd4693737c84c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18793",
+   "short": "Ley 18.793",
+   "title": "INCLUSION EN EL REGIMEN DE FISCALIZACION DE TRANSITO VEHICULAR DISPUESTO EN EL ART. 46 DE LA LEY 18.191 AL PERSONAL DE LA PREFECTURA NACIONAL NAVAL (Ley Nº 18.793)",
+   "url": "https://www.impo.com.uy/bases/leyes/18793-2011",
+   "versions": [
+    {
+     "from": "2011-08-12",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18793-2011",
+     "sha256": "0fa25c4a62f9f5bfd522dc49a51299af03547f792f55411ecdab2ff32e697c39"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18834",
+   "short": "Ley 18.834",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2010 (Ley Nº 18.834)",
+   "url": "https://www.impo.com.uy/bases/leyes/18834-2011",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 193,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18834-2011",
+     "sha256": "4f7afbb5d340e7b2731a33ebb28e8965dd93abbd5182156bb8f161fef9625885"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18846",
+   "short": "Ley 18.846",
+   "title": "FORTALECIMIENTO Y DESARROLLO DE LA INDUSTRIA NACIONAL DE LA VESTIMENTA (Ley Nº 18.846)",
+   "url": "https://www.impo.com.uy/bases/leyes/18846-2011",
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "units": 22,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18846-2011",
+     "sha256": "38e5274c13d7e6e4217b7763501e74311887b4e6205d41d400177dd53a967abe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18860",
+   "short": "Ley 18.860",
+   "title": "CREACION DEL SISTEMA UNICO DE COBRO DE INGRESOS VEHICULARES (SUCIVE) Y ESTABLECENSE SUBSIDIOS PARA LA EXTENSION Y FOMENTO DE LA EFICIENCIA ENERGETICA DE LOS SISTEMAS DE ALUMBRADO PUBLICO DEPARTAMENTALES (Ley Nº 18.860)",
+   "url": "https://www.impo.com.uy/bases/leyes/18860-2011",
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18860-2011",
+     "sha256": "ce45e2482f75173f400a9510d159a152155d59d013547fa36d5d20fa4b040cce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18922",
+   "short": "Ley 18.922",
+   "title": "INCORPORACION DE NUEVOS AFILIADOS AL SEGURO NACIONAL DE SALUD. MODIFICACION (Ley Nº 18.922)",
+   "url": "https://www.impo.com.uy/bases/leyes/18922-2012",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18922-2012",
+     "sha256": "7be0db098587ee053a3137bd1a787ca1c0b39b2c9ed828990e04d66d6c480872"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18937",
+   "short": "Ley 18.937",
+   "title": "INTERPRETACION DEL ART. 68 DE LA LEY 18.387 SOBRE CONTRATOS PENDIENTES DE EJECUCION EN EL PROCESO CONCURSAL (Ley Nº 18.937)",
+   "url": "https://www.impo.com.uy/bases/leyes/18937-2012",
+   "versions": [
+    {
+     "from": "2012-07-20",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18937-2012",
+     "sha256": "d324516c6af8819b602dade3eec626389853baffba7e2b80ef0d31de605f68a8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18996",
+   "short": "Ley 18.996",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2011 (Ley Nº 18.996)",
+   "url": "https://www.impo.com.uy/bases/leyes/18996-2012",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 245,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18996-2012",
+     "sha256": "47025ee75e32c0ba7a49c3df5cd760f849357971b9df1154b6a609e2b897f5db"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19003",
+   "short": "Ley 19.003",
+   "title": "MODIFICACION DEL SISTEMA DE AJUSTE DE LOS MONTOS MINIMOS Y MAXIMOS DE LAS PRESTACIONES DE SEGURIDAD SOCIAL (Ley Nº 19.003)",
+   "url": "https://www.impo.com.uy/bases/leyes/19003-2012",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19003-2012",
+     "sha256": "07823353be35d73f81083dd68160d57416a67efc9d7816b44fcebf95f2696fff"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19007",
+   "short": "Ley 19.007",
+   "title": "MODIFICACION DE DISPOSICIONES DEL CODIGO PENAL, SOBRE DELITOS DE FUNCIONARIOS PUBLICOS Y DETERMINADAS ACTIVIDADES DELICTIVAS RELACIONADAS CON TODAS LAS FORMAS DE COCAINA INCLUIDA LA PASTA BASE DE COCAINA (Ley Nº 19.007)",
+   "url": "https://www.impo.com.uy/bases/leyes/19007-2012",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19007-2012",
+     "sha256": "9311fed56eaec0336e0e534c2a4f7ebc4900807f39d653e35df51e8b201fa460"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19074",
+   "short": "Ley 19.074",
+   "title": "DEROGACION DEL ART. 288 DE LA LEY DE SOCIEDADES COMERCIALES (Ley Nº 19.074)",
+   "url": "https://www.impo.com.uy/bases/leyes/19074-2013",
+   "versions": [
+    {
+     "from": "2013-05-03",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19074-2013",
+     "sha256": "1049bfa01c53e757afd9abfae5d8748efa0e94cfe08be0ff75e525a1c13bb454"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19090",
+   "short": "Ley 19.090",
+   "title": "MODIFICACION DEL CODIGO GENERAL DEL PROCESO (Ley Nº 19.090)",
+   "url": "https://www.impo.com.uy/bases/leyes/19090-2013",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19090-2013",
+     "sha256": "c249e1406bfa366747c44f06693d97e00d821c939133382f233733af19c1cccc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19093",
+   "short": "Ley 19.093",
+   "title": "DEROGACION DEL IMPUESTO A LA CONCENTRACION DE INMUEBLES RURALES (ICIR) (Ley Nº 19.093)",
+   "url": "https://www.impo.com.uy/bases/leyes/19093-2013",
+   "versions": [
+    {
+     "from": "2013-06-17",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19093-2013",
+     "sha256": "f333eaa211ae73de9b26f6892537e33be29a7fd9e9d470a7a109994480bce9f5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19109",
+   "short": "Ley 19.109",
+   "title": "SUSPENSION DE LA VIGENCIA DEL ART. 309 DE LA LEY 18996 RELATIVO A ZONAS FRANCAS (Ley Nº 19.109)",
+   "url": "https://www.impo.com.uy/bases/leyes/19109-2013",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19109-2013",
+     "sha256": "6dfbac8bc2573d0ce2156cd1a2f2a0b0dcbb1629926a605bb1fc80a1e111afaa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19120",
+   "short": "Ley 19.120",
+   "title": "MODIFICACION DEL CODIGO PENAL (Ley Nº 19.120)",
+   "url": "https://www.impo.com.uy/bases/leyes/19120-2013",
+   "versions": [
+    {
+     "from": "2018-10-26",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19120-2013",
+     "sha256": "17d67e2dca57a84e8a208f496a13aa4afb6d4001fdf919ccedee6ba9c155c3d8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19138",
+   "short": "Ley 19.138",
+   "title": "CREACION DEL REGISTRO NACIONAL DE INDUSTRIALIZADORES Y COMERCIALIZADORES DE COBRE (Ley Nº 19.138)",
+   "url": "https://www.impo.com.uy/bases/leyes/19138-2013",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19138-2013",
+     "sha256": "920549a796d24b5f991ddcac849e78de747fa5a88eb1771024df650f325f5bd3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19147",
+   "short": "Ley 19.147",
+   "title": "CREACION DEL OBSERVATORIO AMBIENTAL NACIONAL (OAN), DE LA DIRECCION NACIONAL DE MEDIO AMBIENTE DEL MVOTMA (Ley Nº 19.147)",
+   "url": "https://www.impo.com.uy/bases/leyes/19147-2013",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19147-2013",
+     "sha256": "08ad9d7669eeca83b012526548d297671045b974f06d5256233169f84001185c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19149",
+   "short": "Ley 19.149",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2012 (Ley Nº 19.149)",
+   "url": "https://www.impo.com.uy/bases/leyes/19149-2013",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 256,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19149-2013",
+     "sha256": "901a122613df64635733ea6a2b315c200833c9a4a58d0705d75417164f07ae9c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19162",
+   "short": "Ley 19.162",
+   "title": "MODIFICACION DEL REGIMEN DE AHORRO INDIVIDUAL JUBILATORIO (Ley Nº 19.162)",
+   "url": "https://www.impo.com.uy/bases/leyes/19162-2013",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 19,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19162-2013",
+     "sha256": "0a1c426ba2a0787b5ccbdf05a435c810934eebe4e50c6c929e645a4d67f0768d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19164",
+   "short": "Ley 19.164",
+   "title": "MODIFICACION DE DISPOSICIONES RELATIVAS A INSTITUCIONES DE ASISTENCIA MEDICA COLECTIVA (Ley Nº 19.164)",
+   "url": "https://www.impo.com.uy/bases/leyes/19164-2013",
+   "versions": [
+    {
+     "from": "2013-11-15",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19164-2013",
+     "sha256": "18bc89564b39679aa396b77d110d891dc40bfda93aebbbed010c13c2679a31ae"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19177",
+   "short": "Ley 19.177",
+   "title": "INSTRUMENTACION DE LA DECLARACION JURADA DE BIENES E INGRESOS REFERIDOS EN LOS ARTICULOS 10 A 19 DE LA LEY 17.060 (Ley Nº 19.177)",
+   "url": "https://www.impo.com.uy/bases/leyes/19177-2013",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19177-2013",
+     "sha256": "8db21e9216908d4f2e2e96625b520c84df2c749418869977350bbceb06d2e3c5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19247",
+   "short": "Ley 19.247",
+   "title": "TIPIFICACION DE DELITOS Y MODIFICACION DEL CODIGO PENAL (Ley Nº 19.247)",
+   "url": "https://www.impo.com.uy/bases/leyes/19247-2014",
+   "versions": [
+    {
+     "from": "2014-08-15",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19247-2014",
+     "sha256": "bdceff83801ded484b82d04909137c0ea26d1c4ff88fd1fc9aebf3e7249d304e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19322",
+   "short": "Ley 19.322",
+   "title": "SUSPENSION DE LA VIGENCIA DE LOS ARTICULOS 224, 225, 227 A 257, 269 Y 275 DE LA LEY 19.276, CODIGO ADUANERO (Ley Nº 19.322)",
+   "url": "https://www.impo.com.uy/bases/leyes/19322-2015",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19322-2015",
+     "sha256": "df359e99376a49ab47a6799678a0376479c1e5e21c3cab8f454e481767bdac3d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19331",
+   "short": "Ley 19.331",
+   "title": "CREACION DE LA SECRETARIA NACIONAL DEL DEPORTE COMO ORGANO DESCONCENTRADO DEPENDIENTE DIRECTAMENTE DE LA PRESIDENCIA DE LA REPUBLICA (Ley Nº 19.331)",
+   "url": "https://www.impo.com.uy/bases/leyes/19331-2015",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19331-2015",
+     "sha256": "710295ab08725325ecfbf55db2af7d2d4f47e5475b7873de9a1f71b408e4e8b4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19355",
+   "short": "Ley 19.355",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2015 - 2019 (Ley Nº 19.355)",
+   "url": "https://www.impo.com.uy/bases/leyes/19355-2015",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 563,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19355-2015",
+     "sha256": "fb07457a7ed721d7c9356018487e981e9232aac52c469b52bf4e3a2de4c7eb48"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19394",
+   "short": "Ley 19.394",
+   "title": "SUSPENSION DE LA VIGENCIA DE LOS ARTICULOS 224, 225, 227 A 257 y 269 DE LA LEY 19.276, CODIGO ADUANERO (Ley Nº 19.394)",
+   "url": "https://www.impo.com.uy/bases/leyes/19394-2016",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19394-2016",
+     "sha256": "45a4db0c7baba06d0907936a48d5a7e1b02922ce5d633fc891625927c1780ed2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19438",
+   "short": "Ley 19.438",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2015 (Ley Nº 19.438)",
+   "url": "https://www.impo.com.uy/bases/leyes/19438-2016",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 133,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19438-2016",
+     "sha256": "6ed3dc8cc33b0733980e9de4ca4db96f54cd0e4b108ab372005e2361827ffab1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19475",
+   "short": "Ley 19.475",
+   "title": "PRORROGA DE ENTRADA EN VIGENCIA DEL INCISO PRIMERO DEL ART. 35 Y ARTS. 36, 40 Y 41 DE LA LEY 19.210. LEY DE INCLUSION FINANCIERA (Ley Nº 19.475)",
+   "url": "https://www.impo.com.uy/bases/leyes/19475-2017",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19475-2017",
+     "sha256": "31aad5881e2183fa706734374188618aa76b810fbc928df56387cebbb1220ef0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19484",
+   "short": "Ley 19.484",
+   "title": "APROBACION DE NORMAS DE CONVERGENCIA CON LOS ESTANDARES INTERNACIONALES EN TRANSPARENCIA FISCAL INTERNACIONAL, PREVENCION Y CONTROL DEL LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO (Ley Nº 19.484)",
+   "url": "https://www.impo.com.uy/bases/leyes/19484-2017",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 45,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19484-2017",
+     "sha256": "1d802934a6b0ee1a83d5c8df82c75680f44296346c02a4de0baa9dc3775f510f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19506",
+   "short": "Ley 19.506",
+   "title": "PRORROGA DE ENTRADA EN VIGENCIA DEL INCISO PRIMERO Y QUINTO DEL ART. 35 Y ARTS. 36, 40 Y 41 DE LA LEY 19.210, LEY DE INCLUSION FINANCIERA (Ley Nº 19.506)",
+   "url": "https://www.impo.com.uy/bases/leyes/19506-2017",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19506-2017",
+     "sha256": "2ae07c4732e8708f5a0ebf1e34504e9fa9846e42109f55d60884418f979d4967"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19513",
+   "short": "Ley 19.513",
+   "title": "CREACION DE LA COMISION DE LUCHA CONTRA EL NARCOTRAFICO Y EL CRIMEN ORGANIZADO TRANSFRONTERIZO. MODIFICACIONES AL DECRETO LEY 14.294 SOBRE ESTUPEFACIENTES (Ley Nº 19.513)",
+   "url": "https://www.impo.com.uy/bases/leyes/19513-2017",
+   "versions": [
+    {
+     "from": "2017-07-14",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19513-2017",
+     "sha256": "54b83106073b1b296b392d2450868c477d87af5c702f86dcc1e59f0015a3f821"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19535",
+   "short": "Ley 19.535",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2016 (Ley Nº 19.535)",
+   "url": "https://www.impo.com.uy/bases/leyes/19535-2017",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 187,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19535-2017",
+     "sha256": "34c721aab810bfac4ff1ca9dd214f379a2c5604830c824a4b091fd3a49ad4bcb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19590",
+   "short": "Ley 19.590",
+   "title": "MODIFICACION DEL REGIMEN JUBILATORIO PREVISTO POR LA LEY 16.713. LEY DE LOS CINCUENTONES (Ley Nº 19.590)",
+   "url": "https://www.impo.com.uy/bases/leyes/19590-2017",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 25,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19590-2017",
+     "sha256": "9911f7c0c27b3b8b9e89e597df1e3d3d059f8b025f261c1d2ed98551dffc2faa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19593",
+   "short": "Ley 19.593",
+   "title": "MODIFICACION DE LAS LEYES 18.910 Y 19.210 RELATIVAS A LA INCLUSION FINANCIERA (Ley Nº 19.593)",
+   "url": "https://www.impo.com.uy/bases/leyes/19593-2018",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19593-2018",
+     "sha256": "1ef94dd879e7bdd2948e387367ec82f918d2ac0a1306f3b094ea8c4a1ee19449"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19630",
+   "short": "Ley 19.630",
+   "title": "APROBACION DEL ACUERDO ENTRE URUGUAY Y SUDAFRICA DE ASISTENCIA MUTUA ENTRE ADMINISTRACIONES ADUANERAS (Ley Nº 19.630)",
+   "url": "https://www.impo.com.uy/bases/leyes/19630-2018",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19630-2018",
+     "sha256": "5cd06f00c2366f5b30b6016627cec9ce9aa78ce462705ecc6ceb50ac3f34a142"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19670",
+   "short": "Ley 19.670",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2017 (Ley Nº 19.670)",
+   "url": "https://www.impo.com.uy/bases/leyes/19670-2018",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 246,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19670-2018",
+     "sha256": "87dd693a868660dc6290078a9a9dca7c503fbead4fc363206c5dac65ff7dac99"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19723",
+   "short": "Ley 19.723",
+   "title": "MODIFICACION DEL ART. 8 DE LA LEY 18.256 RELATIVO A LA PROTECCION DEL DERECHO AL MEDIO AMBIENTE LIBRE DE HUMO DE TABACO Y SU CONSUMO (Ley Nº 19.723)",
+   "url": "https://www.impo.com.uy/bases/leyes/19723-2018",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19723-2018",
+     "sha256": "8f371be0d0c5329f3be770da98b6592ef246d8cf97196ac6fa6446b8e843f295"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19733",
+   "short": "Ley 19.733",
+   "title": "CREACION DEL FONDO DE PERITAJES (Ley Nº 19.733)",
+   "url": "https://www.impo.com.uy/bases/leyes/19733-2018",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19733-2018",
+     "sha256": "1104be22a66670b9402f47566abbd4c277c12e29f501968a44b2e222568004b2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19747",
+   "short": "Ley 19.747",
+   "title": "MODIFICACION DEL CAPITULO XI DE LA LEY 17.823, CODIGO DE LA NIÑEZ Y LA ADOLESCENCIA (Ley Nº 19.747)",
+   "url": "https://www.impo.com.uy/bases/leyes/19747-2019",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 6,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19747-2019",
+     "sha256": "039d25f3cd60e9875672f26f69320b12c2d8ff501b2a26ae6f979f873d0df4f9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19749",
+   "short": "Ley 19.749",
+   "title": "APROBACION DE LA LEY CONTRA EL FINANCIAMIENTO DEL TERRORISMO Y APLICACION DE SANCIONES FINANCIERAS CONTRA LAS PERSONAS Y ENTIDADES VINCULADAS AL TERRORISMO, SU FINANCIAMIENTO Y LA PROLIFERACION DE ARMAS DE DESTRUCCION MASIVA (Ley Nº 19.749)",
+   "url": "https://www.impo.com.uy/bases/leyes/19749-2019",
+   "versions": [
+    {
+     "from": "2019-05-15",
+     "units": 16,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19749-2019",
+     "sha256": "2f83cb98b57e5c309f046604b577a2fa795bdf0ec8c6f9fd6b5e712cc446df10"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19788",
+   "short": "Ley 19.788",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2018 (Ley Nº 19.788)",
+   "url": "https://www.impo.com.uy/bases/leyes/19788-2019",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 11,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19788-2019",
+     "sha256": "8a3eceb8002281b88c56cbe3d009cfdddfe29101a531d1b79b498ddd43b8dd66"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19824",
+   "short": "Ley 19.824",
+   "title": "ACTUALIZACION DE LA NORMATIVA VIGENTE EN MATERIA DE TRANSITO Y SEGURIDAD VIAL (Ley Nº 19.824)",
+   "url": "https://www.impo.com.uy/bases/leyes/19824-2019",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 49,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19824-2019",
+     "sha256": "5ac2631e79fba57544a4dbee6d2dfe336c561381c3e5e79a1367da03ddf22d0f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19834",
+   "short": "Ley 19.834",
+   "title": "MODIFICACION DEL ART. 198 DE LA LEY 19.307. LEY DE MEDIOS. REGULACION DE LA PRESTACION DE SERVICIOS DE RADIO, TELEVISION Y OTROS SERVICIOS DE COMUNICACION AUDIOVISUAL (Ley Nº 19.834)",
+   "url": "https://www.impo.com.uy/bases/leyes/19834-2019",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19834-2019",
+     "sha256": "dec23dc66e233a3f3a674d2644d256907fa5fa9951269abe297d50197508a411"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19841",
+   "short": "Ley 19.841",
+   "title": "MODIFICACION DEL ESTATUTO DEL FUNCIONARIO DEL SERVICIO EXTERIOR DE LA REPUBLICA (Ley Nº 19.841)",
+   "url": "https://www.impo.com.uy/bases/leyes/19841-2019",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 42,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19841-2019",
+     "sha256": "63fb59d14262e2f89dbb861c8f98f36534aff3a73c73180428e3bc949ef078a4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19847",
+   "short": "Ley 19.847",
+   "title": "DECLARACION DE INTERES PUBLICO LAS ACCIONES TENDIENTES A PROTEGER, PROMOVER Y MEJORAR LA SALUD PUBLICA MEDIANTE PRODUCTOS DE CALIDAD CONTROLADA Y ACCESIBLES, EN BASE A CANNABIS O CANNABINOIDES, ASI COMO EL ASESORAMIENTO MEDICO E INFORMACION SOBRE BENEFICIOS Y RIESGOS DE SU USO (Ley Nº 19.847)",
+   "url": "https://www.impo.com.uy/bases/leyes/19847-2019",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 19,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19847-2019",
+     "sha256": "e1bf1598ec782b11d04695166e74b20753b8d0022e39caa91ee6028365104afd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19859",
+   "short": "Ley 19.859",
+   "title": "SISTEMA NACIONAL INTEGRADO DE SALUD. PRESTACION GRATUITA Y VITALICIA A VICTIMAS DEL TERRORISMO DE ESTADO, COMPRENDIENDO A HIJOS, NIETOS, BIOLOGICOS O ADOPTIVOS (Ley Nº 19.859)",
+   "url": "https://www.impo.com.uy/bases/leyes/19859-2019",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19859-2019",
+     "sha256": "3a198a9d517f72e4f666c1409179674adca4a9da23ca7d29d8e38ef6dc618564"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19870",
+   "short": "Ley 19.870",
+   "title": "PRORROGA DE PLAZO ESTABLECIDO EN LOS ARTS. 27 Y 33 DE LA LEY 19.829, REFERENTE A GESTION INTEGRAL DE RESIDUOS (Ley Nº 19.870)",
+   "url": "https://www.impo.com.uy/bases/leyes/19870-2020",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19870-2020",
+     "sha256": "290567658c3ca955cdb0621dc19e42b66c447c02d88d684dfe6b10ffc0d1c93c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19889",
+   "short": "Ley 19.889",
+   "title": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA (Ley Nº 19.889)",
+   "url": "https://www.impo.com.uy/bases/leyes/19889-2020",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 472,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19889-2020",
+     "sha256": "c202b0a982d9f18300f37354e5e10ca64f4ce1b601b35ca088dd725b333bd493"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19924",
+   "short": "Ley 19.924",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2020-2024 (Ley Nº 19.924)",
+   "url": "https://www.impo.com.uy/bases/leyes/19924-2020",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 454,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19924-2020",
+     "sha256": "1cb7da894b03aa271accb3d6deaa17d22db93fbc24ecc27faed1483f3f797fa6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19942",
+   "short": "Ley 19.942",
+   "title": "APROBACION DE NUEVAS MEDIDAS PARA MITIGAR EL IMPACTO ECONOMICO COMO CONSECUENCIA DE LA EMERGENCIA NACIONAL SANITARIA, POR COVID-19 (Ley Nº 19.942)",
+   "url": "https://www.impo.com.uy/bases/leyes/19942-2021",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19942-2021",
+     "sha256": "14d55830ac38132427257a4ab4acaafb25f3ea7dde92186e062ecd2ac77a96c1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19970",
+   "short": "Ley 19.970",
+   "title": "SUSPENSION DEL PLAZO ESTABLECIDO EN EL ART. 165 DE LA LEY 19.775, LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 19.970)",
+   "url": "https://www.impo.com.uy/bases/leyes/19970-2021",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19970-2021",
+     "sha256": "43d082d2b7a7bc1deb8b261b03acf935ff7a1db009cfc4a8654e16a272b54043"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19996",
+   "short": "Ley 19.996",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2020 (Ley Nº 19.996)",
+   "url": "https://www.impo.com.uy/bases/leyes/19996-2021",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 212,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19996-2021",
+     "sha256": "c4db7dedb1cac0abf4299d68dc8b4e5b1b516ee7c9855ed77eaced8bfe452510"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20071",
+   "short": "Ley 20.071",
+   "title": "PRORROGA DEL PLAZO DISPUESTO POR EL ART. 167 DE LA LEY 19.775, RELATIVO A LA LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 20.071)",
+   "url": "https://www.impo.com.uy/bases/leyes/20071-2022",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20071-2022",
+     "sha256": "1596887c3882a8d1cef74980745b714af2ef302b80f6856784f524f55e5fb519"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20075",
+   "short": "Ley 20.075",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2021 (Ley Nº 20.075)",
+   "url": "https://www.impo.com.uy/bases/leyes/20075-2022",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 341,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20075-2022",
+     "sha256": "2df8d7bdb6c2b0705dfe066fa1d9e692e0296107f4a50446f171b3dac4305cbe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20108",
+   "short": "Ley 20.108",
+   "title": "PRORROGA DEL PLAZO DISPUESTO POR EL ART. 168 DE LA LEY 19.775, RELATIVO A LA LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 20.108)",
+   "url": "https://www.impo.com.uy/bases/leyes/20108-2022",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20108-2022",
+     "sha256": "5b74b05ec7e8fc85a7f7a35769d8d7938edace9a7b772e6b2e8e186d3db3de66"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20125",
+   "short": "Ley 20.125",
+   "title": "DEROGACION DE LA LEY 20.096 Y MODIFICACION DE LEY 19.043, RELATIVAS A LA CREACION DE LA UNIVERSIDAD TECNOLOGICA (UTEC) (Ley Nº 20.125)",
+   "url": "https://www.impo.com.uy/bases/leyes/20125-2023",
+   "versions": [
+    {
+     "from": "2023-04-17",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20125-2023",
+     "sha256": "a6e57833510cb68e5df9f27e03c7875ffde277dc06d9d0f292e535228bac89f7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20130",
+   "short": "Ley 20.130",
+   "title": "LEY DE REFORMA DE LA SEGURIDAD SOCIAL. CREACION DE UN SISTEMA PREVISIONAL COMUN Y DETERMINACION DEL PROCEDIMIENTO DE CONVERGENCIA DE LOS REGIMENES ACTUALMENTE VIGENTES (Ley Nº 20.130)",
+   "url": "https://www.impo.com.uy/bases/leyes/20130-2023",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 303,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20130-2023",
+     "sha256": "014be585ee5431da74bdbc6211e64f567022900c2ecd3c53cacdcd6878e5b787"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20145",
+   "short": "Ley 20.145",
+   "title": "MODIFICACION DE LA LEY 18.566 SOBRE NEGOCIACION COLECTIVA (Ley Nº 20.145)",
+   "url": "https://www.impo.com.uy/bases/leyes/20145-2023",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20145-2023",
+     "sha256": "49465ef6c526c7dc217cf6e7e045f0756c40c31d03cc7145fe6624f6851d0367"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20208",
+   "short": "Ley 20.208",
+   "title": "MODIFICACION DE LOS ARTS. 18, 19, 21, 28, 34, 51, 52, 67 Y 82 DE LA LEY Nº 18.396 RELATIVO AL REGIMEN DE LA CAJA DE JUBILACIONES Y PENSIONES BANCARIAS (Ley Nº 20.208)",
+   "url": "https://www.impo.com.uy/bases/leyes/20208-2023",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 15,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20208-2023",
+     "sha256": "5f34c6a36748572fb12399a32b485fd0725da207751912741dcbe9d6465ff040"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20212",
+   "short": "Ley 20.212",
+   "title": "APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2022 (Ley Nº 20.212)",
+   "url": "https://www.impo.com.uy/bases/leyes/20212-2023",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 426,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20212-2023",
+     "sha256": "fc3a3929fa02c9a254525d354a2b224e1c55e79b0e07f7a406d75385233ce4fe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20313",
+   "short": "Ley 20.313",
+   "title": "PRORROGA DEL PLAZO DISPUESTO POR EL ART. 167 DE LA LEY 19.775, RELATIVO A LA LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 20.313)",
+   "url": "https://www.impo.com.uy/bases/leyes/20313-2024",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20313-2024",
+     "sha256": "99a9b77eb51974b25acbb07a8142ece9d3f8d39967059582d353a588b717edc9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20357",
+   "short": "Ley 20.357",
+   "title": "CREACION DE LA ADMINISTRACION NACIONAL DE BOMBEROS VOLUNTARIOS (Ley Nº 20.357)",
+   "url": "https://www.impo.com.uy/bases/leyes/20357-2024",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 57,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20357-2024",
+     "sha256": "3ecae27c2f5a335cd6a8af7360a2647a411a2baf12c1904de6d90c13fb5744c8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20410",
+   "short": "Ley 20.410",
+   "title": "MODIFICACION DE LA LEY ORGANICA DE LA CAJA DE JUBILACIONES Y PENSIONES DE PROFESIONALES UNIVERSITARIOS (Ley Nº 20.410)",
+   "url": "https://www.impo.com.uy/bases/leyes/20410-2025",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 24,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20410-2025",
+     "sha256": "27f5225a593baddcf7ae0316faee58ade3e7dbc6363ba5df330da73290c209ed"
+    }
+   ]
+  },
+  {
+   "slug": "ley-20446",
+   "short": "Ley 20.446",
+   "title": "PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2025-2029 (Ley Nº 20.446)",
+   "url": "https://www.impo.com.uy/bases/leyes/20446-2025",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 489,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20446-2025",
+     "sha256": "cf07c17cb126271eca3da449ad7955ca4ef3cc49bf932995672087ea4f4f2163"
+    }
+   ]
+  },
+  {
+   "slug": "ley-5392",
+   "short": "Ley 5.392",
+   "title": "CODIGO DE COMERCIO. MODIFICACION (Ley Nº 5.392)",
+   "url": "https://www.impo.com.uy/bases/leyes/5392-1916",
+   "versions": [
+    {
+     "from": "1916-01-25",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/5392-1916",
+     "sha256": "c33b74df462443b261cf0a3e7d9f83e9c2a16c9bdb90440630d142bff4e9a76f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-6962",
+   "short": "Ley 6.962",
+   "title": "CAJA DE JUBILACIONES Y PENSIONES DE EMPLEADOS Y OBREROS DE SERVICIOS PUBLICOS. CREACION (Ley Nº 6.962)",
+   "url": "https://www.impo.com.uy/bases/leyes/6962-1919",
+   "versions": [
+    {
+     "from": "1965-12-02",
+     "units": 58,
+     "source_url": "https://www.impo.com.uy/bases/leyes/6962-1919",
+     "sha256": "69ba14d5939b29921e9182fb1ced26809b06abe216d0e7822cde8ca412c45e15"
+    }
+   ]
+  },
+  {
+   "slug": "ley-7782",
+   "short": "Ley 7.782",
+   "title": "LEY DE REGISTRO CIVICO NACIONAL. MODIFICACION (Ley Nº 7.782)",
+   "url": "https://www.impo.com.uy/bases/leyes/7782-1924",
+   "versions": [
+    {
+     "from": "1924-11-20",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/7782-1924",
+     "sha256": "c504259d0f46ca439c7696ef55200c52c2a584ee491060aedb0b95eea996f585"
+    }
+   ]
+  },
+  {
+   "slug": "ley-7912",
+   "short": "Ley 7.912",
+   "title": "ELECCIONES NACIONALES. CAMARA DE SENADORES. CAMARA DE DIPUTADOS. INTEGRACION. REGISTRO CIVICO NACIONAL. REGULACION (Ley Nº 7.912)",
+   "url": "https://www.impo.com.uy/bases/leyes/7912-1925",
+   "versions": [
+    {
+     "from": "2007-12-16",
+     "units": 17,
+     "source_url": "https://www.impo.com.uy/bases/leyes/7912-1925",
+     "sha256": "1533d54d33be6c596467053587670c4ffd9d7f148aa9ee064a808ab96d37a3a9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8070",
+   "short": "Ley 8.070",
+   "title": "LEY DE ELECCIONES. MODIFICACION (Ley Nº 8.070)",
+   "url": "https://www.impo.com.uy/bases/leyes/8070-1927",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "units": 23,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8070-1927",
+     "sha256": "d7b6f6dd342ebff3d79555de6de22abb7a0ba38e9a95000c7cda7d6585d9e6a7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8080",
+   "short": "Ley 8.080",
+   "title": "DELITO DE PROXENETISMO (Ley Nº 8.080)",
+   "url": "https://www.impo.com.uy/bases/leyes/8080-1927",
+   "versions": [
+    {
+     "from": "1995-07-12",
+     "units": 21,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8080-1927",
+     "sha256": "d8b6f0ea43245713134c533949cc73abc8923449d67cea025d2f3057a4901425"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8196",
+   "short": "Ley 8.196",
+   "title": "REGISTRO CIVICO NACIONAL. CIUDADANIA. REGLAMENTACION (Ley Nº 8.196)",
+   "url": "https://www.impo.com.uy/bases/leyes/8196-1928",
+   "versions": [
+    {
+     "from": "1928-02-02",
+     "units": 30,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8196-1928",
+     "sha256": "8c9286b0cc219cf730e64bb6132c4d7424003448118f2825f444b39962a4d3cc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8239",
+   "short": "Ley 8.239",
+   "title": "PRESUPUESTO. MODIFICACION (Ley Nº 8.239)",
+   "url": "https://www.impo.com.uy/bases/leyes/8239-1928",
+   "versions": [
+    {
+     "from": "1986-04-08",
+     "units": 5,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8239-1928",
+     "sha256": "20b3b0ac9ea83b41b5a453f6baac8d0b3aaabf639ff2699cca714145e34a457b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8301",
+   "short": "Ley 8.301",
+   "title": "CODIGO CIVIL. CODIGO DE COMERCIO. MODIFICACION (Ley Nº 8.301)",
+   "url": "https://www.impo.com.uy/bases/leyes/8301-1928",
+   "versions": [
+    {
+     "from": "1928-10-15",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8301-1928",
+     "sha256": "346e87a00c356e648767c1679a6218c380b3db855d8a2d736b5c244dcf0512f6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8461",
+   "short": "Ley 8.461",
+   "title": "DECLARACION DE UTILIDAD PUBLICA PARA EXPROPIACION (Ley Nº 8.461)",
+   "url": "https://www.impo.com.uy/bases/leyes/8461-1929",
+   "versions": [
+    {
+     "from": "1974-04-30",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8461-1929",
+     "sha256": "1dee1e5bcbcf098fbb9376a4e9b9172538d96a4c73669f463335ece06e84d56d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8733",
+   "short": "Ley 8.733",
+   "title": "LEY DE PROMESA DE ENAJENACION DE INMUEBLES A PLAZOS (Ley Nº 8.733)",
+   "url": "https://www.impo.com.uy/bases/leyes/8733-1931",
+   "versions": [
+    {
+     "from": "1992-11-09",
+     "units": 53,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8733-1931",
+     "sha256": "85b4e89cd23e691904276029596b4f41d20f20dfe8bf2a1bb7d7484c8ed6471b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8888",
+   "short": "Ley 8.888",
+   "title": "VENCIMIENTO DE OBLIGACIONES. TITULOS VALORES (Ley Nº 8.888)",
+   "url": "https://www.impo.com.uy/bases/leyes/8888-1932",
+   "versions": [
+    {
+     "from": "1932-09-28",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8888-1932",
+     "sha256": "88acb66b95333426e69a217f540156d5799710c21b018b9525eff73781e55427"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8902",
+   "short": "Ley 8.902",
+   "title": "CONSTITUCION DE LA REPUBLICA. ENMIENDA. RATIFICACION (Ley Nº 8.902)",
+   "url": "https://www.impo.com.uy/bases/leyes/8902-1932",
+   "versions": [
+    {
+     "from": "1932-10-27",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8902-1932",
+     "sha256": "d35ee37e53c578fdf2b881b538e19aa41c75b58d6427eb863f6ec1c3fc402d2b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8912",
+   "short": "Ley 8.912",
+   "title": "LEY DE ELECCIONES. MODIFICACION (Ley Nº 8.912)",
+   "url": "https://www.impo.com.uy/bases/leyes/8912-1932",
+   "versions": [
+    {
+     "from": "1932-11-03",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8912-1932",
+     "sha256": "eadc514c30c989887485a33e546aef6f8cc2122c811960d73fec3d534e7e7b30"
+    }
+   ]
+  },
+  {
+   "slug": "ley-8927",
+   "short": "Ley 8.927",
+   "title": "DERECHOS CIVICOS DE LA MUJER (Ley Nº 8.927)",
+   "url": "https://www.impo.com.uy/bases/leyes/8927-1932",
+   "versions": [
+    {
+     "from": "1932-12-16",
+     "units": 3,
+     "source_url": "https://www.impo.com.uy/bases/leyes/8927-1932",
+     "sha256": "7c081611dc0c09591056aa25913c552f02388e548c1cfd7f5634634c41f785c3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9051",
+   "short": "Ley 9.051",
+   "title": "LEY DE ELECCIONES. MODIFICACION (Ley Nº 9.051)",
+   "url": "https://www.impo.com.uy/bases/leyes/9051-1933",
+   "versions": [
+    {
+     "from": "1933-06-13",
+     "units": 6,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9051-1933",
+     "sha256": "e6285c8d0ea46198826cbc6a04e967fcb7f03a9db69e7cbcbf177963f609b159"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9189",
+   "short": "Ley 9.189",
+   "title": "FIJACION DE IMPUESTO. CONTRIBUCION INMOBILIARIA. PATENTES DE PERROS. INSTRUCCION PRIMARIA (Ley Nº 9.189)",
+   "url": "https://www.impo.com.uy/bases/leyes/9189-1934",
+   "versions": [
+    {
+     "from": "1953-03-27",
+     "units": 49,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9189-1934",
+     "sha256": "10f2b666ca57c98821727e0735f03a415bca27ac2d25b267696a5f82b18f1193"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9385",
+   "short": "Ley 9.385",
+   "title": "BANCO HIPOTECARIO DEL URUGUAY (BHU). PRESTAMOS (Ley Nº 9.385)",
+   "url": "https://www.impo.com.uy/bases/leyes/9385-1934",
+   "versions": [
+    {
+     "from": "1964-12-28",
+     "units": 25,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9385-1934",
+     "sha256": "079449669ef5e186246b0d210630cb2609e53362b5e071219cbd3c05b26856aa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9570",
+   "short": "Ley 9.570",
+   "title": "CORTE ELECTORAL. AUTORIZACION (Ley Nº 9.570)",
+   "url": "https://www.impo.com.uy/bases/leyes/9570-1936",
+   "versions": [
+    {
+     "from": "1936-06-19",
+     "units": 33,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9570-1936",
+     "sha256": "c9b84557e6b01458e8971dfaeb9a634bf0f1a6af8dbeca151e96faff7f4eaf19"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9602",
+   "short": "Ley 9.602",
+   "title": "ADMINISTRACION NACIONAL DEL PUERTO DE MONTEVIDEO. CREACION. MODIFICACION (Ley Nº 9.602)",
+   "url": "https://www.impo.com.uy/bases/leyes/9602-1936",
+   "versions": [
+    {
+     "from": "1936-09-23",
+     "units": 2,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9602-1936",
+     "sha256": "62b6d036cbe855f278111c5413548384e18bf6808842c1a9d12b57b20c98fb83"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9624",
+   "short": "Ley 9.624",
+   "title": "CONTADURIA GENERAL DE LA NACION. GARANTIA DE ALQUILERES (Ley Nº 9.624)",
+   "url": "https://www.impo.com.uy/bases/leyes/9624-1936",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 23,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9624-1936",
+     "sha256": "634a0ba6020249a2981a7e72aac6f0136c14699cf88dcf644d180ba5a3c4635d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9645",
+   "short": "Ley 9.645",
+   "title": "CORTE ELECTORAL. MODIFICACION (Ley Nº 9.645)",
+   "url": "https://www.impo.com.uy/bases/leyes/9645-1937",
+   "versions": [
+    {
+     "from": "1937-01-15",
+     "units": 17,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9645-1937",
+     "sha256": "308866c24d1a2036deb578e0a125788abc01cd44caddade47d55d42a9c622441"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9739",
+   "short": "Ley 9.739",
+   "title": "LEY DE DERECHOS DE AUTOR (Ley Nº 9.739)",
+   "url": "https://www.impo.com.uy/bases/leyes/9739-1937",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 66,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9739-1937",
+     "sha256": "16a842699078d5515045798a65e23a8f21a99ff0d40bc0afc91da5ee9e3b582a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9892",
+   "short": "Ley 9.892",
+   "title": "MINISTERIO DE SALUD PUBLICA. PRESUPUESTO (Ley Nº 9.892)",
+   "url": "https://www.impo.com.uy/bases/leyes/9892-1939",
+   "versions": [
+    {
+     "from": "1987-11-10",
+     "units": 27,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9892-1939",
+     "sha256": "ab882ff9c7c852c8b97cd7a6ca2a2e7f58f597cc242e345e356370d0ee1ab9cf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9919",
+   "short": "Ley 9.919",
+   "title": "PALACIO LEGISLATIVO. OBRAS PUBLICAS. EXPROPIACIONES (Ley Nº 9.919)",
+   "url": "https://www.impo.com.uy/bases/leyes/9919-1940",
+   "versions": [
+    {
+     "from": "1958-06-24",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9919-1940",
+     "sha256": "48189bf3723f047127d66510ad5825070c828b3985f23e4443ab4a43ec6be8b5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-9940",
+   "short": "Ley 9.940",
+   "title": "JUBILACIONES Y PENSIONES. BENEFICIOS JUBILATORIOS (Ley Nº 9.940)",
+   "url": "https://www.impo.com.uy/bases/leyes/9940-1940",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 123,
+     "source_url": "https://www.impo.com.uy/bases/leyes/9940-1940",
+     "sha256": "b8d55406b818306f2343ff786227ed50ad595af329d0c0e5fc7d8cc6f1f4d17d"
+    }
+   ]
   }
  ]
 }
