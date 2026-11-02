@@ -88,6 +88,8 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
+| IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
+| IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -359,20 +361,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-11021` | Ley de Jubilación de los Docentes de Enseñanza Primaria y Normal (Ley Nº 11.021) | 4 | 1948-01-24 to 1960-12-24 |
 | `ley-20506` | Ley de Promoción del Trabajo Digno y Decente de las Personas que Enfrentan Mayores Obstáculos para Acceder al Mercado Laboral (Ley Nº 20.506) | 1 | 2026-07-27 to 2026-07-27 |
 | `ley-17885` | Ley del Voluntariado Social (Ley Nº 17.885) | 3 | 2005-08-29 to 2011-01-15 |
+| `ley-18241` | Ley del Subsidio a la Vejez para Personas en Situación de Indigencia o Extrema Pobreza (Ley Nº 18.241) | 3 | 2008-01-18 to 2023-08-01 |
+| `ley-17968` | Ley de la Comisión Permanente de Pensiones Graciables (Ley Nº 17.968) | 3 | 2006-06-15 to 2026-01-18 |
+| `ley-19480` | Ley del Registro de Personas Obligadas al Pago de Pensiones Alimenticias (Ley Nº 19.480) | 3 | 2017-01-27 to 2022-01-01 |
+| `ley-19061` | Ley de Tránsito y Seguridad Vial (Ley Nº 19.061) | 3 | 2013-02-01 to 2022-01-01 |
+| `ley-18126` | Ley del Consejo Agropecuario (Ley Nº 18.126) | 3 | 2007-06-01 to 2026-01-18 |
 
-The build made 672 commits:
+The build made 684 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 264 | first version of an act |
-| 408 | one law on its in-force day |
+| 269 | first version of an act |
+| 415 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
 - 76 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 636 laws in the record.
-- 1986 tags.
+- 641 laws in the record.
+- 2006 tags.
 
 ## Dates
 
@@ -384,15 +391,15 @@ When a law gives no date of its own, the default rule applies: Código Civil art
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2f263d27becae1bdbaa7492c89b9e7be1f50bf2562ccac5715f1d327aec88ea2` (16651504 bytes).
+- Corpus: sha256 `d1d3fedb66786e3de2fbae33de64ac0f6e4545b8a7eb9bab2a7c6d2f3b81c25c` (16723800 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-Not yet run for this build.
+1245 versions of 269 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 667 history commits and 1821 tags (history tip `9628b95b87689741cf27d4750e88fdf0fdc73176`).
+A second build from the same corpus into an empty folder gave identical hashes for all 672 history commits and 1841 tags (history tip `3eae3d9d2314878716ca86e3571f8ecfcbfa2203`).
 
 ## Decisions made by hand
 
@@ -1303,6 +1310,47 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - Ley 17.885, art. 6: Ley 18.719 says in its art. 3 that it governs from 1 January 2011, before its publication on 5 January 2011; no law is backdated in this history, so its change shows from 15 January 2011, ten days after publication, as in every other part.
 - Ley 17.885: every article was compared with IMPO's original text; apart from art. 6 (above), the difference is the closing formula.
 - Ley 17.885, placed in between: art-006 inciso 1: Ley Nº 18.172 art. 5's quoted wording from 2008-01-01, until the next law replaces it.
+- Batch 18 acts are rebuilt the same way as batches 2 to 17, with their readings: each amended article starts from IMPO's original text, today's text is IMPO's consolidated text, intermediate texts are only those an amending law quotes or IMPO's notes determine, and each amending law is in force on the day its own vigencia article gives, else ten days after publication (Código Civil art. 1); a law shared with an earlier part has the same day there.
+- Ley 18.241: in force 2008-01-18 (published 2008-01-08; Código Civil art. 1: ten days after publication). Amending laws' days: Ley Nº 19.996 2022-01-01 (its vigencia article: "regirá a partir del 1° de enero de 2022" (artículo 2)); Ley Nº 20.130 2023-08-01 (its art. 6 numeral 1: "el primer día del tercer mes siguiente al de su publicación en el Diario Oficial" (published 10/05/2023) (artículo 6)).
+- Ley 18.241: of a fixed sample of 5 articles IMPO records no change to, 5 have the words of IMPO's original text.
+- Ley 18.241 has no vigencia article; it is in force from 18 January 2008, ten days after its publication on 8 January 2008 (Código Civil art. 1). Its art. 1 institutes the subsidy "a partir del 1º de enero de 2008", before its publication; no law is backdated in this history, so that day is not used as the law's first day.
+- Ley 18.241, art. 1: Ley 19.996 art. 309 (in force 1 January 2022 by its art. 2) replaced its inciso segundo, and Ley 20.130 art. 158 (in force 1 August 2023, the first day of the third month after its publication on 10 May 2023, by its art. 6 numeral 1) replaced the whole article. IMPO's consolidated text keeps only the last wording, so the 2022 wording is the article with its inciso segundo replaced by the passage Ley 19.996 art. 309 quotes (IMPO's original text of that article), word for word; it shows from 1 January 2022, credited to Ley 19.996, and the 2023 version is credited to Ley 20.130 only.
+- Ley 18.241, art. 10: Ley 19.996 art. 309 (1 January 2022) repealed its inciso segundo. Its first wording is IMPO's original text of the article, which ends with the law's closing formula (the Sala de Sesiones, signatures, ministries and the promulgation order), as IMPO prints it in the article; from 2022 the article is IMPO's text today, without it.
+- Ley 18.241, arts. 3, 4 and 8: replaced by Ley 20.130 arts. 159, 160 and 161 (in force 1 August 2023, its art. 6 numeral 1); the first wording of each is IMPO's original text. IMPO's notes that Decreto 232/023 regulates the law change none of its words.
+- Ley 18.241: every article was compared with IMPO's original text; apart from the articles a law changed (arts. 1, 3, 4, 8 and 10), the articles have the same words.
+- Ley 18.241, placed in between: art-001 inciso 2: Ley Nº 19.996 art. 309's quoted wording from 2022-01-01, until the next law replaces it.
+- Ley 17.968: in force 2006-06-15 (published 2006-06-05; Código Civil art. 1: ten days after publication). Amending laws' days: Ley Nº 18.046 2007-01-01 (its vigencia article: "regirá a partir del 1º de enero de 2007" (artículo 2)); Ley Nº 20.446 2026-01-18 (published 2026-01-08; Código Civil art. 1: ten days after publication (not backdated: its vigencia article: "regirá a partir del 1° de enero de 2026" gives 2026-01-01, before its publication on 2026-01-08) (artículo 3)).
+- Ley 17.968: of a fixed sample of 2 articles IMPO records no change to, 1 have the words of IMPO's original text; art. 4 differ only by a correction, a paragraph break or a trailing heading no amending law explains, and read as IMPO gives them today from the first version (not committed as changes).
+- Ley 17.968 has no vigencia article; it is in force from 15 June 2006, ten days after its publication on 5 June 2006 (Código Civil art. 1).
+- Ley 17.968, art. 1: Ley 18.046 art. 133 (in force 1 January 2007 by its art. 2) and Ley 20.446 art. 362 replaced the whole article. IMPO's consolidated text keeps only the last wording, so the 2007 wording is the passage Ley 18.046 art. 133 quotes (IMPO's original text of that article), word for word; IMPO's copy of that quotation breaks lines inside sentences and leaves out the final full stop, so its paragraphs are rejoined as the quotation's layout gives them and it ends with the full stop (only line breaks and that stop differ). It shows from 1 January 2007, credited to Ley 18.046; the 2026 version is credited to Ley 20.446 only.
+- Ley 17.968, art. 1: Ley 20.446 says in its art. 3 that it governs from 1 January 2026, before its publication on 8 January 2026; no law is backdated in this history, so its change shows from 18 January 2026, ten days after publication, as in every other part.
+- Ley 17.968, art. 3: Ley 18.046 art. 134 (1 January 2007) replaced its inciso segundo; the first wording is IMPO's original text.
+- Ley 17.968, art. 4: IMPO's original text ends "efectivizarlo." followed by the closing formula, where its consolidated text ends "efectivizarlo.-"; IMPO records no change, so the consolidated text is shown from the first version.
+- Ley 17.968: every article was compared with IMPO's original text; apart from the articles a law changed (arts. 1 and 3) and art. 4 (above), the articles have the same words.
+- Ley 17.968, relaid: art-001: Ley Nº 18.046 art. 133's wording re-read from its quotation's layout, with its full stop (1 versions).
+- Batch 18 acts are rebuilt the same way as batches 2 to 17, with their readings: each amended article starts from IMPO's original text, today's text is IMPO's consolidated text, intermediate texts are only those an amending law quotes or IMPO's notes determine, and each amending law is in force on the day its own vigencia article gives, else ten days after publication (Código Civil art. 1); a law shared with an earlier part has the same day there.
+- Ley 19.480: in force 2017-01-27 (published 2017-01-17; Código Civil art. 1: ten days after publication). Amending laws' days: Ley Nº 19.924 2021-01-01 (its vigencia article: "regirá a partir del 1° de enero de 2021" (artículo 3)); Ley Nº 19.996 2022-01-01 (its vigencia article: "regirá a partir del 1° de enero de 2022" (artículo 2)).
+- Ley 19.480: of a fixed sample of 5 articles IMPO records no change to, 4 have the words of IMPO's original text; art. 6 differ only by a correction, a paragraph break or a trailing heading no amending law explains, and read as IMPO gives them today from the first version (not committed as changes).
+- Ley 19.480 has no vigencia article; it is in force from 27 January 2017, ten days after its publication on 17 January 2017 (Código Civil art. 1).
+- Ley 19.480, art. 5: Ley 19.924 art. 749 (in force 1 January 2021 by its art. 3) and Ley 19.996 art. 357 (1 January 2022, by its art. 2) each replaced the whole article. IMPO's consolidated text keeps only the last wording, so the 2021 wording is the passage Ley 19.924 art. 749 quotes (IMPO's original text of that article); that quotation ends with the closing quote before the sentence's full stop, so the wording ends with that full stop, as the 2022 wording does. The first wording is IMPO's original text, which reads "e! literal B)" in literal D), a misprint shown as IMPO gives it until the 2021 wording replaces it.
+- Ley 19.480, art. 7: added by Ley 19.924 art. 750 (1 January 2021) and replaced by Ley 19.996 art. 358 (1 January 2022). The 2021 wording is the passage Ley 19.924 art. 750 quotes (IMPO's original text of that article), ending with the full stop after its closing quote, as for art. 5; the article is absent before 2021.
+- Ley 19.480: every article was compared with IMPO's original text; apart from the articles a law changed (arts. 5 and 7), the difference is the closing formula.
+- Ley 19.480, quote end restored: art-005: Ley Nº 19.924 art. 749's wording ends with its closing quote and full stop (1 versions); art-007: Ley Nº 19.924 art. 750's wording ends with its closing quote and full stop (1 versions).
+- Ley 19.061: in force 2013-02-01 (published 2013-01-22; Código Civil art. 1: ten days after publication). Amending laws' days: Ley Nº 19.824 2019-10-05 (published 2019-09-25; Código Civil art. 1: ten days after publication); Ley Nº 19.996 2022-01-01 (its vigencia article: "regirá a partir del 1° de enero de 2022" (artículo 2)).
+- Ley 19.061: of a fixed sample of 12 articles IMPO records no change to, 12 have the words of IMPO's original text.
+- Ley 19.061 has no vigencia article; it is in force from 1 February 2013, ten days after its publication on 22 January 2013 (Código Civil art. 1). Its art. 10 sets equipment duties "a partir de los ciento ochenta días de la promulgación"; that term changes no words, so no version follows from it.
+- Ley 19.061, art. 14: replaced by Ley 19.824 art. 51 (in force 5 October 2019, ten days after its publication on 25 September 2019; IMPO's note gives no vigencia article for it).
+- Ley 19.061, arts. 5 and 10: replaced by Ley 19.996 arts. 41 and 42 (in force 1 January 2022 by its art. 2); the first wording of each is IMPO's original text.
+- Ley 19.061: every article was compared with IMPO's original text; apart from the articles a law changed (arts. 5, 10 and 14), the differences are the chapter headings IMPO's original prints inside the articles and the closing formula.
+- Ley 18.126: in force 2007-06-01 (published 2007-05-22; Código Civil art. 1: ten days after publication). Amending laws' days: Ley Nº 20.212 2024-01-01 (its vigencia article: "regirá a partir del 1° de enero de 2024" (artículo 2)); Ley Nº 20.446 2026-01-18 (published 2026-01-08; Código Civil art. 1: ten days after publication (not backdated: its vigencia article: "regirá a partir del 1° de enero de 2026" gives 2026-01-01, before its publication on 2026-01-08) (artículo 3)).
+- Ley 18.126: of a fixed sample of 11 articles IMPO records no change to, 10 have the words of IMPO's original text; art. 13 differ only by a correction, a paragraph break or a trailing heading no amending law explains, and read as IMPO gives them today from the first version (not committed as changes).
+- Ley 18.126 has no vigencia article; it is in force from 1 June 2007, ten days after its publication on 22 May 2007 (Código Civil art. 1).
+- Ley 18.126, art. 3: Ley 20.212 art. 234 (in force 1 January 2024 by its art. 2) added literal H), and Ley 20.446 art. 240 gave literal D) new wording. IMPO's consolidated text keeps only the last wording, so the 2024 wording is IMPO's original text of art. 3 with the literal Ley 20.212 art. 234 quotes (IMPO's original text of that article) added at the end, word for word; it shows from 1 January 2024, credited to Ley 20.212, and the 2026 version is credited to Ley 20.446 only.
+- Ley 18.126, art. 3: Ley 20.446 says in its art. 3 that it governs from 1 January 2026, before its publication on 8 January 2026; no law is backdated in this history, so its change shows from 18 January 2026, ten days after publication, as in every other part.
+- Ley 18.126, art. 11: Ley 20.212 art. 235 (1 January 2024) replaced the whole article; its new wording has no heading and no opening inciso ("(Creación e integración).- Créanse las Mesas de Desarrollo Rural."), so from 2024 the article is IMPO's text today, without them.
+- Ley 18.126, art. 13: IMPO's original text ends "ley." followed by the closing formula, where its consolidated text ends "ley.-"; IMPO records no change, so the consolidated text is shown from the first version.
+- Ley 18.126: every article was compared with IMPO's original text; apart from the articles a law changed (arts. 3 and 11) and art. 13 (above), the differences are the chapter headings IMPO's original prints inside the articles.
+- Ley 18.126, replayed in between: art-003: Ley Nº 20.212 art. 234's own words (add_item) applied from 2024-01-01, until the next law replaces it.
 
 ## What AI did and did not do
 
@@ -1314,6 +1362,8 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote Lexifina's code and chose the sources. It wrote no legal text: every unit is parsed from IMPO or Parlamento bytes.
+- A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
+- A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.

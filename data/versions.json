@@ -9492,6 +9492,136 @@
      "sha256": "0a6919f7f7d1e1dc73859315addee764fdfb2d37a28c6f57fefcdad88cb34c58"
     }
    ]
+  },
+  {
+   "slug": "ley-18241",
+   "short": "Ley 18.241",
+   "title": "Ley del Subsidio a la Vejez para Personas en Situación de Indigencia o Extrema Pobreza (Ley Nº 18.241)",
+   "url": "https://www.impo.com.uy/bases/leyes/18241-2007",
+   "versions": [
+    {
+     "from": "2008-01-18",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18241-2007",
+     "sha256": "96685c6309d17f63ef9e35d50ee3824058a8252a8eea694a0dccf3be69b6fcec"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18241-2007",
+     "sha256": "96685c6309d17f63ef9e35d50ee3824058a8252a8eea694a0dccf3be69b6fcec"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 10,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18241-2007",
+     "sha256": "96685c6309d17f63ef9e35d50ee3824058a8252a8eea694a0dccf3be69b6fcec"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17968",
+   "short": "Ley 17.968",
+   "title": "Ley de la Comisión Permanente de Pensiones Graciables (Ley Nº 17.968)",
+   "url": "https://www.impo.com.uy/bases/leyes/17968-2006",
+   "versions": [
+    {
+     "from": "2006-06-15",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17968-2006",
+     "sha256": "a271010b4b4a9e1688b11baa0df98a60505e941d4b3cb8d257a7dcb105fbb79a"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17968-2006",
+     "sha256": "a271010b4b4a9e1688b11baa0df98a60505e941d4b3cb8d257a7dcb105fbb79a"
+    },
+    {
+     "from": "2026-01-18",
+     "units": 4,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17968-2006",
+     "sha256": "a271010b4b4a9e1688b11baa0df98a60505e941d4b3cb8d257a7dcb105fbb79a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19480",
+   "short": "Ley 19.480",
+   "title": "Ley del Registro de Personas Obligadas al Pago de Pensiones Alimenticias (Ley Nº 19.480)",
+   "url": "https://www.impo.com.uy/bases/leyes/19480-2017",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 6,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19480-2017",
+     "sha256": "23ee016a92cf739e0e7604adff77ee38adb361162e2aef04ad04dff19a7fc224"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19480-2017",
+     "sha256": "23ee016a92cf739e0e7604adff77ee38adb361162e2aef04ad04dff19a7fc224"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 7,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19480-2017",
+     "sha256": "23ee016a92cf739e0e7604adff77ee38adb361162e2aef04ad04dff19a7fc224"
+    }
+   ]
+  },
+  {
+   "slug": "ley-19061",
+   "short": "Ley 19.061",
+   "title": "Ley de Tránsito y Seguridad Vial (Ley Nº 19.061)",
+   "url": "https://www.impo.com.uy/bases/leyes/19061-2013",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 18,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19061-2013",
+     "sha256": "75042f38a49241b120f3e92d2588281743ac61c13b96bb0a99715ef9f6fc0555"
+    },
+    {
+     "from": "2019-10-05",
+     "units": 18,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19061-2013",
+     "sha256": "75042f38a49241b120f3e92d2588281743ac61c13b96bb0a99715ef9f6fc0555"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 18,
+     "source_url": "https://www.impo.com.uy/bases/leyes/19061-2013",
+     "sha256": "75042f38a49241b120f3e92d2588281743ac61c13b96bb0a99715ef9f6fc0555"
+    }
+   ]
+  },
+  {
+   "slug": "ley-18126",
+   "short": "Ley 18.126",
+   "title": "Ley del Consejo Agropecuario (Ley Nº 18.126)",
+   "url": "https://www.impo.com.uy/bases/leyes/18126-2007",
+   "versions": [
+    {
+     "from": "2007-06-01",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18126-2007",
+     "sha256": "d8aa5c3a468eae0823b12a751c3d97e7a4b3d0dc818ff47ef595452650da515e"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18126-2007",
+     "sha256": "d8aa5c3a468eae0823b12a751c3d97e7a4b3d0dc818ff47ef595452650da515e"
+    },
+    {
+     "from": "2026-01-18",
+     "units": 13,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18126-2007",
+     "sha256": "d8aa5c3a468eae0823b12a751c3d97e7a4b3d0dc818ff47ef595452650da515e"
+    }
+   ]
   }
  ]
 }

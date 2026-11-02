@@ -274,6 +274,11 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `ley-11021/` | Ley de Jubilación de los Docentes de Enseñanza Primaria y Normal (Ley Nº 11.021 of 1948) | 4 | As enacted (in force 24 January 1948), then Ley 11.923, Ley 12.087, Ley 12.802, to today |
 | `ley-20506/` | Ley de Promoción del Trabajo Digno y Decente de las Personas que Enfrentan Mayores Obstáculos para Acceder al Mercado Laboral (Ley Nº 20.506 of 2026) | 1 | As enacted (in force 27 July 2026), with no amendment recorded by IMPO, to today |
 | `ley-17885/` | Ley del Voluntariado Social (Ley Nº 17.885 of 2005) | 3 | As enacted (in force 29 August 2005), then Ley 18.172, Ley 18.719, to today |
+| `ley-18241/` | Ley del Subsidio a la Vejez para Personas en Situación de Indigencia o Extrema Pobreza (Ley Nº 18.241 of 2007) | 3 | As enacted (in force 18 January 2008), then Ley 19.996, Ley 20.130, to today |
+| `ley-17968/` | Ley de la Comisión Permanente de Pensiones Graciables (Ley Nº 17.968 of 2006) | 3 | As enacted (in force 15 June 2006), then Ley 18.046, Ley 20.446, to today |
+| `ley-19480/` | Ley del Registro de Personas Obligadas al Pago de Pensiones Alimenticias (Ley Nº 19.480 of 2017) | 3 | As enacted (in force 27 January 2017), then Ley 19.924, Ley 19.996, to today |
+| `ley-19061/` | Ley de Tránsito y Seguridad Vial (Ley Nº 19.061 of 2013) | 3 | As enacted (in force 1 February 2013), then Ley 19.824, Ley 19.996, to today |
+| `ley-18126/` | Ley del Consejo Agropecuario (Ley Nº 18.126 of 2007) | 3 | As enacted (in force 1 June 2007), then Ley 20.212, Ley 20.446, to today |
 
 The articles are `<act>/art-NNN.md` (`art-009-bis.md` for Artículo 9 BIS; four digits in the Código Civil, `art-1782.md`); the Constitution's Disposiciones Transitorias y Especiales are `constitucion/disp-trans-<letter>.md` (`-prima` for V'), Z'), `-segunda` for Z")). The per-act `README.md` lists every provision, how often it changed and when.
 

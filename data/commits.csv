@@ -671,3 +671,15 @@ day,kind,law,acts,files,branch
 2008-01-01,law,ley-18172,ley-17885,1,main
 2011-01-15,law,ley-18719,ley-17885,1,main
 2026-07-27,start,ley-20506,ley-20506,34,main
+2006-06-15,start,ley-17968,ley-17968,4,main
+2007-01-01,law,ley-18046,ley-17968,2,main
+2007-06-01,start,ley-18126,ley-18126,13,main
+2008-01-18,start,ley-18241,ley-18241,10,main
+2013-02-01,start,ley-19061,ley-19061,18,main
+2017-01-27,start,ley-19480,ley-19480,6,main
+2019-10-05,law,ley-19824,ley-19061,1,main
+2021-01-01,law,ley-19924,ley-19480,2,main
+2022-01-01,law,ley-19996,ley-18241 ley-19480 ley-19061,6,main
+2023-08-01,law,ley-20130,ley-18241,4,main
+2024-01-01,law,ley-20212,ley-18126,2,main
+2026-01-18,law,ley-20446,ley-17968 ley-18126,2,main
