@@ -9452,6 +9452,46 @@
      "sha256": "1875e8abe86e29d6ef3f64c137f81ddde003278a3e0b853a3defd5187b72eb64"
     }
    ]
+  },
+  {
+   "slug": "ley-20506",
+   "short": "Ley 20.506",
+   "title": "Ley de Promoción del Trabajo Digno y Decente de las Personas que Enfrentan Mayores Obstáculos para Acceder al Mercado Laboral (Ley Nº 20.506)",
+   "url": "https://www.impo.com.uy/bases/leyes/20506-2026",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 34,
+     "source_url": "https://www.impo.com.uy/bases/leyes/20506-2026",
+     "sha256": "6b99e71567e0c5fb78aad54759d85f177f3304de2bad093f73a8aca92c2b81af"
+    }
+   ]
+  },
+  {
+   "slug": "ley-17885",
+   "short": "Ley 17.885",
+   "title": "Ley del Voluntariado Social (Ley Nº 17.885)",
+   "url": "https://www.impo.com.uy/bases/leyes/17885-2005",
+   "versions": [
+    {
+     "from": "2005-08-29",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17885-2005",
+     "sha256": "0a6919f7f7d1e1dc73859315addee764fdfb2d37a28c6f57fefcdad88cb34c58"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17885-2005",
+     "sha256": "0a6919f7f7d1e1dc73859315addee764fdfb2d37a28c6f57fefcdad88cb34c58"
+    },
+    {
+     "from": "2011-01-15",
+     "units": 12,
+     "source_url": "https://www.impo.com.uy/bases/leyes/17885-2005",
+     "sha256": "0a6919f7f7d1e1dc73859315addee764fdfb2d37a28c6f57fefcdad88cb34c58"
+    }
+   ]
   }
  ]
 }

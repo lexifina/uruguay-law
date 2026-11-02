@@ -272,6 +272,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `ley-13641/` | Ley de Aportaciones de Seguridad Social de las Empresas Periodísticas (Ley Nº 13.641 of 1968) | 7 | As enacted (in force 18 January 1968), then 6 amending laws from Ley 13.892 (1970) to Ley 16.275 (1992), to today |
 | `ley-18874/` | Ley del Monotributo Social MIDES (Ley Nº 18.874 of 2011) | 4 | As enacted (in force 21 January 2012), then Ley 19.355, Ley 19.417, Ley 19.670, to today |
 | `ley-11021/` | Ley de Jubilación de los Docentes de Enseñanza Primaria y Normal (Ley Nº 11.021 of 1948) | 4 | As enacted (in force 24 January 1948), then Ley 11.923, Ley 12.087, Ley 12.802, to today |
+| `ley-20506/` | Ley de Promoción del Trabajo Digno y Decente de las Personas que Enfrentan Mayores Obstáculos para Acceder al Mercado Laboral (Ley Nº 20.506 of 2026) | 1 | As enacted (in force 27 July 2026), with no amendment recorded by IMPO, to today |
+| `ley-17885/` | Ley del Voluntariado Social (Ley Nº 17.885 of 2005) | 3 | As enacted (in force 29 August 2005), then Ley 18.172, Ley 18.719, to today |
 
 The articles are `<act>/art-NNN.md` (`art-009-bis.md` for Artículo 9 BIS; four digits in the Código Civil, `art-1782.md`); the Constitution's Disposiciones Transitorias y Especiales are `constitucion/disp-trans-<letter>.md` (`-prima` for V'), Z'), `-segunda` for Z")). The per-act `README.md` lists every provision, how often it changed and when.
 
