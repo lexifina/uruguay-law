@@ -20,14 +20,16 @@ M = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', '
 MARK = '**Current text only.**'
 PARA = (f'{MARK} The acts whose History reads "Current text only" have one version: IMPO\'s consolidated text as '
         'published today, the oldest version available here, credited to IMPO and not to a law. It is dated by '
-        'IMPO\'s own last-change day: the latest date IMPO\'s notes give for a law that changed the text, or the '
-        'law\'s promulgation when the notes name none. Articles IMPO marks repealed whole, bare "(*)" articles of '
+        "its in-force day: that of the last law IMPO's notes name as changing the text, or the law's own when the "
+        "notes name none, each found as for the other acts (a law's own vigencia article, else ten days after its "
+        'publication). Articles IMPO marks repealed whole, bare "(*)" articles of '
         'amendments and articles IMPO prints without text are not included. A law IMPO marks repealed whole ends '
         'with a commit, credited to the repealing law, that removes every article. Their titles are IMPO\'s own names '
         'of the laws, as IMPO prints them. Earlier versions of these acts may be added later.')
 PARA_ES = (f'**Solo texto vigente.** Las leyes cuya historia dice "Current text only" tienen una sola versión: el texto '
-           'actualizado de IMPO, fechado el último día de cambio que dan las notas de IMPO (o la promulgación, si no '
-           'nombran ninguna ley modificativa). Una ley que IMPO marca como derogada termina con un commit, atribuido '
+           'actualizado de IMPO, fechado el día en que entró en vigencia: el de la última ley '
+           'modificativa que nombran las notas de IMPO, o el de la propia ley si no nombran ninguna. Una ley que IMPO '
+           'marca como derogada termina con un commit, atribuido '
            'a la ley derogatoria, que retira todos sus artículos.')
 
 
@@ -41,7 +43,7 @@ def row(a: dict, laws: dict) -> str:
     name, num = t[:t.rindex('(')].strip(), t[t.rindex('(') + 1:-1]
     own = laws[a['earlier_laws'][0]]
     v0 = a['versions'][0]
-    hist = f'Current text only (IMPO\'s text, last changed {day(v0["from"])})'
+    hist = f'Current text only (IMPO\'s text, in force from {day(v0["from"])})'
     if len(a['versions']) == 2:
         rep = next(iter(a['versions'][1]['credits'].values()))[0]
         hist += f', then repealed by {laws[rep]["label"].replace(" Nº", "")} (in force {day(a["versions"][1]["from"])})'
