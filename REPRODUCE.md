@@ -86,6 +86,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
+| IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -353,20 +354,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-19037` | Ley del Marco Legal de los Museos (Ley Nº 19.037) | 4 | 2013-01-17 to 2026-01-18 |
 | `ley-19009` | Ley del Régimen General de las Actividades Postales (Ley Nº 19.009) | 4 | 2012-12-10 to 2019-01-01 |
 | `ley-13641` | Ley de Aportaciones de Seguridad Social de las Empresas Periodísticas (Ley Nº 13.641) | 7 | 1968-01-18 to 1992-08-13 |
+| `ley-18874` | Ley del Monotributo Social MIDES (Ley Nº 18.874) | 4 | 2012-01-21 to 2019-01-01 |
+| `ley-11021` | Ley de Jubilación de los Docentes de Enseñanza Primaria y Normal (Ley Nº 11.021) | 4 | 1948-01-24 to 1960-12-24 |
 
-The build made 660 commits:
+The build made 668 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 260 | first version of an act |
-| 400 | one law on its in-force day |
+| 262 | first version of an act |
+| 406 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
-- 72 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 628 laws in the record.
-- 1801 tags.
+- 76 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 634 laws in the record.
+- 1980 tags.
 
 ## Dates
 
@@ -378,15 +381,15 @@ When a law gives no date of its own, the default rule applies: Código Civil art
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `81ae9bd4f9668dbd591e3eb64d9b3c9802f42034a4c6c124df8e964e2fdbb752` (16547731 bytes).
+- Corpus: sha256 `f0b769b9ba2219257d6e6d6482de04e2453d6a96fba09149d62773379c694daf` (16588894 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-1218 versions of 260 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+1226 versions of 262 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 665 history commits and 1815 tags (history tip `594555f1239ed658ead13803273467217d59b784`).
 
 ## Decisions made by hand
 
@@ -1270,6 +1273,21 @@ No second build of this corpus has been compared yet.
 - Ley 13.641: every article was compared with IMPO's original text; apart from the articles a law changed (arts. 1, 3, 9, 18 and 29), the differences are the chapter headings IMPO's original prints inside the articles and the closing formula.
 - Ley 13.641: amended articles IMPO gives no TEXTO ORIGINAL link for start from IMPO's original text at leyes-originales/13641-1968/<n>: Artículo 18.
 - Ley 13.641, replayed in between: art-029: Ley Nº 14.106 art. 23's own words (last_inciso) applied from 1973-03-30, until the next law replaces it; art-029: Decreto-Ley Nº 14.189 art. 563's own words (last_inciso) applied from 1974-05-19, until the next law replaces it.
+- Batch 18 acts are rebuilt the same way as batches 2 to 17, with their readings: each amended article starts from IMPO's original text, today's text is IMPO's consolidated text, intermediate texts are only those an amending law quotes or IMPO's notes determine, and each amending law is in force on the day its own vigencia article gives, else ten days after publication (Código Civil art. 1); a law shared with an earlier part has the same day there.
+- Ley 18.874: in force 2012-01-21 (published 2012-01-11; Código Civil art. 1: ten days after publication (not backdated: its art. 24: "Esta ley entrará en vigencia desde el momento de su promulgación" (promulgated 23/12/2011) gives 2011-12-23, before its publication on 2012-01-11)). Amending laws' days: Ley Nº 19.355 2016-01-01 (its vigencia article: "regirá a partir del 1° de enero de 2016" (artículo 3)); Ley Nº 19.417 2016-08-06 (published 2016-07-27; Código Civil art. 1: ten days after publication); Ley Nº 19.670 2019-01-01 (its vigencia article: "regirá a partir del 1° de enero de 2019" (artículo 2)).
+- Ley 18.874: of a fixed sample of 12 articles IMPO records no change to, 11 have the words of IMPO's original text; art. 14 differ only by a correction, a paragraph break or a trailing heading no amending law explains, and read as IMPO gives them today from the first version (not committed as changes).
+- Ley 18.874: its art. 24 puts it in force "desde el momento de su promulgación" (23 December 2011), before its publication on 11 January 2012; no law is backdated in this history, so it is in force from 21 January 2012, ten days after publication.
+- Ley 18.874, art. 1: Ley 19.355 art. 534 (in force 1 January 2016 by its art. 3) replaced literales B) and C) by a single literal B) ("un máximo de cinco socios"); IMPO's text today has that literal and no literal C), and the change is credited to Ley 19.355.
+- Ley 18.874, art. 4: Ley 19.417 art. 3 (in force 6 August 2016, ten days after publication) added an inciso to literal A), and Ley 19.670 art. 233 (1 January 2019, its art. 2) repealed literal B). IMPO's consolidated text keeps only the last wording, so the 2016 wording is IMPO's original text of art. 4 with the inciso Ley 19.417 art. 3 quotes (IMPO's original text of that article) added at the end of literal A), word for word; it shows from 6 August 2016, credited to Ley 19.417, and the 2019 version is credited to Ley 19.670 only. IMPO's text keeps the marker "B)" with no words after it, and literal B) is shown as IMPO gives it.
+- Ley 18.874, art. 14: IMPO gives only its opening words ("Sustitúyese el literal S'), numeral 3) del artículo 33 del TOCAF, el que quedará redactado de la siguiente forma:") and "(*)", with the new literal only as an image; that literal belongs to the TOCAF's text, so the article is shown as IMPO gives it, from the first version. Arts. 19 to 21: IMPO gives them only as "(*)" with a note that they gave new wording to the Texto Ordenado 1996 (DGI) Título 4 art. 52 literal Q) and Título 10 arts. 18 literal K) and 20 literal D); those words belong to that text, so they are not units of this act.
+- Ley 18.874: every article was compared with IMPO's original text; apart from the articles a law changed (arts. 1, 4 and 13) and arts. 14 and 19 to 21 (above), the difference is the closing formula.
+- Ley 18.874, replayed in between: art-004: Ley Nº 19.417 art. 3's own words (add_to_item) applied from 2016-08-06, until the next law replaces it.
+- Ley 11.021: in force 1948-01-24 (published 1948-01-14; Código Civil art. 1: ten days after publication). Amending laws' days: Ley Nº 11.923 1953-04-16 (published 1953-04-06; Código Civil art. 1: ten days after publication); Ley Nº 12.087 1954-01-15 (published 1954-01-05; Código Civil art. 1: ten days after publication); Ley Nº 12.802 1960-12-24 (published 1960-12-14; Código Civil art. 1: ten days after publication).
+- Ley 11.021: of a fixed sample of 7 articles IMPO records no change to, 6 have the words of IMPO's original text; art. 9 differ only by a correction, a paragraph break or a trailing heading no amending law explains, and read as IMPO gives them today from the first version (not committed as changes).
+- Ley 11.021 has no vigencia article; it is in force from 24 January 1948, ten days after its publication on 14 January 1948 (Código Civil art. 1).
+- Ley 11.021, art. 2: Ley 11.923 art. 187 (in force 16 April 1953) and Ley 12.087 art. 1 (15 January 1954), each ten days after publication, replaced the whole article. IMPO's consolidated text keeps only the last wording, so the 1953 wording is the passage Ley 11.923 art. 187 quotes (IMPO's original text of that article); that quotation ends with the closing quote before the sentence's full stop, so the wording ends with that full stop, as the 1954 wording does. IMPO serves no original text of Ley 12.087 art. 1 as data; its wording is IMPO's consolidated text.
+- Ley 11.021: every article was compared with IMPO's original text; apart from the articles a law changed (arts. 2 and 5), the difference is the closing formula.
+- Ley 11.021, quote end restored: art-002: Ley Nº 11.923 art. 187's wording ends with its closing quote and full stop (1 versions).
 
 ## What AI did and did not do
 
@@ -1281,6 +1299,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote Lexifina's code and chose the sources. It wrote no legal text: every unit is parsed from IMPO or Parlamento bytes.
+- A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.
 - A model (Claude) wrote Lexifina's code and read the vigencia articles listed in decisions. It wrote no legal text: every unit is parsed from IMPO bytes, apart from the fixed placeholder sentence of the anachronism rule.

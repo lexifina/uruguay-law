@@ -270,6 +270,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `ley-19037/` | Ley del Marco Legal de los Museos (Ley Nº 19.037 of 2012) | 4 | As enacted (in force 17 January 2013), then Ley 19.670, Ley 19.924, Ley 20.446, to today |
 | `ley-19009/` | Ley del Régimen General de las Actividades Postales (Ley Nº 19.009 of 2012) | 4 | As enacted (in force 10 December 2012), then Ley 19.355, Ley 19.594, Ley 19.670, to today |
 | `ley-13641/` | Ley de Aportaciones de Seguridad Social de las Empresas Periodísticas (Ley Nº 13.641 of 1968) | 7 | As enacted (in force 18 January 1968), then 6 amending laws from Ley 13.892 (1970) to Ley 16.275 (1992), to today |
+| `ley-18874/` | Ley del Monotributo Social MIDES (Ley Nº 18.874 of 2011) | 4 | As enacted (in force 21 January 2012), then Ley 19.355, Ley 19.417, Ley 19.670, to today |
+| `ley-11021/` | Ley de Jubilación de los Docentes de Enseñanza Primaria y Normal (Ley Nº 11.021 of 1948) | 4 | As enacted (in force 24 January 1948), then Ley 11.923, Ley 12.087, Ley 12.802, to today |
 
 The articles are `<act>/art-NNN.md` (`art-009-bis.md` for Artículo 9 BIS; four digits in the Código Civil, `art-1782.md`); the Constitution's Disposiciones Transitorias y Especiales are `constitucion/disp-trans-<letter>.md` (`-prima` for V'), Z'), `-segunda` for Z")). The per-act `README.md` lists every provision, how often it changed and when.
 

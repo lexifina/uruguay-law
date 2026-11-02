@@ -9388,6 +9388,70 @@
      "sha256": "e5e930bacc75447bd8636e5cc87e4bbb8c2873c87c203b31cf4551308dbd45ea"
     }
    ]
+  },
+  {
+   "slug": "ley-18874",
+   "short": "Ley 18.874",
+   "title": "Ley del Monotributo Social MIDES (Ley Nº 18.874)",
+   "url": "https://www.impo.com.uy/bases/leyes/18874-2011",
+   "versions": [
+    {
+     "from": "2012-01-21",
+     "units": 21,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18874-2011",
+     "sha256": "76c2608cec874de2782a506b65282fbcf090f4bce9193bb6c8710d5babec5352"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 21,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18874-2011",
+     "sha256": "76c2608cec874de2782a506b65282fbcf090f4bce9193bb6c8710d5babec5352"
+    },
+    {
+     "from": "2016-08-06",
+     "units": 21,
+     "source_url": "https://www.impo.com.uy/bases/leyes-originales/19417-2016/3",
+     "sha256": "10d24579eb4f6266be8d25210fd126d4bf03a8836fd116385015886fdb9ef113"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 21,
+     "source_url": "https://www.impo.com.uy/bases/leyes/18874-2011",
+     "sha256": "76c2608cec874de2782a506b65282fbcf090f4bce9193bb6c8710d5babec5352"
+    }
+   ]
+  },
+  {
+   "slug": "ley-11021",
+   "short": "Ley 11.021",
+   "title": "Ley de Jubilación de los Docentes de Enseñanza Primaria y Normal (Ley Nº 11.021)",
+   "url": "https://www.impo.com.uy/bases/leyes/11021-1948",
+   "versions": [
+    {
+     "from": "1948-01-24",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11021-1948",
+     "sha256": "1875e8abe86e29d6ef3f64c137f81ddde003278a3e0b853a3defd5187b72eb64"
+    },
+    {
+     "from": "1953-04-16",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11021-1948",
+     "sha256": "1875e8abe86e29d6ef3f64c137f81ddde003278a3e0b853a3defd5187b72eb64"
+    },
+    {
+     "from": "1954-01-15",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11021-1948",
+     "sha256": "1875e8abe86e29d6ef3f64c137f81ddde003278a3e0b853a3defd5187b72eb64"
+    },
+    {
+     "from": "1960-12-24",
+     "units": 9,
+     "source_url": "https://www.impo.com.uy/bases/leyes/11021-1948",
+     "sha256": "1875e8abe86e29d6ef3f64c137f81ddde003278a3e0b853a3defd5187b72eb64"
+    }
+   ]
   }
  ]
 }
