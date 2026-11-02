@@ -1,7 +1,18 @@
-The legal text in this repository is the official text of the Constitución de la República Oriental del Uruguay,
-as published by the Dirección Nacional de Impresiones y Publicaciones Oficiales (IMPO), Base de datos de
+The legal text in this repository is the official text of the Constitución de la República Oriental del Uruguay
+and of the codes and laws listed in README.md, as published by the Dirección Nacional de Impresiones y Publicaciones Oficiales (IMPO), Base de datos de
 normativa (https://www.impo.com.uy/bases), and by the Parlamento del Uruguay (https://parlamento.gub.uy). Lexifina
 makes no claim to it. Source of the text and of every date and reference: IMPO and the Parlamento del Uruguay.
+
+Nota de origen (IMPO open data). The texts and data from IMPO are used under the Licencia de Datos Abiertos –
+Uruguay, version 0.1:
+https://www.impo.com.uy/wp_impo/wp-content/uploads/2018/06/licencia-de-datos-abiertos.pdf
+- Provider / Proveedor: IMPO, Dirección Nacional de Impresiones y Publicaciones Oficiales.
+- Licence / Licencia: "Licencia de Datos Abiertos – Uruguay", version 0.1.
+- Datasets used / Conjuntos de datos: the IMPO legislation database (Base de datos de normativa,
+  https://www.impo.com.uy/bases), above all Leyes, with Decretos-Ley, the codes, the Constitución and the original
+  texts of laws.
+- Changes / Cambios: the texts were changed. They were assembled into a dated version history, with formatting
+  normalised (los textos se ordenaron en una historia de versiones fechadas y se normalizó el formato).
 
 This repository is not an official publication. Only the texts published by IMPO and the Parlamento are
 authoritative.

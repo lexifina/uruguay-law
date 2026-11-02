@@ -359,7 +359,13 @@ Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.or
 
 ## Licence
 
-The texts are the official texts published by IMPO (www.impo.com.uy/bases) and the Parlamento del Uruguay (parlamento.gub.uy), cited as the source of every version. We found no licence statement on either site and make no claim to the legal text. The history, commit messages, tables and tools are released under [CC0 1.0](LICENSE).
+The texts are the official texts published by IMPO (www.impo.com.uy/bases) and the Parlamento del Uruguay (parlamento.gub.uy), cited as the source of every version. We make no claim to the legal text. The history, commit messages, tables and tools are released under [CC0 1.0](LICENSE).
+
+**Nota de origen (IMPO open data).** The texts and data from IMPO are used under the [Licencia de Datos Abiertos – Uruguay, version 0.1](https://www.impo.com.uy/wp_impo/wp-content/uploads/2018/06/licencia-de-datos-abiertos.pdf).
+- Provider: IMPO, Dirección Nacional de Impresiones y Publicaciones Oficiales.
+- Licence: "Licencia de Datos Abiertos – Uruguay", version 0.1 (https://www.impo.com.uy/wp_impo/wp-content/uploads/2018/06/licencia-de-datos-abiertos.pdf).
+- Datasets used: the IMPO legislation database (Base de datos de normativa, https://www.impo.com.uy/bases), above all Leyes, with Decretos-Ley, the codes, the Constitución and the original texts of laws.
+- Changes: the texts were changed. They were assembled into a dated version history (one file per provision, one commit per amending law, earlier wordings rebuilt from IMPO's original texts and the amending laws' own words), with formatting normalised (line breaks rejoined into paragraphs, spacing and file layout made uniform).
 
 ---
 
@@ -373,3 +379,9 @@ La Constitución de la República Oriental del Uruguay como historia git: un arc
 - **Leyes** (Ley Nº 18.331 de Protección de Datos Personales): la primera versión de cada artículo modificado es el texto original que publica IMPO, y cada cambio se atribuye a la ley que nombran las notas de IMPO ("redacción dada por", "agregado/s por"), en la fecha de vigencia que fija la propia ley o, en su defecto, diez días después de su publicación (Código Civil, art. 1). Ninguna ley se fecha antes de su promulgación y publicación: si la fecha que fija es anterior, rige la regla general (diez días después de la publicación).
 
 Solo los textos del Parlamento y de IMPO son oficiales.
+
+**Nota de origen (datos abiertos de IMPO).** Los textos y datos de IMPO se utilizan bajo la [Licencia de Datos Abiertos – Uruguay, versión 0.1](https://www.impo.com.uy/wp_impo/wp-content/uploads/2018/06/licencia-de-datos-abiertos.pdf).
+- Proveedor: IMPO, Dirección Nacional de Impresiones y Publicaciones Oficiales.
+- Licencia: "Licencia de Datos Abiertos – Uruguay", versión 0.1 (https://www.impo.com.uy/wp_impo/wp-content/uploads/2018/06/licencia-de-datos-abiertos.pdf).
+- Conjuntos de datos utilizados: la base de datos de normativa de IMPO (https://www.impo.com.uy/bases), sobre todo Leyes, además de Decretos-Ley, los códigos, la Constitución y los textos originales de las leyes.
+- Cambios: los textos fueron modificados. Se ordenaron en una historia de versiones fechadas (un archivo por disposición, un commit por ley modificativa; las redacciones anteriores se reconstruyen a partir de los textos originales de IMPO y de las propias leyes modificativas) y se normalizó el formato (párrafos recompuestos, espaciado y estructura de archivos uniformes).
