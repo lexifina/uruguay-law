@@ -279,121 +279,311 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `ley-19480/` | Ley del Registro de Personas Obligadas al Pago de Pensiones Alimenticias (Ley Nº 19.480 of 2017) | 3 | As enacted (in force 27 January 2017), then Ley 19.924, Ley 19.996, to today |
 | `ley-19061/` | Ley de Tránsito y Seguridad Vial (Ley Nº 19.061 of 2013) | 3 | As enacted (in force 1 February 2013), then Ley 19.824, Ley 19.996, to today |
 | `ley-18126/` | Ley del Consejo Agropecuario (Ley Nº 18.126 of 2007) | 3 | As enacted (in force 1 June 2007), then Ley 20.212, Ley 20.446, to today |
-| `ley-10446/` | LEY DE REGISTRO CIVICO NACIONAL. MODIFICACION (Ley Nº 10.446 of 1943) | 1 | Current text only (IMPO's text, in force from 6 November 1943), to today |
-| `ley-10489/` | COMERCIO. REGIMEN HORARIO. FIJACION (Ley Nº 10.489 of 1944) | 1 | Current text only (IMPO's text, in force from 17 December 1974), to today |
-| `ley-10757/` | LEY ORGANICA MILITAR. MODIFICACION (Ley Nº 10.757 of 1946) | 1 | Current text only (IMPO's text, in force from 22 August 1946), to today |
-| `ley-10789/` | ELECCIONES NACIONALES. REGULACION (Ley Nº 10.789 of 1946) | 1 | Current text only (IMPO's text, in force from 7 October 1946), to today |
-| `ley-10793/` | LEY DE REGISTROS PUBLICOS (Ley Nº 10.793 of 1946) | 1 | Current text only (IMPO's text, in force from 28 January 1994), to today |
-| `ley-10808/` | LEY ORGANICA DE LA MARINA (Ley Nº 10.808 of 1946) | 1 | Current text only (IMPO's text, in force from 1 January 2024), to today |
-| `ley-10866/` | LEY DE CENTROS POBLADOS. MODIFICACION (Ley Nº 10.866 of 1946) | 1 | Current text only (IMPO's text, in force from 21 November 1946), to today |
-| `ley-10940/` | CONSEJO NACIONAL DE SUBSISTENCIAS Y CONTRALOR DE PRECIOS. CREACION (Ley Nº 10.940 of 1947) | 1 | Current text only (IMPO's text, in force from 30 March 1973), to today |
-| `ley-11326/` | EJERCITO. MARINA. FUNCIONARIOS MILITARES. REMUNERACIONES. FIJACION DE IMPUESTO (Ley Nº 11.326 of 1949) | 1 | Current text only (IMPO's text, in force from 6 October 1949), to today |
-| `ley-11460/` | JUZGADOS. CREACION. DENOMINACION (Ley Nº 11.460 of 1950) | 1 | Current text only (IMPO's text, in force from 1 January 2012), to today |
-| `ley-11549/` | SERVICIO OFICIAL DE DIFUSION RADIO ELECTRICA (SODRE). PRESUPUESTO (Ley Nº 11.549 of 1950) | 1 | Current text only (IMPO's text, in force from 1 January 2016), to today |
-| `ley-11577/` | INDUSTRIAS INSALUBRES. CREACION DE LA COMISION HONORARIA DE TRABAJOS INSALUBRES (Ley Nº 11.577 of 1950) | 1 | Current text only (IMPO's text, in force from 14 November 1950), to today |
-| `ley-11638/` | DIRECCION GENERAL DE INMIGRACION. PRESUPUESTO (Ley Nº 11.638 of 1951) | 1 | Current text only (IMPO's text, in force from 14 January 1973), to today |
-| `ley-11727/` | ELECCIONES NACIONALES. PLEBISCITO. REGLAMENTACION (Ley Nº 11.727 of 1951) | 1 | Current text only (IMPO's text, in force from 4 May 1962), to today |
-| `ley-11759/` | JUZGADOS. REGISTROS PUBLICOS. MODIFICACION (Ley Nº 11.759 of 1951) | 1 | Current text only (IMPO's text, in force from 8 December 1951), to today |
-| `ley-11908/` | NEGOCIACION COLECTIVA. CONSEJOS DE SALARIOS. TRABAJADORES. REMUNERACIONES. FISCALIZACION (Ley Nº 11.908 of 1952) | 1 | Current text only (IMPO's text, in force from 13 January 1953), to today |
-| `ley-11925/` | CONTADURIA GENERAL DE LA NACION. NORMAS DE ORDENAMIENTO FINANCIERO. AMPLIACION (Ley Nº 11.925 of 1953) | 1 | Current text only (IMPO's text, in force from 1 January 1988), to today |
-| `ley-11937/` | PODER EJECUTIVO. AUTORIZACION. DEUDA PUBLICA. EMISION (Ley Nº 11.937 of 1953) | 1 | Current text only (IMPO's text, in force from 5 June 1953), to today |
-| `ley-12079/` | PRESUPUESTO. MODIFICACION (Ley Nº 12.079 of 1953) | 1 | Current text only (IMPO's text, in force from 24 December 1960), to today |
-| `ley-12185/` | MODIFICACION DE LA LEY 10.757 RELATIVO AL REGIMEN DE ASCENSOS DE FUNCIONARIOS MILITARES (Ley Nº 12.185 of 1955) | 1 | Current text only (IMPO's text, in force from 1 March 1955), to today |
-| `ley-12358/` | OTORGAMIENTO DE EXONERACIONES TRIBUTARIAS Y AMPLIACION DE LOS PRESTAMOS PARA VIVIENDA DEL BHU (Ley Nº 12.358 of 1957) | 1 | Current text only (IMPO's text, in force from 2 February 1957), to today |
-| `ley-12482/` | ASIGNACION DE RECURSOS PRESUPUESTALES (Ley Nº 12.482 of 1957) | 1 | Current text only (IMPO's text, in force from 26 December 1960), to today |
-| `ley-12485/` | SE INSTITUYEN LAS CAJAS DE COMPENSACIONES Y ASIGNACIONES FAMILIARES (Ley Nº 12.485 of 1957) | 1 | Current text only (IMPO's text, in force from 17 January 1958), to today |
-| `ley-12543/` | SEGURIDAD SOCIAL. ASIGNACIONES FAMILIARES. APORTES PATRONALES (Ley Nº 12.543 of 1958) | 1 | Current text only (IMPO's text, in force from 9 November 1958), to today |
-| `ley-12613/` | MODIFICACIONES A LA REGLAMENTACION DE LA NAVEGACION Y COMERCIO DE CABOTAJE (Ley Nº 12.613 of 1959) | 1 | Current text only (IMPO's text, in force from 16 August 1959), to today |
-| `ley-12691/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1959 (Ley Nº 12.691 of 1959) | 1 | Current text only (IMPO's text, in force from 28 January 1960), to today |
-| `ley-12700/` | CREACION DEL IMPUESTO A LOS REMATES DE BIENES MUEBLES, INMUEBLES Y SEMOVIENTES (Ley Nº 12.700 of 1960) | 1 | Current text only (IMPO's text, in force from 30 October 1970), to today |
-| `ley-12801/` | REESTRUCTURACION DEL PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 12.801 of 1960) | 1 | Current text only (IMPO's text, in force from 1 January 2021), to today |
-| `ley-12803/` | PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 12.803 of 1960) | 1 | Current text only (IMPO's text, in force from 1 January 1988), to today |
-| `ley-12938/` | LEY DE CONTROL Y ERRADICACION DE LA FIEBRE AFTOSA (Ley Nº 12.938 of 1961) | 1 | Current text only (IMPO's text, in force from 15 November 2002), to today |
-| `ley-12990/` | MODIFICACIONES A LA LEY ORGANICA DE LA MARINA (Ley Nº 12.990 of 1961) | 1 | Current text only (IMPO's text, in force from 5 January 1962), to today |
-| `ley-12996/` | SEGURIDAD SOCIAL. JUBILACIONES Y PENSIONES CIVILES Y ESCOLARES, RURALES Y DOMESTICOS, INDUSTRIA Y COMERCIO (Ley Nº 12.996 of 1961) | 1 | Current text only (IMPO's text, in force from 26 January 1987), to today |
-| `ley-13041/` | DECLARACION DE VALIDEZ DE LAS INSCRIPCIONES Y REINSCRIPCIONES INCORPORADAS AL REGISTRO CIVICO NACIONAL (Ley Nº 13.041 of 1962) | 1 | Current text only (IMPO's text, in force from 4 May 1962), to today |
-| `ley-13102/` | REGIMEN DE IMPORTACION DE VEHICULOS AUTOMOTORES PARA PERSONAS CON DISCAPACIDAD (Ley Nº 13.102 of 1962) | 1 | Current text only (IMPO's text, in force from 1 January 2021), to today |
-| `ley-13145/` | MODIFICACIONES A LAS LEYES ORGANICAS DE LAS FUERZAS ARMADAS Y DE LA ARMADA NACIONAL. FUNCIONARIOS MILITARES (Ley Nº 13.145 of 1963) | 1 | Current text only (IMPO's text, in force from 27 July 1963), to today |
-| `ley-13296/` | REGIMEN DE REAJUSTE DE JUBILACIONES Y PENSIONES. OCTUBRE 1964 (Ley Nº 13.296 of 1964) | 1 | Current text only (IMPO's text, in force from 6 March 1967), to today |
-| `ley-13315/` | SEGURIDAD SOCIAL. AJUSTE DE TOPES JUBILATORIOS Y FIJACION DE SUELDOS FICTOS DE DIRECTORES DE S.A. (Ley Nº 13.315 of 1964) | 1 | Current text only (IMPO's text, in force from 1 January 1966), to today |
-| `ley-13317/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES - MODIFICACIONES A LA LEY 12801 (Ley Nº 13.317 of 1964) | 1 | Current text only (IMPO's text, in force from 1 May 1986), to today |
-| `ley-13320/` | PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 13.320 of 1964) | 1 | Current text only (IMPO's text, in force from 3 July 1980), to today |
-| `ley-13349/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1963 (Ley Nº 13.349 of 1965) | 1 | Current text only (IMPO's text, in force from 18 September 1975), to today |
-| `ley-13355/` | LEY DE ABREVIACION DE JUICIOS. MODIFICACIONES AL CODIGO DE PROCEDIMIENTO CIVIL (Ley Nº 13.355 of 1965) | 1 | Current text only (IMPO's text, in force from 19 September 1983), to today |
-| `ley-13426/` | FIJACION DE AUMENTO EN PASIVIDADES (Ley Nº 13.426 of 1965) | 1 | Current text only (IMPO's text, in force from 1 January 2017), to today |
-| `ley-13453/` | EXTENSION DE LA EXPLOTACION OTORGADA AL PODER EJECUTIVO DE CASINOS. PUNTA DEL ESTE. SAN RAFAEL. ATLANTIDA. PIRIAPOLIS. RIVERA. CARMELO (Ley Nº 13.453 of 1965) | 1 | Current text only (IMPO's text, in force from 22 January 1996), to today |
-| `ley-13556/` | LICENCIAS ANUALES DE LOS EMPLEADOS PRIVADOS. CONVENIOS COLECTIVOS DE TRABAJO (Ley Nº 13.556 of 1966) | 1 | Current text only (IMPO's text, in force from 19 December 1974), to today |
-| `ley-13581/` | PRESTAMOS PARA LA ADQUISICION DE VIVIENDAS PARA FUNCIONARIOS (Ley Nº 13.581 of 1966) | 1 | Current text only (IMPO's text, in force from 15 December 1978), to today |
-| `ley-13596/` | TRIBUTOS. REGIMEN DE FACILIDADES DE PAGO (Ley Nº 13.596 of 1967) | 1 | Current text only (IMPO's text, in force from 27 January 1980), to today |
-| `ley-13665/` | REGISTROS DE LA OFICINA DE IMPUESTOS INTERNOS Y DE LA DIRECCION DE CONTRALOR LEGAL. DIRECCION GENERAL IMPOSITIVA Y MINISTERIO DE GANADERIA Y AGRICULTURA (Ley Nº 13.665 of 1968) | 1 | Current text only (IMPO's text, in force from 6 July 1968), to today |
-| `ley-13782/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. RENTA NETA (Ley Nº 13.782 of 1969) | 1 | Current text only (IMPO's text, in force from 18 March 2015), to today |
-| `ley-13797/` | PRORROGA DE AUTORIZACION PARA EXPLOTACION DE CASINOS. PUNTA DEL ESTE. SAN RAFAEL. ATLANTIDA. PIRIAPOLIS. RIVERA. CARMELO (Ley Nº 13.797 of 1969) | 1 | Current text only (IMPO's text, in force from 14 December 1970), to today |
-| `ley-13835/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1968 (Ley Nº 13.835 of 1970) | 1 | Current text only (IMPO's text, in force from 1 January 2019), to today |
-| `ley-13870/` | ARRENDAMIENTOS RURALES. SUSPENSION DE LANZAMIENTOS CONTRA ARRENDATARIOS Y SUBARRENDATARIOS BUENOS PAGADORES Y SUS EXCEPCIONES (Ley Nº 13.870 of 1970) | 1 | Current text only (IMPO's text, in force from 19 September 1974), to today |
-| `ley-13899/` | EXPROPIACIONES PARA OBRAS EN RUTAS NACIONALES (Ley Nº 13.899 of 1970) | 1 | Current text only (IMPO's text, in force from 1 January 2016), to today |
-| `ley-13958/` | ESTABLECIMIENTO DE SERVIDUMBRE PARA OBRAS DE APROVECHAMIENTO HIDROELECTRICO DEL RIO URUGUAY - CREACION DEL FONDO ENERGETICO NACIONAL - EMISION DE BONOS ENERGETICOS REAJUSTABLES (Ley Nº 13.958 of 1971) | 1 | Current text only (IMPO's text, in force from 19 May 1974), to today |
-| `ley-14057/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1970 (Ley Nº 14.057 of 1972) | 1 | Current text only (IMPO's text, in force from 19 September 2014), to today |
-| `ley-14095/` | TIPIFICACION DE DELITOS ECONOMICOS DEL BANCO CENTRAL DEL URUGUAY Y CREACION DE UN CUERPO ESPECIAL DE PREVENCION Y REPRESION DE DELITOS ECONOMICOS (Ley Nº 14.095 of 1972) | 1 | Current text only (IMPO's text, in force from 29 December 2007), to today |
-| `ley-14127/` | ASIGNACION DE RECURSOS. CORTE ELECTORAL. INSCRIPCION EN EL REGISTRO CIVICO NACIONAL (Ley Nº 14.127 of 1973) | 1 | Current text only (IMPO's text, in force from 3 June 1973), to today |
-| `ley-15757/` | LEY DE CREACION DE LA OFICINA NACIONAL DEL SERVICIO CIVIL (Ley Nº 15.757 of 1985) | 1 | Current text only (IMPO's text, in force from 1 January 2021), to today |
-| `ley-15767/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL - EJERCICIO 1984 (Ley Nº 15.767 of 1985) | 1 | Current text only (IMPO's text, in force from 1 January 2021), to today |
-| `ley-15768/` | MODIFICACION DEL TEXTO ORDENADO DGI, RELATIVO AL IMPUESTO AL PATRIMONIO E IMPUESTO A LAS RENTAS AGROPECUARIAS (Ley Nº 15.768 of 1985) | 1 | Current text only (IMPO's text, in force from 5 October 1985), to today |
-| `ley-15770/` | COMPETENCIAS DE JUZGADOS LETRADOS DE PRIMERA INSTANCIA EN LO CIVIL - LOT (Ley Nº 15.770 of 1985) | 1 | Current text only (IMPO's text, in force from 7 October 1985), to today |
-| `ley-15799/` | LEY DE ARRENDAMIENTOS URBANOS Y SUBURBANOS - LEY DE EMERGENCIA (Ley Nº 15.799 of 1985) | 1 | Current text only (IMPO's text, in force from 1 January 2006), to today |
-| `ley-15808/` | FUNCIONARIOS MILITARES (Ley Nº 15.808 of 1986) | 1 | Current text only (IMPO's text, in force from 4 May 1986), to today |
-| `ley-15863/` | PASIVIDADES - INCOMPATIBILIDADES (Ley Nº 15.863 of 1987) | 1 | Current text only (IMPO's text, in force from 18 June 1987), to today |
-| `ley-15881/` | PROCESOS JUDICIALES - ORGANIZACION DE LOS TRIBUNALES (Ley Nº 15.881 of 1987) | 1 | Current text only (IMPO's text, in force from 12 October 2024), to today |
-| `ley-15896/` | REGULACION DE LAS HABILITACIONES QUE OTORGA LA DIRECCION NACIONAL DE BOMBEROS (Ley Nº 15.896 of 1987) | 1 | Current text only (IMPO's text, in force from 17 October 2024), to today |
-| `ley-15913/` | LEY DEL LIBRO. DECLARACION DE INTERES NACIONAL (Ley Nº 15.913 of 1987) | 1 | Current text only (IMPO's text, in force from 1 January 2024), to today |
-| `ley-16002/` | MODIFICACION DEL PLAN DE INVERSIONES. EJERCICIO 1988 - 1989 (Ley Nº 16.002 of 1988) | 1 | Current text only (IMPO's text, in force from 1 January 2016), to today |
-| `ley-16011/` | REGULACION DE DISPOSICIONES RELATIVA A LA ACCION DE AMPARO (Ley Nº 16.011 of 1988) | 1 | Current text only (IMPO's text, in force from 8 January 1989), to today |
-| `ley-16053/` | MODIFICACION AL CODIGO GENERAL DEL PROCESO - VIGENCIA (Ley Nº 16.053 of 1989) | 1 | Current text only (IMPO's text, in force from 6 August 1989), to today |
-| `ley-16082/` | DECLARACION DE INTERES NACIONAL - FIEBRE AFTOSA (Ley Nº 16.082 of 1989) | 1 | Current text only (IMPO's text, in force from 1 January 2013), to today |
-| `ley-16097/` | COMISION HONORARIA DE LUCHA CONTRA EL CANCER. CREACION. COMETIDOS (Ley Nº 16.097 of 1989) | 1 | Current text only (IMPO's text, in force from 1 January 1992), to today |
-| `ley-16101/` | TURISMO - REGISTRO DE EMPRESAS DE TURISMO SOCIAL - SALARIO VACACIONAL (Ley Nº 16.101 of 1989) | 1 | Current text only (IMPO's text, in force from 9 December 1989), to today |
-| `ley-16127/` | DESIGNACION, ASCENSOS E INCENTIVOS PARA FUNCIONARIOS PUBLICOS (Ley Nº 16.127 of 1990) | 1 | Current text only (IMPO's text, in force from 1 January 2018), to today |
-| `ley-16134/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1989 (Ley Nº 16.134 of 1990) | 1 | Current text only (IMPO's text, in force from 18 January 2026), to today |
-| `ley-16211/` | LEY DE EMPRESAS PUBLICAS (Ley Nº 16.211 of 1991) | 1 | Current text only (IMPO's text, in force from 1 January 2022), to today |
-| `ley-16244/` | REGIMEN DE REFINANCIACION DE DEUDAS POR OBLIGACIONES TRIBUTARIAS CON EL BANCO DE PREVISION SOCIAL (Ley Nº 16.244 of 1992) | 1 | Current text only (IMPO's text, in force from 1 January 2023), to today |
-| `ley-16343/` | INSTALACION Y FUNCIONAMIENTO DE LOS INSTITUTOS DE MEDICINA ALTAMENTE ESPECIALIZADA (Ley Nº 16.343 of 1992) | 1 | Current text only (IMPO's text, in force from 18 January 2026), to today |
-| `ley-16387/` | MARINA MERCANTE (Ley Nº 16.387 of 1993) | 1 | Current text only (IMPO's text, in force from 1 January 2009), to today |
-| `ley-16389/` | MODIFICACION AL CODIGO RURAL (Ley Nº 16.389 of 1993) | 1 | Current text only (IMPO's text, in force from 31 July 1993), to today |
-| `ley-16426/` | SEGUROS (Ley Nº 16.426 of 1993) | 1 | Current text only (IMPO's text, in force from 18 November 2018), to today |
-| `ley-16462/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1992 (Ley Nº 16.462 of 1994) | 1 | Current text only (IMPO's text, in force from 18 January 2026), to today |
-| `ley-16568/` | CASINOS DEL ESTADO - FUNCIONARIOS (Ley Nº 16.568 of 1994) | 1 | Current text only (IMPO's text, in force from 15 January 2011), to today |
-| `ley-16685/` | ADMINISTRACION DE JUSTICIA - MENORES ABANDONADOS (Ley Nº 16.685 of 1994) | 1 | Current text only (IMPO's text, in force from 13 January 1995), to today |
-| `ley-16696/` | CARTA ORGANICA DEL BANCO CENTRAL DEL URUGUAY (Ley Nº 16.696 of 1995) | 1 | Current text only (IMPO's text, in force from 18 January 2026), to today |
-| `ley-16720/` | SANIDAD MILITAR. DIRECCION NACIONAL DE SANIDAD DE LAS FUERZAS ARMADAS (Ley Nº 16.720 of 1995) | 1 | Current text only (IMPO's text, in force from 1 January 2012), to today |
-| `ley-16737/` | APROBACION DE LAS ENMIENDAS A LOS ARTS. 24 Y 25 DE LA CONSTITUCION DE LA ORGANIZACION MUNDIAL DE LA SALUD (OMS) (Ley Nº 16.737 of 1996) | 1 | Current text only (IMPO's text, in force from 28 January 1996), to today |
-| `ley-16747/` | DECLARACION DE PLAGA NACIONAL. PIOJERA OVINA (Ley Nº 16.747 of 1996) | 1 | Current text only (IMPO's text, in force from 1 January 2021), to today |
-| `ley-16812/` | EMISION BONOS DEL TESORO Y LETRAS DE TESORERIA (Ley Nº 16.812 of 1997) | 1 | Current text only (IMPO's text, in force from 12 April 1997), to today |
-| `ley-16838/` | SOCIEDADES COMERCIALES (Ley Nº 16.838 of 1997) | 1 | Current text only (IMPO's text, in force from 20 July 1997), to today |
-| `ley-16851/` | SEGUROS (Ley Nº 16.851 of 1997) | 1 | Current text only (IMPO's text, in force from 7 August 1997), to today |
-| `ley-16883/` | TRABAJADORES RURALES. SEGURIDAD SOCIAL. APORTES (Ley Nº 16.883 of 1997) | 1 | Current text only (IMPO's text, in force from 1 December 1997), to today |
-| `ley-16901/` | LEY DE REGISTROS PUBLICOS - VIGENCIA (Ley Nº 16.901 of 1997) | 1 | Current text only (IMPO's text, in force from 22 January 1998), to today |
-| `ley-16911/` | FUNCIONARIOS POLICIALES (Ley Nº 16.911 of 1998) | 1 | Current text only (IMPO's text, in force from 19 March 1998), to today |
-| `ley-16995/` | CODIGO GENERAL DEL PROCESO - LEY PROCESAL CIVIL (Ley Nº 16.995 of 1998) | 1 | Current text only (IMPO's text, in force from 14 September 1998), to today |
-| `ley-17036/` | SEGURIDAD SOCIAL - FUNCIONARIOS MILITARES (Ley Nº 17.036 of 1998) | 1 | Current text only (IMPO's text, in force from 14 December 1998), to today |
-| `ley-17243/` | LEY DE URGENCIA. SERVICIOS PUBLICOS Y PRIVADOS. FOMENTO DEL EMPLEO Y LA INVERSION (Ley Nº 17.243 of 2000) | 1 | Current text only (IMPO's text, in force from 18 January 2026), to today |
-| `ley-17309/` | CREACION DEL IMPUESTO ESPECIFICO A LOS SERVICIOS DE SALUD (Ley Nº 17.309 of 2001) | 2 | Current text only (IMPO's text, in force from 12 April 2001), then repealed by Ley 18.083 (in force 1 July 2007) |
-| `ley-17451/` | PERSONAS PUBLICAS NO ESTATALES. FONDO DE SOLIDARIDAD (Ley Nº 17.451 of 2002) | 1 | Current text only (IMPO's text, in force from 31 January 2002), to today |
-| `ley-17523/` | LEY DE FORTALECIMIENTO DEL SISTEMA BANCARIO (Ley Nº 17.523 of 2002) | 1 | Current text only (IMPO's text, in force from 1 November 2018), to today |
-| `ley-17524/` | TELECOMUNICACIONES - TELEFONIA CELULAR - TELEFONIA BASICA (Ley Nº 17.524 of 2002) | 1 | Current text only (IMPO's text, in force from 15 August 2002), to today |
-| `ley-17542/` | MODIFICACION A LA LEY DE CHEQUES (Ley Nº 17.542 of 2002) | 1 | Current text only (IMPO's text, in force from 5 September 2002), to today |
-| `ley-17555/` | APROBACION DE LA LEY DE REACTIVACION ECONOMICA. INDUSTRIA DE LA CONSTRUCCION (Ley Nº 17.555 of 2002) | 1 | Current text only (IMPO's text, in force from 1 January 2022), to today |
-| `ley-17579/` | FUNCIONARIOS MILITARES - RETIRO MILITAR - RETIRO OBLIGATORIO (Ley Nº 17.579 of 2002) | 1 | Current text only (IMPO's text, in force from 15 November 2002), to today |
-| `ley-17596/` | ENTES AUTONOMOS - MODIFICACION A LA CARTA ORGANICA DEL BANCO HIPOTECARIO DEL URUGUAY (Ley Nº 17.596 of 2002) | 1 | Current text only (IMPO's text, in force from 21 May 2007), to today |
-| `ley-17663/` | CREACION DEL FONDO DE FINANCIAMIENTO Y RECOMPOSICION DE LA ACTIVIDAD ARROCERA (Ley Nº 17.663 of 2003) | 1 | Current text only (IMPO's text, in force from 5 November 2016), to today |
-| `ley-17678/` | PROHIBICION DE INGRESO DE FUNCIONARIOS A LA ADMINISTRACION PUBLICA. EXCEPCION PERSONAS CON DISCAPACIDADES (Ley Nº 17.678 of 2003) | 1 | Current text only (IMPO's text, in force from 1 July 2007), to today |
-| `ley-17707/` | MODIFICACION DEL CGP Y DE LA LEY ORGANICA DE LA JUDICATURA Y DE ORGANIZACION DE LOS TRIBUNALES (Ley Nº 17.707 of 2003) | 1 | Current text only (IMPO's text, in force from 1 January 2013), to today |
-| `ley-17726/` | MODIFICACIONES AL CODIGO DEL PROCESO PENAL. PRISION PREVENTIVA DEL PROCESADO PRIMARIO. FALTAS O DELITOS PENADOS CON MULTA, SUSPENSION O INHABILITACION (Ley Nº 17.726 of 2003) | 1 | Current text only (IMPO's text, in force from 17 January 2004), to today |
-| `ley-17735/` | AUTORIZACION AL MGAP LA TRANSFERENCIA DE LA TITULARIDAD DE LOS SILOS, PLANTAS, GRANEROS, ETC. A SUS ACTUALES TENEDORES. MODIFICACION (Ley Nº 17.735 of 2004) | 1 | Current text only (IMPO's text, in force from 18 January 2026), to today |
-| `ley-17792/` | CONSTITUCION DE UNA FUNDACION CON EL "INSTITUT PASTEUR"(FRANCIA) CON FINES DE INVESTIGACION (Ley Nº 17.792 of 2004) | 1 | Current text only (IMPO's text, in force from 1 January 2019), to today |
-| `ley-17829/` | REGIMEN DE RETENCIONES A LOS SALARIOS Y PASIVIDADES (Ley Nº 17.829 of 2004) | 1 | Current text only (IMPO's text, in force from 18 January 2026), to today |
-| `ley-17841/` | LEY DE REESTRUCTURA Y FORTALECIMIENTO DEL SISTEMA FINANCIERO. CREACION DEL IMPUESTO A LOS SUELDOS Y PASIVIDADES BANCARIAS (Ley Nº 17.841 of 2004) | 1 | Current text only (IMPO's text, in force from 31 October 2004), to today |
-| `ley-17843/` | EXONERACIONES A LA ACTIVIDAD FORESTAL (Ley Nº 17.843 of 2004) | 1 | Current text only (IMPO's text, in force from 6 November 2004), to today |
+| `ley-10062/` | LEY ORGANICA DE LA CAJA NOTARIAL DE JUBILACIONES Y PENSIONES (Ley Nº 10.062 of 1941) | 1 | Current text only (IMPO's text, last changed 21 February 2001), to today |
+| `ley-10446/` | LEY DE REGISTRO CIVICO NACIONAL. MODIFICACION (Ley Nº 10.446 of 1943) | 1 | Current text only (IMPO's text, last changed 20 October 1943), to today |
+| `ley-10489/` | COMERCIO. REGIMEN HORARIO. FIJACION (Ley Nº 10.489 of 1944) | 1 | Current text only (IMPO's text, last changed 17 December 1974), to today |
+| `ley-10597/` | FIJACION DE IMPUESTO. GANANCIAS ELEVADAS (Ley Nº 10.597 of 1944) | 1 | Current text only (IMPO's text, last changed 30 November 1960), to today |
+| `ley-10709/` | COMISION HONORARIA PARA LA LUCHA ANTITUBERCULOSA. FONDO NACIONAL PERMANENTE PARA LA LUCHA ANTITUBERCULOSA. CREACION (Ley Nº 10.709 of 1946) | 1 | Current text only (IMPO's text, last changed 24 October 2013), to today |
+| `ley-10757/` | LEY ORGANICA MILITAR. MODIFICACION (Ley Nº 10.757 of 1946) | 1 | Current text only (IMPO's text, last changed 14 May 1981), to today |
+| `ley-10789/` | ELECCIONES NACIONALES. REGULACION (Ley Nº 10.789 of 1946) | 1 | Current text only (IMPO's text, last changed 23 September 1946), to today |
+| `ley-10793/` | LEY DE REGISTROS PUBLICOS (Ley Nº 10.793 of 1946) | 1 | Current text only (IMPO's text, last changed 11 January 1994), to today |
+| `ley-10808/` | LEY ORGANICA DE LA MARINA (Ley Nº 10.808 of 1946) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-10853/` | JUBILACIONES Y PENSIONES. BENEFICIOS JUBILATORIOS (Ley Nº 10.853 of 1946) | 1 | Current text only (IMPO's text, last changed 19 December 2015), to today |
+| `ley-10866/` | LEY DE CENTROS POBLADOS. MODIFICACION (Ley Nº 10.866 of 1946) | 1 | Current text only (IMPO's text, last changed 25 October 1946), to today |
+| `ley-10940/` | CONSEJO NACIONAL DE SUBSISTENCIAS Y CONTRALOR DE PRECIOS. CREACION (Ley Nº 10.940 of 1947) | 1 | Current text only (IMPO's text, last changed 14 March 1973), to today |
+| `ley-10976/` | BANCO HIPOTECARIO DEL URUGUAY (BHU). PRESTAMOS. VIVIENDA (Ley Nº 10.976 of 1947) | 1 | Current text only (IMPO's text, last changed 27 November 1975), to today |
+| `ley-11182/` | CAJA DE JUBILACIONES Y PENSIONES ESCOLARES. MODIFICACION (Ley Nº 11.182 of 1948) | 1 | Current text only (IMPO's text, last changed 28 December 1964), to today |
+| `ley-11285/` | ENSEÑANZA. PRESUPUESTO. MODIFICACION (Ley Nº 11.285 of 1949) | 1 | Current text only (IMPO's text, last changed 16 April 1968), to today |
+| `ley-11326/` | EJERCITO. MARINA. FUNCIONARIOS MILITARES. REMUNERACIONES. FIJACION DE IMPUESTO (Ley Nº 11.326 of 1949) | 1 | Current text only (IMPO's text, last changed 7 September 1949), to today |
+| `ley-11460/` | JUZGADOS. CREACION. DENOMINACION (Ley Nº 11.460 of 1950) | 1 | Current text only (IMPO's text, last changed 4 November 2011), to today |
+| `ley-11474/` | DIRECCION GENERAL DE CORREOS. PRESUPUESTO (Ley Nº 11.474 of 1950) | 1 | Current text only (IMPO's text, last changed 21 February 2001), to today |
+| `ley-11490/` | BANCO HIPOTECARIO DEL URUGUAY (BHU). AUTORIZACION. PRESTAMOS. FUNCIONARIOS. REMUNERACIONES (Ley Nº 11.490 of 1950) | 1 | Current text only (IMPO's text, last changed 20 April 1977), to today |
+| `ley-11549/` | SERVICIO OFICIAL DE DIFUSION RADIO ELECTRICA (SODRE). PRESUPUESTO (Ley Nº 11.549 of 1950) | 1 | Current text only (IMPO's text, last changed 19 December 2015), to today |
+| `ley-11577/` | INDUSTRIAS INSALUBRES. CREACION DE LA COMISION HONORARIA DE TRABAJOS INSALUBRES (Ley Nº 11.577 of 1950) | 1 | Current text only (IMPO's text, last changed 14 October 1950), to today |
+| `ley-11618/` | NEGOCIACION COLECTIVA. CONSEJOS DE SALARIOS. MODIFICACION (Ley Nº 11.618 of 1950) | 1 | Current text only (IMPO's text, last changed 7 November 1958), to today |
+| `ley-11637/` | JUBILACIONES Y PENSIONES. BENEFICIOS JUBILATORIOS. BENEFICIO ESPECIAL DE RETIRO (Ley Nº 11.637 of 1951) | 1 | Current text only (IMPO's text, last changed 13 February 1967), to today |
+| `ley-11638/` | DIRECCION GENERAL DE INMIGRACION. PRESUPUESTO (Ley Nº 11.638 of 1951) | 1 | Current text only (IMPO's text, last changed 29 December 1972), to today |
+| `ley-11727/` | ELECCIONES NACIONALES. PLEBISCITO. REGLAMENTACION (Ley Nº 11.727 of 1951) | 1 | Current text only (IMPO's text, last changed 5 April 1962), to today |
+| `ley-11759/` | JUZGADOS. REGISTROS PUBLICOS. MODIFICACION (Ley Nº 11.759 of 1951) | 1 | Current text only (IMPO's text, last changed 19 November 1951), to today |
+| `ley-11908/` | NEGOCIACION COLECTIVA. CONSEJOS DE SALARIOS. TRABAJADORES. REMUNERACIONES. FISCALIZACION (Ley Nº 11.908 of 1952) | 1 | Current text only (IMPO's text, last changed 19 December 1952), to today |
+| `ley-11923/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1953 (Ley Nº 11.923 of 1953) | 1 | Current text only (IMPO's text, last changed 8 October 1981), to today |
+| `ley-11924/` | PRESUPUESTO (Ley Nº 11.924 of 1953) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-11925/` | CONTADURIA GENERAL DE LA NACION. NORMAS DE ORDENAMIENTO FINANCIERO. AMPLIACION (Ley Nº 11.925 of 1953) | 1 | Current text only (IMPO's text, last changed 10 November 1987), to today |
+| `ley-11937/` | PODER EJECUTIVO. AUTORIZACION. DEUDA PUBLICA. EMISION (Ley Nº 11.937 of 1953) | 1 | Current text only (IMPO's text, last changed 15 May 1953), to today |
+| `ley-12070/` | FUERZA AEREA MILITAR. CREACION (Ley Nº 12.070 of 1953) | 1 | Current text only (IMPO's text, last changed 20 December 1976), to today |
+| `ley-12079/` | PRESUPUESTO. MODIFICACION (Ley Nº 12.079 of 1953) | 1 | Current text only (IMPO's text, last changed 30 November 1960), to today |
+| `ley-12185/` | MODIFICACION DE LA LEY 10.757 RELATIVO AL REGIMEN DE ASCENSOS DE FUNCIONARIOS MILITARES (Ley Nº 12.185 of 1955) | 1 | Current text only (IMPO's text, last changed 15 February 1955), to today |
+| `ley-12276/` | AUTORIZACION PARA LA EMISION DE DEUDA PUBLICA (Ley Nº 12.276 of 1956) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-12358/` | OTORGAMIENTO DE EXONERACIONES TRIBUTARIAS Y AMPLIACION DE LOS PRESTAMOS PARA VIVIENDA DEL BHU (Ley Nº 12.358 of 1957) | 1 | Current text only (IMPO's text, last changed 26 January 1957), to today |
+| `ley-12376/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1957 (Ley Nº 12.376 of 1957) | 1 | Current text only (IMPO's text, last changed 20 October 2022), to today |
+| `ley-12464/` | INCREMENTO DE LAS JUBILACIONES Y PENSIONES. ENERO 1958 (Ley Nº 12.464 of 1957) | 1 | Current text only (IMPO's text, last changed 22 November 1968), to today |
+| `ley-12482/` | ASIGNACION DE RECURSOS PRESUPUESTALES (Ley Nº 12.482 of 1957) | 1 | Current text only (IMPO's text, last changed 30 November 1960), to today |
+| `ley-12485/` | SE INSTITUYEN LAS CAJAS DE COMPENSACIONES Y ASIGNACIONES FAMILIARES (Ley Nº 12.485 of 1957) | 1 | Current text only (IMPO's text, last changed 26 December 1957), to today |
+| `ley-12543/` | SEGURIDAD SOCIAL. ASIGNACIONES FAMILIARES. APORTES PATRONALES (Ley Nº 12.543 of 1958) | 1 | Current text only (IMPO's text, last changed 16 October 1958), to today |
+| `ley-12613/` | MODIFICACIONES A LA REGLAMENTACION DE LA NAVEGACION Y COMERCIO DE CABOTAJE (Ley Nº 12.613 of 1959) | 1 | Current text only (IMPO's text, last changed 7 July 1959), to today |
+| `ley-12691/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1959 (Ley Nº 12.691 of 1959) | 1 | Current text only (IMPO's text, last changed 31 March 1960), to today |
+| `ley-12700/` | CREACION DEL IMPUESTO A LOS REMATES DE BIENES MUEBLES, INMUEBLES Y SEMOVIENTES (Ley Nº 12.700 of 1960) | 1 | Current text only (IMPO's text, last changed 19 October 1970), to today |
+| `ley-12745/` | FUNCIONARIOS CONTRATADOS. SERVICIO DE COBRANZAS DOMICILIARIAS DE LA CAJA DE JUBILACIONES Y PENSIONES DE LA INDUSTRIA Y COMERCIO (Ley Nº 12.745 of 1960) | 1 | Current text only (IMPO's text, last changed 16 August 1966), to today |
+| `ley-12761/` | SEGURIDAD SOCIAL. JUBILACIONES Y PENSIONES (Ley Nº 12.761 of 1960) | 1 | Current text only (IMPO's text, last changed 10 June 1977), to today |
+| `ley-12801/` | REESTRUCTURACION DEL PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 12.801 of 1960) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-12802/` | APROBACION DE NORMAS DE ORDENAMIENTO FINANCIERO (Ley Nº 12.802 of 1960) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-12803/` | PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 12.803 of 1960) | 1 | Current text only (IMPO's text, last changed 10 November 1987), to today |
+| `ley-12938/` | LEY DE CONTROL Y ERRADICACION DE LA FIEBRE AFTOSA (Ley Nº 12.938 of 1961) | 1 | Current text only (IMPO's text, last changed 29 October 2002), to today |
+| `ley-12950/` | TESORO DE OBRAS PUBLICAS. TRIBUTOS A LOS COMBUSTIBLES GRASAS Y LUBRICANTES. IMPUESTO ADICIONAL A LA CONTRIBUCION INMOBILIARIA. IMPUESTO A LA VENTA DE LAS CAMARAS Y CUBIERTAS DE VEHICULOS AUTOMOTORES. IMPUESTO A LOS EJES. IMPUESTO A LOS INGRESOS BRUTOS DE LAS EMPRESAS DE TRANSPORTE DE PASAJEROS (Ley Nº 12.950 of 1961) | 1 | Current text only (IMPO's text, last changed 4 June 2003), to today |
+| `ley-12990/` | MODIFICACIONES A LA LEY ORGANICA DE LA MARINA (Ley Nº 12.990 of 1961) | 1 | Current text only (IMPO's text, last changed 26 November 1961), to today |
+| `ley-12996/` | SEGURIDAD SOCIAL. JUBILACIONES Y PENSIONES CIVILES Y ESCOLARES, RURALES Y DOMESTICOS, INDUSTRIA Y COMERCIO (Ley Nº 12.996 of 1961) | 1 | Current text only (IMPO's text, last changed 24 December 1986), to today |
+| `ley-13032/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1960 (Ley Nº 13.032 of 1961) | 1 | Current text only (IMPO's text, last changed 10 November 1987), to today |
+| `ley-13041/` | DECLARACION DE VALIDEZ DE LAS INSCRIPCIONES Y REINSCRIPCIONES INCORPORADAS AL REGISTRO CIVICO NACIONAL (Ley Nº 13.041 of 1962) | 1 | Current text only (IMPO's text, last changed 5 April 1962), to today |
+| `ley-13102/` | REGIMEN DE IMPORTACION DE VEHICULOS AUTOMOTORES PARA PERSONAS CON DISCAPACIDAD (Ley Nº 13.102 of 1962) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-13145/` | MODIFICACIONES A LAS LEYES ORGANICAS DE LAS FUERZAS ARMADAS Y DE LA ARMADA NACIONAL. FUNCIONARIOS MILITARES (Ley Nº 13.145 of 1963) | 1 | Current text only (IMPO's text, last changed 9 July 1963), to today |
+| `ley-13241/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1962 (Ley Nº 13.241 of 1964) | 1 | Current text only (IMPO's text, last changed 5 January 1978), to today |
+| `ley-13292/` | ARRENDAMIENTOS URBANOS. SUSPENSION DE DESALOJOS Y LANZAMIENTOS (Ley Nº 13.292 of 1964) | 1 | Current text only (IMPO's text, last changed 2 December 1965), to today |
+| `ley-13296/` | REGIMEN DE REAJUSTE DE JUBILACIONES Y PENSIONES. OCTUBRE 1964 (Ley Nº 13.296 of 1964) | 1 | Current text only (IMPO's text, last changed 13 February 1967), to today |
+| `ley-13315/` | SEGURIDAD SOCIAL. AJUSTE DE TOPES JUBILATORIOS Y FIJACION DE SUELDOS FICTOS DE DIRECTORES DE S.A. (Ley Nº 13.315 of 1964) | 1 | Current text only (IMPO's text, last changed 2 December 1965), to today |
+| `ley-13317/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES - MODIFICACIONES A LA LEY 12801 (Ley Nº 13.317 of 1964) | 1 | Current text only (IMPO's text, last changed 8 April 1986), to today |
+| `ley-13318/` | APROBACION DE NORMAS DE ORDENAMIENTO FINANCIERO. INFRACCIONES Y PROCEDIMIENTOS ADUANEROS. INGRESO A LA ADMINISTRACION PUBLICA (Ley Nº 13.318 of 1964) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-13319/` | RECURSOS PARA EL PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 13.319 of 1964) | 1 | Current text only (IMPO's text, last changed 5 January 1996), to today |
+| `ley-13320/` | PRESUPUESTO GENERAL DE SUELDOS Y GASTOS (Ley Nº 13.320 of 1964) | 1 | Current text only (IMPO's text, last changed 9 May 1980), to today |
+| `ley-13349/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1963 (Ley Nº 13.349 of 1965) | 1 | Current text only (IMPO's text, last changed 28 August 1975), to today |
+| `ley-13355/` | LEY DE ABREVIACION DE JUICIOS. MODIFICACIONES AL CODIGO DE PROCEDIMIENTO CIVIL (Ley Nº 13.355 of 1965) | 1 | Current text only (IMPO's text, last changed 19 September 1983), to today |
+| `ley-13420/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1964 (Ley Nº 13.420 of 1965) | 1 | Current text only (IMPO's text, last changed 28 September 1997), to today |
+| `ley-13426/` | FIJACION DE AUMENTO EN PASIVIDADES (Ley Nº 13.426 of 1965) | 1 | Current text only (IMPO's text, last changed 14 October 2016), to today |
+| `ley-13453/` | EXTENSION DE LA EXPLOTACION OTORGADA AL PODER EJECUTIVO DE CASINOS. PUNTA DEL ESTE. SAN RAFAEL. ATLANTIDA. PIRIAPOLIS. RIVERA. CARMELO (Ley Nº 13.453 of 1965) | 1 | Current text only (IMPO's text, last changed 5 January 1996), to today |
+| `ley-13556/` | LICENCIAS ANUALES DE LOS EMPLEADOS PRIVADOS. CONVENIOS COLECTIVOS DE TRABAJO (Ley Nº 13.556 of 1966) | 1 | Current text only (IMPO's text, last changed 19 December 1974), to today |
+| `ley-13581/` | PRESTAMOS PARA LA ADQUISICION DE VIVIENDAS PARA FUNCIONARIOS (Ley Nº 13.581 of 1966) | 1 | Current text only (IMPO's text, last changed 15 December 1978), to today |
+| `ley-13586/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1965 (Ley Nº 13.586 of 1967) | 1 | Current text only (IMPO's text, last changed 27 November 1987), to today |
+| `ley-13596/` | TRIBUTOS. REGIMEN DE FACILIDADES DE PAGO (Ley Nº 13.596 of 1967) | 1 | Current text only (IMPO's text, last changed 28 December 1979), to today |
+| `ley-13608/` | LEY DE EMERGENCIA. SE ESTABLECEN NORMAS SOBRE POLITICA TRIBUTARIA, BANCARIA, COMERCIO EXTERIOR Y FOMENTO INDUSTRIAL, PRECIOS, INGRESOS, SEGURIDAD SOCIAL Y OBRAS PUBLICAS (Ley Nº 13.608 of 1967) | 1 | Current text only (IMPO's text, last changed 25 June 1999), to today |
+| `ley-13637/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES (Ley Nº 13.637 of 1967) | 1 | Current text only (IMPO's text, last changed 15 October 2018), to today |
+| `ley-13640/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1968 1972 (Ley Nº 13.640 of 1967) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-13659/` | ARRENDAMIENTOS. REGIMEN DE ALQUILERES, DESALOJOS Y LANZAMIENTOS (Ley Nº 13.659 of 1968) | 1 | Current text only (IMPO's text, last changed 14 March 1973), to today |
+| `ley-13665/` | REGISTROS DE LA OFICINA DE IMPUESTOS INTERNOS Y DE LA DIRECCION DE CONTRALOR LEGAL. DIRECCION GENERAL IMPOSITIVA Y MINISTERIO DE GANADERIA Y AGRICULTURA (Ley Nº 13.665 of 1968) | 1 | Current text only (IMPO's text, last changed 17 June 1968), to today |
+| `ley-13695/` | APROBACION DEL TEXTO ORDENADO 1968 (Ley Nº 13.695 of 1968) | 1 | Current text only (IMPO's text, last changed 23 December 1993), to today |
+| `ley-13728/` | PLAN NACIONAL DE VIVIENDAS (Ley Nº 13.728 of 1968) | 1 | Current text only (IMPO's text, last changed 3 November 2021), to today |
+| `ley-13737/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIOS 1966 Y 1967 (Ley Nº 13.737 of 1969) | 1 | Current text only (IMPO's text, last changed 14 September 2012), to today |
+| `ley-13782/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. RENTA NETA (Ley Nº 13.782 of 1969) | 1 | Current text only (IMPO's text, last changed 19 September 2014), to today |
+| `ley-13797/` | PRORROGA DE AUTORIZACION PARA EXPLOTACION DE CASINOS. PUNTA DEL ESTE. SAN RAFAEL. ATLANTIDA. PIRIAPOLIS. RIVERA. CARMELO (Ley Nº 13.797 of 1969) | 1 | Current text only (IMPO's text, last changed 30 November 1970), to today |
+| `ley-13835/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1968 (Ley Nº 13.835 of 1970) | 1 | Current text only (IMPO's text, last changed 15 October 2018), to today |
+| `ley-13870/` | ARRENDAMIENTOS RURALES. SUSPENSION DE LANZAMIENTOS CONTRA ARRENDATARIOS Y SUBARRENDATARIOS BUENOS PAGADORES Y SUS EXCEPCIONES (Ley Nº 13.870 of 1970) | 1 | Current text only (IMPO's text, last changed 3 September 1974), to today |
+| `ley-13892/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1969 (Ley Nº 13.892 of 1970) | 1 | Current text only (IMPO's text, last changed 31 August 2007), to today |
+| `ley-13899/` | EXPROPIACIONES PARA OBRAS EN RUTAS NACIONALES (Ley Nº 13.899 of 1970) | 1 | Current text only (IMPO's text, last changed 19 December 2015), to today |
+| `ley-13958/` | ESTABLECIMIENTO DE SERVIDUMBRE PARA OBRAS DE APROVECHAMIENTO HIDROELECTRICO DEL RIO URUGUAY - CREACION DEL FONDO ENERGETICO NACIONAL - EMISION DE BONOS ENERGETICOS REAJUSTABLES (Ley Nº 13.958 of 1971) | 1 | Current text only (IMPO's text, last changed 30 April 1974), to today |
+| `ley-14057/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1970 (Ley Nº 14.057 of 1972) | 1 | Current text only (IMPO's text, last changed 28 August 2014), to today |
+| `ley-14095/` | TIPIFICACION DE DELITOS ECONOMICOS DEL BANCO CENTRAL DEL URUGUAY Y CREACION DE UN CUERPO ESPECIAL DE PREVENCION Y REPRESION DE DELITOS ECONOMICOS (Ley Nº 14.095 of 1972) | 1 | Current text only (IMPO's text, last changed 5 December 2007), to today |
+| `ley-14100/` | LEY DE PRESUPUESTO NACIONAL DE RECURSOS. IRPF. IRIC (Ley Nº 14.100 of 1972) | 1 | Current text only (IMPO's text, last changed 29 October 1991), to today |
+| `ley-14106/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1973 1976 (Ley Nº 14.106 of 1973) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-14127/` | ASIGNACION DE RECURSOS. CORTE ELECTORAL. INSCRIPCION EN EL REGISTRO CIVICO NACIONAL (Ley Nº 14.127 of 1973) | 1 | Current text only (IMPO's text, last changed 17 May 1973), to today |
+| `ley-15757/` | LEY DE CREACION DE LA OFICINA NACIONAL DEL SERVICIO CIVIL (Ley Nº 15.757 of 1985) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-15767/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL - EJERCICIO 1984 (Ley Nº 15.767 of 1985) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-15768/` | MODIFICACION DEL TEXTO ORDENADO DGI, RELATIVO AL IMPUESTO AL PATRIMONIO E IMPUESTO A LAS RENTAS AGROPECUARIAS (Ley Nº 15.768 of 1985) | 1 | Current text only (IMPO's text, last changed 13 September 1985), to today |
+| `ley-15770/` | COMPETENCIAS DE JUZGADOS LETRADOS DE PRIMERA INSTANCIA EN LO CIVIL - LOT (Ley Nº 15.770 of 1985) | 1 | Current text only (IMPO's text, last changed 16 September 1985), to today |
+| `ley-15783/` | LEY DE FUNCIONARIOS DESTITUIDOS (Ley Nº 15.783 of 1985) | 1 | Current text only (IMPO's text, last changed 12 July 1991), to today |
+| `ley-15799/` | LEY DE ARRENDAMIENTOS URBANOS Y SUBURBANOS - LEY DE EMERGENCIA (Ley Nº 15.799 of 1985) | 1 | Current text only (IMPO's text, last changed 19 December 2005), to today |
+| `ley-15808/` | FUNCIONARIOS MILITARES (Ley Nº 15.808 of 1986) | 1 | Current text only (IMPO's text, last changed 7 April 1986), to today |
+| `ley-15809/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1985 1990 (Ley Nº 15.809 of 1986) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-15851/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1985 (Ley Nº 15.851 of 1986) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-15863/` | PASIVIDADES - INCOMPATIBILIDADES (Ley Nº 15.863 of 1987) | 1 | Current text only (IMPO's text, last changed 22 May 1987), to today |
+| `ley-15881/` | PROCESOS JUDICIALES - ORGANIZACION DE LOS TRIBUNALES (Ley Nº 15.881 of 1987) | 1 | Current text only (IMPO's text, last changed 20 September 2024), to today |
+| `ley-15896/` | REGULACION DE LAS HABILITACIONES QUE OTORGA LA DIRECCION NACIONAL DE BOMBEROS (Ley Nº 15.896 of 1987) | 1 | Current text only (IMPO's text, last changed 20 September 2024), to today |
+| `ley-15903/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1986 (Ley Nº 15.903 of 1987) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-15913/` | LEY DEL LIBRO. DECLARACION DE INTERES NACIONAL (Ley Nº 15.913 of 1987) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-16002/` | MODIFICACION DEL PLAN DE INVERSIONES. EJERCICIO 1988 - 1989 (Ley Nº 16.002 of 1988) | 1 | Current text only (IMPO's text, last changed 19 December 2015), to today |
+| `ley-16011/` | REGULACION DE DISPOSICIONES RELATIVA A LA ACCION DE AMPARO (Ley Nº 16.011 of 1988) | 1 | Current text only (IMPO's text, last changed 19 December 1988), to today |
+| `ley-16017/` | MODIFICACION DE LA LEY DE ELECCIONES (Ley Nº 16.017 of 1989) | 1 | Current text only (IMPO's text, last changed 19 April 2019), to today |
+| `ley-16053/` | MODIFICACION AL CODIGO GENERAL DEL PROCESO - VIGENCIA (Ley Nº 16.053 of 1989) | 1 | Current text only (IMPO's text, last changed 20 July 1989), to today |
+| `ley-16082/` | DECLARACION DE INTERES NACIONAL - FIEBRE AFTOSA (Ley Nº 16.082 of 1989) | 1 | Current text only (IMPO's text, last changed 7 November 2012), to today |
+| `ley-16097/` | COMISION HONORARIA DE LUCHA CONTRA EL CANCER. CREACION. COMETIDOS (Ley Nº 16.097 of 1989) | 1 | Current text only (IMPO's text, last changed 29 October 1991), to today |
+| `ley-16101/` | TURISMO - REGISTRO DE EMPRESAS DE TURISMO SOCIAL - SALARIO VACACIONAL (Ley Nº 16.101 of 1989) | 1 | Current text only (IMPO's text, last changed 10 November 1989), to today |
+| `ley-16105/` | APROBACION DE LA RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1988 (Ley Nº 16.105 of 1990) | 1 | Current text only (IMPO's text, last changed 20 October 2022), to today |
+| `ley-16107/` | FIJACION DE AJUSTE FISCAL TRIBUTARIO Y APORTACION AL BPS (Ley Nº 16.107 of 1990) | 1 | Current text only (IMPO's text, last changed 21 February 2001), to today |
+| `ley-16127/` | DESIGNACION, ASCENSOS E INCENTIVOS PARA FUNCIONARIOS PUBLICOS (Ley Nº 16.127 of 1990) | 1 | Current text only (IMPO's text, last changed 25 September 2017), to today |
+| `ley-16134/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1989 (Ley Nº 16.134 of 1990) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-16170/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1990 - 1994 (Ley Nº 16.170 of 1990) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-16211/` | LEY DE EMPRESAS PUBLICAS (Ley Nº 16.211 of 1991) | 1 | Current text only (IMPO's text, last changed 3 November 2021), to today |
+| `ley-16226/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1990 (Ley Nº 16.226 of 1991) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-16244/` | REGIMEN DE REFINANCIACION DE DEUDAS POR OBLIGACIONES TRIBUTARIAS CON EL BANCO DE PREVISION SOCIAL (Ley Nº 16.244 of 1992) | 1 | Current text only (IMPO's text, last changed 20 October 2022), to today |
+| `ley-16298/` | REGULACION DE LOS CERTIFICADOS EXPEDIDOS POR EL BPS POR ENAJENACIONES QUE SE LLEVAN A CABO POR EXPROPIACION (Ley Nº 16.298 of 1992) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-16320/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1991 (Ley Nº 16.320 of 1992) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-16333/` | MODIFICACION DEL DECRETO LEY 14.157, REFERENTE AL PERSONAL MILITAR Y POLICIAL EN ACTIVIDAD Y EN RETIRO (Ley Nº 16.333 of 1992) | 1 | Current text only (IMPO's text, last changed 7 November 2012), to today |
+| `ley-16343/` | INSTALACION Y FUNCIONAMIENTO DE LOS INSTITUTOS DE MEDICINA ALTAMENTE ESPECIALIZADA (Ley Nº 16.343 of 1992) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-16387/` | MARINA MERCANTE (Ley Nº 16.387 of 1993) | 1 | Current text only (IMPO's text, last changed 6 October 2008), to today |
+| `ley-16389/` | MODIFICACION AL CODIGO RURAL (Ley Nº 16.389 of 1993) | 1 | Current text only (IMPO's text, last changed 6 July 1993), to today |
+| `ley-16426/` | SEGUROS (Ley Nº 16.426 of 1993) | 1 | Current text only (IMPO's text, last changed 26 October 2018), to today |
+| `ley-16462/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 1992 (Ley Nº 16.462 of 1994) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-16568/` | CASINOS DEL ESTADO - FUNCIONARIOS (Ley Nº 16.568 of 1994) | 1 | Current text only (IMPO's text, last changed 27 December 2010), to today |
+| `ley-16685/` | ADMINISTRACION DE JUSTICIA - MENORES ABANDONADOS (Ley Nº 16.685 of 1994) | 1 | Current text only (IMPO's text, last changed 21 December 1994), to today |
+| `ley-16694/` | IMPUESTO A LOS REMATES DE BIENES MUEBLES INMUEBLES Y SEMOVIENTES (Ley Nº 16.694 of 1995) | 1 | Current text only (IMPO's text, last changed 27 March 1996), to today |
+| `ley-16696/` | CARTA ORGANICA DEL BANCO CENTRAL DEL URUGUAY (Ley Nº 16.696 of 1995) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-16697/` | LEY DE AJUSTE FISCAL. NUEVO REGIMEN FISCAL Y DE MEJORA DE LA COMPETITIVIDAD DEL SECTOR PRODUCTIVO (Ley Nº 16.697 of 1995) | 1 | Current text only (IMPO's text, last changed 19 December 2005), to today |
+| `ley-16720/` | SANIDAD MILITAR. DIRECCION NACIONAL DE SANIDAD DE LAS FUERZAS ARMADAS (Ley Nº 16.720 of 1995) | 1 | Current text only (IMPO's text, last changed 4 November 2011), to today |
+| `ley-16736/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 1995 1999 (Ley Nº 16.736 of 1996) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-16737/` | APROBACION DE LAS ENMIENDAS A LOS ARTS. 24 Y 25 DE LA CONSTITUCION DE LA ORGANIZACION MUNDIAL DE LA SALUD (OMS) (Ley Nº 16.737 of 1996) | 1 | Current text only (IMPO's text, last changed 9 January 1996), to today |
+| `ley-16747/` | DECLARACION DE PLAGA NACIONAL. PIOJERA OVINA (Ley Nº 16.747 of 1996) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-16812/` | EMISION BONOS DEL TESORO Y LETRAS DE TESORERIA (Ley Nº 16.812 of 1997) | 1 | Current text only (IMPO's text, last changed 14 March 1997), to today |
+| `ley-16838/` | SOCIEDADES COMERCIALES (Ley Nº 16.838 of 1997) | 1 | Current text only (IMPO's text, last changed 1 July 1997), to today |
+| `ley-16851/` | SEGUROS (Ley Nº 16.851 of 1997) | 1 | Current text only (IMPO's text, last changed 15 July 1997), to today |
+| `ley-16883/` | TRABAJADORES RURALES. SEGURIDAD SOCIAL. APORTES (Ley Nº 16.883 of 1997) | 1 | Current text only (IMPO's text, last changed 10 November 1997), to today |
+| `ley-16901/` | LEY DE REGISTROS PUBLICOS - VIGENCIA (Ley Nº 16.901 of 1997) | 1 | Current text only (IMPO's text, last changed 26 December 1997), to today |
+| `ley-16911/` | FUNCIONARIOS POLICIALES (Ley Nº 16.911 of 1998) | 1 | Current text only (IMPO's text, last changed 13 February 1998), to today |
+| `ley-16995/` | CODIGO GENERAL DEL PROCESO - LEY PROCESAL CIVIL (Ley Nº 16.995 of 1998) | 1 | Current text only (IMPO's text, last changed 26 August 1998), to today |
+| `ley-17036/` | SEGURIDAD SOCIAL - FUNCIONARIOS MILITARES (Ley Nº 17.036 of 1998) | 1 | Current text only (IMPO's text, last changed 20 November 1998), to today |
+| `ley-17243/` | LEY DE URGENCIA. SERVICIOS PUBLICOS Y PRIVADOS. FOMENTO DEL EMPLEO Y LA INVERSION (Ley Nº 17.243 of 2000) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-17292/` | LEY DE URGENCIA. ADMINISTRACION PUBLICA. FOMENTO Y MEJORAS DEL EMPLEO (Ley Nº 17.292 of 2001) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-17296/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2000 2004 (Ley Nº 17.296 of 2001) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-17309/` | CREACION DEL IMPUESTO ESPECIFICO A LOS SERVICIOS DE SALUD (Ley Nº 17.309 of 2001) | 2 | Current text only (IMPO's text, last changed 30 March 2001), then repealed by Ley 18.083 (in force 1 July 2007) |
+| `ley-17437/` | SEGURIDAD SOCIAL. PROFESIONALES UNIVERSITARIOS (Ley Nº 17.437 of 2001) | 1 | Current text only (IMPO's text, last changed 2 May 2023), to today |
+| `ley-17451/` | PERSONAS PUBLICAS NO ESTATALES. FONDO DE SOLIDARIDAD (Ley Nº 17.451 of 2002) | 1 | Current text only (IMPO's text, last changed 10 January 2002), to today |
+| `ley-17453/` | LEY DE AJUSTE FISCAL (Ley Nº 17.453 of 2002) | 1 | Current text only (IMPO's text, last changed 19 December 2015), to today |
+| `ley-17502/` | LEY DE ESTABILIDAD FINANCIERA (Ley Nº 17.502 of 2002) | 1 | Current text only (IMPO's text, last changed 10 December 2002), to today |
+| `ley-17503/` | CREACION DEL FONDO DE RECONSTRUCCION Y FOMENTO DE LA GRANJA (FRFG) (Ley Nº 17.503 of 2002) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-17523/` | LEY DE FORTALECIMIENTO DEL SISTEMA BANCARIO (Ley Nº 17.523 of 2002) | 1 | Current text only (IMPO's text, last changed 21 September 2018), to today |
+| `ley-17524/` | TELECOMUNICACIONES - TELEFONIA CELULAR - TELEFONIA BASICA (Ley Nº 17.524 of 2002) | 1 | Current text only (IMPO's text, last changed 5 August 2002), to today |
+| `ley-17542/` | MODIFICACION A LA LEY DE CHEQUES (Ley Nº 17.542 of 2002) | 1 | Current text only (IMPO's text, last changed 21 August 2002), to today |
+| `ley-17555/` | APROBACION DE LA LEY DE REACTIVACION ECONOMICA. INDUSTRIA DE LA CONSTRUCCION (Ley Nº 17.555 of 2002) | 1 | Current text only (IMPO's text, last changed 3 November 2021), to today |
+| `ley-17556/` | RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2001 (Ley Nº 17.556 of 2002) | 1 | Current text only (IMPO's text, last changed 20 October 2022), to today |
+| `ley-17579/` | FUNCIONARIOS MILITARES - RETIRO MILITAR - RETIRO OBLIGATORIO (Ley Nº 17.579 of 2002) | 1 | Current text only (IMPO's text, last changed 29 October 2002), to today |
+| `ley-17596/` | ENTES AUTONOMOS - MODIFICACION A LA CARTA ORGANICA DEL BANCO HIPOTECARIO DEL URUGUAY (Ley Nº 17.596 of 2002) | 1 | Current text only (IMPO's text, last changed 27 April 2007), to today |
+| `ley-17663/` | CREACION DEL FONDO DE FINANCIAMIENTO Y RECOMPOSICION DE LA ACTIVIDAD ARROCERA (Ley Nº 17.663 of 2003) | 1 | Current text only (IMPO's text, last changed 14 October 2016), to today |
+| `ley-17678/` | PROHIBICION DE INGRESO DE FUNCIONARIOS A LA ADMINISTRACION PUBLICA. EXCEPCION PERSONAS CON DISCAPACIDADES (Ley Nº 17.678 of 2003) | 1 | Current text only (IMPO's text, last changed 27 December 2006), to today |
+| `ley-17707/` | MODIFICACION DEL CGP Y DE LA LEY ORGANICA DE LA JUDICATURA Y DE ORGANIZACION DE LOS TRIBUNALES (Ley Nº 17.707 of 2003) | 1 | Current text only (IMPO's text, last changed 7 November 2012), to today |
+| `ley-17726/` | MODIFICACIONES AL CODIGO DEL PROCESO PENAL. PRISION PREVENTIVA DEL PROCESADO PRIMARIO. FALTAS O DELITOS PENADOS CON MULTA, SUSPENSION O INHABILITACION (Ley Nº 17.726 of 2003) | 1 | Current text only (IMPO's text, last changed 26 December 2003), to today |
+| `ley-17735/` | AUTORIZACION AL MGAP LA TRANSFERENCIA DE LA TITULARIDAD DE LOS SILOS, PLANTAS, GRANEROS, ETC. A SUS ACTUALES TENEDORES. MODIFICACION (Ley Nº 17.735 of 2004) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-17792/` | CONSTITUCION DE UNA FUNDACION CON EL "INSTITUT PASTEUR"(FRANCIA) CON FINES DE INVESTIGACION (Ley Nº 17.792 of 2004) | 1 | Current text only (IMPO's text, last changed 15 October 2018), to today |
+| `ley-17829/` | REGIMEN DE RETENCIONES A LOS SALARIOS Y PASIVIDADES (Ley Nº 17.829 of 2004) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-17841/` | LEY DE REESTRUCTURA Y FORTALECIMIENTO DEL SISTEMA FINANCIERO. CREACION DEL IMPUESTO A LOS SUELDOS Y PASIVIDADES BANCARIAS (Ley Nº 17.841 of 2004) | 1 | Current text only (IMPO's text, last changed 15 October 2004), to today |
+| `ley-17843/` | EXONERACIONES A LA ACTIVIDAD FORESTAL (Ley Nº 17.843 of 2004) | 1 | Current text only (IMPO's text, last changed 21 October 2004), to today |
+| `ley-17904/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2004 (Ley Nº 17.904 of 2005) | 1 | Current text only (IMPO's text, last changed 15 October 2018), to today |
+| `ley-17921/` | DEROGACIONES A LA LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 17.921 of 2005) | 1 | Current text only (IMPO's text, last changed 22 November 2005), to today |
+| `ley-17930/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2005 - 2009 (Ley Nº 17.930 of 2005) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-17945/` | LEY INTERPRETATIVA. COMPATIBILIDAD DE JUBILACION SERVIDA POR CAJA DE PROFESIONALES UNIVERSITARIOS (Ley Nº 17.945 of 2006) | 1 | Current text only (IMPO's text, last changed 5 January 2006), to today |
+| `ley-17950/` | CREACION DEL SISTEMA NACIONAL DE ACREDITACION DE VETERINARIOS DE LIBRE EJERCICIO (Ley Nº 17.950 of 2006) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-18046/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2005 (Ley Nº 18.046 of 2006) | 1 | Current text only (IMPO's text, last changed 3 November 2021), to today |
+| `ley-18083/` | LEY DE REFORMA TRIBUTARIA (Ley Nº 18.083 of 2006) | 1 | Current text only (IMPO's text, last changed 12 March 2026), to today |
+| `ley-18089/` | DEROGACION DE LA TASA "TIMBRE PALACIO DE JUSTICIA" Y DEL "TIMBRE INFRAESTRUCTURA JUDICIAL" (Ley Nº 18.089 of 2007) | 1 | Current text only (IMPO's text, last changed 7 January 2007), to today |
+| `ley-18098/` | EMPRESAS PUBLICAS - CONTRATACION DE SERVICIOS CON TERCEROS (Ley Nº 18.098 of 2007) | 1 | Current text only (IMPO's text, last changed 12 January 2007), to today |
+| `ley-18100/` | CREACION DEL FONDO DE FINANCIAMIENTO Y DESARROLLO SUSTENTABLE DE LA ACTIVIDAD LECHERA (FFDSAL) (Ley Nº 18.100 of 2007) | 1 | Current text only (IMPO's text, last changed 24 May 2024), to today |
+| `ley-18127/` | FIDEICOMISOS FINANCIEROS. REGIMEN TRIBUTARIO ESPECIAL (Ley Nº 18.127 of 2007) | 1 | Current text only (IMPO's text, last changed 12 May 2007), to today |
+| `ley-18172/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2006 (Ley Nº 18.172 of 2007) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-18220/` | SISTEMA NACIONAL DE ARCHIVOS. REGULACION DE LA FUNCION ARCHIVISTICA. CONSERVACION Y ORGANIZACION DEL PATRIMONIO DOCUMENTAL DE LA NACION (Ley Nº 18.220 of 2007) | 1 | Current text only (IMPO's text, last changed 20 December 2007), to today |
+| `ley-18222/` | OBLIGACION DEL BPS A REALIZAR RETENCIONES DE PASIVIDADES (Ley Nº 18.222 of 2007) | 1 | Current text only (IMPO's text, last changed 20 December 2007), to today |
+| `ley-18268/` | DECLARACION DE INTERES NACIONAL. LUCHA CONTRA LA GARRAPATA COMUN DE BOVINO (Ley Nº 18.268 of 2008) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-18283/` | CREACION DEL REGISTRO DE PENSIONES. MINISTERIO DE VIVIENDA ORDENAMIENTO TERRITORIAL Y MEDIO AMBIENTE (Ley Nº 18.283 of 2008) | 1 | Current text only (IMPO's text, last changed 16 May 2008), to today |
+| `ley-18314/` | SEGURIDAD SOCIAL. JUBILACIONES Y PENSIONES (Ley Nº 18.314 of 2008) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-18358/` | RETENCIONES SOBRE SUELDOS Y PASIVIDADES (Ley Nº 18.358 of 2008) | 1 | Current text only (IMPO's text, last changed 26 September 2008), to today |
+| `ley-18362/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2007 (Ley Nº 18.362 of 2008) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-18385/` | INSCRIPCION PREDIOS PERTENECIENTES A COLONIAS DEL INSTITUTO NACIONAL DE COLONIZACION. PRORROGA DE PLAZO (Ley Nº 18.385 of 2008) | 1 | Current text only (IMPO's text, last changed 17 October 2008), to today |
+| `ley-18395/` | MODIFICACIONES A LA LEY 16.713 DE SEGURIDAD SOCIAL. FLEXIBILIZACION DEL REGIMEN DE ACCESO A BENEFICIOS JUBILATORIOS (Ley Nº 18.395 of 2008) | 1 | Current text only (IMPO's text, last changed 2 May 2023), to today |
+| `ley-18401/` | CARTA ORGANICA DEL BANCO CENTRAL DEL URUGUAY. MODIFICACION (Ley Nº 18.401 of 2008) | 1 | Current text only (IMPO's text, last changed 19 March 2026), to today |
+| `ley-18410/` | DENOMINACION DE ESCUELA Nº 139. MONTEVIDEO (Ley Nº 18.410 of 2008) | 1 | Current text only (IMPO's text, last changed 30 October 2008), to today |
+| `ley-18440/` | ADECUACION DE LAS COOPERATIVAS DE PROFESIONALES DE LA SALUD A LA NORMATIVA VIGENTE PARA LAS COOPERATIVAS DE TRABAJO. (Ley Nº 18.440 of 2008) | 1 | Current text only (IMPO's text, last changed 24 December 2008), to today |
+| `ley-18465/` | FIJACION DE MEDIDAS PARA REDUCIR LOS INDICES DE INFLACION (Ley Nº 18.465 of 2009) | 1 | Current text only (IMPO's text, last changed 11 February 2009), to today |
+| `ley-18486/` | COLONIZACION DE TIERRAS. REGULACION. PRORROGA (Ley Nº 18.486 of 2009) | 1 | Current text only (IMPO's text, last changed 15 May 2009), to today |
+| `ley-18487/` | PARTICIPACION EQUITATIVA DE PERSONAS DE AMBOS SEXOS EN LA INTEGRACION DE LOS ORGANOS ELECTIVOS Y DIRECCION DE PARTIDOS POLITICOS. SISTEMA DE SUPLENTES (Ley Nº 18.487 of 2009) | 1 | Current text only (IMPO's text, last changed 15 May 2009), to today |
+| `ley-18491/` | SEGURO OBLIGATORIO DE AUTOMOTORES POR ACCIDENTES QUE CAUSEN DAÑOS A TERCEROS. PRORROGA (Ley Nº 18.491 of 2009) | 1 | Current text only (IMPO's text, last changed 22 May 2009), to today |
+| `ley-18498/` | LEY DE PESCA. MODIFICACION. INTEGRACION DE TRIPULACION EN BUQUES DE MATRICULA NACIONAL (Ley Nº 18.498 of 2009) | 1 | Current text only (IMPO's text, last changed 12 June 2009), to today |
+| `ley-18564/` | REGULACION DEL USO Y MANEJO DE LAS AGUAS Y EL SUELO. SANCIONES POR INCUMPLIMIENTO (Ley Nº 18.564 of 2009) | 1 | Current text only (IMPO's text, last changed 19 December 2015), to today |
+| `ley-18573/` | SISTEMAS DE COMPENSACION Y LIQUIDACION DE PAGOS Y VALORES. REGULACION Y SUPERVISION (Ley Nº 18.573 of 2009) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-18574/` | OTORGAMIENTO DE PRESTAMOS HIPOTECARIOS PARA VIVIENDA. NOTAS DE CREDITO HIPOTECARIAS (Ley Nº 18.574 of 2009) | 1 | Current text only (IMPO's text, last changed 14 September 2009), to today |
+| `ley-18588/` | ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS (Ley Nº 18.588 of 2009) | 1 | Current text only (IMPO's text, last changed 18 September 2009), to today |
+| `ley-18663/` | COLONIZACION DE TIERRAS. REGULACION. PRORROGA (Ley Nº 18.663 of 2010) | 1 | Current text only (IMPO's text, last changed 27 May 2010), to today |
+| `ley-18705/` | LEY DE COOPERATIVAS. PRORROGA PARA ADAPTACION DE ESTATUTOS (Ley Nº 18.705 of 2010) | 1 | Current text only (IMPO's text, last changed 25 November 2010), to today |
+| `ley-18719/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2010 - 2014 (Ley Nº 18.719 of 2010) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-18728/` | SISTEMA NACIONAL DE SALUD. FONASA. INCORPORACION DE NUEVOS AFILIADOS. EX FUNCIONARIOS JUBILADOS DE OSE Y DE CHASSFOSE (Ley Nº 18.728 of 2011) | 1 | Current text only (IMPO's text, last changed 5 January 2011), to today |
+| `ley-18731/` | INCORPORACION DE NUEVOS AFILIADOS AL SEGURO NACIONAL DE SALUD (Ley Nº 18.731 of 2011) | 1 | Current text only (IMPO's text, last changed 6 July 2012), to today |
+| `ley-18756/` | DEROGACIONES Y MODIFICACIONES A LA LEY 11.029 RELATIVO AL INSTITUTO NACIONAL DE COLONIZACION (Ley Nº 18.756 of 2011) | 1 | Current text only (IMPO's text, last changed 9 July 2020), to today |
+| `ley-18783/` | DEROGACION DEL ART. 178 DE LA LEY 16.713 RELATIVO A LAS CONTRIBUCIONES ESPECIALES DE EMPRESAS UNIPERSONALES (Ley Nº 18.783 of 2011) | 1 | Current text only (IMPO's text, last changed 19 July 2011), to today |
+| `ley-18788/` | REGIMEN DE FACILIDADES DE OBLIGACIONES TRIBUTARIAS. ACTUALIZACION DE SANCIONES. JUICIO EJECUTIVO TRIBUTARIO (Ley Nº 18.788 of 2011) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-18793/` | INCLUSION EN EL REGIMEN DE FISCALIZACION DE TRANSITO VEHICULAR DISPUESTO EN EL ART. 46 DE LA LEY 18.191 AL PERSONAL DE LA PREFECTURA NACIONAL NAVAL (Ley Nº 18.793 of 2011) | 1 | Current text only (IMPO's text, last changed 12 August 2011), to today |
+| `ley-18834/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2010 (Ley Nº 18.834 of 2011) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-18846/` | FORTALECIMIENTO Y DESARROLLO DE LA INDUSTRIA NACIONAL DE LA VESTIMENTA (Ley Nº 18.846 of 2011) | 1 | Current text only (IMPO's text, last changed 19 December 2015), to today |
+| `ley-18860/` | CREACION DEL SISTEMA UNICO DE COBRO DE INGRESOS VEHICULARES (SUCIVE) Y ESTABLECENSE SUBSIDIOS PARA LA EXTENSION Y FOMENTO DE LA EFICIENCIA ENERGETICA DE LOS SISTEMAS DE ALUMBRADO PUBLICO DEPARTAMENTALES (Ley Nº 18.860 of 2011) | 1 | Current text only (IMPO's text, last changed 19 December 2015), to today |
+| `ley-18922/` | INCORPORACION DE NUEVOS AFILIADOS AL SEGURO NACIONAL DE SALUD. MODIFICACION (Ley Nº 18.922 of 2012) | 1 | Current text only (IMPO's text, last changed 6 July 2012), to today |
+| `ley-18937/` | INTERPRETACION DEL ART. 68 DE LA LEY 18.387 SOBRE CONTRATOS PENDIENTES DE EJECUCION EN EL PROCESO CONCURSAL (Ley Nº 18.937 of 2012) | 1 | Current text only (IMPO's text, last changed 20 July 2012), to today |
+| `ley-18996/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2011 (Ley Nº 18.996 of 2012) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-19003/` | MODIFICACION DEL SISTEMA DE AJUSTE DE LOS MONTOS MINIMOS Y MAXIMOS DE LAS PRESTACIONES DE SEGURIDAD SOCIAL (Ley Nº 19.003 of 2012) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-19007/` | MODIFICACION DE DISPOSICIONES DEL CODIGO PENAL, SOBRE DELITOS DE FUNCIONARIOS PUBLICOS Y DETERMINADAS ACTIVIDADES DELICTIVAS RELACIONADAS CON TODAS LAS FORMAS DE COCAINA INCLUIDA LA PASTA BASE DE COCAINA (Ley Nº 19.007 of 2012) | 1 | Current text only (IMPO's text, last changed 16 November 2012), to today |
+| `ley-19074/` | DEROGACION DEL ART. 288 DE LA LEY DE SOCIEDADES COMERCIALES (Ley Nº 19.074 of 2013) | 1 | Current text only (IMPO's text, last changed 3 May 2013), to today |
+| `ley-19090/` | MODIFICACION DEL CODIGO GENERAL DEL PROCESO (Ley Nº 19.090 of 2013) | 1 | Current text only (IMPO's text, last changed 8 July 2013), to today |
+| `ley-19093/` | DEROGACION DEL IMPUESTO A LA CONCENTRACION DE INMUEBLES RURALES (ICIR) (Ley Nº 19.093 of 2013) | 1 | Current text only (IMPO's text, last changed 17 June 2013), to today |
+| `ley-19109/` | SUSPENSION DE LA VIGENCIA DEL ART. 309 DE LA LEY 18996 RELATIVO A ZONAS FRANCAS (Ley Nº 19.109 of 2013) | 1 | Current text only (IMPO's text, last changed 23 July 2013), to today |
+| `ley-19120/` | MODIFICACION DEL CODIGO PENAL (Ley Nº 19.120 of 2013) | 1 | Current text only (IMPO's text, last changed 26 October 2018), to today |
+| `ley-19138/` | CREACION DEL REGISTRO NACIONAL DE INDUSTRIALIZADORES Y COMERCIALIZADORES DE COBRE (Ley Nº 19.138 of 2013) | 1 | Current text only (IMPO's text, last changed 3 November 2021), to today |
+| `ley-19147/` | CREACION DEL OBSERVATORIO AMBIENTAL NACIONAL (OAN), DE LA DIRECCION NACIONAL DE MEDIO AMBIENTE DEL MVOTMA (Ley Nº 19.147 of 2013) | 1 | Current text only (IMPO's text, last changed 17 July 2019), to today |
+| `ley-19149/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2012 (Ley Nº 19.149 of 2013) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-19162/` | MODIFICACION DEL REGIMEN DE AHORRO INDIVIDUAL JUBILATORIO (Ley Nº 19.162 of 2013) | 1 | Current text only (IMPO's text, last changed 2 May 2023), to today |
+| `ley-19164/` | MODIFICACION DE DISPOSICIONES RELATIVAS A INSTITUCIONES DE ASISTENCIA MEDICA COLECTIVA (Ley Nº 19.164 of 2013) | 1 | Current text only (IMPO's text, last changed 15 November 2013), to today |
+| `ley-19177/` | INSTRUMENTACION DE LA DECLARACION JURADA DE BIENES E INGRESOS REFERIDOS EN LOS ARTICULOS 10 A 19 DE LA LEY 17.060 (Ley Nº 19.177 of 2013) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-19247/` | TIPIFICACION DE DELITOS Y MODIFICACION DEL CODIGO PENAL (Ley Nº 19.247 of 2014) | 1 | Current text only (IMPO's text, last changed 15 August 2014), to today |
+| `ley-19322/` | SUSPENSION DE LA VIGENCIA DE LOS ARTICULOS 224, 225, 227 A 257, 269 Y 275 DE LA LEY 19.276, CODIGO ADUANERO (Ley Nº 19.322 of 2015) | 1 | Current text only (IMPO's text, last changed 29 May 2015), to today |
+| `ley-19331/` | CREACION DE LA SECRETARIA NACIONAL DEL DEPORTE COMO ORGANO DESCONCENTRADO DEPENDIENTE DIRECTAMENTE DE LA PRESIDENCIA DE LA REPUBLICA (Ley Nº 19.331 of 2015) | 1 | Current text only (IMPO's text, last changed 20 October 2022), to today |
+| `ley-19355/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2015 - 2019 (Ley Nº 19.355 of 2015) | 1 | Current text only (IMPO's text, last changed 1 October 2026), to today |
+| `ley-19394/` | SUSPENSION DE LA VIGENCIA DE LOS ARTICULOS 224, 225, 227 A 257 y 269 DE LA LEY 19.276, CODIGO ADUANERO (Ley Nº 19.394 of 2016) | 1 | Current text only (IMPO's text, last changed 20 May 2016), to today |
+| `ley-19438/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2015 (Ley Nº 19.438 of 2016) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-19475/` | PRORROGA DE ENTRADA EN VIGENCIA DEL INCISO PRIMERO DEL ART. 35 Y ARTS. 36, 40 Y 41 DE LA LEY 19.210. LEY DE INCLUSION FINANCIERA (Ley Nº 19.475 of 2017) | 1 | Current text only (IMPO's text, last changed 3 January 2017), to today |
+| `ley-19484/` | APROBACION DE NORMAS DE CONVERGENCIA CON LOS ESTANDARES INTERNACIONALES EN TRANSPARENCIA FISCAL INTERNACIONAL, PREVENCION Y CONTROL DEL LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO (Ley Nº 19.484 of 2017) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-19506/` | PRORROGA DE ENTRADA EN VIGENCIA DEL INCISO PRIMERO Y QUINTO DEL ART. 35 Y ARTS. 36, 40 Y 41 DE LA LEY 19.210, LEY DE INCLUSION FINANCIERA (Ley Nº 19.506 of 2017) | 1 | Current text only (IMPO's text, last changed 30 June 2017), to today |
+| `ley-19513/` | CREACION DE LA COMISION DE LUCHA CONTRA EL NARCOTRAFICO Y EL CRIMEN ORGANIZADO TRANSFRONTERIZO. MODIFICACIONES AL DECRETO LEY 14.294 SOBRE ESTUPEFACIENTES (Ley Nº 19.513 of 2017) | 1 | Current text only (IMPO's text, last changed 14 July 2017), to today |
+| `ley-19535/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2016 (Ley Nº 19.535 of 2017) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-19590/` | MODIFICACION DEL REGIMEN JUBILATORIO PREVISTO POR LA LEY 16.713. LEY DE LOS CINCUENTONES (Ley Nº 19.590 of 2017) | 1 | Current text only (IMPO's text, last changed 28 December 2017), to today |
+| `ley-19593/` | MODIFICACION DE LAS LEYES 18.910 Y 19.210 RELATIVAS A LA INCLUSION FINANCIERA (Ley Nº 19.593 of 2018) | 1 | Current text only (IMPO's text, last changed 9 July 2020), to today |
+| `ley-19630/` | APROBACION DEL ACUERDO ENTRE URUGUAY Y SUDAFRICA DE ASISTENCIA MUTUA ENTRE ADMINISTRACIONES ADUANERAS (Ley Nº 19.630 of 2018) | 1 | Current text only (IMPO's text, last changed 22 June 2018), to today |
+| `ley-19670/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2017 (Ley Nº 19.670 of 2018) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-19723/` | MODIFICACION DEL ART. 8 DE LA LEY 18.256 RELATIVO A LA PROTECCION DEL DERECHO AL MEDIO AMBIENTE LIBRE DE HUMO DE TABACO Y SU CONSUMO (Ley Nº 19.723 of 2018) | 1 | Current text only (IMPO's text, last changed 21 December 2018), to today |
+| `ley-19733/` | CREACION DEL FONDO DE PERITAJES (Ley Nº 19.733 of 2018) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-19747/` | MODIFICACION DEL CAPITULO XI DE LA LEY 17.823, CODIGO DE LA NIÑEZ Y LA ADOLESCENCIA (Ley Nº 19.747 of 2019) | 1 | Current text only (IMPO's text, last changed 19 April 2019), to today |
+| `ley-19749/` | APROBACION DE LA LEY CONTRA EL FINANCIAMIENTO DEL TERRORISMO Y APLICACION DE SANCIONES FINANCIERAS CONTRA LAS PERSONAS Y ENTIDADES VINCULADAS AL TERRORISMO, SU FINANCIAMIENTO Y LA PROLIFERACION DE ARMAS DE DESTRUCCION MASIVA (Ley Nº 19.749 of 2019) | 1 | Current text only (IMPO's text, last changed 15 May 2019), to today |
+| `ley-19788/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2018 (Ley Nº 19.788 of 2019) | 1 | Current text only (IMPO's text, last changed 30 August 2019), to today |
+| `ley-19824/` | ACTUALIZACION DE LA NORMATIVA VIGENTE EN MATERIA DE TRANSITO Y SEGURIDAD VIAL (Ley Nº 19.824 of 2019) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-19834/` | MODIFICACION DEL ART. 198 DE LA LEY 19.307. LEY DE MEDIOS. REGULACION DE LA PRESTACION DE SERVICIOS DE RADIO, TELEVISION Y OTROS SERVICIOS DE COMUNICACION AUDIOVISUAL (Ley Nº 19.834 of 2019) | 1 | Current text only (IMPO's text, last changed 23 September 2019), to today |
+| `ley-19841/` | MODIFICACION DEL ESTATUTO DEL FUNCIONARIO DEL SERVICIO EXTERIOR DE LA REPUBLICA (Ley Nº 19.841 of 2019) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-19847/` | DECLARACION DE INTERES PUBLICO LAS ACCIONES TENDIENTES A PROTEGER, PROMOVER Y MEJORAR LA SALUD PUBLICA MEDIANTE PRODUCTOS DE CALIDAD CONTROLADA Y ACCESIBLES, EN BASE A CANNABIS O CANNABINOIDES, ASI COMO EL ASESORAMIENTO MEDICO E INFORMACION SOBRE BENEFICIOS Y RIESGOS DE SU USO (Ley Nº 19.847 of 2019) | 1 | Current text only (IMPO's text, last changed 20 December 2019), to today |
+| `ley-19859/` | SISTEMA NACIONAL INTEGRADO DE SALUD. PRESTACION GRATUITA Y VITALICIA A VICTIMAS DEL TERRORISMO DE ESTADO, COMPRENDIENDO A HIJOS, NIETOS, BIOLOGICOS O ADOPTIVOS (Ley Nº 19.859 of 2019) | 1 | Current text only (IMPO's text, last changed 23 December 2019), to today |
+| `ley-19870/` | PRORROGA DE PLAZO ESTABLECIDO EN LOS ARTS. 27 Y 33 DE LA LEY 19.829, REFERENTE A GESTION INTEGRAL DE RESIDUOS (Ley Nº 19.870 of 2020) | 1 | Current text only (IMPO's text, last changed 2 April 2020), to today |
+| `ley-19889/` | APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA (Ley Nº 19.889 of 2020) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-19924/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2020-2024 (Ley Nº 19.924 of 2020) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-19942/` | APROBACION DE NUEVAS MEDIDAS PARA MITIGAR EL IMPACTO ECONOMICO COMO CONSECUENCIA DE LA EMERGENCIA NACIONAL SANITARIA, POR COVID-19 (Ley Nº 19.942 of 2021) | 1 | Current text only (IMPO's text, last changed 10 June 2021), to today |
+| `ley-19970/` | SUSPENSION DEL PLAZO ESTABLECIDO EN EL ART. 165 DE LA LEY 19.775, LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 19.970 of 2021) | 1 | Current text only (IMPO's text, last changed 4 August 2021), to today |
+| `ley-19996/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2020 (Ley Nº 19.996 of 2021) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-20071/` | PRORROGA DEL PLAZO DISPUESTO POR EL ART. 167 DE LA LEY 19.775, RELATIVO A LA LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 20.071 of 2022) | 1 | Current text only (IMPO's text, last changed 23 September 2022), to today |
+| `ley-20075/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2021 (Ley Nº 20.075 of 2022) | 1 | Current text only (IMPO's text, last changed 16 December 2025), to today |
+| `ley-20108/` | PRORROGA DEL PLAZO DISPUESTO POR EL ART. 168 DE LA LEY 19.775, RELATIVO A LA LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 20.108 of 2022) | 1 | Current text only (IMPO's text, last changed 27 December 2022), to today |
+| `ley-20125/` | DEROGACION DE LA LEY 20.096 Y MODIFICACION DE LEY 19.043, RELATIVAS A LA CREACION DE LA UNIVERSIDAD TECNOLOGICA (UTEC) (Ley Nº 20.125 of 2023) | 1 | Current text only (IMPO's text, last changed 17 April 2023), to today |
+| `ley-20130/` | LEY DE REFORMA DE LA SEGURIDAD SOCIAL. CREACION DE UN SISTEMA PREVISIONAL COMUN Y DETERMINACION DEL PROCEDIMIENTO DE CONVERGENCIA DE LOS REGIMENES ACTUALMENTE VIGENTES (Ley Nº 20.130 of 2023) | 1 | Current text only (IMPO's text, last changed 1 November 2023), to today |
+| `ley-20145/` | MODIFICACION DE LA LEY 18.566 SOBRE NEGOCIACION COLECTIVA (Ley Nº 20.145 of 2023) | 1 | Current text only (IMPO's text, last changed 17 May 2023), to today |
+| `ley-20208/` | MODIFICACION DE LOS ARTS. 18, 19, 21, 28, 34, 51, 52, 67 Y 82 DE LA LEY Nº 18.396 RELATIVO AL REGIMEN DE LA CAJA DE JUBILACIONES Y PENSIONES BANCARIAS (Ley Nº 20.208 of 2023) | 1 | Current text only (IMPO's text, last changed 1 November 2023), to today |
+| `ley-20212/` | APROBACION DE RENDICION DE CUENTAS Y BALANCE DE EJECUCION PRESUPUESTAL. EJERCICIO 2022 (Ley Nº 20.212 of 2023) | 1 | Current text only (IMPO's text, last changed 1 October 2026), to today |
+| `ley-20313/` | PRORROGA DEL PLAZO DISPUESTO POR EL ART. 167 DE LA LEY 19.775, RELATIVO A LA LEY ORGANICA DE LAS FUERZAS ARMADAS (Ley Nº 20.313 of 2024) | 1 | Current text only (IMPO's text, last changed 14 August 2024), to today |
+| `ley-20357/` | CREACION DE LA ADMINISTRACION NACIONAL DE BOMBEROS VOLUNTARIOS (Ley Nº 20.357 of 2024) | 1 | Current text only (IMPO's text, last changed 20 September 2024), to today |
+| `ley-20410/` | MODIFICACION DE LA LEY ORGANICA DE LA CAJA DE JUBILACIONES Y PENSIONES DE PROFESIONALES UNIVERSITARIOS (Ley Nº 20.410 of 2025) | 1 | Current text only (IMPO's text, last changed 25 July 2025), to today |
+| `ley-20446/` | PRESUPUESTO NACIONAL DE SUELDOS GASTOS E INVERSIONES. EJERCICIO 2025-2029 (Ley Nº 20.446 of 2025) | 1 | Current text only (IMPO's text, last changed 1 October 2026), to today |
+| `ley-5392/` | CODIGO DE COMERCIO. MODIFICACION (Ley Nº 5.392 of 1916) | 1 | Current text only (IMPO's text, last changed 25 January 1916), to today |
+| `ley-6962/` | CAJA DE JUBILACIONES Y PENSIONES DE EMPLEADOS Y OBREROS DE SERVICIOS PUBLICOS. CREACION (Ley Nº 6.962 of 1919) | 1 | Current text only (IMPO's text, last changed 2 December 1965), to today |
+| `ley-7782/` | LEY DE REGISTRO CIVICO NACIONAL. MODIFICACION (Ley Nº 7.782 of 1924) | 1 | Current text only (IMPO's text, last changed 20 November 1924), to today |
+| `ley-7912/` | ELECCIONES NACIONALES. CAMARA DE SENADORES. CAMARA DE DIPUTADOS. INTEGRACION. REGISTRO CIVICO NACIONAL. REGULACION (Ley Nº 7.912 of 1925) | 1 | Current text only (IMPO's text, last changed 16 December 2007), to today |
+| `ley-8070/` | LEY DE ELECCIONES. MODIFICACION (Ley Nº 8.070 of 1927) | 1 | Current text only (IMPO's text, last changed 9 June 1999), to today |
+| `ley-8080/` | DELITO DE PROXENETISMO (Ley Nº 8.080 of 1927) | 1 | Current text only (IMPO's text, last changed 12 July 1995), to today |
+| `ley-8196/` | REGISTRO CIVICO NACIONAL. CIUDADANIA. REGLAMENTACION (Ley Nº 8.196 of 1928) | 1 | Current text only (IMPO's text, last changed 2 February 1928), to today |
+| `ley-8239/` | PRESUPUESTO. MODIFICACION (Ley Nº 8.239 of 1928) | 1 | Current text only (IMPO's text, last changed 8 April 1986), to today |
+| `ley-8301/` | CODIGO CIVIL. CODIGO DE COMERCIO. MODIFICACION (Ley Nº 8.301 of 1928) | 1 | Current text only (IMPO's text, last changed 15 October 1928), to today |
+| `ley-8461/` | DECLARACION DE UTILIDAD PUBLICA PARA EXPROPIACION (Ley Nº 8.461 of 1929) | 1 | Current text only (IMPO's text, last changed 30 April 1974), to today |
+| `ley-8733/` | LEY DE PROMESA DE ENAJENACION DE INMUEBLES A PLAZOS (Ley Nº 8.733 of 1931) | 1 | Current text only (IMPO's text, last changed 9 November 1992), to today |
+| `ley-8888/` | VENCIMIENTO DE OBLIGACIONES. TITULOS VALORES (Ley Nº 8.888 of 1932) | 1 | Current text only (IMPO's text, last changed 28 September 1932), to today |
+| `ley-8902/` | CONSTITUCION DE LA REPUBLICA. ENMIENDA. RATIFICACION (Ley Nº 8.902 of 1932) | 1 | Current text only (IMPO's text, last changed 27 October 1932), to today |
+| `ley-8912/` | LEY DE ELECCIONES. MODIFICACION (Ley Nº 8.912 of 1932) | 1 | Current text only (IMPO's text, last changed 3 November 1932), to today |
+| `ley-8927/` | DERECHOS CIVICOS DE LA MUJER (Ley Nº 8.927 of 1932) | 1 | Current text only (IMPO's text, last changed 16 December 1932), to today |
+| `ley-9051/` | LEY DE ELECCIONES. MODIFICACION (Ley Nº 9.051 of 1933) | 1 | Current text only (IMPO's text, last changed 13 June 1933), to today |
+| `ley-9189/` | FIJACION DE IMPUESTO. CONTRIBUCION INMOBILIARIA. PATENTES DE PERROS. INSTRUCCION PRIMARIA (Ley Nº 9.189 of 1934) | 1 | Current text only (IMPO's text, last changed 27 March 1953), to today |
+| `ley-9385/` | BANCO HIPOTECARIO DEL URUGUAY (BHU). PRESTAMOS (Ley Nº 9.385 of 1934) | 1 | Current text only (IMPO's text, last changed 28 December 1964), to today |
+| `ley-9570/` | CORTE ELECTORAL. AUTORIZACION (Ley Nº 9.570 of 1936) | 1 | Current text only (IMPO's text, last changed 19 June 1936), to today |
+| `ley-9602/` | ADMINISTRACION NACIONAL DEL PUERTO DE MONTEVIDEO. CREACION. MODIFICACION (Ley Nº 9.602 of 1936) | 1 | Current text only (IMPO's text, last changed 23 September 1936), to today |
+| `ley-9624/` | CONTADURIA GENERAL DE LA NACION. GARANTIA DE ALQUILERES (Ley Nº 9.624 of 1936) | 1 | Current text only (IMPO's text, last changed 18 December 2020), to today |
+| `ley-9645/` | CORTE ELECTORAL. MODIFICACION (Ley Nº 9.645 of 1937) | 1 | Current text only (IMPO's text, last changed 15 January 1937), to today |
+| `ley-9739/` | LEY DE DERECHOS DE AUTOR (Ley Nº 9.739 of 1937) | 1 | Current text only (IMPO's text, last changed 6 November 2023), to today |
+| `ley-9892/` | MINISTERIO DE SALUD PUBLICA. PRESUPUESTO (Ley Nº 9.892 of 1939) | 1 | Current text only (IMPO's text, last changed 10 November 1987), to today |
+| `ley-9919/` | PALACIO LEGISLATIVO. OBRAS PUBLICAS. EXPROPIACIONES (Ley Nº 9.919 of 1940) | 1 | Current text only (IMPO's text, last changed 24 June 1958), to today |
+| `ley-9940/` | JUBILACIONES Y PENSIONES. BENEFICIOS JUBILATORIOS (Ley Nº 9.940 of 1940) | 1 | Current text only (IMPO's text, last changed 2 May 2023), to today |
 
-**Current text only.** The acts whose History reads "Current text only" have one version: IMPO's consolidated text as published today, the oldest version available here, credited to IMPO and not to a law. It is dated by its in-force day: that of the last law IMPO's notes name as changing the text, or the law's own when the notes name none, each found as for the other acts (a law's own vigencia article, else ten days after its publication). Articles IMPO marks repealed whole, bare "(*)" articles of amendments and articles IMPO prints without text are not included. A law IMPO marks repealed whole ends with a commit, credited to the repealing law, that removes every article. Their titles are IMPO's own names of the laws, as IMPO prints them. Earlier versions of these acts may be added later.
+**Current text only.** The acts whose History reads "Current text only" have one version: IMPO's consolidated text as published today, the oldest version available here, credited to IMPO and not to a law. It is dated by IMPO's own last-change day: the latest date IMPO's notes give for a law that changed the text, or the law's promulgation when the notes name none. Articles IMPO marks repealed whole, bare "(*)" articles of amendments and articles IMPO prints without text are not included. A law IMPO marks repealed whole ends with a commit, credited to the repealing law, that removes every article. Their titles are IMPO's own names of the laws, as IMPO prints them. Earlier versions of these acts may be added later.
 
 The articles are `<act>/art-NNN.md` (`art-009-bis.md` for Artículo 9 BIS; four digits in the Código Civil, `art-1782.md`); the Constitution's Disposiciones Transitorias y Especiales are `constitucion/disp-trans-<letter>.md` (`-prima` for V'), Z'), `-segunda` for Z")). The per-act `README.md` lists every provision, how often it changed and when.
 
@@ -504,7 +694,7 @@ La Constitución de la República Oriental del Uruguay como historia git: un arc
 - **Diferencias de transcripción** entre IMPO y el Parlamento (por ejemplo "aun"/"aún") no se registran como cambios.
 - **Leyes** (Ley Nº 18.331 de Protección de Datos Personales): la primera versión de cada artículo modificado es el texto original que publica IMPO, y cada cambio se atribuye a la ley que nombran las notas de IMPO ("redacción dada por", "agregado/s por"), en la fecha de vigencia que fija la propia ley o, en su defecto, diez días después de su publicación (Código Civil, art. 1). Ninguna ley se fecha antes de su promulgación y publicación: si la fecha que fija es anterior, rige la regla general (diez días después de la publicación).
 
-**Solo texto vigente.** Las leyes cuya historia dice "Current text only" tienen una sola versión: el texto actualizado de IMPO, fechado el día en que entró en vigencia: el de la última ley modificativa que nombran las notas de IMPO, o el de la propia ley si no nombran ninguna. Una ley que IMPO marca como derogada termina con un commit, atribuido a la ley derogatoria, que retira todos sus artículos.
+**Solo texto vigente.** Las leyes cuya historia dice "Current text only" tienen una sola versión: el texto actualizado de IMPO, fechado el último día de cambio que dan las notas de IMPO (o la promulgación, si no nombran ninguna ley modificativa). Una ley que IMPO marca como derogada termina con un commit, atribuido a la ley derogatoria, que retira todos sus artículos.
 
 Solo los textos del Parlamento y de IMPO son oficiales.
 

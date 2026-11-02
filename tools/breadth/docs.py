@@ -19,16 +19,19 @@ M = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', '
      'December']
 MARK = '**Current text only.**'
 PARA = (f'{MARK} The acts whose History reads "Current text only" have one version: IMPO\'s consolidated text as '
-        'published today, the oldest version available here, credited to IMPO and not to a law. It is dated by '
-        "its in-force day: that of the last law IMPO's notes name as changing the text, or the law's own when the "
-        "notes name none, each found as for the other acts (a law's own vigencia article, else ten days after its "
-        'publication). Articles IMPO marks repealed whole, bare "(*)" articles of '
+        'published today, the oldest version available here, credited to IMPO and not to a law. Where the History '
+        'says "in force from", the version is dated by its in-force day: that of the last law IMPO\'s notes name as '
+        "changing the text, or the law's own when the notes name none, each found as for the other acts (a law's own "
+        'vigencia article, else ten days after its publication). Where it says "last changed", the version is dated '
+        "by the latest date IMPO's notes give for a change (for a law, the date IMPO prints for it) or by the law's "
+        'promulgation; those dates are to be corrected to in-force days. Articles IMPO marks repealed whole, bare "(*)" articles of '
         'amendments and articles IMPO prints without text are not included. A law IMPO marks repealed whole ends '
         'with a commit, credited to the repealing law, that removes every article. Their titles are IMPO\'s own names '
         'of the laws, as IMPO prints them. Earlier versions of these acts may be added later.')
 PARA_ES = (f'**Solo texto vigente.** Las leyes cuya historia dice "Current text only" tienen una sola versión: el texto '
-           'actualizado de IMPO, fechado el día en que entró en vigencia: el de la última ley '
-           'modificativa que nombran las notas de IMPO, o el de la propia ley si no nombran ninguna. Una ley que IMPO '
+           'actualizado de IMPO. Con "in force from" está fechada el día en que entró en vigencia (el de la última ley '
+           'modificativa que nombran las notas de IMPO, o el de la propia ley); con "last changed", el último día de '
+           'cambio que dan las notas de IMPO (o la promulgación), fecha que se corregirá. Una ley que IMPO '
            'marca como derogada termina con un commit, atribuido '
            'a la ley derogatoria, que retira todos sus artículos.')
 
@@ -69,14 +72,17 @@ def main(argv: list[str]) -> None:
                 last = max(i for i, l in enumerate(lines) if re.match(r'\| `[a-z0-9-]+/` \|', l))
                 lines.insert(last + 1, r)
     s = '\n'.join(lines)
-    if MARK not in s:
-        anchor = '\nThe articles are `<act>/art-NNN.md`'
-        assert anchor in s
-        s = s.replace(anchor, f'\n{PARA}\n{anchor}', 1)
-    if PARA_ES.split('.**')[0] not in s:
-        anchor = '\nSolo los textos del Parlamento y de IMPO son oficiales.'
-        assert anchor in s
-        s = s.replace(anchor, f'\n{PARA_ES}\n{anchor}', 1)
+    lines = s.split('\n')
+    for mark, para, anchor in ((MARK, PARA, 'The articles are `<act>/art-NNN.md`'),
+                               ('**Solo texto vigente.**', PARA_ES,
+                                'Solo los textos del Parlamento y de IMPO son oficiales.')):
+        idx = [i for i, l in enumerate(lines) if l.startswith(mark)]
+        if idx:
+            lines[idx[0]] = para          # one paragraph, kept current
+        else:
+            at = next(i for i, l in enumerate(lines) if l.startswith(anchor))
+            lines[at:at] = [para, '']
+    s = '\n'.join(lines)
     p.write_text(s, encoding='utf-8', newline='\n')
     current = sum(1 for l in s.split('\n') if re.match(r'\| `[a-z0-9-]+/` \| .* \| Current text only', l))
     j = ROOT / 'repo' / 'jurisdiction.json'
