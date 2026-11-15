@@ -26,6 +26,10 @@ def rows_for(part):
         out.append((f'| `{a["slug"]}/` |', f'| `{a["slug"]}/` | {name} ({num} of {base_year}) | {len(a["versions"])} | {hist} |'))
     return out
 p = Path('repo/README.md'); lines = p.read_text(encoding='utf-8').split('\n')
+# Since 2026-11-15 repo/README.md is on the serbia-law model, written by hand, with no act table: left as it is.
+if '## Questions as git commands' in '\n'.join(lines):
+    print('README is on the serbia-law model: rows not written')
+    sys.exit(0)
 for f in sys.argv[1:]:
     for key, row in rows_for(json.load(open(f, encoding='utf8'))):
         idx = [i for i, l in enumerate(lines) if l.startswith(key)]

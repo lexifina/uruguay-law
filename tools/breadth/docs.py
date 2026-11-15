@@ -59,6 +59,11 @@ def main(argv: list[str]) -> None:
     acts_total, versions_total, parts = argv[0], argv[1], argv[2:]
     p = ROOT / 'repo' / 'README.md'
     s = p.read_text(encoding='utf-8')
+    # Since 2026-11-15 repo/README.md is on the serbia-law model, written by hand, with no act table: left as it is
+    # (jurisdiction.json counts too, as they are read from that table).
+    if '## Questions as git commands' in s:
+        print('README is on the serbia-law model: rows and counts not written')
+        return
     lines = s.split('\n')
     for f in parts:
         d = json.load(open(f, encoding='utf-8'))
