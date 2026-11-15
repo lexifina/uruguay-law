@@ -25,7 +25,8 @@ The acts moved to these folders on 10 November 2026: `git log` needs `--follow` 
 
 - **[Ask Claude about Uruguayan law](https://global-law.lexifina.com/v1/try_claude?country=uruguay)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=uruguay)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=licencia+anual&jurisdictions=uruguay)**: a search of Uruguayan law for "licencia anual", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Uruguayan law on our site](https://lexifina.com/law?country=uruguay&q=licencia+anual)**: a search for "licencia anual", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=licencia+anual&jurisdiction=uruguay)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Spanish or in English.
 
