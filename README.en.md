@@ -64,6 +64,7 @@ Each change is credited to the law, decree-law or plebiscite that made it, at an
 - Today's text of every act is IMPO's consolidated text, unit for unit; an earlier text is taken only from a source (IMPO's original text of a law, or the wording an amending law quotes). Every exception is in [`REPRODUCE.md`](REPRODUCE.md).
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before; both must match the corpus, whose sha256 is in `data/corpus.sha256`. `REPRODUCE.md` records that no second build has been compared yet.
 - History is append-only (`tools/append.py`): no merge commits on `main`, no commit dates that go backwards, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -85,6 +86,10 @@ Each change is credited to the law, decree-law or plebiscite that made it, at an
 See [`LICENSE`](LICENSE). The legal texts are the official texts published by IMPO and the Parlamento del Uruguay, to which Lexifina makes no claim; IMPO's texts and data are used under the [Licencia de Datos Abiertos – Uruguay, version 0.1](https://www.impo.com.uy/wp_impo/wp-content/uploads/2018/06/licencia-de-datos-abiertos.pdf), and were changed: assembled into a dated version history, with formatting normalised. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time. Claude Code running Claude Opus 5.5 wrote the scripts and read the laws' vigencia articles behind the dates listed in [`REPRODUCE.md`](REPRODUCE.md).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

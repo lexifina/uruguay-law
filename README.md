@@ -64,6 +64,7 @@ Cada cambio se atribuye a la ley, el decreto-ley o el plebiscito que lo hizo, co
 - El texto actual de cada norma es el texto actualizado de IMPO, unidad por unidad; un texto anterior se toma solo de una fuente (el texto original de una ley en IMPO, o la redacción que cita una ley modificativa). Cada excepción está en [`REPRODUCE.md`](REPRODUCE.md).
 - `tools/check_repo.py` vuelve a leer desde git cada versión el día en que entró en vigencia y el día anterior; ambas deben coincidir con el corpus, cuyo sha256 está en `data/corpus.sha256`. `REPRODUCE.md` deja constancia de que todavía no se ha comparado una segunda construcción.
 - El historial solo crece por adición (`tools/append.py`): no hay commits de fusión (merge) en `main`, ni fechas de commit que retrocedan, ni nada con fecha futura, y los trailers de todos los commits se pueden analizar.
+- [vulnerabilities/](vulnerabilities/): posibles errores de redacción en este derecho, hallados por los detectores de global-law y revisados a mano. Aún no se ha ejecutado.
 
 ## Lo que no muestra
 
@@ -87,6 +88,10 @@ Véase [`LICENSE`](LICENSE). Los textos jurídicos son los textos oficiales publ
 Ningún modelo de IA escribió, tradujo ni corrigió texto jurídico, y ninguno se ejecuta al construir el historial. Claude Code con Claude Opus 5.5 escribió los scripts y leyó los artículos de vigencia de las leyes en los que se basan las fechas enumeradas en [`REPRODUCE.md`](REPRODUCE.md).
 
 Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
+
+## Visualizaciones
+
+- [visualisations/](visualisations/): gráficos hechos a partir de este repositorio. Aún no se han hecho.
 
 ## Más información
 
