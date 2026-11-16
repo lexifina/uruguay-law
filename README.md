@@ -1,36 +1,43 @@
-# Uruguay: law history in git
+# Uruguay: historia del derecho en git
 
-The national law of Uruguay as a git history: one file per article, one commit per law (or plebiscite) on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+**Español** · [English](README.en.md)
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Uruguay's national law, which global-law reads at `uruguay/national/acts/`.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/es/effort-dark.svg">
+<img alt="El derecho uruguayo en este repositorio: qué contiene, los cambios por año de entrada en vigor, la completitud frente a las fuentes oficiales y la exactitud de lo que contiene" src="data/es/effort-light.svg" width="880">
+</picture>
 
-**What is in it now:** the Constitution of 1967 with its four reforms by plebiscite, 13 codes (among them the Código Civil, the Código Penal and the Código General del Proceso) and 255 laws and decree-laws, each from its first version or its entry into force to today; and 761 more laws as their current text only. That is 1,030 acts with 1,997 versions in force from 1866 to 2026; 10 more versions, due to take effect on 1 January 2027 (Ley 20.531), are on the `futuro` branch. [`data/versions.json`](data/versions.json) lists every act with the day each version took effect; [`data/laws.csv`](data/laws.csv) lists the 1,278 norms the record names, with their dates.
+El derecho nacional del Uruguay como historial de git: un archivo por artículo, un commit por ley (o plebiscito), fechado el día en que entró en vigencia, y la ley que hizo cada cambio como autora del commit. `git blame` nombra la ley de cada párrafo; `git log` enumera cada cambio de un artículo; al elegir una fecha se obtiene el texto vigente ese día.
 
-Each act is a folder by kind, year and number, with one file per article: `ley/2008/18331/` is the Ley Nº 18.331 de Protección de Datos Personales, `decreto-ley/1974/14219/` a decree-law, `code/codigo-civil/art-1700.md` art. 1700 of the Código Civil, and `constitution/constitucion/art-067.md` art. 67 of the Constitution. [`data/paths.json`](data/paths.json) maps each act id to its folder, and each folder's `README.md` lists its provisions and when each changed.
+Forma parte de [lexifina/global-law](https://github.com/lexifina/global-law), un único historial de git para el derecho de todos los países: este es el derecho nacional del Uruguay, que global-law lee en `uruguay/national/acts/`.
 
-The text is in Spanish, as IMPO publishes it (and the Parlamento, for earlier texts of the Constitution).
+**Qué contiene ahora:** la Constitución de 1967 con sus cuatro reformas plebiscitadas, 13 códigos (entre ellos el Código Civil, el Código Penal y el Código General del Proceso) y 255 leyes y decretos-ley, cada uno desde su primera versión o su entrada en vigencia hasta hoy; y otras 761 leyes solo con su texto vigente. Son 1.030 normas con 1.997 versiones vigentes de 1866 a 2026; otras 10 versiones, que entrarán en vigencia el 1° de enero de 2027 (Ley 20.531), están en la rama `futuro`. [`data/versions.json`](data/versions.json) enumera cada norma con el día en que entró en vigencia cada versión; [`data/laws.csv`](data/laws.csv) enumera las 1.278 normas que nombra el registro, con sus fechas.
 
-## Questions as git commands
+Cada norma es una carpeta por tipo, año y número, con un archivo por artículo: `ley/2008/18331/` es la Ley Nº 18.331 de Protección de Datos Personales, `decreto-ley/1974/14219/` un decreto-ley, `code/codigo-civil/art-1700.md` el art. 1700 del Código Civil y `constitution/constitucion/art-067.md` el art. 67 de la Constitución. [`data/paths.json`](data/paths.json) relaciona el id de cada norma con su carpeta, y el `README.md` de cada carpeta enumera sus disposiciones y cuándo cambió cada una.
 
-| Question | Command |
+El texto está en español, tal como lo publica IMPO (y el Parlamento, para los textos anteriores de la Constitución).
+
+## Preguntas como comandos de git
+
+| Pregunta | Comando |
 | --- | --- |
-| Every change to art. 67 of the Constitution | `git log -p --follow --word-diff -- constitution/constitucion/art-067.md` |
-| Which reform wrote each paragraph of art. 67? | `git blame constitution/constitucion/art-067.md` |
-| Every version of the Constitution, with the day each took effect | `git log --author=impo.invalid --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/constitucion constitucion` |
-| Art. 67 as in force on 1 January 1990 | `python tools/on.py 1990-01-01 constitucion 67` |
+| Cada cambio del art. 67 de la Constitución | `git log -p --follow --word-diff -- constitution/constitucion/art-067.md` |
+| ¿Qué reforma escribió cada párrafo del art. 67? | `git blame constitution/constitucion/art-067.md` |
+| Cada versión de la Constitución, con el día en que entró en vigencia cada una | `git log --author=impo.invalid --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/constitucion constitucion` |
+| El art. 67 vigente el 1° de enero de 1990 | `python tools/on.py 1990-01-01 constitucion 67` |
 
-The acts moved to these folders on 10 November 2026: `git log` needs `--follow` for one file, or the old folder name beside the new one; `git blame` and `tools/on.py` follow the move.
+Las normas pasaron a estas carpetas el 10 de noviembre de 2026: `git log` necesita `--follow` para un archivo, o el nombre anterior de la carpeta junto al nuevo; `git blame` y `tools/on.py` siguen el traslado.
 
-**Outside git**, we also host this record publicly, for free:
+**Fuera de git**, también alojamos este registro de forma pública y gratuita:
 
-- **[Ask Claude about Uruguayan law](https://global-law.lexifina.com/v1/try_claude?country=uruguay)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=uruguay)**: the same question in ChatGPT.
-- **[Search Uruguayan law on our site](https://lexifina.com/law?country=uruguay&q=licencia+anual)**: a search for "licencia anual", with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=licencia+anual&jurisdiction=uruguay)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Pregunte a Claude sobre el derecho uruguayo](https://global-law.lexifina.com/v1/try_claude?country=uruguay)**: abre Claude con una primera pregunta ya preparada.
+- **[Pregunte a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=uruguay)**: la misma pregunta en ChatGPT.
+- **[Busque en el derecho uruguayo en nuestro sitio](https://lexifina.com/law?country=uruguay&q=licencia+anual)**: una búsqueda de "licencia anual", con el texto de cada disposición y sus versiones, sin necesidad de cuenta.
+- **[API REST para desarrolladores](https://global-law.lexifina.com/v1/search_law?query=licencia+anual&jurisdiction=uruguay)**: la misma búsqueda en JSON, sin clave. Consulte la [documentación aquí](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Spanish or in English.
+Ambos asistentes leen el registro mediante el conector gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); la primera vez, el chat le da el enlace para añadirlo. Pregunte en español o en inglés.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**Alójelo usted mismo fácilmente.** Solo hacen falta git y Python, y las herramientas se ejecutan en su propio equipo:
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -38,58 +45,56 @@ python3 tools/countries.py add uruguay/national/acts
 python3 tools/law.py show 2026-01-01 uruguay/national/acts/constitution/constitucion/art-067.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Abierto en Claude Code, Cursor, VS Code o Codex, el clon también inicia un servidor MCP local con las mismas herramientas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## Dates
+## Fechas
 
-Each commit is dated at noon, America/Montevideo, on the day the change took effect, and carries it in its `In-force:` trailer:
+Cada commit está fechado al mediodía, hora de America/Montevideo, del día en que el cambio entró en vigencia, y lo lleva en su trailer `In-force:`:
 
-- a law's own vigencia clause decides; without one, Código Civil art. 1 makes it binding ten days after its publication. No change is dated before its law was promulgated and published: where a law names an earlier day, it is dated ten days after publication (Ley 18.719, published 5 January 2011, "regirá a partir del 1° de enero de 2011": 15 January 2011);
-- the Constitution took effect on 15 February 1967 and the 1989 reform on 1 May 1990, as their transitional provisions say; the 1994, 1996 and 2004 reforms took effect when the Corte Electoral proclaimed the result, which no source dates, so they are dated on the plebiscite day;
-- a current-text law is dated by the day the last law IMPO's notes name took effect (458 laws), or by the last change date IMPO gives or its promulgation (303 laws), still to be corrected to the day it took effect;
-- git cannot store dates before 1970, so the 365 earlier commits are dated from 1970-01-01, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
+- decide la cláusula de vigencia de la propia ley; si no la tiene, el art. 1 del Código Civil la hace obligatoria diez días después de su publicación. Ningún cambio se fecha antes de que su ley fuera promulgada y publicada: cuando una ley indica un día anterior, se fecha diez días después de la publicación (la Ley 18.719, publicada el 5 de enero de 2011, "regirá a partir del 1° de enero de 2011": 15 de enero de 2011);
+- la Constitución entró en vigencia el 15 de febrero de 1967 y la reforma de 1989 el 1° de mayo de 1990, como dicen sus disposiciones transitorias; las reformas de 1994, 1996 y 2004 entraron en vigencia cuando la Corte Electoral proclamó el resultado, que ninguna fuente fecha, por lo que se fechan el día del plebiscito;
+- una ley con solo su texto vigente se fecha por el día en que entró en vigencia la última ley que nombran las notas de IMPO (458 leyes), o por la última fecha de modificación que da IMPO o por su promulgación (303 leyes), pendiente todavía de corregir al día en que entró en vigencia;
+- git no puede almacenar fechas anteriores a 1970, por lo que los 365 commits anteriores llevan fechas a partir del 1970-01-01, con el día real en `In-force:`. Para consultar una fecha use `tools/on.py`, no `git log --before`.
 
-Each change is credited to the law, decree-law or plebiscite that made it, at an address that cannot exist (`ley-18719@impo.invalid`, `plebiscito-1996-12-08@impo.invalid`), and only as IMPO's notes on that article name it. A first version that is not the text as enacted, such as the current text of the 761 laws, is credited to the publisher, IMPO, as the "oldest version available"; the committer is Lexifina.
+Cada cambio se atribuye a la ley, el decreto-ley o el plebiscito que lo hizo, con una dirección que no puede existir (`ley-18719@impo.invalid`, `plebiscito-1996-12-08@impo.invalid`), y solo en la medida en que lo nombran las notas de IMPO sobre ese artículo. Una primera versión que no es el texto tal como se sancionó, como el texto vigente de las 761 leyes, se atribuye al editor, IMPO, como la "oldest version available" (la versión más antigua disponible); el committer es Lexifina.
 
-## How it is checked
+## Cómo se comprueba
 
-- Each version of the Constitution has the words of the Parlamento's edition of that year, apart from about 40 units where IMPO's and the Parlamento's transcriptions differ ("aun"/"aún"), and the units each reform changed are exactly those IMPO's notes give to that plebiscite (2, 1, 34 and 3); [`data/verification.json`](data/verification.json) lists both.
-- Today's text of every act is IMPO's consolidated text, unit for unit; an earlier text is taken only from a source (IMPO's original text of a law, or the wording an amending law quotes). Every exception is in [`REPRODUCE.md`](REPRODUCE.md).
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before; both must match the corpus, whose sha256 is in `data/corpus.sha256`. `REPRODUCE.md` records that no second build has been compared yet.
-- History is append-only (`tools/append.py`): no merge commits on `main`, no commit dates that go backwards, nothing dated in the future, and every commit's trailers parse.
+- Cada versión de la Constitución tiene las palabras de la edición del Parlamento de ese año, salvo unas 40 unidades en las que las transcripciones de IMPO y del Parlamento difieren ("aun"/"aún"), y las unidades que cambió cada reforma son exactamente las que las notas de IMPO atribuyen a ese plebiscito (2, 1, 34 y 3); [`data/verification.json`](data/verification.json) enumera ambas cosas.
+- El texto actual de cada norma es el texto actualizado de IMPO, unidad por unidad; un texto anterior se toma solo de una fuente (el texto original de una ley en IMPO, o la redacción que cita una ley modificativa). Cada excepción está en [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/check_repo.py` vuelve a leer desde git cada versión el día en que entró en vigencia y el día anterior; ambas deben coincidir con el corpus, cuyo sha256 está en `data/corpus.sha256`. `REPRODUCE.md` deja constancia de que todavía no se ha comparado una segunda construcción.
+- El historial solo crece por adición (`tools/append.py`): no hay commits de fusión (merge) en `main`, ni fechas de commit que retrocedan, ni nada con fecha futura, y los trailers de todos los commits se pueden analizar.
 
-## What it does not show
+## Lo que no muestra
 
-- **Most national law.** These are 1,030 laws, codes and decree-laws; decrees of the Poder Ejecutivo, departmental law and case law are not here.
-- **Earlier versions of the 761 current-text laws**, which have one version each.
-- **Changes before an act's first version or not in IMPO's notes**: the Código Civil before its 1994 re-edition (Ley 16.603), the constitutions before 1967, and the Código Penal between 1934 and 1969, where IMPO names no amending law.
-- **Texts no source gives.** Where no source gives the text between two amending laws, the change shows on the next day whose text is known; a few items whose start cannot be placed are left out, each listed in `REPRODUCE.md`.
-- **Headings and acts IMPO only points from**: headings of books, titles and chapters are not kept, and the Ley de Urgente Consideración (Ley 19.889) is not an act of its own; its changes are in the laws it amended.
+- **La mayor parte del derecho nacional.** Son 1.030 leyes, códigos y decretos-ley; los decretos del Poder Ejecutivo, la normativa departamental y la jurisprudencia no están aquí.
+- **Las versiones anteriores de las 761 leyes con solo su texto vigente**, que tienen una versión cada una.
+- **Los cambios anteriores a la primera versión de una norma o que no figuran en las notas de IMPO**: el Código Civil antes de su reedición de 1994 (Ley 16.603), las constituciones anteriores a 1967 y el Código Penal entre 1934 y 1969, donde IMPO no nombra ninguna ley modificativa.
+- **Los textos que ninguna fuente da.** Cuando ninguna fuente da el texto entre dos leyes modificativas, el cambio aparece el siguiente día cuyo texto se conoce; se dejan fuera unos pocos elementos cuyo inicio no se puede situar, cada uno enumerado en `REPRODUCE.md`.
+- **Los encabezados y las normas a las que IMPO solo remite**: no se conservan los encabezados de libros, títulos y capítulos, y la Ley de Urgente Consideración (Ley 19.889) no es una norma propia; sus cambios están en las leyes que modificó.
 
-## Sources
+## Fuentes
 
-| Source | Kind | Past versions | Notes |
+| Fuente | Tipo | Versiones anteriores | Notas |
 | --- | --- | --- | --- |
-| [IMPO, Base de datos de normativa](https://www.impo.com.uy/bases) (Dirección Nacional de Impresiones y Publicaciones Oficiales) | Official database of national legislation | no: today's consolidated text, and the original text of each amended article | Its notes name the law behind each change ("redacción dada por", "agregado/s por") |
-| [Parlamento del Uruguay, Constitución](https://parlamento.gub.uy/documentosyleyes/constitucion) | The Constitution | yes, the editions of 1967, 1989, 1994, 1997 and 2004 | Read through Internet Archive captures of its pages |
+| [IMPO, Base de datos de normativa](https://www.impo.com.uy/bases) (Dirección Nacional de Impresiones y Publicaciones Oficiales) | Base de datos oficial de la legislación nacional | no: el texto actualizado de hoy, y el texto original de cada artículo modificado | Sus notas nombran la ley de cada cambio ("redacción dada por", "agregado/s por") |
+| [Parlamento del Uruguay, Constitución](https://parlamento.gub.uy/documentosyleyes/constitucion) | La Constitución | sí, las ediciones de 1967, 1989, 1994, 1997 y 2004 | Leídas mediante capturas de sus páginas en el Internet Archive |
 
-## Licence
+## Licencia
 
-See [`LICENSE`](LICENSE). The legal texts are the official texts published by IMPO and the Parlamento del Uruguay, to which Lexifina makes no claim; IMPO's texts and data are used under the [Licencia de Datos Abiertos – Uruguay, version 0.1](https://www.impo.com.uy/wp_impo/wp-content/uploads/2018/06/licencia-de-datos-abiertos.pdf), and were changed: assembled into a dated version history, with formatting normalised. The history, commit messages, tables and tools are CC0 1.0.
+Véase [`LICENSE`](LICENSE). Los textos jurídicos son los textos oficiales publicados por IMPO y el Parlamento del Uruguay, sobre los que Lexifina no reclama ningún derecho; los textos y datos de IMPO se usan bajo la [Licencia de Datos Abiertos – Uruguay, versión 0.1](https://www.impo.com.uy/wp_impo/wp-content/uploads/2018/06/licencia-de-datos-abiertos.pdf), y se modificaron: se reunieron en un historial de versiones fechadas, con el formato normalizado. El historial, los mensajes de commit, las tablas y las herramientas son CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs at build time. Claude Code running Claude Opus 5.5 wrote the scripts and read the laws' vigencia articles behind the dates listed in [`REPRODUCE.md`](REPRODUCE.md).
+Ningún modelo de IA escribió, tradujo ni corrigió texto jurídico, y ninguno se ejecuta al construir el historial. Claude Code con Claude Opus 5.5 escribió los scripts y leyó los artículos de vigencia de las leyes en los que se basan las fechas enumeradas en [`REPRODUCE.md`](REPRODUCE.md).
 
-## En español
+Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
 
-Historia del derecho nacional uruguayo en git: un archivo por artículo y un commit por ley (o plebiscito), fechado el día en que entró en vigencia y firmado por la norma que hizo el cambio. Contiene la Constitución de 1967 con sus cuatro reformas plebiscitadas, 13 códigos y 255 leyes y decretos-ley con su historia, y 761 leyes más solo con su texto vigente; las versiones que aún no rigen están en la rama `futuro`. Texto vigente en una fecha: `python tools/on.py 1990-01-01 constitucion 67`. Fuentes: IMPO (Licencia de Datos Abiertos – Uruguay) y el Parlamento del Uruguay. Ningún modelo de IA escribió texto legal.
+## Más información
 
-## More
+Del repositorio [lexifina/global-law](https://github.com/lexifina/global-law) (páginas en inglés):
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): todas las funciones y lo que cada corpus debe admitir (`git blame`, `law.py`, herramientas MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): preguntas y respuestas · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proponer cambios · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): cómo se ha construido · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): lo actualizado que está cada corpus · [Supervisión](https://github.com/lexifina/global-law/tree/main/monitoring): si las actualizaciones funcionan · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): cómo se vigila cada fuente oficial para detectar cambios
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidez de las herramientas, medida
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gráficos y conexiones a través del derecho de todo el mundo
+- [Vulnerabilidades](https://github.com/lexifina/global-law/tree/main/vulnerabilities): errores en las normas tal como se publicaron
