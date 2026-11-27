@@ -11,9 +11,9 @@ The national law of Uruguay as a git history: one file per article, one commit p
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Uruguay's national law, which global-law reads at `uruguay/national/acts/`.
 
-**What is in it now:** the Constitution of 1967 with its four reforms by plebiscite, 13 codes (among them the Código Civil, the Código Penal and the Código General del Proceso) and 255 laws and decree-laws, each from its first version or its entry into force to today; and 761 more laws as their current text only. That is 1,030 acts with 1,997 versions in force from 1866 to 2026; 10 more versions, due to take effect on 1 January 2027 (Ley 20.531), are on the `futuro` branch. [`data/versions.json`](data/versions.json) lists every act with the day each version took effect; [`data/laws.csv`](data/laws.csv) lists the 1,278 norms the record names, with their dates.
+**What is in it now:** the Constitution of 1967 with its four reforms by plebiscite, 13 codes (among them the Código Civil, the Código Penal and the Código General del Proceso) and 255 laws and decree-laws, each from its first version or its entry into force to today; and 761 more laws as their current text only, and 31 more laws and decree-laws read from IMPO on 2026-11-27, each in one version (as published, or IMPO's current text). That is 1,061 acts with 2,028 versions in force from 1866 to 2026; 10 more versions, due to take effect on 1 January 2027 (Ley 20.531), are on the `futuro` branch. [`data/versions.json`](data/versions.json) lists every act with the day each version took effect; [`data/laws.csv`](data/laws.csv) lists the 1,278 norms the record names, with their dates.
 
-Each act is a folder by kind, year and number, with one file per article: `ley/2008/18331/` is the Ley Nº 18.331 de Protección de Datos Personales, `decreto-ley/1974/14219/` a decree-law, `code/codigo-civil/art-1700.md` art. 1700 of the Código Civil, and `constitution/constitucion/art-067.md` art. 67 of the Constitution. [`data/paths.json`](data/paths.json) maps each act id to its folder, and each folder's `README.md` lists its provisions and when each changed.
+Each act is a folder by kind, year and number, with one file per article: `leyes/2008/18331-de-proteccion-de-datos-personales/` is the Ley Nº 18.331 de Protección de Datos Personales, `decretos-ley/1974/14219-ley-de-arrendamientos-urbanos-y-suburbanos/` a decree-law, `codigos/codigo-civil/art-1700.md` art. 1700 of the Código Civil, and `constitucion/art-067.md` art. 67 of the Constitution. [`data/paths.json`](data/paths.json) maps each act id to its folder, and each folder's `README.md` lists its provisions and when each changed.
 
 The text is in Spanish, as IMPO publishes it (and the Parlamento, for earlier texts of the Constitution).
 
@@ -21,9 +21,9 @@ The text is in Spanish, as IMPO publishes it (and the Parlamento, for earlier te
 
 | Question | Command |
 | --- | --- |
-| Every change to art. 67 of the Constitution | `git log -p --follow --word-diff -- constitution/constitucion/art-067.md` |
-| Which reform wrote each paragraph of art. 67? | `git blame constitution/constitucion/art-067.md` |
-| Every version of the Constitution, with the day each took effect | `git log --author=impo.invalid --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/constitucion constitucion` |
+| Every change to art. 67 of the Constitution | `git log -p --follow --word-diff -- constitucion/art-067.md` |
+| Which reform wrote each paragraph of art. 67? | `git blame constitucion/art-067.md` |
+| Every version of the Constitution, with the day each took effect | `git log --author=impo.invalid --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitucion constitution/constitucion` |
 | Art. 67 as in force on 1 January 1990 | `python tools/on.py 1990-01-01 constitucion 67` |
 
 The acts moved to these folders on 10 November 2026: `git log` needs `--follow` for one file, or the old folder name beside the new one; `git blame` and `tools/on.py` follow the move.
@@ -42,7 +42,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add uruguay/national/acts
-python3 tools/law.py show 2026-01-01 uruguay/national/acts/constitution/constitucion/art-067.md
+python3 tools/law.py show 2026-01-01 uruguay/national/acts/constitucion/art-067.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -68,7 +68,7 @@ Each change is credited to the law, decree-law or plebiscite that made it, at an
 
 ## What it does not show
 
-- **Most national law.** These are 1,030 laws, codes and decree-laws; decrees of the Poder Ejecutivo, departmental law and case law are not here.
+- **Most national law.** These are 1,061 laws, codes and decree-laws; decrees of the Poder Ejecutivo, departmental law and case law are not here.
 - **Earlier versions of the 761 current-text laws**, which have one version each.
 - **Changes before an act's first version or not in IMPO's notes**: the Código Civil before its 1994 re-edition (Ley 16.603), the constitutions before 1967, and the Código Penal between 1934 and 1969, where IMPO names no amending law.
 - **Texts no source gives.** Where no source gives the text between two amending laws, the change shows on the next day whose text is known; a few items whose start cannot be placed are left out, each listed in `REPRODUCE.md`.
