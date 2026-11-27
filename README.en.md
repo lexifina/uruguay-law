@@ -11,7 +11,7 @@ The national law of Uruguay as a git history: one file per article, one commit p
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Uruguay's national law, which global-law reads at `uruguay/national/acts/`.
 
-**What is in it now:** the Constitution of 1967 with its four reforms by plebiscite, 13 codes (among them the Código Civil, the Código Penal and the Código General del Proceso) and 255 laws and decree-laws, each from its first version or its entry into force to today; and 761 more laws as their current text only, and 443 more laws and decree-laws read from IMPO on 2026-11-27, each in one version (as published, or IMPO's current text). That is 1,473 acts with 2,440 versions in force from 1866 to 2026; 10 more versions, due to take effect on 1 January 2027 (Ley 20.531), are on the `futuro` branch. [`data/versions.json`](data/versions.json) lists every act with the day each version took effect; [`data/laws.csv`](data/laws.csv) lists the 1,278 norms the record names, with their dates.
+**What is in it now:** the Constitution of 1967 with its four reforms by plebiscite, 13 codes (among them the Código Civil, the Código Penal and the Código General del Proceso) and 255 laws and decree-laws, each from its first version or its entry into force to today; and 761 more laws as their current text only, and 4,171 more laws and decree-laws read from IMPO on 2026-11-27, each in one version (as published, or IMPO's current text). That is 5,201 acts with 6,168 versions in force from 1866 to 2026; 10 more versions, due to take effect on 1 January 2027 (Ley 20.531), are on the `futuro` branch. [`data/versions.json`](data/versions.json) lists every act with the day each version took effect; [`data/laws.csv`](data/laws.csv) lists the 1,278 norms the record names, with their dates.
 
 Each act is a folder by kind, year and number, with one file per article: `leyes/2008/18331-de-proteccion-de-datos-personales/` is the Ley Nº 18.331 de Protección de Datos Personales, `decretos-ley/1974/14219-ley-de-arrendamientos-urbanos-y-suburbanos/` a decree-law, `codigos/codigo-civil/art-1700.md` art. 1700 of the Código Civil, and `constitucion/art-067.md` art. 67 of the Constitution. [`data/paths.json`](data/paths.json) maps each act id to its folder, and each folder's `README.md` lists its provisions and when each changed.
 
@@ -68,7 +68,7 @@ Each change is credited to the law, decree-law or plebiscite that made it, at an
 
 ## What it does not show
 
-- **Most national law.** These are 1,473 laws, codes and decree-laws; decrees of the Poder Ejecutivo, departmental law and case law are not here.
+- **Most national law.** These are 5,201 laws, codes and decree-laws; decrees of the Poder Ejecutivo, departmental law and case law are not here.
 - **Earlier versions of the 761 current-text laws**, which have one version each.
 - **Changes before an act's first version or not in IMPO's notes**: the Código Civil before its 1994 re-edition (Ley 16.603), the constitutions before 1967, and the Código Penal between 1934 and 1969, where IMPO names no amending law.
 - **Texts no source gives.** Where no source gives the text between two amending laws, the change shows on the next day whose text is known; a few items whose start cannot be placed are left out, each listed in `REPRODUCE.md`.
