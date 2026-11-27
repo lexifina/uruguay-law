@@ -94,8 +94,9 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
 | IMPO, Base de datos de normativa | <https://www.impo.com.uy/bases> | 2026-11-02 | Texts from IMPO, Base de datos de normativa (www.impo.com.uy/bases). |
+| IMPO, Base de datos de normativa, open data (`?json=true`), every Ley and Decreto-Ley read one by one, one request every 10 s (robots.txt Crawl-Delay: 10) | <https://www.impo.com.uy/bases> | 2026-11-27 | Licencia de Datos Abiertos – Uruguay, version 0.1 |
 
-Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file. Since 2026-11-27 the laws and decree-laws not in that file are added straight from IMPO's open data by `scripts/uruguay-law/runner/uy_fetch.py` and `uy_build.py`, one version each (the text as published, or IMPO's current text), dated by the rules in STRUCTURE.md.
 
 ## What is in it
 
