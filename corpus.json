@@ -1,0 +1,26 @@
+{
+  "corpus": "uy/national/acts",
+  "name": "Uruguay: la Constitución, los códigos, las leyes y los decretos-ley de la República Oriental del Uruguay, from IMPO and the Parlamento",
+  "label": "Uruguay",
+  "language": "es",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Kind"
+    ],
+    "time": "12:00 America/Montevideo"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": true,
+  "author": "the law that made the change when known; else \"IMPO (Dirección Nacional de Impresiones y Publicaciones Oficiales)\"",
+  "citation": {
+    "file": "((?:leyes|decretos-ley|decretos)/[0-9]{4}/[^/]+|codigos/[^/]+|constitucion)/art-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(art[íi]culo|art\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://www.impo.com.uy/bases",
+    "https://parlamento.gub.uy"
+  ]
+}

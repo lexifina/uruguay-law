@@ -53,10 +53,21 @@ def paths(repo=None) -> dict[str, str]:
         p = subprocess.run(['git', 'show', 'main:data/paths.json'], cwd=repo, capture_output=True, text=True,
                            encoding='utf-8')
         try:
-            _PATHS[repo] = (json.loads(p.stdout).get('paths') or {}) if p.returncode == 0 else {}
+            data = json.loads(p.stdout) if p.returncode == 0 else {}
+            _PATHS[repo] = data.get('paths') or {}
+            _PREV[repo] = data.get('previous') or {}
         except ValueError:
             _PATHS[repo] = {}
     return _PATHS[repo]
+
+
+_PREV: dict = {}
+
+
+def previous(repo=None) -> dict[str, str]:
+    """{act id: folder} before the latest layout move (data/paths.json 'previous'; empty without it)."""
+    paths(repo)
+    return _PREV.get(repo) or {}
 
 
 def _sub(path: str, table: dict[str, str]) -> str:
@@ -70,7 +81,13 @@ def _sub(path: str, table: dict[str, str]) -> str:
 
 def to_new(path: str, repo=None) -> str:
     """A path (or act) under its act's folder now (unchanged without data/paths.json)."""
-    return _sub(path, paths(repo)) if paths(repo) else path
+    if not paths(repo):
+        return path
+    prev = previous(repo)
+    if prev:
+        p = paths(repo)
+        path = _sub(path, {v: p[k] for k, v in prev.items() if k in p})
+    return _sub(path, paths(repo))
 
 
 def act_id(act: str, repo=None) -> str:
@@ -88,7 +105,9 @@ def variants(path: str, repo=None) -> list[str]:
     if not p:
         return [path]
     new = to_new(path, repo)
-    return list(dict.fromkeys([new, _sub(new, {v: k for k, v in p.items()})]))
+    ident = _sub(new, {v: k for k, v in p.items()})
+    prev = previous(repo)
+    return list(dict.fromkeys([new, _sub(ident, prev) if prev else ident, ident]))
 
 
 def history(branch: str, path: str, repo=None) -> list[tuple[str, str, str]]:

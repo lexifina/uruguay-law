@@ -519,6 +519,7 @@
 "ley-17292": "leyes/2001/17292-ley-de-urgencia-administracion-publica-fomento-y-mejoras",
 "ley-17295": "leyes/2001/17295-regulacion-de-la-produccion-elaboracion-y-comercializacion",
 "ley-17296": "leyes/2001/17296-presupuesto-nacional-de-sueldos-gastos-e-inversiones",
+"ley-17309": "leyes/2001/17309-creacion-del-impuesto-especifico-a-los-servicios-de-salud",
 "ley-17412": "leyes/2001/17412-contribuciones-especiales-a-la-seguridad-social-impuesto-a",
 "ley-17437": "leyes/2001/17437-seguridad-social-profesionales-universitarios",
 "ley-17451": "leyes/2002/17451-personas-publicas-no-estatales-fondo-de-solidaridad",
@@ -788,6 +789,7 @@
 "ley-19292": "leyes/2014/19292-declaracion-de-interes-general-produccion-familiar",
 "ley-19300": "leyes/2014/19300-ley-del-seguro-para-el-control-de-enfermedades",
 "ley-19301": "leyes/2014/19301-regimen-de-residencias-medicas-hospitalarias-derogacion-de",
+"ley-19307": "leyes/2014/19307-ley-de-servicios-de-comunicacion-audiovisual",
 "ley-19310": "leyes/2015/19310-ley-de-remuneraciones-de-magistrados-fiscales-y",
 "ley-19313": "leyes/2015/19313-ley-de-trabajo-nocturno",
 "ley-19315": "leyes/2015/19315-ley-organica-policial",
@@ -919,6 +921,9 @@
 "ley-20506": "leyes/2026/20506-ley-de-promocion-del-trabajo-digno-y-decente-de-las",
 "ley-20519": "leyes/2026/20519-creacion-del-programa-piloto-de-justicia-terapeutica",
 "ley-20528": "leyes/2026/20528-fijacion-del-acceso-al-fondo-de-garantia-para-la",
+"ley-20529": "leyes/2026/20529-declaracion-de-interes-nacional-el-encuentro-con-el",
+"ley-20530": "leyes/2026/20530-ampliacion-de-subsidio-por-desempleo-para-trabajadores-del",
+"ley-20532": "leyes/2026/20532-acunacion-de-monedas-conmemorativas-del-centenario-del",
 "ley-5378": "leyes/1916/5378-creacion-de-impuesto-abasto-alumbrado-seguridad-serenos",
 "ley-5391": "leyes/1916/5391-derechos-hereditarios-hijos-naturales",
 "ley-5392": "leyes/1916/5392-codigo-de-comercio-modificacion",
@@ -1030,9 +1035,7 @@
 "ley-9968": "leyes/1940/9968-presupuesto-prorroga",
 "ley-9973": "leyes/1940/9973-caja-de-jubilaciones-de-la-industria-comercio-y-servicios",
 "ley-9995": "leyes/1940/9995-jubilaciones-y-pensiones-interposicion-de-recursos",
-"ley-9999": "leyes/1941/9999-caja-de-jubilaciones-de-la-industria-comercio-y-servicios",
-"ley-17309": "leyes/2001/17309-creacion-del-impuesto-especifico-a-los-servicios-de-salud",
-"ley-19307": "leyes/2014/19307-ley-de-servicios-de-comunicacion-audiovisual"
+"ley-9999": "leyes/1941/9999-caja-de-jubilaciones-de-la-industria-comercio-y-servicios"
 },
 "previous": {
 "codigo-aduanero": "code/codigo-aduanero",
